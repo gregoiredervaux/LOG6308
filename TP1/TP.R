@@ -143,17 +143,19 @@ k_mean_obj <- kmeans(m.sparse.for_kmean_by_film, 5)
 
 centers <- as.matrix(k_mean_obj$centers)
 clusters <- as.matrix(k_mean_obj$cluster)
+colnames(clusters) <- "clusters"
 
 get_prediction <- function(clusters, centers) {
   
   clusters <- as.data.frame(clusters)
+  colnames(clusters) <- "clusters"
   clusters$user_name = rownames(clusters)
   
   centers <- as.data.frame(centers)
   centers$cluster_num <- rownames(centers)
   
   # on fusionne les tables clusters et centers pour obtenir les prédictions pour chaque utilisateur en fonction de son cluster d'appartenance
-  prediction <- merge.data.frame(clusters, centers, by.x = "V1", by.y = "cluster_num")
+  prediction <- merge.data.frame(clusters, centers, by.x = "clusters", by.y = "cluster_num")
   
   # on retrie les prédictions par utilisateur pour pouvoir selectionner les utilisateurs par index
   rownames(prediction) <- prediction$user_name
@@ -177,3 +179,68 @@ erreur_quadra <- sqrt(sum_sqrt_err / length(user_star_treck_prediction[,"Star Tr
 print("erreur quadra/moyenne pour cluster 5")
 show(erreur_quadra)
 show(err_abs_moy)
+
+
+################## question 7 ###################
+
+
+split_matrix <- function(matrix, ration){
+  
+  # on normalise selon les filmes
+  matrix.to_normalize = matrix[]
+  matrix.to_normalize[is.na(matrix)] <- 0
+  matrix.normalize <- apply(matrix.to_normalize, 2, normalization_by_mean)
+  
+  # on genere une liste d'index aléatoires représentant n% de la matrice principale
+  ind <- sample(c(TRUE, FALSE), nrow(matrix), replace=TRUE, prob=c(ration, 1 - ration))
+  return(list("learn_normalise" = matrix.normalize[ind,], "valid_normalise" = matrix.normalize[!ind,], "learn" = matrix[ind,], "valid" = matrix[!ind,]))
+}
+
+apply_kmean_on_matrix <- function(m, nb_clusters) {
+  k_mean_obj <- kmeans(m, nb_clusters)
+  
+  centers <- as.data.frame(k_mean_obj$centers)
+  clusters <- as.data.frame(k_mean_obj$cluster)
+  
+  return(list("clusters" = clusters, "centers" = centers))
+}
+
+get_prediction_by_distance <- function(centers, valid_matrix) {
+  distance_user_centers <- function(user) { cosinus.vm(user, t(centers)) }
+  m.distance_user_centers <- t(apply(valid_matrix, 1, distance_user_centers))
+  clusters <- apply(m.distance_user_centers,1,which.max)
+  
+  return(get_prediction(clusters, centers))
+}
+
+evaluate <- function(prediction, valid_matrix){
+  
+  sum_sqrt_err <- sum((prediction - valid_matrix)**2, na.rm = TRUE)
+  erreur_quadra <- sqrt(sum_sqrt_err / sum(valid_matrix[!is.na(valid_matrix)]))
+  return(erreur_quadra)
+  
+}
+
+m.sparse.NA <- as.matrix(m.sparse)
+m.sparse.NA[m.sparse.NA == 0] <- NA
+
+splited_matrix <- split_matrix(m.sparse.NA, 0.9)
+learn_matrix_norm <- as.data.frame(splited_matrix["learn_normalise"])
+valid_matrix_norm <- as.data.frame(splited_matrix["valid_normalise"])
+valid_matrix <- as.data.frame(splited_matrix["valid"])
+
+error <- c()
+for (i in 2:(nrow(m.sparse) - 1)){
+  k_mean_results <- apply_kmean_on_matrix(valid_matrix_norm, i)
+  centers <- as.data.frame(k_mean_results["centers"])
+  
+  prediction <- get_prediction_by_distance(centers, valid_matrix_norm)
+  prediction <- subset(prediction, select = -c(user_name, clusters))
+  
+  error <- c(error, evaluate(prediction, valid_matrix))
+}
+plot(error)
+
+
+
+
