@@ -230,17 +230,16 @@ valid_matrix_norm <- as.data.frame(splited_matrix["valid_normalise"])
 valid_matrix <- as.data.frame(splited_matrix["valid"])
 
 error <- c()
-for (i in 2:(nrow(m.sparse) - 1)){
-  k_mean_results <- apply_kmean_on_matrix(valid_matrix_norm, i)
+for (i in 2:(nrow(learn_matrix_norm) - 1)){
+  k_mean_results <- apply_kmean_on_matrix(learn_matrix_norm, i)
   centers <- as.data.frame(k_mean_results["centers"])
   
   prediction <- get_prediction_by_distance(centers, valid_matrix_norm)
   prediction <- subset(prediction, select = -c(user_name, clusters))
-  
-  error <- c(error, evaluate(prediction, valid_matrix))
+  error_value <- evaluate(prediction, valid_matrix)
+  error <- c(error, error_value)
+  print(cat("num: ", as.string(i)))
+  print(cat("error: ", as.string(error_value)))
+  print("")
 }
 plot(error)
-
-
-
-
