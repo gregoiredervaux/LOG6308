@@ -82,3 +82,5 @@ acc_on_all_knn_vect <- lapply(1:50, function(nombre_de_knn){
   })
   return(mean(unlist(acc_vect, use.names=FALSE), rm.na=TRUE))
 })
+plot(1:50, acc_by_knn_vect)
+plot(1:50, acc_on_all_knn_vect)
