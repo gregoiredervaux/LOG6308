@@ -27,7 +27,7 @@ m.sim.cos = cosinus.mm(m)
 
 index.m.sim.cos.noColNa <- which(colSums(m.sim.cos, na.rm = TRUE) > 1)
 
-m.clean <- m[index.m.sim.cos.noColNa,index.m.sim.cos.noColNa]
+m.clean <- m[,index.m.sim.cos.noColNa]
 m.predicted <- matrix(, nrow=nrow(m.clean), ncol=ncol(m.clean))
 rownames(m.predicted) <- rownames(m.clean)
 colnames(m.predicted) <- colnames(m.clean)
@@ -46,3 +46,39 @@ replace_by_closest <- function(index, m.predicted) {
 
 buffer <-lapply(1:ncol(m.clean), replace_by_closest, m.predicted)
 sqrt(mean((m.clean - m.predicted)^2, na.rm=T))
+
+# on sélection pour l'index 1 ses k plus proches voisins
+index = 20
+nombre_de_knn = 5
+index.closest <- max.nindex(m.clean.sim.cos[-index,index], nombre_de_knn)
+
+# on fait le produit vectoriel entre les deux vecteurs pour savoir combien d'article sont en commun
+test <- m.clean[,index.closest]
+sum(m.clean[, index] %*% m.clean[,index.closest])
+sum(m.clean[, index])
+
+get_accuracy_on_vect <- function(index) {
+  index.closest <- max.nindex(m.clean.sim.cos[-index,index], nombre_de_knn)
+  return(sum(m.clean[, index] %*% m.clean[,index.closest])/sum(m.clean[, index]))
+}
+
+acc_vect <-lapply(1:ncol(m.clean), get_accuracy_on_vect)
+acc_on_all_knn <- mean(unlist(acc_vect, use.names=FALSE), rm.na=TRUE)
+acc_by_knn <- acc_on_all_knn / nombre_de_knn
+print(acc_tot)
+
+acc_by_knn_vect <- lapply(1:50, function(nombre_de_knn){
+  acc_vect <-lapply(1:ncol(m.clean), function(index) {
+    index.closest <- max.nindex(m.clean.sim.cos[-index,index], nombre_de_knn)
+    return(sum(m.clean[, index] %*% m.clean[,index.closest])/sum(m.clean[, index]))
+  })
+  acc_on_all_knn <- mean(unlist(acc_vect, use.names=FALSE), rm.na=TRUE)
+  return(acc_on_all_knn / nombre_de_knn)
+})
+acc_on_all_knn_vect <- lapply(1:50, function(nombre_de_knn){
+  acc_vect <-lapply(1:ncol(m.clean), function(index) {
+    index.closest <- max.nindex(m.clean.sim.cos[-index,index], nombre_de_knn)
+    return(sum(m.clean[, index] %*% m.clean[,index.closest])/sum(m.clean[, index]))
+  })
+  return(mean(unlist(acc_vect, use.names=FALSE), rm.na=TRUE))
+})
