@@ -1,0 +1,2 @@
+TitreCours: Projet et rapport de projet
+DescriptionCours: Sous la direction d'un directeur, l'etudiant realise un projet de geographie appliquee qui combine l'amenagement du territoire et les SIG. Dans la realisation de ce projet, l'etudiant respecte les normes et standard en ce qui concerne la gestion de projets ainsi que les exigences sur le plan de la rigueur scientifique. L'etudiant redige un rapport de projet evalue par un jury, conformement aux reglements concernant les etudes de deuxieme cycle et sous la forme de mentions: excellent, tres bien, bien ou echec.

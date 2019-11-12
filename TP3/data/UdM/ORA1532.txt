@@ -1,0 +1,2 @@
+TitreCours: Langage 1
+DescriptionCours: Acquerir une comprehension de divers niveaux d'analyse de la forme du langage.

@@ -1,0 +1,2 @@
+TitreCours: Stabilite des ouvertures souterraines
+DescriptionCours: Sujets traites: Classification des instabilites souterraines, effets des excavations sur les massifs rocheux, analyse des contraintes et des deformations, distribution des contraintes autour des excavations de geometrie simple, effets des plans de faiblesse, proprietes inelastiques des roches, criteres de rupture, soutenement par boulonnnage et cables, methodes numeriques et modelisation, applications des methodes numeriques.

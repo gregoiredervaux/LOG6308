@@ -1,0 +1,2 @@
+TitreCours: Travaux de recherche
+DescriptionCours: Le present cours vise a permettre aux etudiants d'acquerir de l'experience pratique en laboratoire dans un domaine de pathologie et/ou de biologie cellulaire. Cela leur permettra egalement de consolider leur motivation et interet pour la recherche.

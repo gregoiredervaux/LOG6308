@@ -1,0 +1,2 @@
+TitreCours: Projet d
+DescriptionCours: L'objectif de ce cours est de concretiser les acquis tires de ENV7030, ENV7040 et ENV7515. L'objectif de cette activite est de s'assurer que l'etudiant est pret a intervenir sur le marche du travail. L'etudiant doit deposer un projet d'offre de service pour un employeur ou un client virtuel sur une problematique de son choix, normalement a la fin de son deuxieme trimestre. La reussite de cette activite est prealable au depot de l'essai. Ce cours sera evalue selon la notation succes/echec.

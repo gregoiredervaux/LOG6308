@@ -1,0 +1,2 @@
+TitreCours: Excavations et travaux souterrains
+DescriptionCours: Excavations  ciel ouvert dans des sols et des roches : analyse de stabilit et calcul des soutnements (palplanches, parois berlinoises, ancrages). Tunnels en sols et en roche : mthodes d'excavation, analyse de stabilit et calcul des soutnements.

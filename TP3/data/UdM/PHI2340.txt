@@ -1,0 +1,2 @@
+TitreCours: Induction et raisonnement scientifique
+DescriptionCours: Inferences logique et scientifique. La notion de probabilite. Les axiomes de Kolmogorov. Les diverses interpretations des probabilites : classique, frequentiste et subjective. Fondement de l'inference statistique.

@@ -1,0 +1,2 @@
+TitreCours: Didactique de l'oral en FLS
+DescriptionCours: Permettre a l'etudiant de niveau avance d'appliquer les developpements recents en didactique de la comprehension et de la production de l'oral dans l'enseignement du francais langue seconde ou etrangere.

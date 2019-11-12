@@ -1,0 +1,2 @@
+TitreCours: Theorie des langages et des automates
+DescriptionCours: Langages, grammaires et automates. Familles de langages: propriete de cloture, formes normales, proprietes d'iteration. Transformations de langages. Proprietes decidables des langages et leur complexite; proprietes indecidables.

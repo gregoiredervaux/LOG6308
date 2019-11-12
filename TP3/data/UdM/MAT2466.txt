@@ -1,0 +1,2 @@
+TitreCours: Analyse appliquee
+DescriptionCours: Fonctions Gamma et Beta, series de Fourier et d'autres fonctions orthogonales. Probleme de Sturm-Liouville, approximation en moyenne quadratique, separation de variables pour les equations aux derivees partielles, transformees de Fourier et Laplace.

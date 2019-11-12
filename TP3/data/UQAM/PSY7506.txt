@@ -1,0 +1,2 @@
+TitreCours: Reseaux de services et planification des interventions
+DescriptionCours: Description des principaux reseaux de services pour les personnes ayant un TED ou une DI. Approches communautaires et ecosystemiques, partenariat avec la personne et/ou avec la famille. Planification des interventions. Plans d'intervention, de services et de transition: definition de ces plans, evaluations des besoins de la personne, reunions de planification, redaction des protocoles, mises en application et revision des plans.

@@ -1,0 +1,2 @@
+TitreCours: Outils informatiques en localisation
+DescriptionCours: Presentation de l'environnement et des outils informatiques dans l'industrie de la localisation. Choix des outils en fonction de la nature des projets et de criteres de qualite et de productivite. Demonstration pratique.

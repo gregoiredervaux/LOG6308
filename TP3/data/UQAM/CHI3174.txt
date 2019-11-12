@@ -1,0 +1,2 @@
+TitreCours: Analyse chimique instrumentale III
+DescriptionCours: Étude en laboratoire des principales methodes de separation des substances : chromatographie gaz-liquide, liquide-liquide, liquide-solide, d'echange ionique, etc. ; dialyse, ultracentrifugation, electrophorese, distillation moleculaire, etc. Discussion des possibilites de chacune des methodes. Étude et utilisation en laboratoire de la spectrometrie de masse et de la resonance magnetique nucleaire pour la determination de la structure des molecules.

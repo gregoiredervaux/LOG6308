@@ -1,0 +1,2 @@
+TitreCours: Sujets de pointe en chimie
+DescriptionCours: Ce cours portera sur des sujets de pointe dans le domaine de la chimie. Les matieres a l'etude pourront etre choisies en chimie analytique, en chimie inorganique et organique, en chimie physique, etc. Les sujets traites seront etudies en fonction de leur importance tant au niveau fondamental qu'au niveau de leurs applications. D'une annee a l'autre, le contenu du cours pourra varier.

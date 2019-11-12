@@ -1,0 +1,2 @@
+TitreCours: Biopathologie cellulaire et moleculaire
+DescriptionCours: Mecanismes physiopathogeniques a l'echelon cellulaire, subcellulaire et moleculaire d'etats pathologiques d'etiologies variees.

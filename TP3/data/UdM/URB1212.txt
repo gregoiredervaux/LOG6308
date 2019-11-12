@@ -1,0 +1,2 @@
+TitreCours: Économie urbaine et regionale
+DescriptionCours: Introduction a l'economie spatiale. Theories et strategies de croissance urbaine et regionale. Analyse economique des marches fonciers et immobiliers. Applications a l'urbanisme.

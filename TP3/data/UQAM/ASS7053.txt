@@ -1,0 +1,2 @@
+TitreCours: Problematiques en orthodidactique des mathematiques au secondaire
+DescriptionCours: Étude avancee des problematiques en orthodidactique des mathematiques concernant l'ordre secondaire, dans le contexte particulier de la relation orthopedagogique. Modalites d'evaluation et d'intervention specifiques a l'enseignement des mathematiques aupres d'eleves en difficultes d'apprentissage. Analyse didactique des contenus mathematiques du secondaire : algebre, geometrie, probabilites et statistiques.

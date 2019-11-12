@@ -1,0 +1,2 @@
+TitreCours: Methodes numeriques en electromagnetisme
+DescriptionCours: Équations de Maxwell avec des conditions aux limites. Concepts des solutions statiques et dynamiques. Methodes numeriques dans les domaines temporel et frequentiel. Discretisation spatiale et transformation spectrale. Techniques modernes appliquees a des problemes a deux et a trois dimensions. Methodes spectrales. Methode de lignes. «Transmission Line Matrix (TLM)».

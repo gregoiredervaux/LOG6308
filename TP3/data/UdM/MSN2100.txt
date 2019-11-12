@@ -1,0 +1,2 @@
+TitreCours: Toxicologie et environnement
+DescriptionCours: Étude des concepts de toxicocinetique et de toxicodynamique chez l'humain. Principaux problemes de sante associes aux substances toxiques. Évaluation du risque a la sante : approches epidemiologique et toxicologique.

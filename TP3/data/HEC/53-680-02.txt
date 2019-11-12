@@ -1,0 +1,2 @@
+TitreCours: Applications of Operations Research in the Energy Sector
+DescriptionCours: This course reviews the most frequent applications of operations research in the energy sector. Given an application context, the student will represent decision problems as mathematical models, identify the relevant solution techniques, and interpret the results obtained from specialized software.

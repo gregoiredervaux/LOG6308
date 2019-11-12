@@ -1,0 +1,2 @@
+TitreCours: Pharmacologie du systeme cardiovasc.
+DescriptionCours: Effets circulatoires des agents anesthesiques. Medicaments cardiaques et du SNA (systeme nerveux autonome). Monitoring.

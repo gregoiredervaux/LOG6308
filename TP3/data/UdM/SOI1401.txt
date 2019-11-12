@@ -1,0 +1,2 @@
+TitreCours: Famille en sante
+DescriptionCours: Concept de la famille. Structure et fonctionnement de la famille a travers les cycles de la vie. Methode d'analyse de la dynamique familiale. Entrevue aupres de la famille. Modalites d'intervention familiale.

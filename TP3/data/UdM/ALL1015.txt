@@ -1,0 +1,2 @@
+TitreCours: Grammaire fondamentale 2
+DescriptionCours: Cours intensif de grammaire elementaire faisant suite au cours ALL 1014 et axe notamment sur l'apprentissage de la syntaxe, avec exercices ecrits et oraux.

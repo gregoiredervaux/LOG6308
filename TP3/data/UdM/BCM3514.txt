@@ -1,0 +1,2 @@
+TitreCours: Regulation de l'expression genique
+DescriptionCours: Regulation de l'expression genique lors de processus physiologiques et lors du developpement. Oncogenes et antioncogenes. Mecanismes transcriptionnels et posttranscriptionnels.

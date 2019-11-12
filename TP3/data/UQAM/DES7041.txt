@@ -1,0 +1,2 @@
+TitreCours: Micro
+DescriptionCours: Activite d'atelier qui a pour objectifs l'exploration a partir de differents materiaux et mediums, la conception, la mise en forme et la communication d'un projet de design pour un evenement culturel, politique, sportif, etc., dans un environnement urbain. Developpement d'un projet de design d'evenements selon unecommande posee par l'enseignant a l'ensemble des etudiants. L'atelier de 3 heures/semaine est suivi d'un laboratoire de 3 heures/semaine.

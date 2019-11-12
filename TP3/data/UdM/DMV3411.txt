@@ -1,0 +1,2 @@
+TitreCours: Stage preclinique veterinaire 3
+DescriptionCours: Initiation aux responsabilites cliniques veterinaires par le biais d'une integration dans des fonctions supervisees au CHUV. Travaux pratiques d'anesthesie, de chirurgie et d'imagerie medicale.

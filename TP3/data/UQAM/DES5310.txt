@@ -1,0 +1,2 @@
+TitreCours: Design et infographie
+DescriptionCours: Familiarisation a des logiciels graphiques 3D dans le cadre d'une production liee au Design de l'environnement. Introduction a l'organisation des systemes infographiques 3D. Introduction aux structures de donnees 3D et aux differents outils de generation, de transformation et d'analyse de ces donnees. Étude des techniques de projection dans le plan et des differents rendus possibles en infographie 3D.

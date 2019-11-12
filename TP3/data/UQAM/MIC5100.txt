@@ -1,0 +1,2 @@
+TitreCours: Complements d
+DescriptionCours: Revue de l'analyse d'un circuit electrique a l'aide de la transformee de Laplace. Reponse en frequence, filtrage, diagrammes de Bode et circuits resonnants. Circuits couples. Quadripoles. Variables d'etat. Filtres passifs et actifs. Approximations de Butterworth, Chebyshev et Bessel. Synthese des circuits. Stabilite. Exercices diriges et travaux pratiques en laboratoire (3 heures/semaine).

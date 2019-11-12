@@ -1,0 +1,2 @@
+TitreCours: Transformations de donnees qualitatives en education
+DescriptionCours: Discussions, echanges et exercices pratiques de transformations de donnees qualitatives que possedent les etudiants inscrits. Analyse et categorisations en utilisant des supports micro-informatiques appropries.

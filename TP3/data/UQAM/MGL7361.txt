@@ -1,0 +1,2 @@
+TitreCours: Principes et applications de la conception de logiciels
+DescriptionCours: Role de la conception dans le cycle de vie du logiciel. Apprentissage des principales methodes de conception. Évaluation de nouvelles methodes de conception. Selection et utilisation d'une methode propre a un systeme logiciel donne. Évaluation de la conception: choix de la methode, qualite de la conception, verification formelle, respect des exigences, etc. Outils de conception.

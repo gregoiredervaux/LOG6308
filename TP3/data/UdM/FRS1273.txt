@@ -1,0 +1,2 @@
+TitreCours: Expression orale. Avance 3
+DescriptionCours: Permettre a l'etudiant d'acquerir des techniques facilitant l'expression orale et de developper l'habilete a nuancer son expression. (Exposes, discussions, presentations).

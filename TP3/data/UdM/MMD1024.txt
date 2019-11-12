@@ -1,0 +1,2 @@
+TitreCours: Biologie moleculaire de la cellule
+DescriptionCours: Structures des macromolecules biologiques et enzymologie, mecanismes de replication, reparation et transcription. Controle de l'expression genetique. Organisation moleculaire de la cellule. Cycle cellulaire et base moleculaire du cancer.

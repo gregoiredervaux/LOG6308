@@ -1,0 +1,2 @@
+TitreCours: Geologie structurale
+DescriptionCours: Mecanismes et geometrie des deformations de l'ecorce terrestre. Notions physiques et experimentales de la deformation des roches. Rheologie: description des deformations et des contraintes. Deformations souples et cassantes. Geometrie structurale; schistosite, plis, failles, lineations, diaclases; microplis et autres microstructures en relation avec les deformations majeures. Laboratoire (2 heures) et sorties sur le terrain.

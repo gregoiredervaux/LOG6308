@@ -1,0 +1,2 @@
+TitreCours: Seminaire de projets
+DescriptionCours: Ce seminaire vise a proceder avec l'etudiant a un examen critique detaille des outils de travail a sa disposition en vue de pouvoir deposer un projet de memoire valable. Il contribuera a aider l'etudiant a se trouver un directeur de memoire, si ce n'est deja fait, et a preparer le depot de son projet de memoire. Le seminaire se terminera par une formule d'echange sur l'etat de la recherche de chacun.

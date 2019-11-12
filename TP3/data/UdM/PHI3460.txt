@@ -1,0 +1,2 @@
+TitreCours: Histoire de la philosophie politique
+DescriptionCours: Lecture des textes fondamentaux de l'histoire de la philosophie politique des XVIIIe et XIXe siecles. Analyse des debats et confrontation des theses. Bentham, Adam Smith, Hume, Constant, Tocqueville, Mill.

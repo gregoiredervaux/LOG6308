@@ -1,0 +1,2 @@
+TitreCours: Portfolio et evaluation formative
+DescriptionCours: Ce cours est directement associe a une activite de stage dans une classe qui utilise le portfolio. Caracteristiques, avantages et limites du portfolio comme dossier d'apprentissage, comme dossier integrant des objets d'evaluation, comme dossier de communication.

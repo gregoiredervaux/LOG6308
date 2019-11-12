@@ -1,0 +1,2 @@
+TitreCours: Biochimie de l
+DescriptionCours: Étude des aspects chimiques et biochimiques de divers aliments. Seront etudies les changements biochimiques impliques dans la transformation de substances biologiques naturelles en aliments comestibles ; traitement, preservation, deterioration des aliments.

@@ -1,0 +1,2 @@
+TitreCours: Documentation et terminologie 1
+DescriptionCours: Initiation a la recherche documentaire. Typologie et evaluation des documents. Initiation aux principes et methodes de base de la terminologie. Initiation a la recherche terminologique.

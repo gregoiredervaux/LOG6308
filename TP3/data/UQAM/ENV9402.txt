@@ -1,0 +1,2 @@
+TitreCours: Synthese environnementale
+DescriptionCours: Ce cours a pour but de developper les capacites de mener a bien une demarche interdisciplinaire en integrant les connaissances de plusieurs disciplines dans une perspective renouvelee et coherente. Dans le cadre de ce cours, l'etudiant approfondit un theme qui ne fait pas directement partie de son sujet de these mais qui peut lui etre complementaire. Ce travail de synthese donne lieu a un rapport ecrit qui sera soutenu devant un jury qui doit s'assurer des capacites de l'etudiant a mener une synthese environnementale.

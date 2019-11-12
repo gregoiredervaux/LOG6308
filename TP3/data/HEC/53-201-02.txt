@@ -1,0 +1,2 @@
+TitreCours: Analyse financiere
+DescriptionCours: Le cours a pour objectif de permettre a l'etudiant d'approfondir ses connaissances en analyse financiere.&nbsp; Des cas concrets servent a perfectionner l'habilete a poser un diagnostic financier, a en saisir les limites et a formuler des recommandations.&nbsp; Des applications specifiques de l'analyse financiere sont aussi couvertes, dont la prevision de detresse financiere, la restructuration financiere et la notion de valeur ajoutee. texte contenuRubrique div rubrique

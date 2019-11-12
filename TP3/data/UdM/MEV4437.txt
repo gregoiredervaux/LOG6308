@@ -1,0 +1,2 @@
+TitreCours: Medecine porcine specialisee 1
+DescriptionCours: Approche diagnostique en production porcine en revisant la regie de base et les problemes veterinaires particuliers a chaque stade de production.

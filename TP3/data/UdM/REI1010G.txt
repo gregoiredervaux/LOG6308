@@ -1,0 +1,2 @@
+TitreCours: Introduction aux relations industrielles
+DescriptionCours: Champ d'etude des relations industrielles : objets, methodes et developpement theorique. Les acteurs, leurs roles, objectifs, structures et fonctionnement. Évolution des relations industrielles.

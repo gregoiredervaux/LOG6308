@@ -1,0 +1,2 @@
+TitreCours: Formation pratique pediatrique B
+DescriptionCours: Stage de 4 semaines d'enseignement et de formation supervisee : observation d'examens progressant rapidement vers la pratique et l'integration de l'aspect technique de l'echocardiographie transthoracique pediatrique de base.

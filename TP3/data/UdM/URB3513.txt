@@ -1,0 +1,2 @@
+TitreCours: Labo-atelier 3 mise en oeuvre de projet
+DescriptionCours: Precision des mesures et des propositions d'intervention urbaines. Identification des acteurs, de leurs roles et de leurs responsabilites. Definition des moyens de mise en &oelig;uvre Appreciation de l'impact des propositions et des resultats attendus.

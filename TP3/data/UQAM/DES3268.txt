@@ -1,0 +1,2 @@
+TitreCours: Design graphique
+DescriptionCours: Developpement d'aptitudes de transposition de donnees statistiques par l'image. Structuration et conception formelle du materiel et du sujet.

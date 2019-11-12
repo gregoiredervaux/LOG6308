@@ -1,0 +1,2 @@
+TitreCours: Chimie et qualite de l
+DescriptionCours: Application de la chimie a la caracterisation et a l'evolution naturelle ou artificielle de la qualite de l'eau. Parametres de qualite pertinente suivant la nature de l'echantillon d'eau. Cycles biogeochimiques naturels des principaux elements et leur influence sur la qualite de l'eau. Évolution de la qualite en milieu naturel. Influence des activites anthropiques. Theorie des procedes visant a modifier la qualite de l'eau par voie physico-chimique.

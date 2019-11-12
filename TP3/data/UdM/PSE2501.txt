@@ -1,0 +1,2 @@
+TitreCours: L'intervention a l'ecole
+DescriptionCours: Caracteristiques de l'intervention psychoeducative en milieu scolaire. Complementarite avec les autres modalites d'intervention. Habiletes requises en fonction des objectifs vises.

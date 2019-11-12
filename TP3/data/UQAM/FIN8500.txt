@@ -1,0 +1,2 @@
+TitreCours: Économetrie avancee
+DescriptionCours: L'objectif general est d'approfondir les mesures statistiques de base; analyse du modele lineaire general et des problemes relies a l'utilisation de ce modele; etude de cas financiers. Revue des concepts de base en statistique et en regression. Les divers problemes rencontres lors d'une regression lineaire et non lineaire et leurs diagnostics. Analyse factorielle et analyse discriminante. Les modeles probit et logit. Survol de la statistique baysienne. L'elaboration de modeles financiers en rapport avec l'econometrie.

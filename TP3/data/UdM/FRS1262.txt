@@ -1,0 +1,2 @@
+TitreCours: Grammaire et expression ecrite. Avance 1
+DescriptionCours: Permettre a l'etudiant non francophone de revoir les regles d'orthographe, de syntaxe, d'usage de la langue et de produire des textes francais corrects tout en developpant des reflexes d'autocorrection.

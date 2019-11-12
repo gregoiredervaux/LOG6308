@@ -1,0 +1,2 @@
+TitreCours: Techniques biochimiques II
+DescriptionCours: Étude en laboratoire des principales substances biochimiques. Reactions enzymatiques : etudes quantitatives portant sur la specificite, l'activation et l'inhibition. Autoradiographie, metabolisme, hormones, acides nucleiques.

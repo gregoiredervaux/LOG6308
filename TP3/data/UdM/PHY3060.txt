@@ -1,0 +1,2 @@
+TitreCours: Methodes numeriques en physique
+DescriptionCours: Application de l'analyse numerique a des problemes en physique.

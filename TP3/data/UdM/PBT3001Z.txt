@@ -1,0 +1,2 @@
+TitreCours: Les commandites
+DescriptionCours: Choix des evenements et definitions d'objectifs; identification des groupes cibles; gestion et financement; reglementation et intervenants.

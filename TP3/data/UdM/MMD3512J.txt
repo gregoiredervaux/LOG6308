@@ -1,0 +1,2 @@
+TitreCours: Stage : Urologie
+DescriptionCours: Stage clinique aupres de malades ambulants ou hospitalises en urologie.

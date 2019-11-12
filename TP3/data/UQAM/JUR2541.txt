@@ -1,0 +1,2 @@
+TitreCours: Droit des affaires
+DescriptionCours: Ce cours a pour objectif l'etude de l'origine, du contenu et des sources du droit des affaires. Les modes de structure de l'entreprise: proprietaire unique, societe, association non personnifiee, compagnie et cooperative. Les effets de commerce. Les financements de l'entreprise. La vente de l'entreprise. La faillite, l'insolvabilite et la dissolution de l'entreprise.

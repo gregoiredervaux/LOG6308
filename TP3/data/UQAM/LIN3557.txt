@@ -1,0 +1,2 @@
+TitreCours: Semantique II
+DescriptionCours: Ce cours a comme objectif de preciser les proprietes des analyses semantiques et de presenter differentes theories proposees dans le cadre de la grammaire generative: semantique generative, semantique interpretative, semantique configurationnelle. La capacite descriptive et explicative de ces theories sera evaluee a la lumiere d'un modele grammatical restrictif. Enfin, le role de l'analyse semantique a l'interieur de la description grammaticale sera aborde.

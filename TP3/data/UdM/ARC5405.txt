@@ -1,0 +1,2 @@
+TitreCours: Stage de formation dans la pratique
+DescriptionCours: Les stages pratiques se font dans les bureaux d'architectes signant plans et devis.

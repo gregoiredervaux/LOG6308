@@ -1,0 +1,2 @@
+TitreCours: Programme de lecture 1
+DescriptionCours: L'etudiant doit lire entre 15 et 20 oeuvres litteraires, les discuter avec le professeur et ecrire un rapport sur ces oeuvres.

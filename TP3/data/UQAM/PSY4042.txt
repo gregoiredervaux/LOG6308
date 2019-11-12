@@ -1,0 +1,2 @@
+TitreCours: Neuropsychologie
+DescriptionCours: Bases cerebrales des fonctions mentales et des troubles cognitifs. La reconnaissance des objets et de l'espace. La memoire et l'amnesie. Le langage et l'aphasie. L'attention, le controle cognitif et la conscience. Le sommeil. Bases cerebrales des emotions et des comportements instinctifs.

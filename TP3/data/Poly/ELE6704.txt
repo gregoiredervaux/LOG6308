@@ -1,0 +1,2 @@
+TitreCours: Conception des processeurs numeriques rapides
+DescriptionCours: Conception des architectures des processeurs numeriques uni et bidimensionnels. Techniques d'arithmetique rapide. Multiplication tridimensionnelle, division combinatoire. Parallelisme, pipelining et multitraitement. Processeurs pour le traitement du signal, pour les transformees de Fourier, de Walsh-Hadamard, de filtrage 1D et 2D. Processeurs cellulaires pour integration a tres grande echelle ITGE (VLSI).

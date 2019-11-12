@@ -1,0 +1,2 @@
+TitreCours: Applications de modeles economiques
+DescriptionCours: Ce cours vise a donner une formation concrete dans l'application de certaines techniques d'analyse economique et implique l'utilisation de logiciels informatiques. Les applications peuvent concerner la simulation, la prevision et l'analyse de politiques a partir de modeles d'equilibre general, de modeles intersectoriels et de modeles econometriques.

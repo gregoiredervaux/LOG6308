@@ -1,0 +1,2 @@
+TitreCours: Organisation du travail
+DescriptionCours: Capacite de planifier et de structurer de facon efficiente les activites de travail en tenant compte des ressources disponibles et de l'interdependance des personnes et des organisations. Analyse des processus. Orientation clientele.

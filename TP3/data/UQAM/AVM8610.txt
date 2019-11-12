@@ -1,0 +1,2 @@
+TitreCours: Stage de recherche en education
+DescriptionCours: Choix d'un milieu d'intervention. Initiation a l'action analytique et interventionniste dans le milieu de travail. Preparation d'un sujet d'experimentation. Redaction d'un rapport de stage (10 pages). Encadrement et supervision par le directeur de recherche.

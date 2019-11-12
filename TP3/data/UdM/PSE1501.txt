@@ -1,0 +1,2 @@
+TitreCours: Clienteles en difficulte d'adaptation
+DescriptionCours: Caracteristiques des principaux types de clienteles inadaptees: negligence, maltraitance, consommation de drogues, comportements agressifs, delinquance, troubles internalises, etc. Liens avec l'intervention.

@@ -1,0 +1,2 @@
+TitreCours: Industrialisation des produits
+DescriptionCours: Interpretation des dessins de definition et d'assemblage en fonction des procedes de fabrication. Modeles et normes de qualite de la serie ISO 9000. Techniques de moulage. Travail a la presse : technologie de decoupage et pliage. Isostatisme et liaison du referentiel d'un composant au referentiel machine. Cotes de fabrication. Description des machines-outils; accessoires et outillages associes. Analyse et gammes de fabrication. Technologie de fixation d'assemblage. Laboratoires sur certains procedes.

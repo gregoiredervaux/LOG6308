@@ -1,0 +1,2 @@
+TitreCours: Statique et resistance des materiaux
+DescriptionCours: Phenomenes, theories et methodes d'analyses. Strategies structurales. Charges appliquees et calcul des efforts dans une structure isostatique. Traction. Compression simple et flambage. Cisaillement. Torsion. Flexion simple et flexion composee.

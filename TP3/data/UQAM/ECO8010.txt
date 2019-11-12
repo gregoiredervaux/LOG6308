@@ -1,0 +1,2 @@
+TitreCours: Analyse avantage
+DescriptionCours: Theorie et pratique de l'analyse avantages-coûts comme support a la prise de decision en matiere d'investissements prives et publics, de programmes sociaux, de tarification, de taxation, de reglementation et de projets de developpement. Étude de cas tels que: politiques et gestion de l'environnement, gestion des ressources naturelles non renouvelables, evaluation de programmes sociaux, programme de modernisation industrielle.

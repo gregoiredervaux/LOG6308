@@ -1,0 +1,2 @@
+TitreCours: Langages de programmation systeme
+DescriptionCours: Maitriser principalement la partie C du langage C++ afin d'etre a l'aise dans la programmation systeme avec les appels Unix en C. Types de base, types derives, promotion et conversion des types, instructions, fonctions, surcharge des fonctions, introduction aux classes. Commandes de compilation, de liaison, de chargement, de maintien de librairies; options de ces commandes. Developpement de code (la commande make). Ce cours comporte une seance obligatoire de laboratoire (2 heures).

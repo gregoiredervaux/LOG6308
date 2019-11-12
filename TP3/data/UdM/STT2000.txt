@@ -1,0 +1,2 @@
+TitreCours: Échantillonnage
+DescriptionCours: Sondages elementaires, empiriques, stratifies, systematiques, avec probabilites inegales, a deux degres. Methodes de Monte-Carlo : creation d'echantillons artificiels, simulation et analyse d'exemples.

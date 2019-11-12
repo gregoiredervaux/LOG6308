@@ -1,0 +1,2 @@
+TitreCours: 
+DescriptionCours: Theoreme de Bayes, inegalites et theoremes limites. Promenades aleatoires, chaines de Markov, processus de Poisson, de ramifications et de Gauss. Statistique exhaustive, famille exponentielle, theoremes de Rao-Blackwell, borne de Cramer Rao, estimation a vraisemblance maximale et estimation de Bayes. Lemme de Neyma-Pearson et tests Upp. Tests non parametriques. Loi normale multivariee, regression et analyse de variance. Cette activite est evaluee selon la notation Succes-Échec.

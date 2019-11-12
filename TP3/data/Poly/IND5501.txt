@@ -1,0 +1,2 @@
+TitreCours: Droit du travail pour ingenieur
+DescriptionCours: Notions generales de droit. Contrat de travail et contrat d'entreprise. Charte des droits et libertes de la personne. Loi sur la sante et la securite du travail. Droits et obligations des travailleurs et employeurs. Loi sur les accidents du travail et les maladies professionnelles. Loi sur les normes du travail. Code du travail. Systeme professionnel quebecois. Responsabilite professionnelle. Loi sur les ingenieurs. Code de deontologie des ingenieurs. Éthique.

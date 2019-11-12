@@ -1,0 +1,2 @@
+TitreCours: Économetrie des series temporelles
+DescriptionCours: 

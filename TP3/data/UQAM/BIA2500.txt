@@ -1,0 +1,2 @@
+TitreCours: Mecanismes de defense
+DescriptionCours: Les objectifs de cette unite sont de permettre a l'etudiant de : Connaitre les mecanismes de defense morphologiques et chimiques des plantes, des animaux et des bacteries. Connaitre les mecanismes de defense cellulaires. Connaitre les mecanismes de defense immunitaires (reponse cellulaire, humorale et naturelle) dans une perspective evolutive. Themes : Immunite naturelle, phagocytose, defense antivirale, anticorps, defense cellulaire, toxines, evolution de la reponse immunitaire et integration.

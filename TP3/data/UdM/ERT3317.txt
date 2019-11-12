@@ -1,0 +1,2 @@
+TitreCours: Ergonomie et integration au travail
+DescriptionCours: Étude du travail humain : charge physique, mentale, conditions d'ambiance, organisation, facteurs psychosociaux. Évaluation des capacites de travail de personnes handicapees. Integration et adaptation au travail.

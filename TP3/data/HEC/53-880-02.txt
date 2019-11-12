@@ -1,0 +1,2 @@
+TitreCours: Economic Evaluation of Investment Projects
+DescriptionCours: This course explores the economics of investment project evaluation. The course explores the economic foundations of cost-benefit analysis, as well as techniques for valuing non-market goods and resources. While the first half of the course is theory-based, the second half will concentrate on examples and case studies.

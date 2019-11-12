@@ -1,0 +1,2 @@
+TitreCours: Corpus de cinema I
+DescriptionCours: Analyse critique de films, historiquement importants ou exemplaires des mouvements et tendances du cinema mondial. Visionnement de films en dehors des heures-contact avec le professeur.

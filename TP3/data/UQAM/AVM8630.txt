@@ -1,0 +1,2 @@
+TitreCours: Projet de recherche
+DescriptionCours: Élaboration d'un plan de recherche qui comporte: formulation de la problematique, choix des references theoriques, approches methodologiques, description du projet, bibliographie selective, calendrier du travail de recherche. Approbation par un comite forme du directeur de recherche, du codirecteur s'il y a lieu et de deux professeurs du departement.

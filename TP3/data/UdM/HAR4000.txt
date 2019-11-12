@@ -1,0 +1,2 @@
+TitreCours: Lectures et recherches dirigees
+DescriptionCours: Encadrement personnalise d'une recherche sur une problematique elaboree par l'etudiant, de concert avec un professeur de son choix. Cours reserve aux etudiants du cheminement honor.

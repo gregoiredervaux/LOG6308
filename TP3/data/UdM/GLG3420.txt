@@ -1,0 +1,2 @@
+TitreCours: Hydrogeologie
+DescriptionCours: Proprietes hydrologiques des roches. Élements des eaux souterraines. Aquiferes. Repartition, qualite, production et aspects economiques des eaux souterraines.

@@ -1,0 +1,2 @@
+TitreCours: Communication sur mesure 2
+DescriptionCours: Permettre a l'etudiant de niveau intermediaire de developper ses competences en francais dans un domaine lie a ses etudes ou a son occupation.

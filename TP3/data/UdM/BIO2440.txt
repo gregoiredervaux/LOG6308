@@ -1,0 +1,2 @@
+TitreCours: Entomologie
+DescriptionCours: Phylogenie, classification, morphologie et ecologie des insectes. La faune entomologique du Quebec.

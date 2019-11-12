@@ -1,0 +1,2 @@
+TitreCours: QM-ADM 992D Modelisation et simulation dynamique des systemes
+DescriptionCours: Il n'y a pas de description disponible pour ce cours.

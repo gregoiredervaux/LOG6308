@@ -1,0 +1,2 @@
+TitreCours: Microbiologie generale
+DescriptionCours: Morphologie et biologie des bacteries, des virus, des levures et des moisissures. Notions d'immunologie. Applications de la microbiologie a l'hygiene alimentaire.

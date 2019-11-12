@@ -1,0 +1,2 @@
+TitreCours: Information comptable en logistique et transport
+DescriptionCours: Apprentissage des connaissances permettant de comprendre l'information comptable et son utilisation a des fins de gestion: principes de comptabilite utiles a la prise de decision et a l'evaluation d'entreprises, fiscalite, analyse efficace d'etats financiers externes.

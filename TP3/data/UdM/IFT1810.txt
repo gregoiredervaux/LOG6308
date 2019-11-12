@@ -1,0 +1,2 @@
+TitreCours: Introduction a la programmation
+DescriptionCours: Algorithmes et concepts de base de la programmation. Notions de tableaux et de fonctions avec parametres. Introduction a la programmation orientee objet.

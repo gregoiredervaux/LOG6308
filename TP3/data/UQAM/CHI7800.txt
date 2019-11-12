@@ -1,0 +1,2 @@
+TitreCours: Sujets choisis en sciences et techniques de l
+DescriptionCours: Étude de concepts et de techniques utilises dans les domaines de l'eau et de l'energie en relation avec leurs repercussions sur l'environnement. Les sujets traites seront choisis en fonction des etudiants inscrits. Exemples de sujets pouvant etre traites: modifications du cycle hydrologique par intervention humaine, influence de la production d'energie a partir de sources non conventionnelles sur l'environnement (liste non exhaustive).

@@ -1,0 +1,2 @@
+TitreCours: Écologie vegetale
+DescriptionCours: Études ecologiques des principaux groupements vegetaux. Analyse des principaux facteurs ecologiques de l'ecosysteme qui influencent la vegetation : especes indicatrices, succession, climat. Les travaux sur le terrain sont effectues en equipes.

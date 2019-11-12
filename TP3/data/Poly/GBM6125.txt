@@ -1,0 +1,2 @@
+TitreCours: Bases du genie biomedical
+DescriptionCours: Analyse statistique univariee et multivariee. Évaluation des techniques d'intervention et de diagnostic: essais cliniques avec ou sans groupe controle, effet placebo, biais. Bioethique; responsabilite legale, normes.

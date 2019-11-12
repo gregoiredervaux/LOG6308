@@ -1,0 +1,2 @@
+TitreCours: Mecanique des fluides approfondie
+DescriptionCours: Le tenseur stress. Équation de Navier-Stokes. Fluides compressibles. Ondes acoustiques. Ondes de choc. Turbulence. Équation de Reynolds. Description statistique de la turbulence. Phenomenes de transport dans les ecoulements turbulents. Applications.

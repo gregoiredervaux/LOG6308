@@ -1,0 +1,2 @@
+TitreCours: Estimation de fonctions et regression non parametrique
+DescriptionCours: Estimation par le noyau et methodes reliees. Autres methodes d'estimation: par series orthogonales, de la vraisemblance penalisee. Mesures de la qualite des estimateurs. Largeur de bande. Proprietes asymptotiques. Splines. Algorithmes de calcul. Applications.

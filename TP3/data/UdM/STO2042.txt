@@ -1,0 +1,2 @@
+TitreCours: Odontopharmacotherapie clinique
+DescriptionCours: La prescription des medicaments dans la pratique du dentiste. L'interaction entre medicaments et traitements buccodentaires. Les mecanismes d'action, les indications cliniques et les effets secondaires des medicaments.

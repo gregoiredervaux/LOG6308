@@ -1,0 +1,2 @@
+TitreCours: Écologie vegetale
+DescriptionCours: Étude des problemes, hypotheses et theories en ecologie vegetale aux niveaux des populations et des communautes vegetales. Les sujets traites seront choisis en fonction des interets de recherche des etudiants participants.

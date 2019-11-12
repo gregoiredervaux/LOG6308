@@ -1,0 +1,2 @@
+TitreCours: Atelier de design 3
+DescriptionCours: Deux projets de design visant l'approfondissement des notions acquises dans les ateliers de design 1 et 2. Le premier projet porte sur l&rsquo;ergonomie et le second porte sur la communication : design d'exposition, design d'evenements, design web.

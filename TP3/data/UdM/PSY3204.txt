@@ -1,0 +1,2 @@
+TitreCours: Analyses quantitatives en psychologie 2
+DescriptionCours: Analyses statistiques utilisees en psychologie : analyses de la variance selon differents plans factoriels, regression multiple, comparaison de moyennes, tests non parametriques. Utilisation de logiciels permettant d'executer les analyses.

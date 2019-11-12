@@ -1,0 +1,2 @@
+TitreCours: Administration publique comparee
+DescriptionCours: Études de structures administratives et leur fonctionnement dans divers pays. La place de l'administration dans le systeme politique. Centralisation et decentralisation. Pratiques de direction et de gestion : planification, coordination, controle.

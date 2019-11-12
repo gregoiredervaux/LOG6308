@@ -1,0 +1,2 @@
+TitreCours: Plans et analyses d'experiences
+DescriptionCours: Principes. Assignation au hasard. Repliques. Blocs. Effets fixes et aleatoires. Classification simple. Plans factoriels, a mesures repetees, incomplets. Residus et diagnostics. Applications.

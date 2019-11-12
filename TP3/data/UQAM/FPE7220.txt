@@ -1,0 +1,2 @@
+TitreCours: Developpement
+DescriptionCours: Étude approfondie des notions de developpement et d'apprentissage. Examen des theories d'apprentissage suivi d'une analyse des ideologies sous-jacentes ainsi que des mouvements pedagogiques en decoulant. Distinctions et relations entre les elements constitutifs du developpement cognitif et affectif.

@@ -1,0 +1,2 @@
+TitreCours: Projet de memoire
+DescriptionCours: Élaboration du projet de memoire de recherche de l'etudiant. Il comprend une definition precise du sujet, une revue de litterature, la problematique, le cadre theorique, ainsi que les hypotheses, (s'il y a lieu) la methodologie, les methodes d'analyse, et l'echeancier envisage.

@@ -1,0 +1,2 @@
+TitreCours: Physiotherapie des affec.neurologiques 2
+DescriptionCours: Évaluation et reeducation de l'equilibre, de troubles de la sensibilite somesthesique, traumatisme cranien, lesion de la moelle, maladies degeneratives, lesion nerveuse peripherique et maladies neuromusculaires.

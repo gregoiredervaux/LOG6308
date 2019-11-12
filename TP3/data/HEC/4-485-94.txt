@@ -1,0 +1,2 @@
+TitreCours: Aspects juridiques de la gestion
+DescriptionCours: 

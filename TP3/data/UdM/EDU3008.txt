@@ -1,0 +1,2 @@
+TitreCours: Stage d'enseignement en FLS
+DescriptionCours: Enseignement accompagne d'un enseignant associe, avec prise en charge d'une classe.

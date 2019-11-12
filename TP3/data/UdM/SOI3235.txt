@@ -1,0 +1,2 @@
+TitreCours: Integration des competences (urgence)
+DescriptionCours: Integration des notions theoriques et pratiques de soins d'urgence a l'aide de cas et developpement du role professionnel.

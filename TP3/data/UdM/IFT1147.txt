@@ -1,0 +1,2 @@
+TitreCours: Programmation serveur avec PHP
+DescriptionCours: Programmation Web du cote serveur. Creation de documents dynamiques pour le Web avec le langage PHP. Acces aux bases de donnees.

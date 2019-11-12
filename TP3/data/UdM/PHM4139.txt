@@ -1,0 +1,2 @@
+TitreCours: Biotechnologie pharmaceutique
+DescriptionCours: Étude des medicaments issus des biotechnologies : production par genie genetique, modes de production particuliers, controles, proprietes et formulation. Therapie genique.

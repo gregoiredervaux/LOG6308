@@ -1,0 +1,2 @@
+TitreCours: Methodes d'analyse du discours politique
+DescriptionCours: Apprentissage des techniques de l'analyse de contenu appliquees au discours politique et evaluation des possibilites et des limites des approches qualitatives et quantitatives a travers diverses etudes de cas.

@@ -1,0 +1,2 @@
+TitreCours: Physiotherapie du systeme locomoteur 2
+DescriptionCours: Biomecanique et pathomecanique du tronc et des membres. Examen de posture, analyse des evaluations et traitement differentiel dans les phases de douleur, de readaptation et de reeducation.

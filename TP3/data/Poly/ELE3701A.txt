@@ -1,0 +1,2 @@
+TitreCours: lments de tlcommunications
+DescriptionCours: Rappels : signaux et systmes, analyse spectrale, distorsion et bruit. Numrisation et transmission : chantillonnage, quantification, codage de source, codes de ligne et multiplexage temporel. Modulations linaires analogiques et numriques, effet du bruit. Modulation d'angle : modulation de frquence, modulation de phase, effet du bruit et modulations numriques.

@@ -1,0 +1,2 @@
+TitreCours: Allemand moderne parle
+DescriptionCours: Pratique de l'expression orale au moyen d'exposes et de discussions sur des sujets d'actualite. Utilisation des nouvelles technologies.

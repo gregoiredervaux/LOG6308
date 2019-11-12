@@ -1,0 +1,2 @@
+TitreCours: Cicatrisation et soins des plaies
+DescriptionCours: Processus de cicatrisation. Facteurs influencant la cicatrisation. Analyse de situations cliniques et identification d'approches specifiques de soins des plaies.

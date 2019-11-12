@@ -1,0 +1,2 @@
+TitreCours: Didactique differenciee en mathematiques
+DescriptionCours: Heterogeneite des apprenants. Principales difficultes d'enseignement - apprentissage en mathematiques. Integration des eleves a risque en classe reguliere. Évaluation et intervention adaptees.

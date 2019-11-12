@@ -1,0 +1,2 @@
+TitreCours: Stage : Psychiatrie pediatrique
+DescriptionCours: Stage clinique en psychiatrie pediatrique.

@@ -1,0 +1,2 @@
+TitreCours: Analyse de la musique electroacoustique
+DescriptionCours: Bases de grammaire et de syntaxe en analyse perceptive. Comparaison des differentes methodes mises au point pour l'analyse electroacoustique. Analyses detaillees d'oeuvres du repertoire electroacoustique.

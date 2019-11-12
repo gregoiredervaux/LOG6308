@@ -1,0 +1,2 @@
+TitreCours: Comptabilite financiere II
+DescriptionCours: Ce cours vise a maitriser les normes et pratiques comptables de certains sujets en comptabilite financiere, plus particulierement les regroupements d'entreprises et sujets connexes. Placements a long terme, regroupements d'entreprises, etats financiers consolides, operations en devises etrangeres.

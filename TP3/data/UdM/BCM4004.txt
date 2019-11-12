@@ -1,0 +1,2 @@
+TitreCours: Stage honor en genetique et genomique 2
+DescriptionCours: Stage de recherche en genetique moleculaire ou en genomique. Inclut de la recherche en laboratoire ou avec l'ordinateur. Formation sur la pratique de la recherche, communication orale et ecrite, analyse, conception et evaluation critique de projets.

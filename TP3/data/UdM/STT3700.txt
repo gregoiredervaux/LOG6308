@@ -1,0 +1,2 @@
+TitreCours: Inference statistique
+DescriptionCours: Statistique exhaustive. Famille des lois exponentielles. Information. Complements et generalisations sur l'estimation et les tests d'hypotheses.

@@ -1,0 +1,2 @@
+TitreCours: Enjeux philosophiques du politique
+DescriptionCours: Reflexion critique au sujet de problemes fondamentaux en philosophie politique. Analyse approfondie des questions philosophiques soulevees par l'exercice du pouvoir politique (legitimite de l'État, statut des droits, etc.).

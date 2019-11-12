@@ -1,0 +1,2 @@
+TitreCours: Droit de l'environnement
+DescriptionCours: Concept juridique de l'environnement. Competence legislative sur l'environnement. La legislation federale. La legislation provinciale. La reglementation municipale. Vue d'ensemble de la reglementation en environnement pertinente a la pratique de l'ingenieur. Mecanismes de consultation des citoyens, etudes d'impacts et audiences publiques. Les conventions internationales.

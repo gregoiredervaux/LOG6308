@@ -1,0 +1,2 @@
+TitreCours: Radio-anatomie
+DescriptionCours: Introduire a la formation de l'image radiologique et echographique. A l'aide des procedes radiologiques et echographiques, etude du systeme locomoteur, nerveux, cardiopulmonaire, digestif et genito-urinaire.

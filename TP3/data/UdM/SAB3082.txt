@@ -1,0 +1,2 @@
+TitreCours: Parodontie preventive
+DescriptionCours: Ce cours donne a l'etudiant en hygiene dentaire les notions theoriques qui lui permettent de comprendre et de reconnaitre les defauts causes par les maladies parodontales et de planifier la correction de ces derniers.

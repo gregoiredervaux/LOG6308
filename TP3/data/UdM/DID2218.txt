@@ -1,0 +1,2 @@
+TitreCours: Didactique et modelisation systemique
+DescriptionCours: Concepts de l'approche systemique relies a la description et a la conception de situations didactiques complexes integrant les sciences et les technologies.

@@ -1,0 +1,2 @@
+TitreCours: Principes d'instr. biomedicale (GBM8307)
+DescriptionCours: Precision et fiabilite des mesures. Principes de captation des signaux biologiques. Instrumentation : transducteurs, amplificateurs, filtres, traceurs et appareils de storage et d'analyse. Appareillage hospitalier.

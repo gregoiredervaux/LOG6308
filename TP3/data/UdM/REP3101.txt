@@ -1,0 +1,2 @@
+TitreCours: Recherche et evaluation des actions
+DescriptionCours: Definition d'une problematique. Analyse d'une situation selon ses elements specifiques et mesurables. Methodes de recherche. Monitoring de l'environnement d'une organisation aux fins d'un diagnostic. Processus d'evaluation.

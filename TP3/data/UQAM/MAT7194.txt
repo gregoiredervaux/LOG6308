@@ -1,0 +1,2 @@
+TitreCours: Didactique de l
+DescriptionCours: Étude de differentes perspectives de recherche portant sur l'apprentissage et l'enseignement de l'algebre a l'ecole et sur le developpement de la pensee algebrique; analyse du developpement du symbolisme algebrique dans cet apprentissage; apport et role de la technologie dans l'enseignement de l'algebre.

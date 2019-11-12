@@ -1,0 +1,2 @@
+TitreCours: Problemes de vulgarisation
+DescriptionCours: La vulgarisation scientifique : principes et techniques; outils linguistiques. Application au champ des sciences. Vulgarisation hors science : lecture, analyse et redaction d'articles a partir de textes specialises.

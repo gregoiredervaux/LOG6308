@@ -1,0 +1,2 @@
+TitreCours: Methodologie de la recherche en linguistique appliquee 2
+DescriptionCours: Le seminaire vise l'approfondissement des connaissances et competences pertinentes pour la realisation de la recherche doctorale de l'etudiant: methodologies experimentale, quasi-experimentale et qualitative, techniques d'observation directe et techniques de collecte de donnees, techniques d'analyse quantitative et qualitative des donnees.

@@ -1,0 +1,2 @@
+TitreCours: Seminaire de synthese
+DescriptionCours: Seminaire visant a faire la synthese des aspects sociopolitiques, economiques, spatiaux et decisionnels de l'analyse et de la gestion urbaine a partir de l'etude de cas tires du domaine des finances municipales, du transport, du logement, des services communautaires et/ou de l'ecologie. Le seminaire mettra l'accent sur les implications decisionnelles de la prise en compte de divers aspects du phenomene urbain.

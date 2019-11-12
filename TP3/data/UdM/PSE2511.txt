@@ -1,0 +1,2 @@
+TitreCours: Problematique en intervention 1
+DescriptionCours: Problematique specifique d'intervention en lien avec les besoins d'une clientele specifique ou d'un milieu de pratique. A titre d'exemples : troubles envahissants du developpement (TED), intervention de crise, etc.

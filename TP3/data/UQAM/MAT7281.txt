@@ -1,0 +1,2 @@
+TitreCours: Sondages
+DescriptionCours: Optimalite des strategies d'echantillonnage; echantillonnage avec probabilites inegales; estimateurs d'Horvitz-Thompson et estimateur de Yates et Grundy. Échantillonnage double; application a l'echantillonnage stratifie.

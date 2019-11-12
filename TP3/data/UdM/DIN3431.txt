@@ -1,0 +1,2 @@
+TitreCours: Gestion de projet
+DescriptionCours: Methodes de planification et de coordination de projets de produits et de systemes. Identification et controle des parametres de design et de R/D. Interrelations et leadership.

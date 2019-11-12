@@ -1,0 +1,2 @@
+TitreCours: Hydraulique generale
+DescriptionCours: Introduction a l'hydrostatique : lois theoriques et lois empiriques. Applications a differentes structures hydrauliques. Introduction a l'hydrodynamique : lois theoriques et lois empiriques. Écoulement gravitaire et ecoulement sous pression. Applications a la conception et a l'evaluation d'ouvrages hydriques. Introduction a la turbo-machinerie. Cours theorique.

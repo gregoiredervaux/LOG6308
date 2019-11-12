@@ -1,0 +1,2 @@
+TitreCours: Preparation au stage d
+DescriptionCours: Fournir le cadre conceptuel et administratif pour le premier stage en informatique. Familiarisation avec les types de stage, l'organisation du stage, la recherche d'un organisme d'accueil, les relations avec l'organisme d'accueil, l'inscription au stage, le deroulement du stage, les responsabilites et l'ethique du stagiaire, les modalites d'evaluation. Preparation des documents pertinents au stage et preparation aux entrevues.

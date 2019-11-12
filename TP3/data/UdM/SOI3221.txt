@@ -1,0 +1,2 @@
+TitreCours: Modeles en soins infirmiers
+DescriptionCours: Évolution du champ de connaissance propre a la discipline infirmiere. Études de differents auteurs en soins infirmiers. Demarche clinique.

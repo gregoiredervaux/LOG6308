@@ -1,0 +1,2 @@
+TitreCours: Gnie sismique
+DescriptionCours: Introduction  la sismologie. Amplification dynamique des sismes par les sols. Interaction sol-structure. Analyse de risques sismiques. Calcul et conception parasismiques des btiments.

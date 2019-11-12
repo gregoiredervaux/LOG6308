@@ -1,0 +1,2 @@
+TitreCours: Didactique de la lecture/ecriture
+DescriptionCours: Plurisystemes du francais; rapport a l'ecrit; identification de mots; comprehension en lecture; processus d'ecriture; approches; methodes d'enseignement; apprentissage du prescolaire au 3e cycle; evaluation.

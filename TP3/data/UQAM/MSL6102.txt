@@ -1,0 +1,2 @@
+TitreCours: Collections et conservation
+DescriptionCours: Origine des collections et modes d'acquisition. Identification et controle des collections. Recherche sur les collections. Conservaton preventive et restauration des objets museaux.

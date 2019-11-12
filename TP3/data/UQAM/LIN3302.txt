@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de recherches en alphabetisation
+DescriptionCours: Élaboration et realisation de recherches pratiques repondant a des besoins definis si possible par des organismes intervenant en alphabetisation. Approche de la recherche-action, en etroite liaison avec les partenaires du milieu professionnel.

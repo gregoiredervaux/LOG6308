@@ -1,0 +1,2 @@
+TitreCours: Travaux de recherche diriges
+DescriptionCours: Projet de recherche de nature experimentale, clinique ou bibliographique supervise par un professeur ou un chercheur et conduisant a une communication scientifique ou a une publication dans une revue avec arbitres. Seminaires scientifiques.

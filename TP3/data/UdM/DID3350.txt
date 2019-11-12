@@ -1,0 +1,2 @@
+TitreCours: Projet en sciences et mathematiques
+DescriptionCours: Realisation, en vue de la pratique professionnelle, d'activites integratrices d'enseignement et d'apprentissage en sciences, technologie, mathematiques et autres disciplines. Approfondissement des didactiques choisies.

@@ -1,0 +1,2 @@
+TitreCours: Mineralogie appliquee au genie mineral
+DescriptionCours: Classification mineralogique. Description des interactions rayonnement-matiere. Metallographie et utilisation de la microscopie optique. Imagerie a l'aide de la microscopie electronique a balayage. Diffraction des rayons X. Les microsondes electronique et ionique. Les methodes d'etude de l'etat de liaison avec la spectrometrie infrarouge (FTIR), la spectroscopie Mössbauer et la spectrometrie des photoelectrons X (XPS). Application des techniques au traitement du minerai, a l'environnement et a la geologie.

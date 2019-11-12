@@ -1,0 +1,2 @@
+TitreCours: Auteurs grecs d'epoque imperiale
+DescriptionCours: Étude d'un texte ou d'un choix de textes d'auteurs entre le Ier et le VIe siecle apres J.-C., paiens ou chretiens. Plutarque, la seconde sophistique, les Peres de l'Église grecque, etc.

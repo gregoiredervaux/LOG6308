@@ -1,0 +1,2 @@
+TitreCours: Integration et evaluation III
+DescriptionCours: Cette unite vise a permettre a l'etudiant d'effectuer l'integration des apprentissages realises dans le cadre des unites composant le trimestre en cours et les trimestres anterieurs, aussi bien au niveau des apprentissages de type cognitif qu'au niveau du developpement d'habiletes. On propose a l'etudiant une mise en situation faisant appel a divers elements de chacune des unites. On demande a l'etudiant de developper principalement l'expression orale au cours de cette unite.

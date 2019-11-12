@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Étude des differents aspects (relatifs aux domaines des sciences physiques) de l'activite humaine en milieu urbain et de leurs impacts sur l'environnement (une importance particuliere est donnee aux problemes de l'eau); concepts et problemes fondamentaux de l'environnement urbain: l'energie, les ressources premieres, la qualite des eaux, la qualite de l'air, les rejets et dechets, les communications (transport, telecommunications), la dynamique du developpement urbain.

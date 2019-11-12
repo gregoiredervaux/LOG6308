@@ -1,0 +1,2 @@
+TitreCours: Litterature et linguistique
+DescriptionCours: Recherches sur l'approche linguistique des textes litteraires.

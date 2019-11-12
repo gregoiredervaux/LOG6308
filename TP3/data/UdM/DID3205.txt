@@ -1,0 +1,2 @@
+TitreCours: Didactique des langues au secondaire 1
+DescriptionCours: Problematique de l'enseignement des langues. Approches didactiques. Programmes et documents officiels. Didactique de l'oral et de l'ecrit. Contenus, demarches d'enseignement. Scenarios d'apprentissage.

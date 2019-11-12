@@ -1,0 +1,2 @@
+TitreCours: Camp de geosciences environnementales
+DescriptionCours: Stratigraphie des sediments meubles des basses-terres du St-Laurent et correspondance des proprietes geotechniques. Releves hydrogeologiques et geophysiques d'un site contamine.

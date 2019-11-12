@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'ergonomie pour DI
+DescriptionCours: Caracteristiques ergonomiques d'un systeme personne-machine : information visuelle, auditive, etude des controles; milieu physique ambiant (eclairage, bruit, temperature, vibration, acceleration), anthropometrie appliquee.

@@ -1,0 +1,2 @@
+TitreCours: Integration des apprentissages
+DescriptionCours: Bilan des competences developpees au cours du programme « Pratique infirmiere 2 ». Integration des aspects theoriques et pratiques a travers des activites cliniques. Autoevaluation de sa demarche d'apprentissage.

@@ -1,0 +1,2 @@
+TitreCours: Initiation aux bases de donnees
+DescriptionCours: Environnement de travail. Notions fondamentales. Manipulation d'une base de donnees. Programmation utilisant le progiciel de gestion de base de donnees. Utilisation professionnelle.

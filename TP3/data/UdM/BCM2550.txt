@@ -1,0 +1,2 @@
+TitreCours: Programmation pour biochimistes
+DescriptionCours: Apprentissage des bases de la programmation en Perl. Application a l'analyse des sequences genetiques: manipulation de sequences, recherche de motifs, automatisation de requetes dans les banques de donnees, interfacage avec d'autres programmes.

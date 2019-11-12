@@ -1,0 +1,2 @@
+TitreCours: Complements de mecanique statistique
+DescriptionCours: Gaz parfait monoatomique a la limite classique. Thermodynamique du gaz parfait de Bose-Einstein et applications. Thermodynamique du gaz parfait de Fermi-Dirac et applications. Traitement du gaz imparfait.

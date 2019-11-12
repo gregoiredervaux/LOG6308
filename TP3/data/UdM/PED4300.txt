@@ -1,0 +1,2 @@
+TitreCours: Atelier d'innovation en adapt. scolaire
+DescriptionCours: Atelier de conception ou d'adaptation de produits ou procedes d'intervention en lien avec le projet d'integration. Analyse fonctionnelle et cahier des charges. Conception du prototype initial et mise a l'essai en stage.

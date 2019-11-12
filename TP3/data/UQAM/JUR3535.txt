@@ -1,0 +1,2 @@
+TitreCours: Approfondissement du droit des obligations
+DescriptionCours: Ce cours vise l'approfondissement de l'etude du droit des obligations au moyen d'une approche pratique, faisant reference au besoin a la procedure civile, dans la triple perspective de l'execution de l'obligation, de la mise en oeuvre du droit a l'execution de l'obligation et de la protection de ce droit (mesures conservatoires, action oblique, action en inopposabilite). Transmission et mutations de l'obligation. Extinction des obligations. Restitution des prestations. Prescription extinctive.

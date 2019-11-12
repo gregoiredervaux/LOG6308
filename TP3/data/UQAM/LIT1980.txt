@@ -1,0 +1,2 @@
+TitreCours: Immersion en culture quebecoise I
+DescriptionCours: Sensibilisation aux diverses manifestations de la culture quebecoise (litterature, cinema, television, chanson, arts graphiques et musicaux).

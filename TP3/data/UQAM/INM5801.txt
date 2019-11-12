@@ -1,0 +1,2 @@
+TitreCours: Stage d
+DescriptionCours: L'objectif du stage est de faire appliquer les connaissances informatiques acquises dans un milieu de travail et de parfaire la formation. Travail d'au moins quatre mois en informatique.

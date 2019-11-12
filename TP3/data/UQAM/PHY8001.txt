@@ -1,0 +1,2 @@
+TitreCours: Électrodynamique
+DescriptionCours: Problemes aux limites rencontrees en electromagnetisme et methodes de solution. Effet de peau. Propagation des ondes dans un cylindre circulaire. Oscillations de la sphere. Magnetohydrodynamique. Rappel des transformations de Lorentz et ses consequences en mecanique relativiste. La formulation covariante en electrodynamique. Les potentiels de Lienard-Whiechert. Les radiations d'une charge electrique acceleree.

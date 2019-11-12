@@ -1,0 +1,2 @@
+TitreCours: Notions de chimie pour enseignants
+DescriptionCours: Approfondissement des concepts a la base de la chimie et de leurs rapports aux applications industrielles et technologiques modernes.

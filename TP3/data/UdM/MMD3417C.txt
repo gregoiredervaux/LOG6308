@@ -1,0 +1,2 @@
+TitreCours: Stage: Urgences cardiologiques
+DescriptionCours: Stage clinique concernant le travail en salle d'urgence cardiologique aupres de medecins-urgentologues.

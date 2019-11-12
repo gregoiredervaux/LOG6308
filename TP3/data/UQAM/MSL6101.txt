@@ -1,0 +1,2 @@
+TitreCours: Histoire et fonctions des musees
+DescriptionCours: Cours relevant de l'Universite de Montreal Origine, philosophie et developpement des institutions museales dans le contexte historique (international, canadien et quebecois). Typologie et vocations des musees dans le passe et dans les societes contemporaines; aspects artistiques, scientifiques, sociaux et culturels.

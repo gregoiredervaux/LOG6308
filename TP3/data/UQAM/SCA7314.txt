@@ -1,0 +1,2 @@
+TitreCours: Seminaire III
+DescriptionCours: Participation aux seminaires hebdomadaires et presentation d'un seminaire portant obligatoirement sur des resultats de la recherche en cours ou en voie d'etre terminee.

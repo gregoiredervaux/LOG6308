@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'indo-europeen
+DescriptionCours: La racine selon Benveniste. Notions de phonetique et de morphologie. Exercices sur des phrases de sanskrit.

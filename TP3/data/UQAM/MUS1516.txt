@@ -1,0 +1,2 @@
+TitreCours: Initiation a la guitare
+DescriptionCours: Connaissance theorique et pratique des proprietes physiques et caracteristiques techniques de la guitare. Fonctionnement, entretien et reparation. Techniques de base de l'instrument, dechiffrage de partitions, exercices pratiques d'accompagnement. Connaissance de repertoires de base. Formation d'ensembles.

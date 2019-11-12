@@ -1,0 +1,2 @@
+TitreCours: Planification financiere personnelle
+DescriptionCours: Permettre a l'etudiant de planifier des operations financieres personnelles a court et a long terme. Établissement d'un bilan personnel. Determination d'objectifs a court terme et a long terme et elaboration d'un budget. Modalites de placement. Aspects fiscaux lies au placement. Strategies de placement.

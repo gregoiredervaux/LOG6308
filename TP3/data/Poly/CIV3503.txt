@@ -1,0 +1,2 @@
+TitreCours: Conception des structures en acier
+DescriptionCours: Calcul aux tats limites. Systmes structuraux et mthodes de construction. Aciers et produits de construction. Conception des pices en traction, en compression et en flexion. Introduction  la conception des pices en compression-flexion et des assemblages boulonns et souds. Conception de l'ossature d'un btiment en acier d'un seul tage. Applications sur ordinateur et essais au laboratoire.

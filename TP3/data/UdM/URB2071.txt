@@ -1,0 +1,2 @@
+TitreCours: Histoire de l'urbanisme
+DescriptionCours: Les debuts de l'urbanisme en Europe et en Amerique du Nord. Courants de pensee, conceptions de la ville. Principes, modeles et outils d'urbanisme. Plans d'extension et de reforme. Villes nouvelles. Le mouvement fonctionnalisme. Le Nouvel urbanisme.

@@ -1,0 +1,2 @@
+TitreCours: Medecine porcine specialisee 2
+DescriptionCours: Cours complementaire au cours MEV 4437. Notions avancees et habiletes supplementaires afin de resoudre differents problemes en elevage porcin.

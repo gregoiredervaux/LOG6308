@@ -1,0 +1,2 @@
+TitreCours: Medecine des troupeaux laitiers 1
+DescriptionCours: Methodes d'evaluation et d'analyse de la sante des troupeaux laitiers. Introduction aux aliments et aux systemes d'alimentation. Évaluation des performances en reproduction. Les regles du quota laitier.

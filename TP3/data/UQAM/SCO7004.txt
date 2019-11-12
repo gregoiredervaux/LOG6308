@@ -1,0 +1,2 @@
+TitreCours: Optimisation des ressources
+DescriptionCours: Étude du travail effectue dans le contexte de la verification des deniers publics; reevaluation des systemes d'information et evaluation des modes de gestion, planification strategique, plan d'optimisation, reingenierie des processus et implantation des nouvelles facons de faire. Ces differents elements seront etudies par domaine d'expertise, soit la certification, la fiscalite, la gestion et conseil de gestion.

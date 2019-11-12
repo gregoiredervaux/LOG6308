@@ -1,0 +1,2 @@
+TitreCours: Analyse de donnees urbaines
+DescriptionCours: L'analyse urbaine et ses sources de donnees. Extraction de donnees numeriques. Analyse statistique descriptive de phenomemes urbains. Realisation de profils socioeconomiques. Montage de dossiers urbains. Initiation aux indicateurs de positionnement.

@@ -1,0 +1,2 @@
+TitreCours: Chimie instrumentale
+DescriptionCours: Examen des principaux facteurs qui controlent les performances des instruments employes en analyse chimique. Étude de l'influence de ces performances (fidelite, pouvoir de separation, precision, etc.) sur les valeurs mesurees en analyse chimique (concentrations, limites de detection, interferences, etc.). Applications a l'analyse spectroscopique, spectrophotometrique, electrochimique et chromatographique.

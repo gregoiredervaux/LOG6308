@@ -1,0 +1,2 @@
+TitreCours: Études preparatoires
+DescriptionCours: Cet atelier vise a encadrer les etudiants dans la definition du sujet ou du projet qu'ils developperont dans le cadre de leur rapport d'etudes ou de leur stage. Il est oriente vers l'exploration des references theoriques, historiques et/ou techniques et des ressources documentaires et autres necessaires au choix de leur activite de synthese, a la connaissance de son contexte de realisation ainsi qu'a l'etablissement d'un plan de travail.

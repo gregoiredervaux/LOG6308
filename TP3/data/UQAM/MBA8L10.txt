@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Developpement des habiletes d'analyse et d'intervention au sein d'organisations et comprehension de differents processus de gestion. Initiation aux principales theories des sciences du comportement humain et a leur application en milieu de travail.

@@ -1,0 +1,2 @@
+TitreCours: Stage : Chirurgie generale pediatrique
+DescriptionCours: Stage clinique aupres de malades ambulants ou hospitalises en chirurgie generale pediatrique.

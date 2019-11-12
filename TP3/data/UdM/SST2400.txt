@@ -1,0 +1,2 @@
+TitreCours: Strategie de la formation en SST
+DescriptionCours: Importance de la formation en SST. Insertion de la formation dans l'ensemble d'une strategie de prevention. Definition de la pertinence, des objectifs et des contenus. Analyse de l'effet et des limites des strategies de formation.

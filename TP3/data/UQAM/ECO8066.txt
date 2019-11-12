@@ -1,0 +1,2 @@
+TitreCours: Économie financiere
+DescriptionCours: Équilibre des marches financiers domestiques et internationaux; structures des taux d'interet. Évaluation des actifs financiers: modele d'equilibre des actifs financiers, modele d'evaluation par arbitrage, modele d'evaluation des actifs fonde sur la consommation. Diversification du portefeuille. Marche des options; marche a terme; efficience des marches; bulles speculatives. Theoreme de la separation. Impacts de la fiscalite.

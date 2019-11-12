@@ -1,0 +1,2 @@
+TitreCours: Éducation et developpement
+DescriptionCours: Impacts de l'education sur le developpement. Éducation et pauvrete. Systemes et qualite de l'education. Éducation et rapport des genres.

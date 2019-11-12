@@ -1,0 +1,2 @@
+TitreCours: Activite pratique complementaire 1
+DescriptionCours: Activite non recurrente contribuant au developpement des habiletes d'un juriste.

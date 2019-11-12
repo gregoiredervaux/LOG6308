@@ -1,0 +1,2 @@
+TitreCours: Analyse des programmes de securite financiere II
+DescriptionCours: Conception, legislation et imposition des principaux programmes volontaires de securite financiere offerts par les compagnies d'assurance au Canada et aux États-Unis. Selection des risques, administration et mise en marche des produits d'assurance-vie et d'assurance-maladie individuelle. Analyse de l'imposition des compagnies d'assurance au Canada et aux États-Unis.

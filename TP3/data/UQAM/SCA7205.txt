@@ -1,0 +1,2 @@
+TitreCours: Meteorologie dynamique approfondie
+DescriptionCours: Étude des mouvements ondulatoires de l'atmosphere. Introduction a la prediction numerique. Modele barotrope. Theorie lineaire des mouvements atmospheriques ondulatoires. Les equations filtrees. Bilan energetique de l'atmosphere. Instabilites hydrodynamiques et barocliniques. Circulation generale. Circulation dans la haute atmosphere. Systemes tropicaux.

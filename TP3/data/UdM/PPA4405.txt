@@ -1,0 +1,2 @@
+TitreCours: Prevention de l'echec scolaire
+DescriptionCours: Identification au prescolaire d'eleves a risque. Analyse des types de prevention au prescolaire et au premier cycle du primaire. Problemes particuliers associes a la transition prescolaire-primaire et les mesures preventives.

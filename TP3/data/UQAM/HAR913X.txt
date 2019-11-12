@@ -1,0 +1,2 @@
+TitreCours: Genres
+DescriptionCours: Examen de la notion de corpus a travers les regroupements taxinomiques des oeuvres d'art. Étude des genres, des medias et des pratiques.

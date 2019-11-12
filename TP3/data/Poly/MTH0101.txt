@@ -1,0 +1,2 @@
+TitreCours: Calcul differentiel
+DescriptionCours: Fonctions d'une variable, limite et continuite. Derivee: definition, taux de variation, analyse de fonctions algebriques, problemes d'optimisation. Asymptote et analyse de fonctions. Derivee des fonctions trigonometriques (directes et inverses), exponentielles et logarithmiques.

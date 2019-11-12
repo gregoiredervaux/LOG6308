@@ -1,0 +1,2 @@
+TitreCours: Difficultes en ecriture au secondaire
+DescriptionCours: Écriture et maitrise de la langue. Motivation. Strategies cognitives et metacognitives. Processus d'ecriture. Diagnostic et reeducation des difficultes d'apprentissage en ecriture. Dysorthographie.

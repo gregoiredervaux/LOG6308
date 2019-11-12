@@ -1,0 +1,2 @@
+TitreCours: Questions de securite interieure
+DescriptionCours: Approfondir certaines problematiques de l'heure en securite interieure. Cerner le contexte, identifier les variables, en preciser les relations dans une optique systemique, avancer des solutions et en evaluer le caractere operationnel et la portee.

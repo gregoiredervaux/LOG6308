@@ -1,0 +1,2 @@
+TitreCours: Analyse multivariee appliquee
+DescriptionCours: Vecteur aleatoire. Matrice des covariances. Loi multinormale. Region de confiance et tests pour le vecteur moyen. Analyses en composantes principales, canonique, discriminante et classification. Lois decentrees.

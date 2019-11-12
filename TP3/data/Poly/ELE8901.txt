@@ -1,0 +1,2 @@
+TitreCours: Technologies de l'information
+DescriptionCours: Survol des technologies de l'information pour le non-specialiste, lui permettant d'en comprendre les implications techniques, sociales et economiques, presentes et futures. Microelectronique; ordinateurs; informatique et progiciels; telecommunications; radio et telediffusion; reseaux; developpement economique; normes internationales.

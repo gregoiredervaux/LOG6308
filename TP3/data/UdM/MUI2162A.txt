@@ -1,0 +1,2 @@
+TitreCours: Connaissance du clavier 3
+DescriptionCours: Cours collectif destine aux etudiants non clavieristes. Apprentissage des rudiments du clavier dans le but de controler les enchainements rythmiques et harmoniques de base et de pouvoir dechiffrer une partition simple.

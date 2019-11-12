@@ -1,0 +1,2 @@
+TitreCours: Écoles et mouvements litteraires au Quebec
+DescriptionCours: L'objectif de ce cours est d'identifier les principaux regroupements d'ecrivains, formels ou non, qui ont marque l'histoire litteraire du Quebec, d'etudier leurs projets et les pratiques d'ecriture auxquelles ils ont donne lieu et de mesurer les effets institutionnels au XIXe et au XXe siecles.

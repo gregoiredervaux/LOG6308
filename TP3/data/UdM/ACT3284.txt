@@ -1,0 +1,2 @@
+TitreCours: Modeles en assurance IARD
+DescriptionCours: Tarification: tendance, modele de Poisson loglinaire, syseme bonus-malus. Provision pour primes. Provision pour sinistres: methode de developpement des sinistres, modele lognormal lineaire, estimateurs. Solvabilite. Aide a preparer CAS 5 et CAS 6.

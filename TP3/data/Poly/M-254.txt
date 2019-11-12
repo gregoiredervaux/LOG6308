@@ -1,0 +1,2 @@
+TitreCours: Principes de refrigeration
+DescriptionCours: Refrigeration par compression de vapeur. Cycle ideal. Cycle theorique. Compresseurs, evaporateurs. Condenseurs a air et a eau. Tour de refroidissement. Condenseurs evaporatifs. Refrigerants. Soupapes de detentes. Tuyauterie. Saumures. Systeme a absorption.

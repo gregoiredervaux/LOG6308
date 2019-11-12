@@ -1,0 +1,2 @@
+TitreCours: Gestion en activite physique
+DescriptionCours: Concepts fondamentaux. Processus et technique de gestion appliques a l'activite physique et au sport. Organismes sportifs et entrepreneurship. Comportement organisationnel et ressources humaines. Gestion des conflits.

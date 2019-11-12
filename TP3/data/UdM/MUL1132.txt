@@ -1,0 +1,2 @@
+TitreCours: Methodologie musicale
+DescriptionCours: Apprentissage de la recherche d'informations en bibliotheque et sur le Web, developpement des competences de base dans l'organisation methodologique d'un travail de redaction ainsi que dans l'exercice d'un compte rendu de lecture.

@@ -1,0 +1,2 @@
+TitreCours: Medecine de pop. de bovins de boucherie
+DescriptionCours: Deux semaines de stage en medecine de population de bovins de boucherie.

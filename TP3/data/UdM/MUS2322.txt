@@ -1,0 +1,2 @@
+TitreCours: Design sonore et algorithmie musicale
+DescriptionCours: Conception et creation de musiques electroacoustiques et de designs sonores. Systemes integres pour la resolution de problemes musicaux. Systemes de performance en temps reel et outils de composition electroacoustique.

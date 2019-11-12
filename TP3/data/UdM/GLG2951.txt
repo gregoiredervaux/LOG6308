@@ -1,0 +1,2 @@
+TitreCours: Materiaux terrestres
+DescriptionCours: Élements de mineralogie et petrographie megascopique des roches ignees et metamorphiques.

@@ -1,0 +1,2 @@
+TitreCours: Imagerie medicale veterinaire
+DescriptionCours: Principales techniques utilisees en imagerie medicale veterinaire. Radioprotection. Interpretation radiologique et echographique normale et pathologique des differents systemes.

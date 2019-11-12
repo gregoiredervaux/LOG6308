@@ -1,0 +1,2 @@
+TitreCours: Atelier de mise en scene
+DescriptionCours: Experimenter de nouvelles formes et des applications techniques novatrices en mise en scene. Analyse des codes et reflexion sur les divers choix possibles lors de la creation d'une oeuvre dramatique faisant appel a la marionnette : les genres de marionnettes, le sens de l'objet, les types de manipulation, la creation d'images, la relation entre le texte, l'univers scenique et le jeu. Mise a l'epreuve des choix conceptuels de l'etudiant. Cours pratique suivi d'un laboratoire. Exercices pratiques de mise en scene

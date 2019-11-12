@@ -1,0 +1,2 @@
+TitreCours: Concepts et methodes en statistique
+DescriptionCours: Estimation ponctuelle et par intervalle. Tests d'hypotheses. Methodes graphiques. Test du khi-deux. Theorie de la decision et inference bayesienne. Comparaisons de deux echantillons.

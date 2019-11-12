@@ -1,0 +1,2 @@
+TitreCours: Chimie organique appliquee
+DescriptionCours: Ce cours a pour but d'approfondir quelques aspects specialises de la chimie organique, surtout au niveau des syntheses industrielles. Étude des principales syntheses organiques industrielles: polymeres, colorants, additifs alimentaires, etc. Étude detaillee de la chimie pharmaceutique: modification moleculaire et «drug design».

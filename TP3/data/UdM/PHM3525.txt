@@ -1,0 +1,2 @@
+TitreCours: Legislation et ethique pharmaceutiques
+DescriptionCours: Lois et reglements relatifs a la mise au point, la production et la distribution des medicaments, a la pratique de la pharmacie et au systeme de soins. Deontologie et ethique pharmaceutiques.

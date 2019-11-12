@@ -1,0 +1,2 @@
+TitreCours: Atelier
+DescriptionCours: Laboratoire choregraphique centre sur une experimentation de divers processus de creation. Developpement d'outils d'observation et d'analyse de la matiere et de la maniere choregraphiques. Par la realisation de courts projets, presentes et commentes, l'etudiant sera amene a preciser une demarche de creation et une esthetique personnelles et a les situer par rapport a ses contemporains.

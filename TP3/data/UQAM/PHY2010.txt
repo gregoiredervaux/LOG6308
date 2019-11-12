@@ -1,0 +1,2 @@
+TitreCours: Sujets en sciences appliquees II
+DescriptionCours: Cours repondant a des besoins particuliers de formation en sciences appliquees. Il peut contenir des sujets nouveaux dus aux recents developpements des applications scientifiques ou des sujets specialises ne faisant pas l'objet d'autres cours. Selon les besoins, differentes formules pedagogiques pourront s'appliquer: cours magistral, laboratoire, seminaire, projet, lecture dirigee, etc.

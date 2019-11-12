@@ -1,0 +1,2 @@
+TitreCours: Intervention clinique en toxicomanie
+DescriptionCours: Developpement d'habiletes en intervention individuelle aupres de personnes dependantes. Utilisation de techniques d'entrevue et de strategies d'intervention. Identification des pieges d'intervention et des dilemmes ethiques en toxicomanie.

@@ -1,0 +1,2 @@
+TitreCours: Geotechnique miniere
+DescriptionCours: Rappel sur les proprietes geotechniques des sols et des rejets miniers. Analyse et conception d'empilements et de digues pour rejets miniers : consolidation et tassement, capacite portante, pression des terres sur les structures exposees et enfouies, stabilite des pentes. Structures de routes pour vehicules super lourds. Problemes particuliers lies a la gestion des rejets miniers.

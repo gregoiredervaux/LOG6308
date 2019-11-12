@@ -1,0 +1,2 @@
+TitreCours: Les NTIC en education
+DescriptionCours: Fondements technologiques et psychopedagogiques. Initiation aux outils technologiques en milieu scolaire. Exploration de logiciels educatifs. Preparation de scenarios d'integration pedagogique des NTIC.

@@ -1,0 +1,2 @@
+TitreCours: Intervention en entreprise
+DescriptionCours: Cette activite vise a mieux faire connaitre une entreprise reelle dans un secteur d'activite qui correspond aux interets professionnels de l'etudiant. L'etudiant realisera un stage de deux semaines dans une entreprise ou il pourra mieux etablir des liens entre la theorie et la pratique en milieu d'affaires. Un rapport de stage permettra a l'etudiant de communiquer les experiences acquises durant ce stage.

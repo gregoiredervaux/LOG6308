@@ -1,0 +1,2 @@
+TitreCours: Stage clinique 1
+DescriptionCours: Developpement des competences en regard des connaissances theoriques et pratiques acquises dans le domaine musculo-squelettique. Ce stage sera evalue par la mention Succes ou Échec.

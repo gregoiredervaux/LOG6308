@@ -1,0 +1,2 @@
+TitreCours: Droit carceral
+DescriptionCours: Ce cours specialise a pour but le developpement d'une expertise par la combinaison des connaissances juridiques dans un domaine d'application a une categorie sociale vulnerable. Contenu et sources du droit carceral. L'execution des sentences: le calcul des sentences, les conditions de detention, les sanctions disciplinaires, les transferts, permissions et liberations provisoires. Le statut juridique du detenu: droits politiques, civils et sociaux. La liberation conditionnelle et la probation. Le casier judiciaire.

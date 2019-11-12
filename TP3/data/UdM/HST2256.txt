@@ -1,0 +1,2 @@
+TitreCours: Histoire economique de l'Europe
+DescriptionCours: Principales caracteristiques et periodisation du developpement economique de l'Europe occidentale depuis le XVIIIe siecle jusqu'a nos jours.

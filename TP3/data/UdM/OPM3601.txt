@@ -1,0 +1,2 @@
+TitreCours: Optometrie pediatrique
+DescriptionCours: Embryologie et developpement postnatal de l'oeil et des voies visuelles. Normes cliniques. Anomalies oculaires genetiques et congenitales. Examen visuel des jeunes enfants.

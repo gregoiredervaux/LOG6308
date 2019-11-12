@@ -1,0 +1,2 @@
+TitreCours: Processus clinique en TED
+DescriptionCours: Role et responsabilites de l'intervenant : relations avec l'usager et ses proches, avec les autres intervenants et le superviseur, participation a l'elaboration et au suivi de plans d'intervention; evaluation continue des resultats et des impacts.

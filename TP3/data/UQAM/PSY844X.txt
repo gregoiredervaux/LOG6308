@@ -1,0 +1,2 @@
+TitreCours: Activite de supervision
+DescriptionCours: Ce cours vise a favoriser le developpement de la qualite de superviseur. Dans le cadre d'un stage de 135 heures, l'etudiant agit a titre d'assistant superviseur a un superviseur deja actif au Centre de services psychologiques de l'UQAM. Ce stage sera etale sur 9 mois consecutifs.

@@ -1,0 +1,2 @@
+TitreCours: Interfaces personne
+DescriptionCours: Aspects cognitifs et ergonomiques. Interfaces ecologiques. Modes d'interaction: dialogues, menus, icones, graphisme, parole, multimedia. Principes directeurs de definition et de conception d'interfaces. Considerations de navigation et de gestion. Assistance aux usagers. Environnements et outils de developpement. Impact organisationnel et sociologique. Applications.

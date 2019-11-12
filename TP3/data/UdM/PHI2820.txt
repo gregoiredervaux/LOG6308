@@ -1,0 +1,2 @@
+TitreCours: Philosophie hellenistique
+DescriptionCours: Étude des principales ecoles de la periode hellenistique (stoicisme, epicurisme, scepticisme) a partir d'une selection de themes.

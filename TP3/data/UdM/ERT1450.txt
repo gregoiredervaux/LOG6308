@@ -1,0 +1,2 @@
+TitreCours: Activites d'auto-apprentissage 1
+DescriptionCours: Consolidation des apprentissages par l'utilisation du portfolio et developpement des competences transversales pour faciliter une integration progressive dans le milieu de pratique.

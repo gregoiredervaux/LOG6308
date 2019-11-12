@@ -1,0 +1,2 @@
+TitreCours: Discours journalistique
+DescriptionCours: Étude des caracteristiques du discours journalistique dans ses manifestations et dans son rapport au social. Presse ecrite, presse parlee: editoriaux, reportages, nouvelles. Analyse du medium: mise en page, manchette, photo, legende, image, etc.

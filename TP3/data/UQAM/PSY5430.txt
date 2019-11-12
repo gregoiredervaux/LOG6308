@@ -1,0 +1,2 @@
+TitreCours: Techniques behaviorales de modification du comportement
+DescriptionCours: Examen critique et connaissance pratique des principales techniques et methodes d'intervention behaviorales: rationnel, procedures, conditions d'application. Role de l'evaluation, choix de la technique. Mesures du changement. Application en divers milieux et situations. Problemes d'ethique.

@@ -1,0 +1,2 @@
+TitreCours: Calcul vectoriel et nombres complexes
+DescriptionCours: Calcul vectoriel : vecteurs geometriques du plan et de l'espace. Operations sur les vecteurs : addition, produit par des scalaires, norme, produit scalaire. Parallelisme et perpendicularite. Angle entre 2 vecteurs. Nombres complexes : definition, partie reelle et partie imaginaire, conjugue. Arithmetique des nombres complexes. Module, argument et forme polaire. Forme d'Euler. Rotation d'un angle donne, application avec 900 et 1200.

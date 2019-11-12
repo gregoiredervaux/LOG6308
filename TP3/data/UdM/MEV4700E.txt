@@ -1,0 +1,2 @@
+TitreCours: Medecine des animaux de compagnie
+DescriptionCours: Une semaine complementaire aux stages MEV 4500 et MEV 4600. Stage d'ete hors programme entre la 4e et la 5e annee.

@@ -1,0 +1,2 @@
+TitreCours: Motricite et controle du mouvement
+DescriptionCours: Contribution des mecanismes perceptifs a l'elaboration et a l'execution d'un acte moteur. Étude des modeles comportementaux et physiologiques relatifs a la planification, l'execution et le controle du mouvement. Lois des mouvements simples. Introduction aux theories des systemes de regulation et leurs applications au mouvement humain.

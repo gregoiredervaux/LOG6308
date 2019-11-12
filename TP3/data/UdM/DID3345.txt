@@ -1,0 +1,2 @@
+TitreCours: Didactique de la chimie
+DescriptionCours: Problematique et conditions didactiques dans l'apprentissage de la chimie. Analyse didactique de notions en chimie. Strategies et techniques did. Planification et developpement de sequences d'enseignement en labo et en classe. Integration des TIC.

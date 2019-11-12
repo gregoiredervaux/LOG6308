@@ -1,0 +1,2 @@
+TitreCours: Activites dirigees
+DescriptionCours: Étude de cas ou recherche dirigee. Reserve aux etudiants detenant ou terminant un baccalaureat, a l'exclusion des etudiants de maitrise en sciences de l'information.

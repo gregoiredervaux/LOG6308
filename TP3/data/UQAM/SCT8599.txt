@@ -1,0 +1,2 @@
+TitreCours: Pedologie et environnement
+DescriptionCours: Cours de formation complementaire oriente vers la pratique des sciences de l'environnement. Chimie et biologie du sol: le complexe absorbant, le pH, les elements mineraux, la matiere organique, le cycle de l'azote: les types d'humus, la flore et la faune du sol. La pedogenese: ses facteurs ecologiques, ses phenomenes, ses processus, son evolution. Travaux pratiques et sorties de terrain.

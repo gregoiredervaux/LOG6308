@@ -1,0 +1,2 @@
+TitreCours: Ideologies politiques
+DescriptionCours: Acquisition d'un cadre conceptuel integrant les processus de formation et de developpement des ideologies dans les societes modernes. Analyse d'ideologies particulieres comme le nationalisme, le neoliberalisme, etc.

@@ -1,0 +1,2 @@
+TitreCours: Projet d
+DescriptionCours: L'objectif de ce projet est de permettre aux participants de mettre en pratique les concepts et les approches presentes dans le programme. Les participants devront choisir une problematique qui emane de leur milieu de travail et produire un rapport comportant un plan d'actions pratiques.

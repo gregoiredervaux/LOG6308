@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de chimie inorganique
+DescriptionCours: Étude experimentale des methodes modernes de la chimie inorganique. Synthese et analyse structurale de composes inorganiques. Proprietes magnetiques. Analyse de spectres vibrationnels et electroniques des composes de coordination. Diagrammes d'Orgel. Isomeres optiques et dispersion rotatoire. Cinetique de reactions inorganiques. Diffraction des rayons X par la methode des poudres. Le fichier ASTM. Construction de modeles moleculaires.

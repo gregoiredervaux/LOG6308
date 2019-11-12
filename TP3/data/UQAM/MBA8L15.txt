@@ -1,0 +1,2 @@
+TitreCours: Gestion financiere en logistique et transport
+DescriptionCours: Initiation aux techniques permettant l'analyse et la prevision des fonds, etude des choix requis a court et a long termes pour l'allocation optimale des ressources d'une entreprise a ses differents secteurs d'activites, examen des differentes sources de financement disponibles et des choix necessaires en terme de coûts et de risques pour l'atteinte d'une politique financiere optimale.

@@ -1,0 +1,2 @@
+TitreCours: Fabrication en aeronautique et microsystemes
+DescriptionCours: Methodes de fabrication des pieces specifiques pour l'industrie aeronautique. Techniques de fabrication conventionnelles et non conventionnelles. Usinage et fabrication de grande precision des alliages et des composites aeronautiques. Methodes d'intelligence artificielle appliquees en fabrication. Aspects ecologiques de fabrication. Introduction aux micro et nanotechnologies. Techniques de microfabrication. Usinage laser. Applications technologiques de microsystemes.

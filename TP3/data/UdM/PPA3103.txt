@@ -1,0 +1,2 @@
+TitreCours: Éleves a besoins particuliers
+DescriptionCours: Étude des differences des clienteles rencontrees dans les milieux scolaires. Moyens d'identification. Strategies pedagogiques en fonction de la douance et des problemes d'apprentissage.

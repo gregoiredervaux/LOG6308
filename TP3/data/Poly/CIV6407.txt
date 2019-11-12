@@ -1,0 +1,2 @@
+TitreCours: Mcanique des sols exprimentale
+DescriptionCours: Choix et justification des diffrentes techniques de mesure en gotechnique. Description des appareils et mthodes utilises en laboratoire pour valuer les caractristiques mcaniques et hydrauliques de diffrents types de sols et gosynthtiques. Calcul d'erreur. Appareils de suivi de comportement d'ouvrages. Validit, reprsentativit et limites d'applicabilit de ces mesures et observations.

@@ -1,0 +1,2 @@
+TitreCours: Validation et verification du logiciel
+DescriptionCours: Importance de la validation et de la verification dans le processus du genie logiciel. Introduction aux methodes de test et de validation. Planification des activites de test du logiciel. Classification des methodes. Methodes de test fonctionnel et methodes de test structurel. Generation de tests pour automates finis. Introduction aux tests par objets. Strategies de tests d'integration et d'installation. Approche statistique en validation et en verification. Methodes de verification.

@@ -1,0 +1,2 @@
+TitreCours: Specialized Translation
+DescriptionCours: Traduction du francais a l'anglais de textes de differents domaines de specialite, en fonction du contexte nord-americain.

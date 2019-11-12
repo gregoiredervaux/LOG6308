@@ -1,0 +1,2 @@
+TitreCours: Stage d'ecologie vegetale
+DescriptionCours: Écologie vegetale, analyse de la vegetation et amenagement de territoire a la Station de biologie des Laurentides de l'Universite de Montreal, a l'automne.

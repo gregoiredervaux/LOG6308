@@ -1,0 +1,2 @@
+TitreCours: Facture du clavecin
+DescriptionCours: Historique des grandes ecoles de facture du clavecin. Terminologie utilisee. Principes de construction. Reglages, harmonisation et realisation de temperaments.

@@ -1,0 +1,2 @@
+TitreCours: Droit de l'enfant
+DescriptionCours: Étude de l'environnement juridique de l'enfant : normes de droit civil, de droit penal et autres.

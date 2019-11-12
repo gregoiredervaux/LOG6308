@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Activite telle que proposee par un etudiant ou un groupe d'etudiants et acceptee par le Comite de programme ou le professeur responsable. Cette activite doit permettre aux etudiants de tenir un seminaire dont les objectifs d'etudes sont directement relies aux objectifs du programme de Design de l'environnement.

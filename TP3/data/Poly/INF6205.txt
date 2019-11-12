@@ -1,0 +1,2 @@
+TitreCours: Paradigmes agents
+DescriptionCours: Systemes intelligents et systemes intelligents distribues. Notions d'intention, de croyance et de desir en intelligence artificielle. Definition, caracterisation et utilisation d'agents. Theories des agents; architecture et modeles d'agent. Programmation par agents. Systemes multi-agents. Environnements de developpement. Applications.

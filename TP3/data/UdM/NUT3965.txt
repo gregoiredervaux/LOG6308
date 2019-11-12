@@ -1,0 +1,2 @@
+TitreCours: Nutrition normale et therapeutique
+DescriptionCours: Valeur nutritive des aliments. Lois sur les aliments. Fonctions des nutriments et besoins nutritionnels. Interrelations nutriments-medicaments. État nutritionnel des Quebecois. Regimes pour la prevention et le traitement de maladies courantes.

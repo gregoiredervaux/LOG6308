@@ -1,0 +1,2 @@
+TitreCours: Gestion de classe en education physique
+DescriptionCours: Familiarisation avec la gestion de classe en gymnase, primaire et secondaire. Animation, communication, planification, organisation spatio-temporelle en fonction du groupe et des comportements des eleves. Integration des TIC.

@@ -1,0 +1,2 @@
+TitreCours: Informatique et soins infirmiers
+DescriptionCours: Notions d'informatique pour la pratique, la formation, la gestion et la recherche en soins infirmiers. Systemes informatises cliniques, Internet, CD-ROM, formation a distance, intranet, bases de donnees bibliographiques et soins virtuels.

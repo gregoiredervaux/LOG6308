@@ -1,0 +1,2 @@
+TitreCours: Theorie de l'optimisation
+DescriptionCours: Optimisation avec contraintes. Multiplicateur de Lagrange, theoreme de Kuhn-Tucker. Calcul des variations. Commande optimale. Ensemble accessible. Principe de Pontryagin, cas lineaire. Loi de feedback. Methodes numeriques.

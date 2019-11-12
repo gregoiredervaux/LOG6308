@@ -1,0 +1,2 @@
+TitreCours: Litterature, culture, medias
+DescriptionCours: Reflexion sur les rapports de la litterature avec les pratiques culturelles et mediatiques.

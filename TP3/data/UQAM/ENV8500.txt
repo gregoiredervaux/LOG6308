@@ -1,0 +1,2 @@
+TitreCours: Stage professionnel 2
+DescriptionCours: Cette activite d'une duree de trois mois minimum vise a mettre l'etudiant en contact avec la realite du milieu du travail et a lui permettre de realiser un travail professionnel dans le cadre d'un mandat specifique. A la suite du stage, il doit produire un rapport scientifique ou technique, evalue par au moins deux personnes.

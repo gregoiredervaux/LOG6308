@@ -1,0 +1,2 @@
+TitreCours: Performance et simulation des reseaux
+DescriptionCours: Permettre a l'etudiant de se familiariser avec les problematiques liees a la performance des reseaux. Concepts d'ingenierie de trafic et de gestion de la bande passante (controle d'admission d'appels, controle de congestion). Caracterisation des flux multiservices et influence du trafic sur les performances des reseaux. Outils de modelisation des reseaux et evaluation des performances (simulation et methodes analytiques).

@@ -1,0 +1,2 @@
+TitreCours: Relations internationales : France
+DescriptionCours: Étude des relations internationales de la France aux XIXe et XXe siecles.

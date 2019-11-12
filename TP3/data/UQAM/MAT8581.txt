@@ -1,0 +1,2 @@
+TitreCours: Analyse de donnees multidimensionnelles
+DescriptionCours: Analyse en composantes principales. Analyse discriminante. Positionnement multidimensionnel. Analyse des correspondances. Correlation canonique. Analyse factorielle. Clustering.

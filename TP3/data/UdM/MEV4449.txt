@@ -1,0 +1,2 @@
+TitreCours: Medecine zoologique des mammiferes
+DescriptionCours: Aspects cliniques et maladies des mammiferes exotiques et indigenes en elevage, en institutions zoologiques et en milieu naturel.

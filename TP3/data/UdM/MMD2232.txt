@@ -1,0 +1,2 @@
+TitreCours: Digestion - nutrition
+DescriptionCours: Morphologie, physiologie et pharmacologie du tractus gastro-intestinal et de ses glandes annexes (foie et pancreas). Physiopathologie, anatomopathologie et aspect clinique des maladies de l'appareil digestif. Principes fondamentaux de nutrition.

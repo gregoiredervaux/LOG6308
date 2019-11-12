@@ -1,0 +1,2 @@
+TitreCours: Projet d
+DescriptionCours: L'objectif de ce projet est d'amener les participants ayant complete les six cours a mettre en pratique les approches et les concepts qui ont ete abordes. Les participants devront choisir une problematique qui emane de leur milieu de travail et produire un rapport comportant un plan d'actions pratiques.

@@ -1,0 +1,2 @@
+TitreCours: École, famille, conseil en adapt. scol.
+DescriptionCours: Problemes et methodes de cooperation avec la famille ainsi qu'avec les agents d'education susceptibles de travailler avec l'enseignant en adaptation scolaire. Concertation pour l'intervention. Éthique de la cooperation.

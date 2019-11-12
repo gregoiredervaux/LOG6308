@@ -1,0 +1,2 @@
+TitreCours: Demographie du Tiers-Monde
+DescriptionCours: La definition du developpement. Les phenomenes demographiques du Tiers-Monde. Quelques aspects particuliers de la demographie actuelle. La relation entre population et ressources.

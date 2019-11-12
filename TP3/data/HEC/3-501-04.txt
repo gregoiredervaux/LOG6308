@@ -1,0 +1,2 @@
+TitreCours: Gestion des approvisionnements
+DescriptionCours: Ce cours vise a vous familiariser tant du point de vue pratique que conceptuel avec plusieurs des facettes de l'acquisition de biens et de services, et ce, tant dans les entreprises du secteur prive que du secteur public.&nbsp; Il comprend entre autres les volets suivants: objectifs de la fonction, selection des fournisseurs, impartition, partenariat, negociation et strategie d'approvisionnement.

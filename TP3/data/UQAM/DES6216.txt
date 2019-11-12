@@ -1,0 +1,2 @@
+TitreCours: Design d
+DescriptionCours: Problematique de l'organisation spatiale de messages et d'objets. Experimentation des formes geometriques elementaires employees comme vehicules dans un espace tridimensionnel.

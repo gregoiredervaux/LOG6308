@@ -1,0 +1,2 @@
+TitreCours: Projet de recherche Honor
+DescriptionCours: Recherche thematique, recherche. et analyse. documentaire, formulation d'hypotheses et d'objectifs, mise en place du projet, echantillonnage, analyse des donnees, interpretation des resultats, redaction d'un rapport et presentation orale.

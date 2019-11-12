@@ -1,0 +1,2 @@
+TitreCours: Photonique fondamentale
+DescriptionCours: Revue de l'electromagnetisme classique pour les milieux continus. Proprietes optiques des materiaux isotropes (dispersion et absorption). Proprietes optiques des materiaux anisotropes (polarisation, birefringence des cristaux, activite optique). Effets electro-optiques (effet Pockels et effet Kerr). Effets magneto-optiques (effet Faraday). Optique non lineaire d'ordre 2 (generation de la seconde harmonique, effets parametriques). Effets d'ordre superieur (melange a quatre ondes, conjugaison de phase).

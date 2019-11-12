@@ -1,0 +1,2 @@
+TitreCours: Gestion de projet en genie aeronautique
+DescriptionCours: Étapes et elements necessaires a la realisation d'un projet en milieu aeronautique. Presentation d'un processus de developpement de produit, sequence des etapes cles, implications des diverses disciplines d'ingenierie et de fabrication, certification, definition des requis, gestion des risques et des coûts. Vision globale des activites a accomplir lors d'un projet, facilitant ainsi la comprehension des roles et des responsabilites des etudiants au sein d'une equipe de travail.

@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique en comportement organisationnel
+DescriptionCours: Seminaire a contenu variable portant sur le comportement organisationnel.

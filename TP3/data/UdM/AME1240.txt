@@ -1,0 +1,2 @@
+TitreCours: Constructions geometriques elementaires
+DescriptionCours: Constructions planaires. Polygones, coniques, lieux geometriques, raccordements, subdivisions. Constructions spatiales. Distance, parallelisme, perpendicularite, tangence, intersection, transformations ponctuelles. Traces aux outils de dessin.

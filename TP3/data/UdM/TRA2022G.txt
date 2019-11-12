@@ -1,0 +1,2 @@
+TitreCours: Traduction litteraire
+DescriptionCours: Analyse et traduction de textes litteraires. Connaissance de l'auteur, de l'oeuvre et de son contexte. Traduction, adaptation, recreation.

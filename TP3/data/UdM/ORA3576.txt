@@ -1,0 +1,2 @@
+TitreCours: Intervention audiologique avancee
+DescriptionCours: Ce cours concerne divers aspects de l'intervention audiologique tant au niveau de l'evaluation diagnostique que therapeutique des deficiences, des incapacites et desavantages pour rendre compte de la multidimensionnalite d'un probleme auditif.

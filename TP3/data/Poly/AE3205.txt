@@ -1,0 +1,2 @@
+TitreCours: Caractristiques de l'avion
+DescriptionCours: Cours d'introduction  l'aronautique. Historique de l'aronautique, arodynamique, structure, performances, poste de pilotage et instrumentation, propulsion, systmes lectriques, systmes mcaniques, fiabilit et maintenabilit, configuration et support client, conception et homologation de l'avion.

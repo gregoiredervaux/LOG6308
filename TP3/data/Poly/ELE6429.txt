@@ -1,0 +1,2 @@
+TitreCours: Surtension et coordination de l'isolement
+DescriptionCours: Generation et propagation des surtensions dans les reseaux. Caracteristiques des impulsions de foudre, des surtensions de manoeuvre et des surtensions a frequence industrielle. Modele des sources. Parametres des lignes. Methodes de calcul et de simulation. Calcul de la tension de retablissement. Moyens de protection contre la foudre et de limitation des surtensions. Techniques statistiques de coordination de l'isolement.

@@ -1,0 +1,2 @@
+TitreCours: Pratique industrielle
+DescriptionCours: Une semaine complementaire aux stages MEV 4502 et MEV 4602. Stage d'ete hors programme entre la 4e et la 5e annee.

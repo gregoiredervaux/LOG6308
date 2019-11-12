@@ -1,0 +1,2 @@
+TitreCours: Hermeneutique philosophique
+DescriptionCours: Introduction historique a l'elaboration de l'hermeneutique de l'Antiquite jusqu'a nos jours. Les principaux auteurs abordes seront Schleiermacher, Dilthey, Heidegger, Gadamer et Ricoeur.

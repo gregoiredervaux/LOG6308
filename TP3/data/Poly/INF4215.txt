@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'intelligence artificielle
+DescriptionCours: Notion d'agent intelligent. Algorithmes de recherche de solutions dans des espaces d'etats. Recherche heuristique : algorithme A*, methodes de recherche locale. Problemes de satisfaction de contraintes. Representation des connaissances. Planification de taches. Raisonnement probabiliste. Methodes d'apprentissage automatique.

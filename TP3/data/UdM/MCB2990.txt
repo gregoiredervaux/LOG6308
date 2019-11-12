@@ -1,0 +1,2 @@
+TitreCours: Microbiologie pharmaceutique
+DescriptionCours: Nomenclature, classification, morphologie, genetique et physiologie des micro-organismes. Principales infections. Immunologie, serologie et leurs applications pharmaceutiques.

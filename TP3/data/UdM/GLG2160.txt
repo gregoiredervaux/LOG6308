@@ -1,0 +1,2 @@
+TitreCours: Geologie structurale
+DescriptionCours: Deformations continues et discontinues des roches. Classification et origine des plis, failles, clivages, schistosites et lineations. Appareils et masses magmatiques.

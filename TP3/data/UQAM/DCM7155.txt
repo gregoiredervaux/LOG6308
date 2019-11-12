@@ -1,0 +1,2 @@
+TitreCours: Gestion de projets et des equipes de projets
+DescriptionCours: Ce cours est axe sur les developpements d'attitudes, d'aptitudes, et d'habiletes particulierement utiles pour la gestion de la consultation. Ces habiletes, attitudes et aptitudes sont principalement liees aux capacites de negociation, de communication, de gestion, de construction et d'etablissement du pouvoir ainsi que de gestion du temps.

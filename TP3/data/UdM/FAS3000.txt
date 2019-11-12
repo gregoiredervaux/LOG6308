@@ -1,0 +1,2 @@
+TitreCours: Formations culturelles des theories
+DescriptionCours: Cours d'integration qui vise a donner aux etudiants une vision claire et ordonnee des theories critiques en anglais et en francais.

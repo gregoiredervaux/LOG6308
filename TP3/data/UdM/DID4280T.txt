@@ -1,0 +1,2 @@
+TitreCours: Theme specifique de did. du francais
+DescriptionCours: Ce cours donne la possibilite de choisir, avec l'autorisation du responsable du programme, un theme specifique de didactique du francais pour etude approfondie.

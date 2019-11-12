@@ -1,0 +1,2 @@
+TitreCours: Philosophie du droit
+DescriptionCours: Étude des principaux courants de reflexion en philosophie du droit contemporaine, en reference, le cas echeant, a leurs fondements historiques. Étude de themes comme la normativite juridique, le positivisme juridique, l'hermeneutique juridique, la finalite du droit, les relations entre le droit, la loi et la constitution, le pluralisme juridique, le droit et la democratie, les droits de l'homme et du citoyen.

@@ -1,0 +1,2 @@
+TitreCours: Mecanique classique 2
+DescriptionCours: Formalismes de Lagrange et Hamilton. Transformations canoniques et crochets de Poisson. Formalisme de Hamilton-Jacobi. Mouvements des corps rigides et equations d'Euler.

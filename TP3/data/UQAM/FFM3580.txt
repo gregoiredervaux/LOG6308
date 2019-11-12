@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese
+DescriptionCours: Cette activite permet a l'etudiant d'effectuer un retour sur son cheminement et un bilan critique des acquis dans le programme; d'echanger et de partager ses experiences; de preciser comment il entend donner suite a sa formation a partir d'une vision ethique et professionnelle de son role.

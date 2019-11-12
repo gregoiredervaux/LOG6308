@@ -1,0 +1,2 @@
+TitreCours: Systeme politique quebecois 2
+DescriptionCours: Synthese qui vise a interpreter les relations entre les dimensions economique, sociale et politique dans l'evolution du systeme politique quebecois. Ce cours privilegie la dimension politique : institutions et acteurs.

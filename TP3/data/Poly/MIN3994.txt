@@ -1,0 +1,2 @@
+TitreCours: Projet integrateur III
+DescriptionCours: Projet integrateur menant l'etudiant a utiliser ce qui lui a ete enseigne en MIN3210 et MIN3311 avec une situation reelle observee pendant son troisieme stage. Dans ce projet, l'etudiant devra realiser une analyse de stabilite complete pour un ouvrage minier. L'evaluation sera faite par le coordonnateur de projets integrateurs sur la base d'un rapport prepare par l'etudiant qui aura a obtenir les donnees geotechniques appropriees et realiser l'analyse de stabilite.

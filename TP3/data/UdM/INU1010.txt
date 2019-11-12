@@ -1,0 +1,2 @@
+TitreCours: Creation de l'information numerique
+DescriptionCours: Contextes et outils de creation de l'information numerique. Typologies et formats des documents numeriques. Bureautique. Modelisation. Bases de donnees. Images, fichiers sonores et videos. Numerisation et reconnaissance optique de caracteres.

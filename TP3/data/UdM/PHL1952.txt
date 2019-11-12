@@ -1,0 +1,2 @@
+TitreCours: Principes generaux de pharmacologie
+DescriptionCours: Introduction aux principes de pharmacodynamie, de pharmacocinetique et d'interactions medicamenteuses. Presentation des classes de medicaments en fonction des grands systemes physiologiques et des principales applications therapeutiques et cliniques.

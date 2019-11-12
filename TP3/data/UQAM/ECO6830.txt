@@ -1,0 +1,2 @@
+TitreCours: Stabilisation economique
+DescriptionCours: Ce cours a pour objectif l'approfondissement de l'analyse des politiques de stabilisation de la production, de l'emploi et des prix a court terme. Objectifs de minimisation du chomage et de l'inflation. Relations structurelles entre chomage et inflation en contexte statique et dynamique. Politique budgetaire, politique monetaire et politique des revenus. Approches keynesienne et classique. Taux de change et stabilisation en economie ouverte. Étude de quelques cas particuliers en contexte nord-americain.

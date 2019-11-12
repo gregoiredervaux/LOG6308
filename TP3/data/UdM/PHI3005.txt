@@ -1,0 +1,2 @@
+TitreCours: Logique 3
+DescriptionCours: Metalogique du calcul des predicats du premier ordre avec et sans identite. Theoreme de completude. Theoreme de Löwenheim-Skolem. Decidabilite et indecidabilite.

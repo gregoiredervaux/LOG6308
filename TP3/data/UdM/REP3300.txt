@@ -1,0 +1,2 @@
+TitreCours: Actualites en relations publiques
+DescriptionCours: Étude d'une problematique specifique aux relations publiques en fonction d'un enjeu ou d'un dossier particulier ou en fonction de l'evolution et de la transformation des milieux de travail.

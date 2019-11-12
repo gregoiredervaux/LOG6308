@@ -1,0 +1,2 @@
+TitreCours: Biologie clinique
+DescriptionCours: Examens de laboratoire : theorie et pratique; interpretation des resultats; effets des medicaments. Methodes d'autosurveillance et de monitoring therapeutique.

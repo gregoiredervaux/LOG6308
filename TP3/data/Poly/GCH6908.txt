@@ -1,0 +1,2 @@
+TitreCours: Seminaires
+DescriptionCours: Exposes et discussions sur des sujets choisis en rapport avec les axes de recherche du departement de genie chimique. Discussions de publications recentes.

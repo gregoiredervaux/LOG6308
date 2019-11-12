@@ -1,0 +1,2 @@
+TitreCours: Psychiatrie
+DescriptionCours: Stage dans une unite d'enseignement clinique, au cours duquel l'etudiant, grace a un contact constant avec des malades, applique et integre les connaissances, developpe les attitudes et acquiert les habiletes propres a la psychiatrie.

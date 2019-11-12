@@ -1,0 +1,2 @@
+TitreCours: Sociologie de la science et des technologies
+DescriptionCours: Approches theoriques recentes construisant les rapports sciences, technologies et societes. Differents themes pourront etre abordes: conditions sociales d'apparition et de diffusion des technologies et des innovations; rapprochement entre technologie et science; transformation des institutions de production de la science et de la technologie; politiques scientifiques et technologiques, controverses scientifiques et technologiques, production des savoirs.

@@ -1,0 +1,2 @@
+TitreCours: Theme regional
+DescriptionCours: Cours au contenu variable traitant des themes geographiques regionaux.

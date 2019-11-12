@@ -1,0 +1,2 @@
+TitreCours: Seminaire II
+DescriptionCours: Participation aux seminaires hebdomadaires et presentation d'un seminaire portant obligatoirement sur le projet de recherche de maitrise.

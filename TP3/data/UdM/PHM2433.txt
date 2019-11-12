@@ -1,0 +1,2 @@
+TitreCours: Pharmacie galenique 2
+DescriptionCours: Produits ophtalmiques, otiques, nasaux, dermatologiques. Suppositoires. Aerosols. Formes pharmaceutiques nouvelles. Produits steriles. Formulation, preparation, controle et stabilite.

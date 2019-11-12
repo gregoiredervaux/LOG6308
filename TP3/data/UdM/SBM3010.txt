@@ -1,0 +1,2 @@
+TitreCours: Stage de recherche sc. neurologiques
+DescriptionCours: Realisation d'un projet de recherche en sciences neurologiques dans un milieu approuve par le responsable de l'orientation

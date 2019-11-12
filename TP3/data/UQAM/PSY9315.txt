@@ -1,0 +1,2 @@
+TitreCours: Approche experimentale en psychologie du developpement
+DescriptionCours: Étude du developpement de l'individu sous l'angle de la psychologie experimentale. Theories et donnees empiriques sur les contraintes maturationnelles et les facteurs environnementaux sous-jacents aux processus de la perception des stimuli, de l'apprentissage des comportements, de la cognition et du langage, ainsi que du developpement de la personnalite et de la socialisation.

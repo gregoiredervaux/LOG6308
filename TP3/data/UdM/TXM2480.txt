@@ -1,0 +1,2 @@
+TitreCours: Problematique liee a la toxicomanie
+DescriptionCours: Activite pedagogique explorant une question relative a la toxicomanie. Sujet a determiner a chaque session.

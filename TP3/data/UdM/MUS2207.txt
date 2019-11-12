@@ -1,0 +1,2 @@
+TitreCours: Solfege 4
+DescriptionCours: Poursuite de l'acquisition d'automatismes de lecture vocale tonale, atonale et metrique. Ce cours comporte uniquement des matieres de solfege.

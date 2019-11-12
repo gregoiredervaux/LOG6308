@@ -1,0 +1,2 @@
+TitreCours: Seminaire de recherche en philosophie du langage
+DescriptionCours: Recherches relatives a un secteur ou un probleme de la philosophie du langage. Ce secteur ou ce probleme, qui sera determine par le professeur, peut concerner soit la philosophie analytique, soit la philosophie de la linguistique, soit la philosophie hermeneutique, ou encore permettre la confrontation ou la collaboration de ces differentes approches.

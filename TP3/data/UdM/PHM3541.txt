@@ -1,0 +1,2 @@
+TitreCours: Pharmacotherapie 1
+DescriptionCours: Pharmacotherapie des systemes cardiovasculaire, gastro-intestinal, renal et respiratoire. Pharmacotherapie chez la femme enceinte. Conseil aux patients, effets indesirables, interactions medicamenteuses, monitoring pharmacotherapeutique.

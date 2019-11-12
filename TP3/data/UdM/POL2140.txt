@@ -1,0 +1,2 @@
+TitreCours: Analyse de politiques
+DescriptionCours: Les modeles de prise de decision en administration et en politiques publiques. Le probleme de la rationalite. Les instruments d'intervention. L'evaluation des politiques publiques.

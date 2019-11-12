@@ -1,0 +1,2 @@
+TitreCours: Cinema et litteratures hispaniques
+DescriptionCours: Les rapports entre cinema et litterature dans la production culturelle espagnole et hispano-americaine.

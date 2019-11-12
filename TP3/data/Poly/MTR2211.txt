@@ -1,0 +1,2 @@
+TitreCours: Thermod. des solutions et diagr. d'equilibre
+DescriptionCours: Proprietes des substances pures. Enthalpie, energie de Gibbs. Entropie et interpretation microscopique. Équilibre chimique. Potentiel chimique. Activite chimique. Diagrammes d'Ellingham. Proprietes thermodynamiques des solutions, coefficients d'activite, solutions regulieres et sous-regulieres. Regle des phases. Diagrammes d'equilibre de systemes binaires. Diagrammes d'equilibre de systemes a plusieurs composants. Calculs pratiques.

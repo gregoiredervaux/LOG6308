@@ -1,0 +1,2 @@
+TitreCours: Urgentologie : animaux de compagnie
+DescriptionCours: Deux semaines de stages dans le service d'urgentologie veterinaire.

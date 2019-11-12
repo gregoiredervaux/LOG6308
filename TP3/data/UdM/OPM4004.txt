@@ -1,0 +1,2 @@
+TitreCours: Travaux diriges en optometrie
+DescriptionCours: Ces travaux destines aux etudiants visiteurs visent la realisation d'une courte recherche experimentale ou clinique en optometrie.

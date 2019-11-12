@@ -1,0 +1,2 @@
+TitreCours: Entomologie
+DescriptionCours: Étude de la biologie de l'insecte en rapport avec son environnement. Anatomie, physiologie et importance des differents systemes dans le maintien de l'insecte dans son environnement. Reproduction et developpements embryonnaire et post-embryonnaire. Influence des facteurs abiotiques et biotiques sur l'abondance et la distribution des insectes. Ce cours comprend des travaux pratiques.

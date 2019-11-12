@@ -1,0 +1,2 @@
+TitreCours: Procedes de formage et d'assemblage
+DescriptionCours: Procedes de fabrication en serie de pieces sans enlevement de matiere en respectant les aspects techniques et economiques. Procedes de mise en forme de la matiere par fonderie et forgeage. Procedes de mise en forme du metal en feuille. Classification et procedes de mise en forme des matieres plastiques et des materiaux composites. Procedes de soudage et de coupage. Procedes de protection des surfaces. Processus de reduction de la duree des mises en course des machines.

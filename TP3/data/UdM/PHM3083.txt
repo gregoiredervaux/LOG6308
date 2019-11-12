@@ -1,0 +1,2 @@
+TitreCours: Seminaires 2
+DescriptionCours: Recherche bibliographique, redaction et presentation d'un memoire sur un sujet choisi.

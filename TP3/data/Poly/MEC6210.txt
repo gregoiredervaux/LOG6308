@@ -1,0 +1,2 @@
+TitreCours: Élements finis en mecanique des fluides
+DescriptionCours: Rappel de mecanique des fluides. Hierarchies de modeles de mecanique des fluides : ecoulements compressibles, ecoulements de fluides dilatables. Écoulements avec stratification thermique ou d'especes, ecoulements incompressibles, transfert de masse. Choix d'une forme adimensionnelle appropriee. Methodes mixtes, penalisation, Lagrangien augmente. Choix d'elements finis. Systemes elementaires, assemblage. Non-linearite et linearisation.

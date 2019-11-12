@@ -1,0 +1,2 @@
+TitreCours: Techniques de la collecte des donnees
+DescriptionCours: Methodes et techniques de la collecte et de l'organisation des donnees ethnographiques. Application a une societe.

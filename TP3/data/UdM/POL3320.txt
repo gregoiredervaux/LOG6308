@@ -1,0 +1,2 @@
+TitreCours: Politique et administration
+DescriptionCours: Les formes de pouvoir des administrations et leur controle politique. La bureaucratie et la technocratie. La politisation et la fonctionnarisation. Le nouveau management public et la redefinition des roles entre bureaucrates et politiciens.

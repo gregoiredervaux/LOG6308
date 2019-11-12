@@ -1,0 +1,2 @@
+TitreCours: Évaluation des programmes de formation professionnelle
+DescriptionCours: Analyse, evaluation et critique des programmes de formation professionnelle initiale et continue en vigueur en institutions ou en industries. Essai de modelisation des composantes essentielles a l'evaluation des programmes de formation professionnelle et aux mecanismes de modifications de programme eu egard aux besoins en main-d'oeuvre.

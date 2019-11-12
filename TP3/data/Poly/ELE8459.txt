@@ -1,0 +1,2 @@
+TitreCours: Protection des reseaux
+DescriptionCours: Rappel de notions d'analyse de circuits triphases et des composantes symetriques. Calcul des niveaux de defaut, role des differents types de protection. Mise a la terre des reseaux. Modelisation des equipements de puissance et calcul des courants de court-circuit. Technique de mesure. Protection contre les surintensites; protection des dispositifs statiques, magnetiques et electromecaniques.

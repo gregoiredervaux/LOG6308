@@ -1,0 +1,2 @@
+TitreCours: Dentisterie operatoire clinique 2
+DescriptionCours: Ces seances cliniques completent l'entrainement amorce au cours DER 3016.

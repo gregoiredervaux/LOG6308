@@ -1,0 +1,2 @@
+TitreCours: Methodes d'osteologie humaine
+DescriptionCours: Ce cours vise a familiariser l'etudiant aux methodes de l'osteologie humaine telles que l'identification des elements osseux, la determination du sexe et de l'age, l'identification de pathologies, etc.

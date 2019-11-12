@@ -1,0 +1,2 @@
+TitreCours: Espace humain I
+DescriptionCours: Cours ayant pour objectif d'introduire les etudiants a l'etude des relations de l'individu a l'espace. Approche des objets, des lieux et des parcours dans l'espace en regard des processus de perception, d'appropriation, d'usage et d'interaction a la base de l'experience et du fonctionnement de l'individu dans son environnement. Études de cas locaux et internationaux a partir des notions de territorialite, d'orientation spatiale et de competence sociospatiale.

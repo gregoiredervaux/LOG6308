@@ -1,0 +1,2 @@
+TitreCours: Initiation a la recherche II
+DescriptionCours: Initiation au travail de recherche ou de vulgarisation de connaissances scientifiques. Sous la supervision d'un professeur, l'etudiant effectue une recherche bibliographique sur un sujet donne, il elabore un protocole experimental ou il planifie un travail d'education scientifique aupres d'une collectivite. Il realise des travaux experimentaux ou le projet d'education scientifique. A la fin du stage, il presente un bilan des travaux sous forme d'un rapport ecrit et de seminaire.

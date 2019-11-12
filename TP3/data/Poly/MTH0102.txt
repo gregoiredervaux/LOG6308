@@ -1,0 +1,2 @@
+TitreCours: Algebre vectorielle
+DescriptionCours: Ce cours a pour but de preparer l'etudiant aux programmes de premier cycle qui exigent des connaissances en algebre matricielle et en geometrie vectorielle. Les sujets couverts sont les vecteurs geometriques, les produits scalaires et vectoriels, les droites et plans, les matrices, et les systemes d'equations lineaires.

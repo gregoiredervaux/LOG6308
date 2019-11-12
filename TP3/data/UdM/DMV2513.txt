@@ -1,0 +1,2 @@
+TitreCours: Communication veterinaire
+DescriptionCours: Methodes et outils de communication en medecine veterinaire. Relations interpersonnelles et travail d'equipe dans une clinique. Deuil en pratique veterinaire.

@@ -1,0 +1,2 @@
+TitreCours: Intervention precoce: atelier pratique 1
+DescriptionCours: Atelier d'elaboration d'un programme d'intervention : objectifs, activites, indicateurs, mesures d'extrants. Évaluation sommative et formative.

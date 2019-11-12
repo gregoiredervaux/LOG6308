@@ -1,0 +1,2 @@
+TitreCours: Seminaire interdisciplinaire II
+DescriptionCours: Ce seminaire suit le POL8915. Chacun fait toutefois l'objet d'une evaluation distincte.

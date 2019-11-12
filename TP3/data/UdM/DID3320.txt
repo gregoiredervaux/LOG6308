@@ -1,0 +1,2 @@
+TitreCours: Didactique de la morale au secondaire 1
+DescriptionCours: Problematique de l'enseignement de la morale. Approches didactiques. Programmes. Contenus, demarches d'enseignement, formes d'evaluation. Analyse et production de scenarios d'enseignement.

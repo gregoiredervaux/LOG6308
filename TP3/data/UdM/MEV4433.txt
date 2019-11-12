@@ -1,0 +1,2 @@
+TitreCours: Pratique des petits ruminants
+DescriptionCours: Bases de la pratique des petits ruminants. Notions de regie, de medecine individuelle et de troupeaux. Traitements chirurgicaux.

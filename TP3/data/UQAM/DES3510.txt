@@ -1,0 +1,2 @@
+TitreCours: Design et informatique
+DescriptionCours: Laboratoire ayant pour objectif d'introduire les etudiants aux notions elementaires de l'informatique et aux outils de base de l'infographie appliquee au design. Approche des divers logiciels employes et de leur potentiel tant pour la representation que la conception des projets. Exercices articules aux notions formelles et spatiales developpees dans le cadre des ateliers tels que: concentration, equilibre et dispersion, limite spatiale, transition et parcours.

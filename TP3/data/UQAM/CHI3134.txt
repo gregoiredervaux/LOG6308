@@ -1,0 +1,2 @@
+TitreCours: Analyse chimique instrumentale II
+DescriptionCours: Determination, principalement dans le cadre de travaux pratiques, des structures moleculaires. Discussion et comparaison des differentes methodes d'analyse dont, la spectrophotometrie dans l'ultraviolet, dans le visible, dans l'infrarouge, Raman et de fluorescence des molecules, la rotation optique et la dispersion rotatoire optique. Application des methodes a l'identification des molecules.

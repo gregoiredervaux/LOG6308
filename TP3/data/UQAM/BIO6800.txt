@@ -1,0 +1,2 @@
+TitreCours: Amenagement
+DescriptionCours: Étude des amenagements rendus necessaires par les activites de la societe technologique. Definition de l'amenagement et de la notion d'environnement. La pression demographique humaine et la necessite de l'amenagement et de la conservation. Les activites humaines et leur impact sur l'environnement. Amenagements possibles pour minimiser les impacts negatifs de ces activites sur l'environnement. Techniques d'amenagement et de protection de l'environnement dispensees sous forme de conferences par des specialistes.

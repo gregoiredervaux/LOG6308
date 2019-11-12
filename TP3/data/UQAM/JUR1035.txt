@@ -1,0 +1,2 @@
+TitreCours: Legislation du transport
+DescriptionCours: Cours d'information sur l'etat de la legislation, de la reglementation et de la jurisprudence concernant le transport. Analyse du contrat de transport, du connaissement, des transports terrestres, maritimes et aeriens, et des institutions administratives qui les regissent.

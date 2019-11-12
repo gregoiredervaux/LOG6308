@@ -1,0 +1,2 @@
+TitreCours: Projet d'integration en adapt. scolaire
+DescriptionCours: Conception ou adaptation de procedes d'intervention en fonction d'une problematique integrant les competences acquises. Application en stage. Analyse des resultats et retour reflexif. Communication lors d'un colloque.

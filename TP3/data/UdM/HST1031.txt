@@ -1,0 +1,2 @@
+TitreCours: Histoire de l'Antiquite
+DescriptionCours: Introduction a l'histoire et a la civilisation de l'Égypte, du Moyen-Orient, de la Grece et de Rome, comprenant egalement l'Antiquite tardive.

@@ -1,0 +1,2 @@
+TitreCours: Économie des pays de l'Europe de l'Est
+DescriptionCours: Indicateurs economiques. Structures industrielles. Sources et causes du developpement economique. Problemes associes a la transition entre differents systemes economiques.

@@ -1,0 +1,2 @@
+TitreCours: Photographie en amenagement
+DescriptionCours: Processus de production photographique. Utilisation comme outil de documentation, de recherche, de presentation, de promotion et de diffusion. Amelioration de la visibilite des travaux realises dans les cours.

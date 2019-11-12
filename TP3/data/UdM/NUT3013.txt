@@ -1,0 +1,2 @@
+TitreCours: Projets: recherche en chimie alimentaire
+DescriptionCours: Initiation aux techniques classiques et modernes de l'analyse qualitative et quantitative des constituants alimentaires. Applications pratiques au niveau du controle de la qualite et developpement de nouveaux produits. Projets experimentaux.

@@ -1,0 +1,2 @@
+TitreCours: Activite de recherche
+DescriptionCours: Cette activite vise a initier l'etudiant aux aspects communs de la recherche en informatique. Caracterisation de la recherche en informatique. Ressources bibliographiques et publications. Problematique et definition d'un projet de recherche. Gestion, organisation et realisation d'un projet de recherche. Éthique et propriete intellectuelle. Cette activite est evaluee selon la notation succes-echec.

@@ -1,0 +1,2 @@
+TitreCours: Approches inferentielles en recherche en education
+DescriptionCours: Types de problemes de recherche en education situes dans un contexte d'approche inferentielle: conditions d'utilisation et portee des conclusions. Rappel des principaux concepts et etude de procedes couramment utilises pour la verification d'hypotheses statistiques de recherche en education. Analyse de variance et de covariance. Travaux d'applications lors d'activites en laboratoire de microordinateurs. Reflexion sur les conclusions permises.

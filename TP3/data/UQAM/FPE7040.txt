@@ -1,0 +1,2 @@
+TitreCours: Organisation de l
+DescriptionCours: Ce cours vise a initier et developper chez l'etudiant les competences necessaires a l'analyse et a la gestion des ressources financieres et materielles de l'etablissement scolaire. Le cours aborde egalement les previsions en matiere de ressources financieres et materielles necessaires au bon fonctionnement des etablissements scolaires, dont la planification et la gestion des budgets et des ressources materielles.

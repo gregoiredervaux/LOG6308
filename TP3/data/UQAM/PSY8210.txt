@@ -1,0 +1,2 @@
+TitreCours: Travail dirige I
+DescriptionCours: Ce travail a pour objectif de cerner une problematique de recherche, choisie par l'etudiant, dans le domaine de la pratique psychologique. L'essentiel du travail consiste en une recension des ecrits sur cette problematique pouvant conduire a la formulation d'hypothese(s) de recherche clinique. L'etudiant qui le desire peut consacrer une partie de ce travail a des activites d'observation sur le terrain liees a l'identification de sa problematique de recherche. Doit etre pris concurremment avec le PSY8310.

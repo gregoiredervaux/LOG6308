@@ -1,0 +1,2 @@
+TitreCours: Teledetection en amenagement
+DescriptionCours: Cours visant la photo-interpretation. Maitrise des techniques de lectures appliquees a l'analyse et a l'evaluation des milieux physiques, a l'amenagement et a la construction.

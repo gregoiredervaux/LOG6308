@@ -1,0 +1,2 @@
+TitreCours: Introduction a l
+DescriptionCours: Systemes de coordonnees utilisees en astronomie. Mouvement et proprietes physiques des planetes. Satellites naturels et artificiels. Meteorites. Cometes. Le soleil. Les etoiles: structure et evolution, classification des etoiles. Diagramme de Russell. Parrallaxe spectroscopique. Structure des galaxies. Theories cosmogoniques.

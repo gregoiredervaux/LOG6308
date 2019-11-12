@@ -1,0 +1,2 @@
+TitreCours: Pratiques factuelles en physiotherapie
+DescriptionCours: Methodes d'acquisition des connaissances. Étude des tests statistiques les plus utilises. Notions de methode de recherche. Étude de mesures de resultats en physiotherapie. Organisation de la recherche. Notions d'ethique. Communication scientifique.

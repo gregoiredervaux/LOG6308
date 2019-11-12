@@ -1,0 +1,2 @@
+TitreCours: Photographie
+DescriptionCours: Exploration des possibilites de creation d'images photographiques de couleurs naturelles et synthetiques. Virage, photogramme, solarisation, equidensites, derivation, haut contraste, trames et grises, separations de tons, procedes speciaux, etc.

@@ -1,0 +1,2 @@
+TitreCours: Stage : Pediatrie globale
+DescriptionCours: Differents stages cliniques offrant une vue globale de la pediatrie selon l'age ou le lieu des activites.

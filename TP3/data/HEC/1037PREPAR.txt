@@ -1,0 +1,2 @@
+TitreCours: Activite de recuperation 1037PREPA
+DescriptionCours: La note de l'activite de recuperation remplace la note obtenue par l'etudiant dans le cours. La grille de correspondance de la notation litterale n'est pas definie a l'avance, donc nous ne pouvons pas vous indiquer quelle sera la note numerique de passage.

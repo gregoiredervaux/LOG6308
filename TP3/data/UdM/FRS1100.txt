@@ -1,0 +1,2 @@
+TitreCours: Communication orale et ecrite. Niveau 1
+DescriptionCours: Permettre a l'etudiant debutant de developper en francais une competence de communication orale et ecrite dans des echanges previsibles et brefs et d'acquerir les notions syntaxiques, phonetiques et lexicales de base.

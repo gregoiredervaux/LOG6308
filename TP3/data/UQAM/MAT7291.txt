@@ -1,0 +1,2 @@
+TitreCours: Activite didactique dans l
+DescriptionCours: Exploration d'un theme mathematique dont l'enseignement se reporte sur plusieurs niveaux scolaires. Étude de documents relies au theme par les aspects historiques, mathematiques, psychologiques, pedagogiques, epistemologiques, etc. Examen de materiel deja experimente. Incidence des theories de l'apprentissage. Strategie d'enseignement et production de materiel relie au theme.

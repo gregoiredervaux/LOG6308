@@ -1,0 +1,2 @@
+TitreCours: Redaction musicale
+DescriptionCours: Acquisition d'outils de redaction dans diverses situations propres au domaine musical : notes de programme, entrevue, critique, resume de conference.

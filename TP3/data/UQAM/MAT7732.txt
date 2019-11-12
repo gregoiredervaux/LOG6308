@@ -1,0 +1,2 @@
+TitreCours: Resolution de problemes et apprentissage des mathematiques
+DescriptionCours: Analyse de la resolution de problemes comme moyen d'enseignement et d'apprentissage des mathematiques. Étude des recherches sur les demarches et strategies utilisees par les eleves pour resoudre differents problemes. Apport de la representation de la formulation et reformulation relativement a la comprehension du probleme. Étude de differents types de problemes en mathematiques et comment les mathematiques servent comme outil pour resoudre des problemes dans la vie courante.

@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de recherche II
+DescriptionCours: Étude approfondie et mise en pratique des concepts et de certaines methodes presentes dans les sections II et III du cours PSY4020.

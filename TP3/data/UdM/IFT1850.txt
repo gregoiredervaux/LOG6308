@@ -1,0 +1,2 @@
+TitreCours: Modeles de recherche operationnelle
+DescriptionCours: Élements de programmation lineaire, non lineaire et dynamique. Files d'attente. Modeles d'inventaire. Modeles de reseau et cheminement critique. Modeles d'ordonnancement.

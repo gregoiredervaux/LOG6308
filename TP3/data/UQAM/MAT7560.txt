@@ -1,0 +1,2 @@
+TitreCours: Optimisation combinatoire
+DescriptionCours: Revision de l'algorithme du simplexe et de la theorie de la dualite. Problemes classiques de l'optimisation combinatoire: flot maximum, couplage maximal, arbre minimal dans un graphe; probleme du voyageur de commerce. Programmation lineaire en nombres entiers. Étude de la complexite des algorithmes introduits.

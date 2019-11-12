@@ -1,0 +1,2 @@
+TitreCours: Électronique appliquee
+DescriptionCours: Étude de l'electronique des signaux. Generateurs de signaux. Traitement analogique de signaux; amplificateurs, integrateurs, detecteurs de pic, etc. Transmission de signaux; systemes analogiques, et numeriques, modulation, multiplexage, etc. Traitement logique des signaux; «a/d et d/a converter», logique combinatoire et sequentielle, calculs numeriques, etc.

@@ -1,0 +1,2 @@
+TitreCours: Collecte : source des informations
+DescriptionCours: Recensements canadiens et donnees d'etat civil au Quebec; implications pour l'analyse; comparaison avec d'autres pays, dont certains du Tiers-Monde. Enquete demographique.

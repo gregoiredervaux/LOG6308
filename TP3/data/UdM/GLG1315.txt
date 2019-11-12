@@ -1,0 +1,2 @@
+TitreCours: Physique du globe
+DescriptionCours: Caracteristiques des etoiles, du systeme solaire et de la Terre. Proprietes gravimetriques, sismiques, electriques, radioactives et calorifiques de la Terre. Origine du systeme solaire et de la Terre.

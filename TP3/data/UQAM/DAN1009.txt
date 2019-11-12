@@ -1,0 +1,2 @@
+TitreCours: Danse et culture
+DescriptionCours: Destine a un public non specialise, ce cours porte sur l'etude historique de la danse theatrale, de ses origines a nos jours. Cette etude est doublee d'une analyse comparee des grands courants artistiques ayant jalonne l'evolution des arts dans notre societe occidentale: le classicisme, le baroque, le romantisme, le naturalisme, l'expressionnisme, le surrealisme, etc.

@@ -1,0 +1,2 @@
+TitreCours: Simulation des systemes a evenem. discrets
+DescriptionCours: Élements d'une simulation. Developpement de modeles. Langages de simulation a evenements discrets (SIMSCRIPT, GPSS). Construction et validation de modeles : cueillette et analyse de donnees, generation de nombres pseudo-aleatoires, verification et validation de modeles. Utilisation de modeles : analyse des resultats, experimentation a l'aide de modeles, mise en oeuvre des resultats. Application aux systemes informatiques et aux reseaux de communication.

@@ -1,0 +1,2 @@
+TitreCours: Structure des objets et des mecanismes
+DescriptionCours: Comportement et caracteristiques des differentes strategies requises pour structurer un objet. Application de ces connaissances a la conception du systeme structural des differents objets et mecanismes.

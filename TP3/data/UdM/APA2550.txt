@@ -1,0 +1,2 @@
+TitreCours: Pedologie et paysage
+DescriptionCours: Le sol comme element structurant du paysage et de l'utilisation des terres. Processus d'evolution, aspects biologiques, physiques et chimiques des sols, methodes de classification et de cartographie, concepts geotechniques.

@@ -1,0 +1,2 @@
+TitreCours: Methodes et metiers de l'urbanisme
+DescriptionCours: Les methodes de la planification territoriale : concepts et evolution. Les pratiques de l'urbanisme et de l'amenagement du territoire dans differents milieux d'intervention.

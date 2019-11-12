@@ -1,0 +1,2 @@
+TitreCours: Robotique
+DescriptionCours: Architecture mcanique et informatique d'un systme de commande de robots. Cinmatique directe, inverse, incrmentale. Comportement statique. Techniques de planification des tches. Gnration de trajectoire. Langages de programmation spcialiss. Planification de tches et suivi de trajectoire pour des robots mobiles. lments de vision artificielle pour la commande des systmes incorporant un robot. Commande par rtroaction d'images. Vrification et correction d'un scnario planifi  l'aide d'une simulation infographique.

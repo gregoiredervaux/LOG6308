@@ -1,0 +1,2 @@
+TitreCours: Geochimie des roches cristallines
+DescriptionCours: Comprehension des processus physicochimiques qui controlent le developpement des roches cristallines. Definition de la regle de phases. Systemes fermes et ouverts. Mecanismes de cristallisation et fusion des roches ignees et metamorphiques, systemes binaires, ternaires. Regle de Schreinemakers. Utilisation des diagrammes de phases dans l'origine et l'evolution des magmas. Laboratoire (2 heures).

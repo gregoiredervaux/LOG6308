@@ -1,0 +1,2 @@
+TitreCours: Superviseur face a la sante-securite au travail
+DescriptionCours: Legislation, intervenants, coûts pour la sante physique et mentale. Voila les sujets sur lesquels ce cours s'attarde dans un premier temps. Ensuite, le cours familiarise l'etudiant avec la gestion integree du dossier de sante et de securite, les approches innovatrices et le role du superviseur lui-meme dans ces activites &nbsp; texte contenuRubrique div rubrique

@@ -1,0 +1,2 @@
+TitreCours: Assemblees deliberantes
+DescriptionCours: Processus de decision des grands groupes : operations de consultation, tenue et presidence des assemblees deliberantes. Typologie des rencontres des grands groupes.

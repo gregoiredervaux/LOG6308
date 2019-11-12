@@ -1,0 +1,2 @@
+TitreCours: Psychoacoustique musicale
+DescriptionCours: Organisation et reconnaissance auditive par la psychoacoustique. Perception de l'intensite sonore, de la hauteur, des intervalles (consonance/dissonance) et du timbre. Localisation des sons dans l'espace. Comprehension musicale et cognitive du son.

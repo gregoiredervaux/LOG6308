@@ -1,0 +1,2 @@
+TitreCours: Hebreu biblique elementaire
+DescriptionCours: Écriture et phonetique de l'hebreu biblique, morphologie, verbes, elements de syntaxe. Vocabulaire elementaire. Lecture de textes bibliques.

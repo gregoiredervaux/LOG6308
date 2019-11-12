@@ -1,0 +1,2 @@
+TitreCours: Histoire de la langue allemande
+DescriptionCours: Étude des etapes qui ont marque l'evolution de la langue allemande de sa naissance dans l'empire de Charlemagne a nos jours. Role de l'allemand dans le monde.

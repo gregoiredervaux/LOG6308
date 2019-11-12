@@ -1,0 +1,2 @@
+TitreCours: Formes breves
+DescriptionCours: Étude des formes breves, en prose (aphorismes, fragments, sentences, maximes, contes, nouvelles, dramaticules, etc.) ou en vers (epigrammes, haikus, etc.).

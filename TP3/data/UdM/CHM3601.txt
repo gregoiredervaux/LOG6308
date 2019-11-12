@@ -1,0 +1,2 @@
+TitreCours: Chimie de l'environnement
+DescriptionCours: Étude des processus chimiques dans l'atmosphere, les eaux, les sols et la biosphere ainsi que des perturbations causees par diverses activites humaines. Pollution chimique et substances toxiques. Methodes de traitement et de controle.

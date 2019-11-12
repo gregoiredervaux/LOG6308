@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de recherche 3
+DescriptionCours: Sur la base du travail complete pour les cours SOL 3036 et SOL 3037, l'etudiant va entamer une etude pilote comprenant, par exemple, un travail de terrain ou l'analyse de donnees secondaires et donnant lieu a un rapport de recherche.

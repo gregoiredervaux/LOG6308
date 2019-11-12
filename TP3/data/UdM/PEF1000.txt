@@ -1,0 +1,2 @@
+TitreCours: Activite d'orientation
+DescriptionCours: Cours d'introduction visant a permettre l'identification des besoins des etudiants, l'etablissement d'objectifs d'apprentissage et d'un parcours de formation pertinent.

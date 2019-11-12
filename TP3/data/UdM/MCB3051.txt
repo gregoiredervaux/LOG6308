@@ -1,0 +1,2 @@
+TitreCours: Microbiologie des aliments 2
+DescriptionCours: Approfondissement de notions de microbiologie alimentaire; l&rsquo;aliment comme milieu de croissance; microflores; notions de controle des flores; utilisation des flores microbiennes en fabrication alimentaire et formulations.

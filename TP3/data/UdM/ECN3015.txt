@@ -1,0 +1,2 @@
+TitreCours: Theorie des jeux
+DescriptionCours: Jeux a information complete : statiques et dynamiques; jeux a information incomplete : statiques et dynamiques; applications economiques; modele principal-agent.

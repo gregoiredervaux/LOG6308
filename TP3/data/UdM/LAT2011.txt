@@ -1,0 +1,2 @@
+TitreCours: Latin intermediaire
+DescriptionCours: Par l'etude d'une ou plusieurs oeuvres classiques, on revisera le mecanisme de la langue et on se familiarisera avec les tours encore inabordes de la syntaxe. Themes et travaux pratiques.

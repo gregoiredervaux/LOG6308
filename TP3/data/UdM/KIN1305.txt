@@ -1,0 +1,2 @@
+TitreCours: Activites collectives 1
+DescriptionCours: Developpement des competences agir et interagir en ÉPS. Savoirs, savoir-etre, savoir-faire, savoir-agir dans des activites collectives dans un espace commun, en gymnase tels basketball ou handball.

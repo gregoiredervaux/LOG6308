@@ -1,0 +1,2 @@
+TitreCours: Atelier thematique en catechese
+DescriptionCours: Exploration d'une thematique catechetique specifique en lien avec les besoins d'une clientele particuliere ou d'un milieu professionnel.

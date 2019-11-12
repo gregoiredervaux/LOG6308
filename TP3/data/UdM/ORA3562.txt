@@ -1,0 +1,2 @@
+TitreCours: Physiologie auditivo-vestibulaire
+DescriptionCours: Étude approfondie des mecanismes physiologiques sous-tendant la fonction auditive, peripherique et centrale. Étude approfondie des mecanismes physiologiques sous-tendant la fonction vestibulaire, peripherique et centrale.

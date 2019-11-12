@@ -1,0 +1,2 @@
+TitreCours: Seminaire de recherche
+DescriptionCours: Ce seminaire aura pour objet une des recherches en cours au departement. Il aura pour objectif d'initier des etudiants a la methodologie et a l'ensemble de la demarche scientifique du chercheur, aux appareils conceptuel et theorique, aux hypotheses et a leurs validations.

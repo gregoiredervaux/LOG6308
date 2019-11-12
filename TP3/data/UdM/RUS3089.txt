@@ -1,0 +1,2 @@
+TitreCours: Apercu de la litterature russe 1
+DescriptionCours: Courants principaux de la litterature russe depuis le romantisme (les annees 1820) jusqu'aux annees 1870. Examen d'un certain nombre d'oeuvres et d'auteurs tels que : Pouchkine, Lermontov, Gogol, Tourgueniev, Tolstoi, Dostoievski.

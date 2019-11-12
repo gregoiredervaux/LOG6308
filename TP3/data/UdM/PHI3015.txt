@@ -1,0 +1,2 @@
+TitreCours: Psychanalyse et philosophie
+DescriptionCours: Étude du developpement de la pensee de Freud selon ses topiques successives et examen du prolongement structuraliste de la psychanalyse chez Lacan.

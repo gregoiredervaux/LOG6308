@@ -1,0 +1,2 @@
+TitreCours: Design sonore et algorithmie musicale
+DescriptionCours: Mecanismes de structuration du controle musical et du design sonore numerique par le biais de formalismes mathematiques, stochastiques et autres. Solution de problemes de structuration par la programmation. Langage de programmation Max.

@@ -1,0 +1,2 @@
+TitreCours: Atelier de recherche qualitative
+DescriptionCours: Construction et realisation d'un devis de recherche. Entrevues et leur analyse. Exercices de resolution de problemes de recherche. Conditions de la recherche scientifique. Redaction d'un rapport de recherche.

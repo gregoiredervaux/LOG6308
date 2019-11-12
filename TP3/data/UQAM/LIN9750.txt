@@ -1,0 +1,2 @@
+TitreCours: Structure d
+DescriptionCours: L'objectif de ce seminaire est de familiariser les etudiants avec la structure d'une langue ou d'une famille de langues. Cette langue (ou famille) servira de laboratoire pour illustrer et tester des hypotheses theoriques pertinentes.

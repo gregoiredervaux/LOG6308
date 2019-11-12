@@ -1,0 +1,2 @@
+TitreCours: Communications optiques
+DescriptionCours: Rappels sur les proprietes des composants utilises pour les communications optiques (fibre, lasers, photodetecteurs). Introduction aux systemes. Performance generale et reponses (impulsionnelle, temporelle et frequentielle). Conception des recepteurs numeriques (bruit, interference inter-symbole, sensibilite). Amplificateurs (a l'erbium, Raman et a semi-conducteurs). Systemes DWDM (contraintes spectrales, modulation, reseaux de Bragg). Introduction aux solitons.

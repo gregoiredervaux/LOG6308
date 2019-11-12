@@ -1,0 +1,2 @@
+TitreCours: Stage : Pneumologie pediatrique
+DescriptionCours: Stage aupres de patients d'age pediatrique en pneumologie pediatrique.

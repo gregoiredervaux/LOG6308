@@ -1,0 +1,2 @@
+TitreCours: Laboratoire - pratique professionnelle 5
+DescriptionCours: Simulations de situations cliniques complexes en milieux communautaire et hospitalier. Prestation de soins pharmaceutiques. Communication en situation difficile. Reflexion ethique. Évaluation critique de l&rsquo;information. Promotion de la sante.

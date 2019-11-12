@@ -1,0 +1,2 @@
+TitreCours: Le gestionnaire et l
+DescriptionCours: Ce cours poursuit deux objectifs. Premierement, on y accueille les etudiants au tout debut du programme. La connaissance de soi et l'apprentissage du travail en equipe y sont developpes pour servir tout au long du programme. Deuxiemement, le cours donne une vision pluridisciplinaire et integree de l'organisation en s'appuyant sur le comportement organisationnel, les technologies de l'information et l'analyse organisationnelle.

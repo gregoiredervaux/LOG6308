@@ -1,0 +1,2 @@
+TitreCours: Fonctionnement sensori
+DescriptionCours: Étude des mecanismes d'action des composantes du mouvement. Étude des theories de l'anatomie fonctionnelle qui sous-tendent les differentes methodes d'education somatique. Presentation d'etude de cas et exercice d'application dans son milieu professionnel.

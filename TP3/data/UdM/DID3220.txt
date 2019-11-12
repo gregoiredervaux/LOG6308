@@ -1,0 +1,2 @@
+TitreCours: Did. des sciences, adapt. scol. primaire
+DescriptionCours: Savoir de reference en sciences et technologies au primaire. Conceptions des eleves et demarche d'appr. Resolution de problemes, activites experimentales. Adaptation des interventions aux eleves en difficulte. Évaluation.

@@ -1,0 +1,2 @@
+TitreCours: Philosophie medievale arabe et juive
+DescriptionCours: Étude approfondie d'un des auteurs des traditions philosophiques medievales arabe et juive (al-Farabi, Avicenne, Averroes, Ibn Khaldoun, Maimonide) a partir d'une ou plusieurs de ses oeuvres significatives.

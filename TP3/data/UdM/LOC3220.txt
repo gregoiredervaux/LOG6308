@@ -1,0 +1,2 @@
+TitreCours: Localisation de produits informatiques
+DescriptionCours: Planification d'un projet de localisation. Specifications techniques et culturelles. Preparation de kits de localisation. Modelisation et ergonomie de l'interface usager. Ressources et outils de conception : applications pratiques. Interfaces Web.

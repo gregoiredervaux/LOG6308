@@ -1,0 +1,2 @@
+TitreCours: Stage : Dermatologie pediatrique
+DescriptionCours: Stage aupres de patients d'age pediatrique en dermatologie pediatrique.

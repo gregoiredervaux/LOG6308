@@ -1,0 +1,2 @@
+TitreCours: Structure atomique et moleculaire
+DescriptionCours: Generalites: spectres de raies, de bandes, continuum. Modele de Bohr-Sommerfeld. Atome a un electron sans spin, a deux, a plusieurs electrons: couplages LS, jj, Racah. Interaction rayonnement-matiere: emissions spontanees et stimulees, absorption.

@@ -1,0 +1,2 @@
+TitreCours: Mecanique classique 1
+DescriptionCours: Concepts fondamentaux de la mecanique. Lois de conservation. Rotation autour d'un axe. Forces centrales. Probleme de Kepler. Diffusion et section efficace. Gravitation.

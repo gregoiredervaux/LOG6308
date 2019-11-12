@@ -1,0 +1,2 @@
+TitreCours: Algebre vectorielle et lineaire
+DescriptionCours: Vecteurs geometriques et algebriques. Matrices, determinants, systemes d'equations lineaires. Inversion des matrices. Produit scalaire et applications. Produit vectoriel. Plan et droite dans l'espace. Nombres complexes.

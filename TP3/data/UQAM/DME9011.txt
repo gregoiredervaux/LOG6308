@@ -1,0 +1,2 @@
+TitreCours: Lecture dirigee II
+DescriptionCours: Complement a l'activite DME9010 Lecture dirigee I.

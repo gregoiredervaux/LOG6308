@@ -1,0 +1,2 @@
+TitreCours: Syntaxe du francais
+DescriptionCours: Introduction aux principaux concepts de la theorie des principes et parametres (Gouvernement-liage). Applications au francais : etude de problemes concrets en syntaxe francaise.

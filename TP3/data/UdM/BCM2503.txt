@@ -1,0 +1,2 @@
+TitreCours: Metabolisme 2
+DescriptionCours: Photosynthese. Biosynthese des glucides. Voies des pentoses-phosphates. Biosynthese des lipides. Biosynthese des acides amines. Interrelations metaboliques.

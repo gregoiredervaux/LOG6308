@@ -1,0 +1,2 @@
+TitreCours: Recherche-action en ÉPS
+DescriptionCours: Planification d'un projet de recherche-action (methodologie, actualisation et evaluation) servant a promouvoir l'activite physique dans un contexte scolaire ou parascolaire.

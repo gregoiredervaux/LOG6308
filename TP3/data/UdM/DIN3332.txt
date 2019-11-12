@@ -1,0 +1,2 @@
+TitreCours: Écologie industrielle
+DescriptionCours: Impact environnemental des produits au cours de leur cycle de vie. Methodes d'analyse des differents types d'impact. Developpement durable et design industriel. Reglementation environnementale : normes, eco-produits, eco-labels.

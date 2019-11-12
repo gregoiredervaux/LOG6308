@@ -1,0 +1,2 @@
+TitreCours: La zooarcheologie
+DescriptionCours: Histoire, developpements et promesses de l'analyse archeologique des temoins zoologiques. Multidimensionnalite de ces recherches (anatomie comparee, osteometrie, taphonomie, etc.). Utilisation de l'animal et paleoeconomies.

@@ -1,0 +1,2 @@
+TitreCours: Thermodynamique avancee des electrolytes
+DescriptionCours: Application de la thermodynamique a l'etude des electrolytes en solution. Notions generales de thermodynamique classique et de thermodynamique statistique. Ionisation et interactions ioniques. Proprietes thermodynamiques d'electrolytes en solutions aqueuses. Modele du reseau applique aux phenomenes d'absorption et aux melanges metalliques. Processus irreversibles en solutions d'electrolytes forts. La non-stoechiometrie.

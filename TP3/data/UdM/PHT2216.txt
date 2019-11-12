@@ -1,0 +1,2 @@
+TitreCours: Physiotherapie en neurologie 2
+DescriptionCours: Readaptation sensori-motrice. Approches neurofacilitatrices. Évaluations et traitements lors de deficit sensoriel, lesion nerveuse peripherique, traumatisme cranien, lesion de la moelle et maladies degeneratives.

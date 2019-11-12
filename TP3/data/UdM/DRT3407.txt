@@ -1,0 +1,2 @@
+TitreCours: Droit des valeurs mobilieres
+DescriptionCours: Étude des elements fondamentaux en matiere de reglementation des valeurs mobilieres tels l'appel public a l'epargne, le prospectus, l'offre publique d'achat, les relations avec les organismes de reglementation.

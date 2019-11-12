@@ -1,0 +1,2 @@
+TitreCours: Biotechnologie vegetale
+DescriptionCours: Transformation vegetale par agrobacterie et par biolistique, controle de l'expression genique par surexpression sens, antisens et riibozyme, genie genetique et metabolique, applications actuelles de la biotechnologie.

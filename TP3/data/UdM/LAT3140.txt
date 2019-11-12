@@ -1,0 +1,2 @@
+TitreCours: Historiens romains
+DescriptionCours: Methodes et ideologies de Salluste, Tite-Live, Velleius et Tacite.

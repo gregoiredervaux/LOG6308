@@ -1,0 +1,2 @@
+TitreCours: Histoire de la notation musicale
+DescriptionCours: Étude des etapes de la constitution des systemes de notation musicale en Occident, au Moyen Age (notation neumatique, carree, modale, mensuraliste, blanche), a la Renaissance (notation imprimee, tablatures). Étude de l'evolution de la notation au XXe siecle. Travaux pratiques: initiation a la paleographie musicale, decodage des systemes de notation contemporaine.

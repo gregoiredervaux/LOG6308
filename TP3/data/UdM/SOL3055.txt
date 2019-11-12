@@ -1,0 +1,2 @@
+TitreCours: Analyse multidimensionnelle
+DescriptionCours: Porte sur les modeles et types d'analyse les plus frequemment utilises en analyse metrique et non metrique : analyse factorielle, analyse des correspondances, regression multiple lineaire et logistique.

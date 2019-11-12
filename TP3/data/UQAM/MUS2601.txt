@@ -1,0 +1,2 @@
+TitreCours: Laboratoire d
+DescriptionCours: Developper les habiletes de base necessaires pour la planification, la prestation et l'evaluation des seances de musicotherapie. L'etudiant apprendra comment elaborer des plans d'intervention fondes sur le depistage clinique, les buts et objectifs poursuivis, l'evaluation du processus therapeutique et la formulation de recommandation. Adaptation de ces plans d'intervention en fonction de diverses clienteles: enfants, adolescents, adultes-psychopathes, deficients mentaux, handicapes physiques, etc.

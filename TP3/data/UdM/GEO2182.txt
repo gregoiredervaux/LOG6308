@@ -1,0 +1,2 @@
+TitreCours: Terrain en environnement physique 1
+DescriptionCours: Initiation aux techniques de terrain. Étude des processus et des interactions qui affectent l'environnement naturel. Influence de la derniere phase du Quaternaire.

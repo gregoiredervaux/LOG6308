@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Ce cours vise une initiation de base a l'utilisation des principaux outils de gestion sur micro-ordinateurs et a leur place dans les organisations. Il vise aussi un approfondissement des techniques decisionnelles dans la recherche operationnelle et leurs applications a des problemes de gestion d'entreprise collective.

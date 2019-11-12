@@ -1,0 +1,2 @@
+TitreCours: Analyse des projets d
+DescriptionCours: Ce cours a pour but d'initier l'etudiant aux principaux outils utilises dans l'evaluation de projets et l'analyse avantages-coûts. Procedures rationnelles de choix en matiere de depenses et projets publics. Analyse de differentes techniques d'evaluation. Presentation et discussion de quelques etudes de cas.

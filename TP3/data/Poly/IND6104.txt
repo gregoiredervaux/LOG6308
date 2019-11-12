@@ -1,0 +1,2 @@
+TitreCours: Budgets
+DescriptionCours: Le budget considere comme instrument de gestion. Concepts de base. Preparation des budgets. Appareil administratif necessaire. Organisation de la fonction budgetaire. Prevision des ventes. Budget de production. Budget des depenses. Probleme du controle des frais generaux et de la repartition des frais generaux de fabrication. Budget des coûts de distribution. Budgets de caisse. Controle budgetaire et analyse des variations. Le budget flexible comme instrument de controle des coûts.

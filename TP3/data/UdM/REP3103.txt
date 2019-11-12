@@ -1,0 +1,2 @@
+TitreCours: Atelier : Plans de communication
+DescriptionCours: Role et processus fondamentaux du plan de communication. Principes et pratiques de la communication integree. Élaboration de plans de communication bases sur des cas fictifs ou reels. Presentation et evaluation des resultats.

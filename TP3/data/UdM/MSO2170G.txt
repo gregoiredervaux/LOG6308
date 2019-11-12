@@ -1,0 +1,2 @@
+TitreCours: Systeme d'information en milieu de sante
+DescriptionCours: Initiation a l'utilisation de l'ordinateur. La constitution, l'utilisation et l'exploitation des banques de donnees. Les principaux outils de traitement statistique des donnees. Analyse critique et interpretation des resultats statistiques.

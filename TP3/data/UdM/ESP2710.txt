@@ -1,0 +1,2 @@
+TitreCours: Traduction espagnol-francais 1
+DescriptionCours: Initiation a la traduction de l'espagnol vers le francais. Notions theoriques et methodologiques et travaux pratiques de traduction de textes hispaniques non specialises.

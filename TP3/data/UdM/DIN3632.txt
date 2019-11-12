@@ -1,0 +1,2 @@
+TitreCours: Stage
+DescriptionCours: Cinq semaines de travail de design industriel dans un milieu professionnel et rapport de stage.

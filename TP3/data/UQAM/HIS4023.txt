@@ -1,0 +1,2 @@
+TitreCours: Lecture des sources manuscrites
+DescriptionCours: Atelier d'initiation a la paleographie du XIVe au XVIIIe siecles. Lecture et transcription des documents manuscrits (ecritures livresques et cursives). Resolution des abreviations. Introduction a quelques elements de critique externe par les sciences auxiliaires (diplomatique, codicologie) en relation avec les problemes d'etablissement de la date, de l'origine ou de l'authenticite d'un texte manuscrit. Élements d'edition critique.

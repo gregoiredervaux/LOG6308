@@ -1,0 +1,2 @@
+TitreCours: La methodologie en criminologie
+DescriptionCours: Les notions de base de la recherche quantitative et qualitative en criminologie. Analyse, discussion et critique des differents types de donnees et techniques d'analyse en criminologie.

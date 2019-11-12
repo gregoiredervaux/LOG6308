@@ -1,0 +1,2 @@
+TitreCours: Litterature et edition
+DescriptionCours: L&rsquo;edition de textes litteraires : historique, enjeux, pratiques.

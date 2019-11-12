@@ -1,0 +1,2 @@
+TitreCours: Levures et organismes levuriformes
+DescriptionCours: Levures d'importance commerciale, environnementale et medicale. Morphologie, ultrastructure, physiologie cellulaire, procedes de fermentation, production industrielle. Pouvoir pathogene et identification. Genetique moleculaire et manipulations.

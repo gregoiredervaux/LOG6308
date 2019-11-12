@@ -1,0 +1,2 @@
+TitreCours: Conception d'un programme de prevention
+DescriptionCours: Élaboration d'un programme de prevention en promotion de la sante ou en reduction des mefaits adapte a des problematiques liees a la consommation de drogues. Utilisation d'une demarche systematique : de l'identification des besoins a l'evaluation.

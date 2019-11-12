@@ -1,0 +1,2 @@
+TitreCours: Theatre actuel
+DescriptionCours: Étude des grands courants du theatre contemporain de 1960 a nos jours. Analyse des influences, des constantes et de leurs manifestations dans la mise en scene, le jeu, la scenographie, la musique, le texte.

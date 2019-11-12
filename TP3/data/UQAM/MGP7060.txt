@@ -1,0 +1,2 @@
+TitreCours: Seminaire d
+DescriptionCours: Cette activite constitue, pour chacun des etudiants, une demarche individuelle de synthese et d'integration dirigee portant sur l'ensemble des differents aspects de la gestion de projet.

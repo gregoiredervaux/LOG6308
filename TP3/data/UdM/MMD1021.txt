@@ -1,0 +1,2 @@
+TitreCours: Physiologie generale
+DescriptionCours: Notions de physiologie endocrinienne, renale, digestive, respiratoire, cardiovasculaire et du systeme nerveux.

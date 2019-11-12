@@ -1,0 +1,2 @@
+TitreCours: Stage
+DescriptionCours: Le stage consiste pour l'etudiant a effectuer un travail d'observation et de recherche encadre par un organisme ou une equipe de recherche a l'exterieur de l'universite.

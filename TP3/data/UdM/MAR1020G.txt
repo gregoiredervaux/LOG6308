@@ -1,0 +1,2 @@
+TitreCours: Le systeme respiratoire
+DescriptionCours: Anatomie de la tete, du cou, du mediastin et du thorax. Corollaires radiologiques, principales anomalies congenitales. Mecanique respiratoire, echanges gazeux, transport de l'oxygene et du CO2, controle de la respiration.

@@ -1,0 +1,2 @@
+TitreCours: Seminaire avance en informatique
+DescriptionCours: Ce seminaire a pour but de favoriser les activites de recherche, l'approfondissement de la litterature recente, l'eclosion et la diffusion d'idees nouvelles en informatique. Le contenu de ce cours est variable et determine en fonction des interets de recherche des etudiants et de themes a la fine pointe de l'informatique. L'evaluation de ce cours sera basee sur une presentation orale, un travail de synthese ecrit et une contribution reguliere aux activites du seminaire.

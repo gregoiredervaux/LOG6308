@@ -1,0 +1,2 @@
+TitreCours: Corpus d
+DescriptionCours: Presentation et examen des oeuvres d'un auteur en fonction d'une problematique. Le corpus est a determiner a chaque nouveau trimestre.

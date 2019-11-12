@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese et d'integration
+DescriptionCours: Stage ou projet visant l'integration des connaissances acquises en contexte pluridisciplinaire, sous la supervision d'un professionnel.

@@ -1,0 +1,2 @@
+TitreCours: Discours epique
+DescriptionCours: Analyse comparative de plusieurs epopees et discours ayant des traits epiques depuis l'Antiquite.

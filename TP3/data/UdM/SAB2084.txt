@@ -1,0 +1,2 @@
+TitreCours: Parodontie theorique
+DescriptionCours: Diagnostic, etiologie et modalites de prevention et de traitement des maladies parodontales ainsi que la reponse a ces interventions.

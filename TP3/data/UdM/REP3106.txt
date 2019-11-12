@@ -1,0 +1,2 @@
+TitreCours: Relations financieres
+DescriptionCours: Aspects financiers et juridiques. Redaction de rapport annuel. Gestion d'assemblee annuelle. Relations avec les investisseurs. Les Bourses, les Commissions, les offres publiques d'achat. La crise financiere.

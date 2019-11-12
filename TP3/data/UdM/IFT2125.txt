@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'algorithmique
+DescriptionCours: Conception et analyse d'algorithmes. Notation asymptotique, resolution de recurrences. Algorithmes voraces, diviser-pour-regner, programmation dynamique, parcours de graphes, retour-arriere, algorithmes probabilistes.

@@ -1,0 +1,2 @@
+TitreCours: Seminaire d'economie politique
+DescriptionCours: Activites d'integration des outils et methodes des sciences economiques et politiques. Survol des theories. Applications.

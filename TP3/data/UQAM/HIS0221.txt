@@ -1,0 +1,2 @@
+TitreCours: Histoire du Canada et du Quebec
+DescriptionCours: Ce cours vise a presenter l'evolution generale de l'histoire du Canada et du Quebec depuis l'arrivee des europeens jusqu'a nos jours. Il aborde l'histoire du Canada et du Quebec dans une perspective globale incluant les aspects politique, economique, social et culturel. Il met l'accent sur l'evolution des deux nations canadiennes dans son cadre continental et occidental.

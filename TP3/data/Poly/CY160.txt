@@ -1,0 +1,2 @@
+TitreCours: Cybercriminalit, enqute policire et droit
+DescriptionCours: Introduction gnrale aux grands principes en matire de droit criminel. Les infractions rattaches  la cybercriminalit. La procdure permettant aux policiers d'enquter dans le cyberespace et sur le terrain. Les grands principes en matire de preuve informatique. Les sentences et autres sanctions particulires  la cybercriminalit. Les dveloppements lgislatifs  venir en matire de cybercriminalit et d'accs lgal.

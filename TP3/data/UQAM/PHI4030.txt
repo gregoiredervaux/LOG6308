@@ -1,0 +1,2 @@
+TitreCours: Éthique appliquee
+DescriptionCours: Articulation et application approfondie des theses et concepts ethiques sur des problemes specifiques relies a l'evolution du droit et de la technique, en ce qui concerne plus particulierement la bioethique (ethique de l'experimentation, manipulations genetiques, fertilisation, euthanasie) et l'ethique des collectivites (ethique des administrations, des tribunaux, des institutions et des chartes).

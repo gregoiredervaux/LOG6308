@@ -1,0 +1,2 @@
+TitreCours: Histoire de la grammaire francaise
+DescriptionCours: Ce cours vise a donner a l'etudiant une vision historique des concepts de norme et de grammaire et a lui faire developper une reflexion critique sur les methodes d'analyse grammaticale. Évolution des objectifs poursuivis par les grammaires du francais du XVIe au XXe siecle. Évolution des concepts de norme, de dialecte, de patois, d'usage regional ou non standard. Enjeux de la formation de la langue cultivee aux XVIIe et au XVIIIe siecles.

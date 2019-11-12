@@ -1,0 +1,2 @@
+TitreCours: Principes d'instrumentation
+DescriptionCours: Cours et travaux pratiques portant sur l'instrumentation analytique et chimie physique moderne. Principes d'electronique, description et etude modulaire d'instruments.

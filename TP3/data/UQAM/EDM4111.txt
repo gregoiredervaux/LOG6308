@@ -1,0 +1,2 @@
+TitreCours: Atelier de video II
+DescriptionCours: La creation en video au plan technique. Étude des plans, des angles, des mouvements de camera et des regles du cadrage. Étude de l'eclairage en interieur et en exterieur. Ce cours est suivi en meme temps que le EDM4101 (Atelier de video I).

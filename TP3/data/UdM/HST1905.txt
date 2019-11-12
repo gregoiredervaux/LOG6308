@@ -1,0 +1,2 @@
+TitreCours: Histoire du Canada contemporain
+DescriptionCours: Cours d'introduction a l'histoire du Canada depuis 1850.

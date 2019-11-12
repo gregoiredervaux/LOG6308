@@ -1,0 +1,2 @@
+TitreCours: Histoire du francais
+DescriptionCours: Ce cours vise a initier les etudiants aux grandes periodes du developpement de la langue francaise du latin a nos jours. Les themes abordes incluent: evolution du systeme sonore; evolution du systeme nominal et verbal; evolution du lexique; evolution de l'orthographe; evolution et etat actuel du francais au Quebec; la question de la norme et de la variete du francais a enseigner.

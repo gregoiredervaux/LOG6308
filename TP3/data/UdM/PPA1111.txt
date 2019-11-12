@@ -1,0 +1,2 @@
+TitreCours: Éleves HDAA et modeles de service
+DescriptionCours: Caracteristiques des eleves handicapes (incapacites intellectuelles, visuelles, auditives ou motrices) ou en difficulte d'adaptation ou d'apprentissage. Consequences pedagogiques et modeles de service en adaptation scolaire.

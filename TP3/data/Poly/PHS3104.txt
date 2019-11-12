@@ -1,0 +1,2 @@
+TitreCours: Mecanique quantique II
+DescriptionCours: Postulats quantiques et equation de Schrödinger en 3D, atome d'hydrogene et hydrogenoides. Spin, moments cinetiques et couplage LS. Methode WKB et theoreme variationnel. Perturbations independantes du temps : effet Stark, effet Zeeman. Perturbations dependantes du temps : probabilites de transition, interaction de la radiation avec les systemes atomiques. Survol des methodes modernes de calculs de structure electronique : theorie des liaisons fortes, methodes ab-initio, theorie de la fonctionnelle de la densite (DFT).

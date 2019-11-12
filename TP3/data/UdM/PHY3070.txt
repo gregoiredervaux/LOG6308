@@ -1,0 +1,2 @@
+TitreCours: Relativite 2
+DescriptionCours: Relativite restreinte. Champs gravitationnels faibles. Étoiles spheriques. Pulsars. Quasars. Cosmologie. Collapsus gravitationnel et trous noirs. Ondes gravitationnelles. Verifications experimentales de la theorie.

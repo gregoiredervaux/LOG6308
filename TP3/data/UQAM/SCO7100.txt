@@ -1,0 +1,2 @@
+TitreCours: Outils de recherche appliquee en sciences comptables
+DescriptionCours: Ce cours donnera a l'etudiant les outils necessaires pour mener a terme une recherche sur un sujet qui preoccupe la pratique. Entre autres, il comporte l'examen de bases de donnees economiques et financieres, l'etude d'articles de recherche appliquee et leur methodologie et la redaction de rapports specialises.

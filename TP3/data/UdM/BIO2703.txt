@@ -1,0 +1,2 @@
+TitreCours: Stage d'ecologie forestiere
+DescriptionCours: Excursions organisees dans differentes regions forestieres du Quebec meridional. Identification et ecologie des especes d'arbres et des principales communautes forestieres du Quebec

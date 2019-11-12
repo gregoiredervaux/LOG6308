@@ -1,0 +1,2 @@
+TitreCours: Morphologie 2
+DescriptionCours: Ce seminaire porte sur des analyses recentes en morphologie et sur l'evaluation de leur capacite descriptive et explicative. On etudiera egalement la place de la morphologie dans un modele grammatical et son interaction avec les autres composantes de la grammaire.

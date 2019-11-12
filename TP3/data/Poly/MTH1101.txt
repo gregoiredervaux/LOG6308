@@ -1,0 +1,2 @@
+TitreCours: Calcul I
+DescriptionCours: Suites infinies et series. Series entieres. Approximations de Taylor. Analyse de l'erreur d'approximation par un polynome. Nombres complexes. Fonctions de plusieurs variables. Courbes et surfaces de niveau. Limite et continuite. Derivees de fonctions de plusieurs variables. Differentielle. Recherche des extrema avec ou sans contraintes. Methode du gradient en optimisation. Multiplicateurs de Lagrange.

@@ -1,0 +1,2 @@
+TitreCours: Biocompat. et sc. des biomat. (GBM8555)
+DescriptionCours: Reponse: inflammation, macrophages et coagulation. Biocompatibilite : implants cardio-vasculaires, orthopediques, electroniques. Nanodispositifs et senseurs biomedicaux. Biomateriaux emergents. Infections nosocomiales.

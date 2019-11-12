@@ -1,0 +1,2 @@
+TitreCours: Macroeconomie avancee II
+DescriptionCours: Étude approfondie de la theorie macroeconomique moderne avec une emphase sur les modeles formels de l'analyse macroeconomique dynamique. Les themes abordes concernent entre autres les modeles d'equilibre du cycle economique, les modeles avec rigidites nominales, les modeles macroeconomiques d'economie ouverte, les politiques fiscales et monetaires et les microfondements de la macroeconomie.

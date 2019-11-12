@@ -1,0 +1,2 @@
+TitreCours: Économetrie 1
+DescriptionCours: Objet, utilite et methodes de l'econometrie. Notions de statistiques et de probabilites. Problemes d'inference statistique. Le modele de regression simple : signification et utilisation.

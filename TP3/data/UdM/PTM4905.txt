@@ -1,0 +1,2 @@
+TitreCours: Travaux diriges en sante publique vet.
+DescriptionCours: Etude approfondie d'une situation d'actualite touchant l'hygiene veterinaire et la sante publique. Revue critique de la litterature avec proposition de pistes de solution selon une approche basee sur une gestion coherente du risque.

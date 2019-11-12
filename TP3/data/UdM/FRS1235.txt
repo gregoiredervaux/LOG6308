@@ -1,0 +1,2 @@
+TitreCours: Communication ecrite 3
+DescriptionCours: Developper des strategies de comprehension de textes assez elabores, approfondir ses connaissances de base en ecriture, en acquerir de nouvelles, produire des textes varies lies aux principales fonctions langagieres du cours concomitant FRS1305C.

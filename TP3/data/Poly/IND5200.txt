@@ -1,0 +1,2 @@
+TitreCours: Organisation industrielle
+DescriptionCours: Introduction a differents aspects de l'organisation industrielle : conception d'usine, amenagement d'usine, etude du travail, equilibrage des chaines de production, planification de la fabrication, gestion des stocks, « juste-a-temps » et normes de qualite ISO 9000. Le cours met l'accent sur la comprehension pratique et strategique des concepts organisationnels.

@@ -1,0 +1,2 @@
+TitreCours: Sondages
+DescriptionCours: Developper les aptitudes necessaires a l'elaboration des plans de sondage et a l'analyse des resultats. Échantillon aleatoire simple. Estimation d'une moyenne, d'une proportion et d'un total. Variance des estimateurs. Estimation de la variance. Estimation par quotient et par regression. Échantillonnage par stratification. Échantillonnage par grappes.

@@ -1,0 +1,2 @@
+TitreCours: Theories ethiques modernes
+DescriptionCours: Themes fondamentaux de la philosophie morale, de la fin de la Renaissance au XIXe siecle: theorie du sens moral; intuitionnisme; utilitarisme; contractualisme; egoisme.

@@ -1,0 +1,2 @@
+TitreCours: Aide decisionnelle en finance
+DescriptionCours: L'objectif genral est de maitriser les principaux systemes d'information utilises en finance. Logiciels specialises. Recherche d'information. Methodologie de recherche. Chiffriers informatises. Presentation et communication. Simulation. Optimisation. Algorithmes genetiques. Systemes des neurones. Statistique parametrique.

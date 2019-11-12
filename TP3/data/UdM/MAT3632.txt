@@ -1,0 +1,2 @@
+TitreCours: Theorie des nombres
+DescriptionCours: Theoreme fondamental de l'arithmetique. Équations diophantiennes. Congruences lineaires. Theoremes d'Euler et de Fermat. Theorie des indices. Racines primitives. Residus quadratiques. Congruences generales. Nombres premiers.

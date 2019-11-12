@@ -1,0 +1,2 @@
+TitreCours: Introduction a la dentisterie preventive
+DescriptionCours: Sensibilisation aux problemes de sante dentaire; explication du processus d'evaluation de la carie et des maladies parodontales et des methodes preventives qui y sont associees : soins d'hygiene personnelle, approches preventives.

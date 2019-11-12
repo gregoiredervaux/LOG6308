@@ -1,0 +1,2 @@
+TitreCours: Geophysique appliquee I
+DescriptionCours: Methodes magnetiques et gravimetriques : principes theoriques, appareillage et techniques de terrain. Corrections et techniques d'analyse spectrale des donnees. Technique de separation des sources et de filtrage. Methodes d'interpretation des resultats. Applications aux domaines de la prospection de l'eau, de l'hydrogeologie, de l'environnement, du genie et de l'archeologie.

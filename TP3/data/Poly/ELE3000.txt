@@ -1,0 +1,2 @@
+TitreCours: Projet personnel en gnie lectrique
+DescriptionCours: Le projet consiste en un travail de conception en ingnierie ralis par l'tudiant sous la direction d'un professeur ou d'un ingnieur agr par le dpartement. L'tudiant doit produire un rapport de qualit professionnelle qui comporte gnralement un relev des travaux antrieurs, la dfinition et la situation du problme, la mthode de solution favorise, les rsultats obtenus et une discussion. Le projet fait galement l'objet d'une prsentation par affiche.

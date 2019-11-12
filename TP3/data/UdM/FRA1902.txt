@@ -1,0 +1,2 @@
+TitreCours: Introduction a la litterature
+DescriptionCours: Lecture et analyse de textes litteraires francais, quebecois et francophones.

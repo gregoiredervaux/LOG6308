@@ -1,0 +1,2 @@
+TitreCours: Medicaments et vieillissement
+DescriptionCours: Aspects sociaux et legaux des medicaments : industrie, coût, information, prevention et traitement. Pharmacologie, automedication, interactions medicamenteuses, toxicite, etc. Problematique particuliere de l'information aux personnes agees.

@@ -1,0 +1,2 @@
+TitreCours: Ingenierie des logiciels
+DescriptionCours: Analyse des besoins et specifications. Methodologie de programmation, decomposition, affinages successifs. Methodes de validation et de verification, demonstrations de correction. Évaluation de performance et du design. Gestion des projets de logiciel. Outils de programmation, de conception et de standardisation.

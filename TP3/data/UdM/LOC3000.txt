@@ -1,0 +1,2 @@
+TitreCours: Initiation a l'internationalisation
+DescriptionCours: Conception de produits informatiques a vocation internationale. Notions de base et contextes d'application. Criteres de fonctionnalite et de performance des produits. Étapes d'un projet d'internationalisation; methodes de travail et ressources.

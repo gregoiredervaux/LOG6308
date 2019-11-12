@@ -1,0 +1,2 @@
+TitreCours: S.I.G. : de la theorie a la pratique
+DescriptionCours: Ce cours vise a transmettre les notions theoriques et pratiques pour repondre aux besoins de gestion de l'espace geographique au moyen d'un systeme d'information geographique (S.I.G). L'accent est mis sur l'utilisation de logiciels commerciaux.

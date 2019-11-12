@@ -1,0 +1,2 @@
+TitreCours: Techniques de laboratoire
+DescriptionCours: Introduction a l'analyse chimique quantitative. Preparation de solution. Courbe de titrage acide-base. Mesure spectrophotometrique. Determination volumetrique par argentimetrie. Analyse par echange sur resines ioniques. Analyse gravimetrique. Potentiometrie. Nephelometrie. Complexometrie. Courbe d'elution sur resines ioniques. Analyse par extraction.

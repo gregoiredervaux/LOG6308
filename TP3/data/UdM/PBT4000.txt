@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese
+DescriptionCours: Activite balisee ayant pour but de verifier le niveau d'acquisition des connaissances de l'etudiant.

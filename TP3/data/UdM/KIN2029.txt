@@ -1,0 +1,2 @@
+TitreCours: Planification de l'entrainement
+DescriptionCours: Planification de contenu et de la charge d'entrainement, sur une base hebdomadaire et annuelle, en fonction de l'evaluation des besoins de clienteles variees. Évaluation de la charge (volume, intensite, difficulte) et suivi.

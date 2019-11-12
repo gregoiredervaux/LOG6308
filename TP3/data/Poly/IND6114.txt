@@ -1,0 +1,2 @@
+TitreCours: Aides a la decision
+DescriptionCours: Problematique de la prise de decision. Évaluations multicriteres, actuarielles, stochastiques de projets et prise de decision.

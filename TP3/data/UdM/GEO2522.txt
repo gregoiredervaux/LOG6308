@@ -1,0 +1,2 @@
+TitreCours: Teledetection numerique
+DescriptionCours: Caracteristiques des donnees numeriques acquises par les capteurs de teledetection. Traitement et analyse d'images aux fins d'inventaire des ressources naturelles et de surveillance de l'environnement.

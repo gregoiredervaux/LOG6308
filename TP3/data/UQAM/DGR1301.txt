@@ -1,0 +1,2 @@
+TitreCours: Infographie
+DescriptionCours: Introduction a la mise en page assistee par ordinateur. Creation d'un document pret pour l'impression. Logiciels utilises: Adobe InDesign, QuakXPress.

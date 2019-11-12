@@ -1,0 +1,2 @@
+TitreCours: Les troubles graves du comportement et les troubles envahissants du developpement
+DescriptionCours: Definition des troubles graves du comportement (TGC). L'analyse fonctionnelle et multimodale contextuelle: les composantes physiques et psychosociales des TGC, les facteurs personnels (perceptuel, affectif, cognitif, moteur, social), la condition medicale, psychiatrique et pharmacologique de la personne, les facteurs de maintien des TGC.

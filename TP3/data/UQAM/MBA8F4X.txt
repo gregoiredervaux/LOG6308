@@ -1,0 +1,2 @@
+TitreCours: Cours a contenu variable en financement des entreprises II
+DescriptionCours: Ce cours vise a permettre aux etudiants d'approfondir une ou plusieurs dimensions du financement des entreprises tels les aspects juridiques, la gouvernance, le contexte socioeconomique, etc. Le contenu du cours variera en fonction des besoins des etudiants et de l'evolution des connaissances en gestion.

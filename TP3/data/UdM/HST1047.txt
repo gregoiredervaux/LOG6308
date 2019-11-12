@@ -1,0 +1,2 @@
+TitreCours: Histoire de l'Asie de l'Est moderne
+DescriptionCours: Introduction a l'histoire de l'Asie de l'Est - Chine, Japon, Coree, Vietnam - a partir de l'arrivee des Occidentaux en Asie.

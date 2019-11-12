@@ -1,0 +1,2 @@
+TitreCours: Pedagogie/eleves a besoins particuliers
+DescriptionCours: Integration des eleves a besoins particuliers. Difficultes d'adaptation et d'apprentissage. Modeles de service et strategies d'intervention.

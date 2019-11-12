@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Familiarisation avec l'utilisation des principaux outils de gestion sur micro-ordinateurs et leur place dans les organisations et approfondissement des techniques decisionnelles de la recherche operationnelle et ses applications a des problemes de gestion.

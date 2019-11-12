@@ -1,0 +1,2 @@
+TitreCours: Histologie humaine
+DescriptionCours: Description des quatre tissus fondamentaux. Anatomie microscopique des appareils circulatoire, digestif, respiratoire, urinaire et genitaux; de la peau, des organes hemopoietiques et des glandes endocrines.

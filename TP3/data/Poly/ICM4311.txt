@@ -1,0 +1,2 @@
+TitreCours: Exploitation : infrastructures et reseau
+DescriptionCours: Cahier des Charges : lien avec le constructeur. Conception et typologies des infrastructures : voies, energies, systemes de signalisation. Mise en oeuvre des infrastructures. Exploitation du reseau. Maintenance du reseau. Logique de service des exploitants ferroviaires (service a la clientele). Rentabilite. Securite active. Maitrise de la securite. Maitrise et optimisation de l'exploitation du reseau et des materiels.

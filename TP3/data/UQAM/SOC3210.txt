@@ -1,0 +1,2 @@
+TitreCours: Donnees secondaires
+DescriptionCours: Ce cours introduit a l'utilisation des donnees secondaires. Presentation des donnees sociales secondaires disponibles a Statistique Canada et au Bureau de la Statistique du Quebec: recensement, sondages et donnees administratives. Évaluation de premisses theoriques et methodologiques. Évaluation de la qualite et de la fiabilite des donnees sociales secondaires. Les informations produites par le secteur prive: entreprises, maisons de sondages, etc. Creation des banques de donnees secondaires.

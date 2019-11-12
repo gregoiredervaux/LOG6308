@@ -1,0 +1,2 @@
+TitreCours: Épistemologie des sciences de la nature
+DescriptionCours: Étude des principales questions epistemologiques qui se posent actuellement dans les sciences de la nature. Examen de la constitution des theories, de la construction des concepts et de l'elaboration des demonstrations. Recours eventuel a quelques analyses de cas pour reconnaitre les fonctions specifiques de l'intervention epistemologique dans les sciences de la nature.

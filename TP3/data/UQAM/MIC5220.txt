@@ -1,0 +1,2 @@
+TitreCours: Transmission de donnees
+DescriptionCours: Étude des systemes de transmissions de donnees. Telecommunications, communications synchrones-asynchrones, circuits de synchronisation. Codage-decodage. Detection et correction d'erreurs. Circuits integres de communication.

@@ -1,0 +1,2 @@
+TitreCours: Francais langue seconde
+DescriptionCours: Developpement de la comprehension des discours de type universitaire, prise de notes, lecture de textes dans diverses disciplines, discussions, redaction de travaux. A la fin de ce cours, l'etudiant non francophone devrait etre en mesure de suivre des cours en francais a l'universite.

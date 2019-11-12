@@ -1,0 +1,2 @@
+TitreCours: Sante publique veterinaire
+DescriptionCours: Initier l'etudiant a la gestion et a l'evaluation veterinaire des differents risques en agroalimentation en regard des problemes d'actualite et des enjeux socio-politico-economiques.

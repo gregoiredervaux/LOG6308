@@ -1,0 +1,2 @@
+TitreCours: Design et ergonomie
+DescriptionCours: Ce laboratoire a pour objectif de permettre aux etudiants de se familiariser avec la problematique de l'ergonomie, et d'apprecier la valeur ergonomique d'un projet de design industriel ou d'interieur. Examen des differentes approches conduisant a l'analyse et la production de criteres de design ergonomique a partir des notions de confort, de securite et d'efficacite. Exercices visant la traduction environnementale des criteres appliques au projet developpe dans le cadre des ateliers de fin d'etudes.

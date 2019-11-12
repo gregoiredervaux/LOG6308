@@ -1,0 +1,2 @@
+TitreCours: Mach.-out.  comm. num. et leur programmation
+DescriptionCours: Principes gnraux de la commande numrique. Systmes de commande. Classification, mode de fonctionnement, systmes d'entranement, systmes de mesure des dplacements et les outils utiliss pour les M.O.C.N. Programmation des M.O.C.N. Programmation manuelle en code G. Programmation assiste par ordinateur. Le langage APT. Les systmes complets de CFAO. Commande numrique CADAM. Commande numrique sur les ordinateurs personnels.

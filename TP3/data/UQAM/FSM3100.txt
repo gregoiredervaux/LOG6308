@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese
+DescriptionCours: Realisation d'un projet sur un probleme concret en sante et securite au travail permettant a l'etudiant de faire une synthese des acquis du programme. Le projet doit traiter d'une problematique en sante et securite au travail ayant une implication pratique dans le milieu et recevoir l'approbation du responsable du cours quant au choix du sujet traite et au plan de travail. Un rapport doit etre redige et presente dans le cadre d'un seminaire.

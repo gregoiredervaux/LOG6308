@@ -1,0 +1,2 @@
+TitreCours: Introduction a la metaphysique
+DescriptionCours: Introduction a quelques-uns des moments les plus importants du discours philosophique sur l'etre, moments qui ont determine l'histoire de la metaphysique (Platon, Aristote, Descartes, Kant, Heidegger).

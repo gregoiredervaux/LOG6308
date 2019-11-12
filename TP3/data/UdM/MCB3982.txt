@@ -1,0 +1,2 @@
+TitreCours: Diversite microbienne
+DescriptionCours: Diversite bacterienne du point de vue physiologique, metabolique et genetique. Taxonomie et systemes de classification; methodes d'identification et systematique bacterienne; bacteries d'interet medical et fondamental; ecologie microbienne.

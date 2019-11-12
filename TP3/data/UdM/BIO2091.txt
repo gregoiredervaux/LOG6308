@@ -1,0 +1,2 @@
+TitreCours: Initiation a la recherche
+DescriptionCours: Realisation d'un projet de recherche en laboratoire ou sur le terrain, sous la direction d'un professeur apres son acceptation.

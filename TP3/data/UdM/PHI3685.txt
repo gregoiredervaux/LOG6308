@@ -1,0 +1,2 @@
+TitreCours: Problemes d'ethique appliquee
+DescriptionCours: Examen des questions d'ethique appliquee dans l'un de ces divers domaines: bioethique, ethique de l'environnement, ethique des affaires, etc. Le choix des problematiques a l'etude sera determine a chaque annee.

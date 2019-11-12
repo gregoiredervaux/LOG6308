@@ -1,0 +1,2 @@
+TitreCours: Langue
+DescriptionCours: Rappel de notions generales d'anatomie et physiologie des appareils vocal et auditif. Élements de neurolinguistique, de phonetique articulatoire et acoustique appliques a la deficience auditive. Les principales pathologies auditives affectant les enfants. Consequences linguistiques de diverses pertes auditives: caracteristiques specifiques des retards d'apprentissage de la parole et du langage.

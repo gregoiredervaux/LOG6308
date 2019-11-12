@@ -1,0 +1,2 @@
+TitreCours: Initiation a la recherche sociale II
+DescriptionCours: Realisation d'une recherche sur le terrain afin de mettre en pratique les connaissances theoriques acquises dans le cours SOC1260 Initiation a la recherche sociale I. Traitement de l'information: codage, analyse. Strategie d'action decoulant de l'analyse. Évaluation de la recherche classique et de la recherche-action. Cours theorique. Travaux pratiques lies a l'apprentissage et l'utilisation de l'informatique en sociologie.

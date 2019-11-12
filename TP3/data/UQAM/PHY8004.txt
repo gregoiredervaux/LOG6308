@@ -1,0 +1,2 @@
+TitreCours: Theorie des champs quantiques
+DescriptionCours: Formalisme general. Champ de Klein-Gordon. Deuxieme quantification du champ de Dirac. Deuxieme quantification du champ electromagnetique. Interaction des champs. Valeurs moyennes de la matrice S dans le vide et theorie de perturbation.

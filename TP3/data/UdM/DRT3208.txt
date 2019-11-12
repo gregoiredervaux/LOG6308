@@ -1,0 +1,2 @@
+TitreCours: Execution des jugements
+DescriptionCours: Execution volontaire des jugements. Modalites de l'execution forcee des jugements : regles d'insaisissabilite, formes d'execution mobiliere personnelle et reelle, oppositions a l'execution forcee.

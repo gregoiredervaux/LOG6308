@@ -1,0 +1,2 @@
+TitreCours: Éleves en diff. de comportement au prim.
+DescriptionCours: Difficultes comportementales au cours de l'enfance. Manifestations, evaluation, evolution. Analyse des principales strategies d'intervention favorisant l'adaptation scolaire et sociale de l'eleve.

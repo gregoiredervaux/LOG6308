@@ -1,0 +1,2 @@
+TitreCours: Situations critiques de sante 3
+DescriptionCours: Situations critiques de sante chez des personnes de tous ages : oncologie, insuffisance renale, eclampsie et autres. Sciences fondamentales et pharmaco. Plan therapeutique infirmier et jugement clinique : surveillance, monitorage, prise de decision.

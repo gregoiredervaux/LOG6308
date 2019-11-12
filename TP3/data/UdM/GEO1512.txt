@@ -1,0 +1,2 @@
+TitreCours: Geographie quantitative 1
+DescriptionCours: Les donnees geographiques. La composition d'un echantillon. Élements de probabilites et de lois de distribution. La loi normale. Estimation et tests d'hypothese. Comparaison de deux echantillons. Association de deux variables.

@@ -1,0 +1,2 @@
+TitreCours: Physiotherapie des affec.neurologiques 1
+DescriptionCours: Controle moteur, modeles de readaptation. Facilitation et inhibition neuromusculaire. Approches neurofacilitatrices et reapprentissage moteur. Acquisition motrice de l'enfant. Évaluation et traitements des deficiences motrices cerebrales.

@@ -1,0 +1,2 @@
+TitreCours: Mesure et probabilites
+DescriptionCours: Tribus et variables aleatoires. Theorie de l'integration: theoreme de Lebesgue, espace Lp, theoreme de Fubini. Construction de mesures, mesure de Radon. Independance. Conditionnement.

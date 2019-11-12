@@ -1,0 +1,2 @@
+TitreCours: Profession microbiologiste
+DescriptionCours: Dans une optique resolument pratique, facettes de la microbiologie/immunologie (pharmaceutique, biotechnologie, automatisation, aspects legaux) couvertes par des cours magistraux et des visites d'industries. Problematiques et concepts.

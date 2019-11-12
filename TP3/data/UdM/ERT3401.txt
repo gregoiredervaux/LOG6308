@@ -1,0 +1,2 @@
+TitreCours: Ergo, enjeux professionnels et societe
+DescriptionCours: Integration par l'analyse de cas des connaissances liees a la pratique ergotherapique. Critique des enjeux professionnels actuels. Comportements et responsabilites professionnels. Éthique.

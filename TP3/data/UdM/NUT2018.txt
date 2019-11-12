@@ -1,0 +1,2 @@
+TitreCours: Évaluation sensorielle des aliments
+DescriptionCours: Étude des qualites organoleptiques des aliments et de leur perception. Influence de la couleur, texture, flaveur sur l'acceptabilite des aliments. Methodes d'evaluation objective et subjective des substances et des aliments.

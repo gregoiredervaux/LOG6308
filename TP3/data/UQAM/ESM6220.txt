@@ -1,0 +1,2 @@
+TitreCours: Seminaire de synthese
+DescriptionCours: Amener l'etudiant a faire une synthese des acquis du programme. Realisation par les etudiants d'un ou plusieurs projets portant sur l'enseignement des mathematiques au secondaire, en vue d'utiliser les habiletes et les connaissances acquises dans le programme a l'egard de l'intervention dans l'enseignement. Reflexion sur l'intervention realisee dans les differents projets en regard entre autres de la preparation et des retombees pedagogiques.

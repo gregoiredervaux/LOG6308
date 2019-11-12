@@ -1,0 +1,2 @@
+TitreCours: Gestion des ressources humaines en tourisme
+DescriptionCours: Ce cours vise l'acquisition par l'etudiant des aspects operationnels de la fonction ressources humaines en entreprise et ses particularites dans le secteur du tourisme. On y aborde son importance, a savoir comment elle est une variable essentielle a la mise au point et a l'integration de strategies dans l'entreprise. De plus, ce cours traitera de l'importance strategique d'une bonne gestion des relations de travail.

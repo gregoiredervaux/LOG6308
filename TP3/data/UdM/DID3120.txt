@@ -1,0 +1,2 @@
+TitreCours: Didactique de l'algebre en adapt. scol.
+DescriptionCours: Analyse et interpretation didactiques des principales difficultes en algebre. Rupture et filiation arithmetique/algebre et caracterisation des raisonnements. Types de problemes. Interventions didactiques et ingenieries.

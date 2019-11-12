@@ -1,0 +1,2 @@
+TitreCours: Seminaire de synthese
+DescriptionCours: Afin de demontrer la capacite pour la recherche necessaire a la redaction de la these, l'etudiant presentera et produira lors de ce seminaire un travail original, sous forme d'article, dans un des champs de specialisation du programme. Cette activite se deroule dans le cadre d'un seminaire annuel de recherche et a normalement lieu au cours de la deuxieme annee de scolarite des etudiants a temps plein. Les modalites de deroulement sont precisees au debut de l'activite.

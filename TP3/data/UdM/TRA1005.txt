@@ -1,0 +1,2 @@
+TitreCours: Difficultes du francais ecrit
+DescriptionCours: Revision et approfondissement de la connaissance du francais ecrit (difficultes de linguistique interne). Norme et usage.

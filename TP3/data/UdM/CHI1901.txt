@@ -1,0 +1,2 @@
+TitreCours: Stage d'introduction en C.E.C.
+DescriptionCours: Stage de 4 mois en milieu clinique de chirurgie cardiaque et formation en physiopathologie cardiovasculaire et pulmonaire, equilibre acido-basique anticoagulation, regulation de la temperature. Initiation a la recherche clinique et notions d'ethique.

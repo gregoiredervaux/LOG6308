@@ -1,0 +1,2 @@
+TitreCours: Apprentissage automatique
+DescriptionCours: Les systemes a base de connaissances. Problematique de l'acquisition automatique de connaissances, apprentissage symbolique vs. apprentissage numerique, apprentissage sans ou avec theorie du domaine. Approches supervisees vs. approches non supervisees. Induction, deduction, algorithmes genetiques, applications.

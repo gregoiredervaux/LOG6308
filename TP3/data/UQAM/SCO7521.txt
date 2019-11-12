@@ -1,0 +1,2 @@
+TitreCours: Comptabilite de management I
+DescriptionCours: Situer la comptabilite de management par rapport a la comptabilite generale et aux fonctions administratives. Étudier les systemes de prix de revient. Initier certains modeles de gestion pertinents a la prise de decision. L'entreprise, le systeme d'information comptable et le role du comptable en management. Systemes de coûts. Prise de decision a court terme.

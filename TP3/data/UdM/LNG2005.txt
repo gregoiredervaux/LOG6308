@@ -1,0 +1,2 @@
+TitreCours: Introduction a la lexicometrie
+DescriptionCours: Structure probabiliste du langage : definition et traitement des elements linguistiques quantifiables. Indices propres a la description linguistique, en particulier au lexique.

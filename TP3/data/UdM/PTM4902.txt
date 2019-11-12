@@ -1,0 +1,2 @@
+TitreCours: Épidemiologie des zoonoses
+DescriptionCours: Exposes et discussions sur un nombre limite de zoonoses choisies selon leux importance, leur charactere d'exemple et leur actualite.

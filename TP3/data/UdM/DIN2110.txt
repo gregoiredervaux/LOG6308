@@ -1,0 +1,2 @@
+TitreCours: Laboratoire d'informatique appliquee
+DescriptionCours: Introduction a l'informatique appliquee : Utilisation de l'informatique, de l'electronique et des reseaux dans la conception d'objets, de systemes ou de services.

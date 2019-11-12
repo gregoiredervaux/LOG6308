@@ -1,0 +1,2 @@
+TitreCours: Vibrations et systmes aronautiques
+DescriptionCours: Introduction  l'arolasticit. Arolasticit et design d'aronefs. Systmes  un degr de libert. Systmes  deux degrs de libert et N degrs de libert. Principe du travail virtuel. quations de Lagrange. Introduction  l'analyse modale par lments finis. Tests modaux et arolastique. Introduction au diagramme de Collar. Principaux phnomnes arolastiques. Arolasticit statique: divergence et contrle inverse. Arodynamique instationnaire. Flottement. Aroservolasticit.

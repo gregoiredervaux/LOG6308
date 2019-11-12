@@ -1,0 +1,2 @@
+TitreCours: Stage : Maladies infectieuses pediatriq.
+DescriptionCours: Stage clinique offrant une vue globale de la pediatrie en maladies infectieuses pediatriques.

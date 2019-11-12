@@ -1,0 +1,2 @@
+TitreCours: Gestion de crises et communication
+DescriptionCours: Types de crises, strategies et moyens pour les resoudre. Cellule de crise et plan de communication en situation d'urgence. Capacite d'analyse et de reflexion pour reagir rapidement et strategiquement. Approches operationnelle, preventive et curative.

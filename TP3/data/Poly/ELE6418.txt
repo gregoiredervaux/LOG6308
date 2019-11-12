@@ -1,0 +1,2 @@
+TitreCours: Securite dynamique des reseaux electriques
+DescriptionCours: Concepts de base en securite. Processus d'analyse de la securite dynamique en stabilite transitoire et long-terme. Taxonomie de l'analyse de la securite dynamique et le logiciel ELISA (Estimateur de Limites de Securite Automatise). Acceleration de la recherche des limites de transit : theorie des methodes a base de l'energie du signal et strategies d'implantation. Augmentation des limites de securite : strategies conventionnelles et a base de FACTS (Flexible Alternating Current Transmission Systems).

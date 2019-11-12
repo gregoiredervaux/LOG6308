@@ -1,0 +1,2 @@
+TitreCours: Sciences hematologiques
+DescriptionCours: Physiopathologie du systeme sanguin et lymphatique. Notions generales d'investigation et de traitement de ces conditions.

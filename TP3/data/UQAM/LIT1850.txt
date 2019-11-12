@@ -1,0 +1,2 @@
+TitreCours: Atelier de scenarisation I
+DescriptionCours: Techniques generales de scenarisation. Organisation du recit, statut des personnages, etc. Fonctions et organisation materielle des differentes etapes de la scenarisation. Élaboration d'un court scenario de fiction.

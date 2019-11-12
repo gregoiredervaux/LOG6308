@@ -1,0 +1,2 @@
+TitreCours: L'information journalistique
+DescriptionCours: Notion d'information et de communication. Historique et fonctionnement des entreprises de presse. Presentation des categories journalistiques. Droits et devoirs du journaliste. Pratique et deontologie.

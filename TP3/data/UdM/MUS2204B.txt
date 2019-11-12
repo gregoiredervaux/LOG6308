@@ -1,0 +1,2 @@
+TitreCours: Atelier de lecture vocale 1
+DescriptionCours: Cours visant a acquerir et developper des aptitudes de lecture a vue dans un contexte polyphonique vocal essentiellement tonal.

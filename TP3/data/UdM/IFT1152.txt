@@ -1,0 +1,2 @@
+TitreCours: Introduction aux technologies XML
+DescriptionCours: Utilisation des technologies XML pour la gestion, le stockage, la distribution des documents d'affaires sur le Web. Integration de XML aux bases de donnees et aux applications existantes.

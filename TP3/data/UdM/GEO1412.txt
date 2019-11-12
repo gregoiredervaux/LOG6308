@@ -1,0 +1,2 @@
+TitreCours: Le Quebec
+DescriptionCours: Presentation des caracteristiques biophysiques et humaines du Quebec dans une perspective historique et systemique. Construction des paysages regionaux et leur importance dans l'ensemble nord-americain et dans le monde.

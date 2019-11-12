@@ -1,0 +1,2 @@
+TitreCours: Éco-toxicologie
+DescriptionCours: Pollution de l'air, de l'eau et des sols. Pluies acides, gaz a effet de serre, CFC, metaux traces, contaminants organiques. Transport, destin, biodisponibilite. Mecanismes d'action des contaminants. Mesure des effets contaminants.

@@ -1,0 +1,2 @@
+TitreCours: Recherche et planification de la production
+DescriptionCours: Ce cours vise a rendre l'etudiant apte a analyser des styles et des matieres a utiliser pour la collection. Recherche des matieres premieres en fonction de la collection. Planification et recherche des bases a utiliser pour le developpement de la production des vetements. Analyse des styles. Analyse des matieres. Recherche des matieres. Planification et recherche des bases.

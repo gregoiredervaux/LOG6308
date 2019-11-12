@@ -1,0 +1,2 @@
+TitreCours: Nietzsche
+DescriptionCours: Les grands themes de la pensee de Nietzsche : Dionysos, tragique, nihilisme, verite, volonte de puissance, eternel retour, etc.

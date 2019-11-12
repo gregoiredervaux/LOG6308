@@ -1,0 +1,2 @@
+TitreCours: Physiologie du travail et ergonomie
+DescriptionCours: Definitions. Donnees fondamentales. Buts et usages. Approches, methodes et mesures. Strategies d'intervention. Étude des grandes categories de problemes d'ergonomie : charges de travail, postes, etc.

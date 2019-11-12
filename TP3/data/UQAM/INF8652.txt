@@ -1,0 +1,2 @@
+TitreCours: Les reseaux sans fil et les reseaux mobiles
+DescriptionCours: Transmission sans fil de donnees. Protocoles d'acces. Reseaux mobiles et sans fil. Reseaux telephoniques. Reseaux satellites. Protocoles de mobilite. Plates-formes de mobilite. Reseaux ad hoc. Reseaux mobiles a haut debit. Normes et standards. Reseaux hybrides. Reseaux de capteurs.

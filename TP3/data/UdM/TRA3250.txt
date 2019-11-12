@@ -1,0 +1,2 @@
+TitreCours: Langue et traduction informatiques
+DescriptionCours: Termes et notions propres a l'environnement informatique des milieux de travail. Essai de presentation, dans une perspective globale, des reseaux terminologiques. Analyse et traduction de differents types de textes informatiques.

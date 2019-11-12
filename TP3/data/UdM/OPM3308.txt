@@ -1,0 +1,2 @@
+TitreCours: Lentilles corneennes 3.1
+DescriptionCours: Principes et methodes d'adaptation de lentilles toriques et multifocales. Solutions d'entretien. Pathologie, modifications des structures oculaires dues aux lentilles. Medicaments. Compilation et suivi. Ajustement des cas speciaux. Orthokeratologie.

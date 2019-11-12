@@ -1,0 +1,2 @@
+TitreCours: Chirurgie equine
+DescriptionCours: Deux semaines de travaux en chirurgie equine.

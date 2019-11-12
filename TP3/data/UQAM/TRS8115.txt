@@ -1,0 +1,2 @@
+TitreCours: Stage
+DescriptionCours: Le stage vise a permettre l'approfondissement d'une dimension de la pratique en travail social afin de developper une expertise particuliere. Il veut donner l'occasion de se perfectionner en regard d'une problematique, d'une approche, d'un mode d'intervention ou d'action dans une optique de renouvellement des pratiques sociales. Il peut prendre des formes variees: intervention specialisee, projet innovant, programmation de services, etc. Il peut etre reparti sur deux trimestres consecutifs.

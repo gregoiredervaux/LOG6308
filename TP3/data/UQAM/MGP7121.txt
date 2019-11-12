@@ -1,0 +1,2 @@
+TitreCours: Planification et controle operationnels de projet
+DescriptionCours: Le cours expose les concepts, techniques et habiletes necessaires pour planifier, organiser et controler un projet de facon efficace et plus specifiquement: propose un processus operationnel menant a l'etablissement d'un plan d'execution et de suivi de projet; initie les etudiants a l'utilisation des differentes techniques de planification, d'estimation, de suivi et de controle generalement utilisees en gestion de projet; expose les etudiants a la gestion informatisee de projet.

@@ -1,0 +1,2 @@
+TitreCours: Philosophie des Lumieres
+DescriptionCours: Étude des themes principaux de la philosophie du 18e siecle (pensee critique, sensualisme, materialisme, morale et politique, histoire, etc.) et de son importance dans le phenomene europeen des Lumieres.

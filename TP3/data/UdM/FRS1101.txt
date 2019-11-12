@@ -1,0 +1,2 @@
+TitreCours: Pratique du francais oral et ecrit 1
+DescriptionCours: Permettre a l'etudiant debutant de consolider et d'approfondir les competences de communication orale et ecrite dans des echanges brefs et previsibles, et d'approfondir les notions linguistiques de base.

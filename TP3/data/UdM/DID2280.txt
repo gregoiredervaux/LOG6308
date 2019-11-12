@@ -1,0 +1,2 @@
+TitreCours: Erreurs et obstacles d'apprent. en maths
+DescriptionCours: Outils de diagnostic general et specifique : epreuves, tests, entrevues cliniques. Étude, role et traitement des erreurs. Paradoxes de l'enseignement. Critique de strategies utilisees avec des eleves faibles ou forts en mathematiques.

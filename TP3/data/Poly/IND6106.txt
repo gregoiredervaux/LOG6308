@@ -1,0 +1,2 @@
+TitreCours: Modelisation
+DescriptionCours: Introduction a la theorie des systemes, isomorphisme, complexite, classes de processus. Resolution de problemes, modeles cognitifs, demarche conceptuelle. Representation des systemes, approches a la modelisation, approche qualitative, approche quantitative, modeles mathematiques, analyse fonctionnelle, calcul numerique, outils analytiques, applications a l'ingenierie, a l'economique, a l'administration, aux biosciences, etc. Contribution a la prise de decision, processus structure de decision, outils de diagnostic.

@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de formation professionnelle
+DescriptionCours: Élaboration d'un projet permettant de faire la synthese des connaissances et de les mettre en pratique dans le cadre d'une intervention planifiee en collaboration avec les divers intervenants du milieu scolaire.

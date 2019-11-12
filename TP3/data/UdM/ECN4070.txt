@@ -1,0 +1,2 @@
+TitreCours: Économie mathematique honor
+DescriptionCours: Élements avances de techniques d'analyse economique; optimisation dynamique et statique.

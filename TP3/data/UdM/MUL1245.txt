@@ -1,0 +1,2 @@
+TitreCours: Esthetique musicale
+DescriptionCours: Principes de base de l'esthetique musicale. Survol des tendances fondamentales de la pensee musicale de l'Antiquite aux Temps modernes.

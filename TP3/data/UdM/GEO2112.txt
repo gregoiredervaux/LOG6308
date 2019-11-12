@@ -1,0 +1,2 @@
+TitreCours: Phytogeographie
+DescriptionCours: Le role du milieu et de l'histoire dans la repartition des plantes et de la vegetation a la surface du globe. Tolerance, amplitude, optimum ecologiques. Structure et fonctionnement. Organisations spatiales.

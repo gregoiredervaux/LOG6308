@@ -1,0 +1,2 @@
+TitreCours: Theorie de Galois
+DescriptionCours: Extensions algebriques des corps; extension separable. Groupes de Galois. Correspondance galoisienne. Problemes classiques.

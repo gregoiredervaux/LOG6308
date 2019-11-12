@@ -1,0 +1,2 @@
+TitreCours: Éclairagisme et acoustique appliques
+DescriptionCours: Pratique de l'eclairagisme a l'aide d'etudes de cas et T. P. Étude generale de l'acoustique des salles, au moyen d'exemples concrets, et analyse du controle du bruit et ses implications a differents paliers. Analyse des methodes d'insonorisation.

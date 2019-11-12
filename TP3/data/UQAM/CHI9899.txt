@@ -1,0 +1,2 @@
+TitreCours: Les indices environnementaux
+DescriptionCours: Definition d'un indice environnemental. Nomenclature des indices. Structure et proprietes des indices. Criteres de choix d'un indice pour une situation donnee. Utilisation des indices suivant leur structure. Avantages et inconvenients des indices. Applications de divers indices: indices biotiques, indices de diversite, indices d'amenagement, indices de planification, indices de potentiel, indices d'impact, indices de qualite de l'eau, indices de qualite de l'air, etc.

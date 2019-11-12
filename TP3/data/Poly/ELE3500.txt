@@ -1,0 +1,2 @@
+TitreCours: Ondes lectromagntiques
+DescriptionCours: Propagation libre et guide des ondes lectromagntiques. Lignes de transmission: solutions dans les domaines temporel et frquentiel, adaptation d'impdance, abaque de Smith. Ondes planes: quations de Maxwell, ondes planes uniformes, rflexions et transmissions  l'interface de deux milieux, polarisation, effet de peau, effet Doppler, diple de Hertz. Antennes; formule de Friis. Guides d'ondes: quation de Helmholtz, modes TE, TM et TEM dans les guides mtalliques, frquence de coupure, guides dilectriques et fibres optiques.

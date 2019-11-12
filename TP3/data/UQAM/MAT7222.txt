@@ -1,0 +1,2 @@
+TitreCours: Histoire des mathematiques
+DescriptionCours: Rappel general de l'histoire des mathematiques. Choix de periodes, de themes, de sujets ou d'auteurs. Developpement selon les orientations suivantes avec des ponderations variables: Liens avec l'enseignement des mathematiques. Étude d'un ou de plusieurs essais d'integration de l'histoire des mathematiques a l'enseignement de concepts mathematiques; Étude des rapports entre l'histoire des mathematiques et l'epistemologie des mathematiques; Point de vue strictement mathematique.

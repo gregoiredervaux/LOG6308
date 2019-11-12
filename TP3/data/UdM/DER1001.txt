@@ -1,0 +1,2 @@
+TitreCours: Prothese partielle fixe theorique
+DescriptionCours: Principes et techniques qui regissent la preparation des dents comme piliers de prothese fixe.

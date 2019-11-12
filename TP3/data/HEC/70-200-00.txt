@@ -1,0 +1,2 @@
+TitreCours: Propedeutique en finance
+DescriptionCours: Apprentissage de base en finance. Concepts de risque et d'actualisation. Gestion financiere et choix d'investissement. Fonctionnement des marches financiers. texte contenuRubrique div rubrique

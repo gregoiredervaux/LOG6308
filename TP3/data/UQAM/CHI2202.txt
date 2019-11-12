@@ -1,0 +1,2 @@
+TitreCours: Les elements et le tableau periodique
+DescriptionCours: Étude detaillee des proprietes des elements non transitionnels en relation avec le tableau periodique. Structure de l'atome. La liaison chimique et les forces de Van der Waals. Proprietes de la liaison covalente et de la liaison ionique. Hybridation et geometrie des molecules. Revue de la chimie generale. Interactions dans des grands echantillons d'atomes, la chimie des anions. Solvants, solutions, concepts acide-bases. Tableau periodique. Seances d'exercices.

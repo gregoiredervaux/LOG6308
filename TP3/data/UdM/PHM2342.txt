@@ -1,0 +1,2 @@
+TitreCours: Pharmacie galenique
+DescriptionCours: Preformulation, caracterisation des poudres, formes pharmaceutiques seches (comprimes, gelules), solutions, sirops, suspensions, emulsions, dispersions colloidales.

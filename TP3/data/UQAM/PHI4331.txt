@@ -1,0 +1,2 @@
+TitreCours: Le discours moral
+DescriptionCours: Par l'analyse du langage moral, faire acceder l'etudiant a une utilisation critique de ce langage. Formation et developpement des concepts moraux: nature du jugement moral et des predicats moraux, signification du bien, fondement de l'interdiction et de la sanction. Introduction a l'analyse contemporaine du langage moral.

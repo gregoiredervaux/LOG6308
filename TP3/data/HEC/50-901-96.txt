@@ -1,0 +1,2 @@
+TitreCours: Le modele comptable
+DescriptionCours: L'objectif du cours sera de permettre a l'etudiant d'acquerir des connaissances generales sur les etats financiers.&nbsp; Les objectifs specifiques du cours sont :   d'initier l'etudiant aux concepts fondamentaux sur lesquels repose l'application des principes comptables suivis par les entreprises dans la preparation de leurs etats financiers;  de transmettre les connaissances de base concernant les normes de presentation des etats financiers.

@@ -1,0 +1,2 @@
+TitreCours: Travail dirige II
+DescriptionCours: Poursuite de l'etude amorcee au Travail dirige I en mettant l'accent sur l'evaluation, qui fait aussi l'objet du stage concomitant. L'etudiant aura donc l'occasion de se pencher sur une methode d'investigation particuliere liee a la problematique precisee en I. Doit etre pris concurremment avec le PSY8320.

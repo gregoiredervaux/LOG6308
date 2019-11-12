@@ -1,0 +1,2 @@
+TitreCours: Principes de pharmacologie
+DescriptionCours: Generalites et definitions de base, absorption, distribution, biotransformation et elimination des medicaments; mecanismes d'action, recepteurs, dose-reponse, selectivite et affinite; pharmacologie des grands systemes; pharmacologie humaine.

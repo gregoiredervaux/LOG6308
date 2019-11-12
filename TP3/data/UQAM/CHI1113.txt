@@ -1,0 +1,2 @@
+TitreCours: Travaux pratiques en chimie organique
+DescriptionCours: Initiation aux techniques generales utilisees en chimie organique a l'echelle micro. Initiation a l'utilisation de la bibliotheque virtuelle et les ressources du Web. Distillation, cristallisation, extraction, chromatographie sur couche mince et sur colonne, determination de constantes physiques et spectrales. Approfondissement de la lecture de spectres I.R. et R.M.N. Syntheses simples a l'echelle micro en relation avec le cours CHI1301. Cours de travaux pratiques

@@ -1,0 +1,2 @@
+TitreCours: Stage : Psychiatrie de l'adulte
+DescriptionCours: Stage clinique en psychiatrie de l'adulte.

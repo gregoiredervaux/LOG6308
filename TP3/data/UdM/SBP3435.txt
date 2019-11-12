@@ -1,0 +1,2 @@
+TitreCours: Pharmacogenetique et pharmacogenomique
+DescriptionCours: Principes de base de biotechnologie, genomique et proteomique. Techn. de base. Modele de Knock-out. Genomes des plastides. Genetique hum. et des populations. Strat. de developpement d&rsquo;un agent. Pharmacogenetique et approche statistique.Therapeutique.

@@ -1,0 +1,2 @@
+TitreCours: Environnement minier et restauration de sites
+DescriptionCours: Problematique de gestion des rejets miniers. Processus de formation du drainage minier acide (DMA). Techniques de predictions du DMA. Modelisation geochimique du DMA. Mouvements de l'eau et des gaz. Methodes de controle du DMA. Couvertures en eau, couvertures multicouches. Traitement biologique passif du DMA. Étude de cas.

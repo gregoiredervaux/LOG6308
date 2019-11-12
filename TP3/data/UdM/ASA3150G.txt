@@ -1,0 +1,2 @@
+TitreCours: Gestion strategique du changement
+DescriptionCours: Dans un reseau en mutation, comprendre, initier, mettre en oeuvre et reussir les changements, en utilisant des strategies qui favorisent l'adaptation et la mobilisation des personnes et des equipes.

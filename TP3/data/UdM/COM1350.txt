@@ -1,0 +1,2 @@
+TitreCours: Communication, cognition, emotions
+DescriptionCours: Apercu des fondements philosophiques, theoriques et methodologiques de theories cognitives et affectives en psychologie et de leurs influences sur les sciences de la communication.

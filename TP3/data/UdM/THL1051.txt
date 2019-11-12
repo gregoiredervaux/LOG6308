@@ -1,0 +1,2 @@
+TitreCours: Stage en intervention catechetique
+DescriptionCours: Preparation et execution d'une activite catechetique supervisee. Definition des objectifs, elaboration des contenus et strategies, realisation. Retour critique, exploration et integration des habiletes personnelles.

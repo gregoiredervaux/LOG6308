@@ -1,0 +1,2 @@
+TitreCours: Propedeutique en marketing
+DescriptionCours: Il s'agit d'un cours d'introduction dont les objectifs sont : 1. d'exposer les participants aux concepts fondamentaux du marketing; 2. de faire connaitre les outils du gestionnaire de marketing et leurs interrelations.  Description du cours :  Cours 1 : Nature et role du marketing Cours 2 : Le comportement des consommateurs Cours 3 : Marche et strategies Cours 4 : Le marketing mix Cours 5 : La planification marketing

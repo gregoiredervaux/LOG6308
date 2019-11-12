@@ -1,0 +1,2 @@
+TitreCours: Électromagnetisme
+DescriptionCours: Familiariser l'etudiant avec les concepts et les methodes analytiques utilises en electromagnetisme. Les etudiants seront habilites a calculer, par exemple, des champs electriques ou magnetiques, des potentiels, des inductions mutuelles dans differentes configurations de charges ou courants. Pour ce faire, plusieurs outils et techniques mathematiques, telles les integrales curvilignes, sont developpes pendant le cours.

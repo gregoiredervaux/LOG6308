@@ -1,0 +1,2 @@
+TitreCours: Instrument principal
+DescriptionCours: Acquisition et application de connaissances musicales particulieres a la musique populaire par le biais de la pratique du solo, de l'accompagnement et de l'improvisation. Presentation en public d'un examen-concert d'une duree d'environ trente minutes. Lecons individuelles (quinze heures).

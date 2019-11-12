@@ -1,0 +1,2 @@
+TitreCours: Stage preclinique veterinaire 1
+DescriptionCours: Travaux pratiques de contention et de manipulation des differentes especes d'animaux domestiques. Stages au Refuge et a la ferme Makista. Travaux pratiques en relation avec les cours theoriques.

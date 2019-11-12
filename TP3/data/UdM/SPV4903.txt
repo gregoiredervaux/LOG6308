@@ -1,0 +1,2 @@
+TitreCours: Analyse du risque en medecine vet.
+DescriptionCours: Analyse du risque en med. vet. Sources de contamination ferme et abattoir: moyens de controle (BPF, HACCP, ISO). Gestion et communication du risque: ferme et hopital vet. Applic. de l'analyse du risque a des probl. d'actualite en hygiene des viandes.

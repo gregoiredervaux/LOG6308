@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese et d'integration
+DescriptionCours: Bilan des acquis en fonction des objectifs d'apprentissage; identification des competences interculturelles transferables a divers secteurs d'activite; exploration des modalites de suivi et de mise a jour des competences developpees.

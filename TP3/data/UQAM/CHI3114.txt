@@ -1,0 +1,2 @@
+TitreCours: Analyse chimique instrumentale I
+DescriptionCours: Analyse chimique des elements par spectrographie d'emission, absorption atomique, fluorescence des rayons-X, electrochimie, colorimetrie et spectrometrie de masse. Discussion et comparaison sur la base des resultats obtenus lors de travaux pratiques, de la valeur relative des diverses methodes.

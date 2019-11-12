@@ -1,0 +1,2 @@
+TitreCours: Chimie des eaux naturelles
+DescriptionCours: Principes d'equilibres chimiques appliques aux systemes aqueux. Les equilibres acide-base, le Ph et le pouvoir tampon. Analyse des systemes calco-carboniques des eaux naturelles. Solubilite des solides et equilibres de solubilite. Reactions d'oxydo-reduction et de complexation dans les eaux. Identification et analyse des parametres de caracterisation chimique des eaux. Étude comparative d'eaux naturelles non perturbees avec des eaux soumises a une pollution industrielle, urbaine ou autre.

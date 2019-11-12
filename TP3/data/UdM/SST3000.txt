@@ -1,0 +1,2 @@
+TitreCours: Stage d'integration en SST
+DescriptionCours: Activite d'integration pratique d'acquis theoriques realisee sous la responsabilite d'un tuteur et d'un superviseur.

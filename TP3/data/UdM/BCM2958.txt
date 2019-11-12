@@ -1,0 +1,2 @@
+TitreCours: T. P. de biochimie generale
+DescriptionCours: Introduction aux methodes biochimiques. Enzymologie, spectrophotometrie, chaine respiratoire. Biologie moleculaire, transformation, purifications d'ADN, cartographie de restriction.

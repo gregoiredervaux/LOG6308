@@ -1,0 +1,2 @@
+TitreCours: Programmation 1
+DescriptionCours: Élements de base d'un langage de programmation : types, expressions, enonces conditionnels et iteratifs, procedures, fonctions, parametres, recursivite, tableaux, enregistrements, pointeurs et fichiers.

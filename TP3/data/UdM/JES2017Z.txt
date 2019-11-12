@@ -1,0 +1,2 @@
+TitreCours: Planifier et evaluer en concertation
+DescriptionCours: Connaissance de base permettant de comprendre et d'introduire un processus de planification et d'evaluation dans le cadre d'activites ou de programmes.

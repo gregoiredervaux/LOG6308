@@ -1,0 +1,2 @@
+TitreCours: Litterature portugaise
+DescriptionCours: Études des principaux courants litteraires du XVe siecle a nos jours.

@@ -1,0 +1,2 @@
+TitreCours: Nutrition generale
+DescriptionCours: Bases de la nutrition et importance de l'apport des nutriments pour la sante. Applications aux besoins aux differentes periodes de la vie. Groupe d'aliments : sources de nutriments et effets des procedes technologiques sur leur valeur nutritive.

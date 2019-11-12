@@ -1,0 +1,2 @@
+TitreCours: Introduction aux etudes litteraires
+DescriptionCours: Objet et methode des etudes litteraires ; presentation des concepts de base ; reflexion sur la litterature comme champ de savoir ; etude de textes appartenant a des genres, a des periodes et a des aires de la francophonie differents.

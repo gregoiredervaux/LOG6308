@@ -1,0 +1,2 @@
+TitreCours: Audio
+DescriptionCours: Atelier axe sur les problematiques de captation, de traitement et de transformation du son et de l'image video. Saisie par la prise de sons et la prise de vues en exterieur et en studio. Familiarisation aux regles des plans sonores et visuels, du cadrage (champ), de sa mobilite (deplacement du sujet ou du micro et de la camera) et de l'eclairage. Numerisation, calibrage, montage non lineaire. Exploration des procedes d'incrustation et de filtres. Optimisation des fichiers pour integration aux technologies du multimedia.

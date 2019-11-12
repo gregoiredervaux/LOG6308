@@ -1,0 +1,2 @@
+TitreCours: Methodologie de la recherche
+DescriptionCours: Ce cours vise l'acquisition des competences methodologiques necessaires a la delimitation et a l'elaboration d'un sujet de these. Cet objectif est atteint par une etude du processus de recherche qui comprend: enonce de problemes, formulation des hypotheses, maitrise des instruments de travail (dont l'etablissement d'une bibliographie), presentation des diverses etapes d'un projet de these de doctorat. Une partie de ce travail se fait par tutorat.

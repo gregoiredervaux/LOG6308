@@ -1,0 +1,2 @@
+TitreCours: Psychosociologie des organisations et technologies
+DescriptionCours: Étude de la technologie et de son impact sur les taches et les roles. Analyse de l'environnement d'un point de vue economique et technologique. Impact de l'environnement sur la structure des organisations. Les trois relations technologiques: machine-produit, individu-produit, individu-machine. Design des positions. L'homme au travail, apports psychosociologiques. Techniques d'amelioration des conditions de travail. Intervention et participation. Negociation des reformes.

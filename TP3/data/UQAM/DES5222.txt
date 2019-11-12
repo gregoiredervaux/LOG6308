@@ -1,0 +1,2 @@
+TitreCours: Illustration technique
+DescriptionCours: Transposition de donnees techniques en illustration. Organisation mecanique de l'information. Systemes de notation. Étude de differents systemes de representation visuelle.

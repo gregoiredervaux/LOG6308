@@ -1,0 +1,2 @@
+TitreCours: Lecture dirigee I
+DescriptionCours: Cette activite est individualisee. Chaque etudiant soumet a son comite de recherche un programme de lecture, en fonction de son projet de recherche, dans une approche interdisciplinaire.

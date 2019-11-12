@@ -1,0 +1,2 @@
+TitreCours: Methodes stochastiques en finance II
+DescriptionCours: Contrats a terme boursiers. Modele de Black. Options sur contrats a terme. Options exotiques: aisatique, rainbow, barrier, etc. Structure des taux d'interet. Courbe de rendement. Obligations. Modeles de taux a court terme. Modeles de courbes de taux. Contrats a terme sur obligations. Options sur obligations. Swaps. Obligations rachetables.

@@ -1,0 +1,2 @@
+TitreCours: Bibliographie
+DescriptionCours: Redaction d'un rapport synthese base sur des travaux bibliographiques sur un sujet geologique choisi.

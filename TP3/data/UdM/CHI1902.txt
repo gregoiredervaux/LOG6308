@@ -1,0 +1,2 @@
+TitreCours: Appropriation des techniques en C.E.C.
+DescriptionCours: Stage de 4 mois : appropriation progressive des techniques utilisees en circulation extracorporelle. Approfondissement et integration des connaissances.

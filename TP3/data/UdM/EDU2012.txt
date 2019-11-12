@@ -1,0 +1,2 @@
+TitreCours: Stage d'initiation a l'enseignement
+DescriptionCours: Observation et analyse des differentes facettes de la tache enseignante. Prise en charge progressive de periodes d'enseignement.

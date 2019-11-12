@@ -1,0 +1,2 @@
+TitreCours: Scientific and Technical Writing
+DescriptionCours: Permettre a l'etudiant ayant une bonne connaissance de l'anglais de developper ses competences dans la redaction scientifique et technique. Cours concu et elabore en fonction des besoins specifiques d'un groupe.

@@ -1,0 +1,2 @@
+TitreCours: Francais ecrit
+DescriptionCours: Ameliorer la qualite du francais ecrit des etudiants non francophones. Passer en revue les problemes lies au genre des noms, a la nature et a la fonction des mots dans la phrase, au choix et a l'emploi des prepositions et des conjonctions.

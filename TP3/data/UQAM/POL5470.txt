@@ -1,0 +1,2 @@
+TitreCours: Politique paneuropeenne
+DescriptionCours: Analyse comparative de la politique de pays de l'ouest et de l'est de l'Europe et des rapports entre ces pays. Le choix des pays retenus reste ouvert et l'analyse peut etre axee sur un ou plusieurs themes: institutions politiques, infrastructure economique, conflits et cooperation inter-etatiques, etc.

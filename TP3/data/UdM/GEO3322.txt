@@ -1,0 +1,2 @@
+TitreCours: Geographie de la sante et environnement
+DescriptionCours: Histoire, methodologie, mesures descriptives, construction de cartes thematiques, analyse spatiale, etat de sante des populations, notion de risque, ecologie des maladies, changements ecologiques, maladies emergentes, la pollution.

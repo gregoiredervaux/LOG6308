@@ -1,0 +1,2 @@
+TitreCours: Recherche en communaute linguistique
+DescriptionCours: Apprentissage et pratique des techniques de l'etude d'une communaute linguistique : echantillonnage, enregistrement (contextes naturels et d'entrevue); transcription; traitement des variables linguistiques et sociales; analyse.

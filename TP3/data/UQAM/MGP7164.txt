@@ -1,0 +1,2 @@
+TitreCours: Changement organisationnel
+DescriptionCours: Ce cours vise a sensibiliser les etudiants a la problematique du changement organisationnel en gestion de projet. Les principaux themes abordes seront l'etude de l'impact du changement sur le fonctionnement des organisations et sur les personnes qui y vivent, les phenomenes de resistance au changement, les approches et techniques de changement planifie et de developpement organisationnel. Ce cours a une duree de 15 heures.

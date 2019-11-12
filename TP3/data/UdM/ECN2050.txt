@@ -1,0 +1,2 @@
+TitreCours: Theorie macroeconomique 1
+DescriptionCours: Modele IS-LM en economie fermee et en economie ouverte; fluctuations des taux de change; marche du travail et offre globale; courbe de Phillips.

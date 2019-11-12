@@ -1,0 +1,2 @@
+TitreCours: Projet de fin d
+DescriptionCours: Le projet de fin d'etudes individualise permet a l'etudiant une initiation a la recherche experimentale ou theorique dans les divers domaines de la physique ou de la didactique de la physique. Il peut s'agir d'un travail en laboratoire ou dans un organisme exterieur, d'une etude en lectures dirigees, d'un travail bibliographique donnant lieu a un memoire, ou de toute autre formule convenue avec le professeur responsable.

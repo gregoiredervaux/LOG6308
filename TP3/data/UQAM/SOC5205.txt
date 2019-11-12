@@ -1,0 +1,2 @@
+TitreCours: Methodologie quantitative avancee
+DescriptionCours: Ce cours presente et initie a certaines methodes quantitatives avancees. Rappel de certains elements du cours «Analyse quantitative». Apprentissage de quelques techniques parmi l'analyse des series chronologiques, l'analyse factorielle, l'analyse causale (path analysis), les classifications et typologies.

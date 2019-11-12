@@ -1,0 +1,2 @@
+TitreCours: Stage
+DescriptionCours: Stage de travail approfondi de 40 jours dans une organisation publique ou privee. Redaction d'un rapport de stage analytique. Travail evalue par le coordonnateur des stages sous la supervision des professeurs du Departement.

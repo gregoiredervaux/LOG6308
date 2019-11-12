@@ -1,0 +1,2 @@
+TitreCours: Exposition
+DescriptionCours: Les types d'exposition, leur planification et modes de presentation. La fonction interpretation et le contexte educatif: techniques de communication avec le public. Cours theorique et pratique.

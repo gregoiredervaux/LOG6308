@@ -1,0 +1,2 @@
+TitreCours: Systemes d'exploitation
+DescriptionCours: Fonctions principales. Gestion du parallelisme. Synchronisation. Interblocage. Ordonnancement. Gestion de la memoire et des entrees/sorties. Fichiers. Protection et systemes distribues.

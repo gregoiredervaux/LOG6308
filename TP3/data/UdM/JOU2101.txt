@@ -1,0 +1,2 @@
+TitreCours: Atelier de presse ecrite 1
+DescriptionCours: Initiation a la pratique journalistique dans une salle de redaction. Redaction de nouvelles et autres textes journalistiques pour un quotidien a partir de sources documentaires, d'entrevues et de reportages.

@@ -1,0 +1,2 @@
+TitreCours: Dentisterie preventive communautaire
+DescriptionCours: Activites cliniques en soins preventifs primaires et activites extra-murales aupres des ecoliers et des populations a risque.

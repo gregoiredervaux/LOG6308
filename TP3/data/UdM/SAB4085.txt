@@ -1,0 +1,2 @@
+TitreCours: Parodontie clinique 2
+DescriptionCours: Chaque etudiant devra participer a tous les aspects des traitements parodontaux. A la fin de son stage clinique, il saura comment diagnostiquer, proposer des traitements, prevenir et traiter toutes les affections des tissus parodontaux.

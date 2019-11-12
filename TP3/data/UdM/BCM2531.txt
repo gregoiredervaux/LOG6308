@@ -1,0 +1,2 @@
+TitreCours: Travaux pratiques 2
+DescriptionCours: Methodes d'analyses radioisotopiques et non isotopiques en biochimie. Cinetique enzymatique. Étude spectrophotometrique de la chaine respiratoire de la mitochondrie. Techniques de manipulations des micro-organismes et d'analyses de l'ADN recombinant.

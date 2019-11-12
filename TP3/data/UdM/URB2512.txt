@@ -1,0 +1,2 @@
+TitreCours: Labo-atelier 2 propositions d'urbanisme
+DescriptionCours: Formulation d'orientations et d'objectifs et elaboration d'un concept d'amenagement sur la base de l'enonce d'une problematique specifique a un milieu d'intervention. Identification d'un programme et de propositions d'interventions.

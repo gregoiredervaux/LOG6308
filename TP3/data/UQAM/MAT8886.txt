@@ -1,0 +1,2 @@
+TitreCours: Seminaire de maitrise en statistique I
+DescriptionCours: Ce seminaire a pour but de favoriser l'acces a divers domaines specialises ou nouveaux en statistique ainsi que l'initiation a la recherche.

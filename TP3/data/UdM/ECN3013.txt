@@ -1,0 +1,2 @@
+TitreCours: Choix collectifs
+DescriptionCours: Analyse axiomatique de l'efficacite, de l'equite et de la decentralisabilite des regles de choix collectifs dans les problemes de vote, d'allocation de biens prives, de production de biens publics et de partage de coûts.

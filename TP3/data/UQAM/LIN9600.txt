@@ -1,0 +1,2 @@
+TitreCours: Theories du changement linguistique
+DescriptionCours: Ce seminaire traitera de divers phenomenes connus de changement linguistique dans les langues naturelles et des hypotheses d'interpretation qui en ont ete proposees. Il montrera que la theorie du changement n'est pas independante de la theorie de la grammaire. Les domaines servant a la demonstration - phonologie, morphologie, semantique ou syntaxe - seront choisis en fonction des ressources disponibles et des interets des etudiants.

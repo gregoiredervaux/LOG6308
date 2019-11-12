@@ -1,0 +1,2 @@
+TitreCours: Initiation clinique 1
+DescriptionCours: Trois semaines de travaux en clinique des petits animaux. Stage d'ete hors programme entre la 1re et la 2e annee du Doctorat en medecine veterinaire.

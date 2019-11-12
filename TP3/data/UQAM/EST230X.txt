@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de pratique theatrale I
+DescriptionCours: Exploration d'une pratique theatrale specifique. Apprentissage des differentes etapes conduisant a cette pratique. Ce cours est suivi d'un atelier de trois heures pour fins d'exercices, de repetition, etc. Cours a contenus variables.

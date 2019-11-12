@@ -1,0 +1,2 @@
+TitreCours: Gestion/jurisprudence en optometrie
+DescriptionCours: Étude du marche de l'optique et d'elements permettant d'operer des choix eclaires quant a la pratique optometrique.

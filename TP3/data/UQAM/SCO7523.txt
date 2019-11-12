@@ -1,0 +1,2 @@
+TitreCours: Gestion financiere d
+DescriptionCours: Fournir aux etudiants un cadre pour la prise de decision en matiere de gestion financiere. Analyse financiere. Gestion des investissements. Gestion du fonds de roulement. Les marches financiers et les modeles risque-rendement. Financement. Évaluation d'entreprises.

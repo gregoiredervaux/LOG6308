@@ -1,0 +1,2 @@
+TitreCours: Éducation,consultation en physiotherapie
+DescriptionCours: Theorie de l'apprentissage. Methodes d'enseignement appliquees aux besoins du milieu clinique. Communication efficace. Raisonnement clinique et prise de decision. Preparation au role de consultant.

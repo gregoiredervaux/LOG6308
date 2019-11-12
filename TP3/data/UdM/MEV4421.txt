@@ -1,0 +1,2 @@
+TitreCours: Medecine des chevaux sportifs
+DescriptionCours: Problemes medicaux relies aux competitions equines. Élements d'alimentation, de regie, de ferrage et d'entrainement. Methodes diagnostiques et therapeutiques chez le cheval de competition.

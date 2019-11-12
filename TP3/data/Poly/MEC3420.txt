@@ -1,0 +1,2 @@
+TitreCours: Materiaux polymeres
+DescriptionCours: Les polymeres comme classe des materiaux d'ingenieur. États vitreux, caoutchouteux et semi-cristallin. Relations entre la structure et les proprietes; cristallisation et orientation. Composantes de plastiques, elastomeres et de composites. Élements de viscoelasticite. Principaux plastiques et elastomeres commercialises. Proprietes mecaniques a court et a long termes. Exemples de calcul de structures simples.

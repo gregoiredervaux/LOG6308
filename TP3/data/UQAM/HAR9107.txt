@@ -1,0 +1,2 @@
+TitreCours: Forum doctoral
+DescriptionCours: Ce forum a lieu a chaque annee. Afin de promouvoir l'eclosion d'une communaute intellectuelle dans le programme, le forum rassemble les professeurs affectes au programme et les etudiants en scolarite. Ceux-ci presentent leurs travaux de recherche de these. Chaque etudiant fera une presentation au forum doctoral en cours de scolarite qui sera evaluee par un jury compose de trois professeurs. Cette activite est evaluee selon la notation succes-echec.

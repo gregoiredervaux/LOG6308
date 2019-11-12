@@ -1,0 +1,2 @@
+TitreCours: Projet de stage
+DescriptionCours: Le cours a pour objectif d'encadrer l'elaboration d'un projet de stage de l'etudiant qui a choisi de faire la maitrise avec stage. Le projet de stage comprend l'indication du sujet et de l'organisme ou se deroulera le stage; une revue de la litterature, la problematique, le cadre theorique, ainsi que les hypotheses, la methodologie, les techniques d'analyse, une proposition de programme de travail precisant les etapes de la recherche et l'echeancier envisage.

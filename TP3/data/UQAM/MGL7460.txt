@@ -1,0 +1,2 @@
+TitreCours: Realisation et maintenance de logiciels
+DescriptionCours: Role de la realisation et de la maintenance dans le cycle de vie du logiciel. Évolution et maintenance du logiciel. Methodes propres a etendre la duree de vie. Selection de la methode appropriee de realisation. Prototypage. Mise au point. Gestion de la maintenance. Reutilisation et retro-ingenierie des logiciels. L'interaction entre realisation et maintenance sera traitee tout au long du cours.

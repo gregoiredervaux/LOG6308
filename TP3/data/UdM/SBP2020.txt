@@ -1,0 +1,2 @@
+TitreCours: Pharmacologie fonctionnelle et exp. 2
+DescriptionCours: Pharmacodynamie fonctionnelle des cibles moleculaires (echangeurs et canaux ioniques, recepteurs, enzymes) et de transmission neurohumorale (cholinergique, adrenergique) Developpement et interpretation des essais. Therapeutique.

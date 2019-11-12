@@ -1,0 +1,2 @@
+TitreCours: Methodologie quantitative en recherche sexologique
+DescriptionCours: Examen et analyse des postulats, fondements de la demarche de recherche sexologique selon le modele hypothetico-deductif. Examen et analyse critique des outils (questionnaires, tests, echelles, etc.) et techniques de recherche et des moyens d'analyse quantitative: theorie statistique de la decision, tests de signification, analyse de la variance, analyse factorielle, regression et correlation. Prospectives et limites des applications des applications de la methode quantitative en sexologie.

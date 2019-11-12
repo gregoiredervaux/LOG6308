@@ -1,0 +1,2 @@
+TitreCours: Sujets en economie publique
+DescriptionCours: Cours a contenu variable abordant divers themes de recherche actuels en economie publique.

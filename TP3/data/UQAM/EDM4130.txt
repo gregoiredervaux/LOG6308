@@ -1,0 +1,2 @@
+TitreCours: Realisation 1
+DescriptionCours: A travers un ensemble de cours theoriques et d'exercices pratiques appuyes sur le cinema de fiction et le documentaire, l'atelier aborde les notions suivantes: le plan, le cadre, la composition, la lumiere, la couleur. Le rapport entre le temps et le mouvement, entre les images et la realite concrete, entre l'evenement reel et l'evenement cinematographique. D'autre part, le cours aborde les fonctions reliees a la realisation au sein de l'equipe de tournage.

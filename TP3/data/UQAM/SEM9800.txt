@@ -1,0 +1,2 @@
+TitreCours: Examen d
+DescriptionCours: Destine a verifier si l'etudiant a bien assimile les connaissances acquises durant le cycle de recherche, cet examen porte sur le projet de these, notamment sur la valeur des hypotheses developpees, la maitrise des methodologies semiotiques utilisees, la capacite de l'etudiant a realiser le projet propose, la pertinence et la connaissance de la bibliographie, etc. Le directeur de these est membre d'office du jury de cet examen (jury constitue minimalement de trois professeurs).

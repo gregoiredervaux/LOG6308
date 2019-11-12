@@ -1,0 +1,2 @@
+TitreCours: Production alimentaire
+DescriptionCours: Nouvelles sources de proteines. Études des aspects biochimiques de la production biologique de proteines a partir des sous-produits de l'industrie. Étude approfondie des composantes biochimiques et biophysiques de la production des plantes vertes des surfaces terrestres et maritimes. Production, conservation et transformation dans le domaine alimentaire.

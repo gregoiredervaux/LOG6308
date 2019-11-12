@@ -1,0 +1,2 @@
+TitreCours: Microbiologie veterinaire
+DescriptionCours: Morphologie, isolement, culture, croissance et metabolisme bacteriens. Genetique microbienne. Morpho. et physio. des mycetes. Intro. a l'immunologie, virologie. Travaux pratiques sur les microorganismes impliques dans les infections en med. vet.

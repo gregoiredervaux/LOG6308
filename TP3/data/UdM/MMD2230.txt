@@ -1,0 +1,2 @@
+TitreCours: Respiration et oxygenation
+DescriptionCours: Tabac, asthme, maladies pulmonaires obstructives, neoplasies, phenomenes thromboemboliques, infections pulmonaires, traumatismes, syndrome de detresse respiratoire, de pneumologie pediatrique, ORL (voies respiratoires superieures).

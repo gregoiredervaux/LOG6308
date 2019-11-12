@@ -1,0 +1,2 @@
+TitreCours: Pathologies du syst. locom. des chevaux
+DescriptionCours: Étude des pathologies du systeme locomoteur des chevaux par rapport au diagnostic clinique, a l'imagerie medicale, (radiologie, echographie) et a la therapeutique.

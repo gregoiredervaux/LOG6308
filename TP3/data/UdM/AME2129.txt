@@ -1,0 +1,2 @@
+TitreCours: Geometrie spatiale
+DescriptionCours: Methodes de representation de l'espace tridimensionnel en deux dimensions par les projections doubles. Élements de la geometrie dans l'espace. Developpement de la vision spatiale.

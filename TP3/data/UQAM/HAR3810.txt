@@ -1,0 +1,2 @@
+TitreCours: Les arts visuels de la Prehistoire au Xe siecle
+DescriptionCours: Étude de la production en arts visuels de la periode historique etudiee. Presentation du vocabulaire technique et stylistique a partir d'un corpus d'oeuvres choisies et de differents aspects de l'historiographie propre a cette periode de l'histoire de l'art.

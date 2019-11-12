@@ -1,0 +1,2 @@
+TitreCours: Did. de l'arithmetique en adapt. scol.
+DescriptionCours: Étude de concepts, procedures, attitudes et raisonnement en arithmetique, statistique et probabilite. Situations didactiques, ingenieries et evaluation. Prevention.

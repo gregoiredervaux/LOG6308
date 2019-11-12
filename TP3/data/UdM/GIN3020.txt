@@ -1,0 +1,2 @@
+TitreCours: Communication graphique
+DescriptionCours: Cours de l'École Polytechnique.

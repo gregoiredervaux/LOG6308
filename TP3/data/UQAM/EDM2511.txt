@@ -1,0 +1,2 @@
+TitreCours: Atelier de creation sonore media
+DescriptionCours: Atelier de production audio avancee, dans une optique de diffusion media: radio, television, cinema, publicite, creation d'un environnement sonore; utilisation des sonorites electro-acoustiques; systemes analogique et numerique; productions appropriees et evaluation.

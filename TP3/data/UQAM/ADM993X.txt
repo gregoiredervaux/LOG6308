@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique en strategie de gestion
+DescriptionCours: Seminaire a contenu variable portant sur la strategie de gestion.

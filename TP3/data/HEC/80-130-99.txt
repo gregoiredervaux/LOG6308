@@ -1,0 +1,2 @@
+TitreCours: Applications de la theorie des jeux
+DescriptionCours: Ce cours est forme de deux blocs. Dans la premiere partie, on fournit une introduction generale a la theorie des jeux.&nbsp; Il s'agira a ce niveau de definir rigoureusement les principaux concepts de cette theorie et de familiariser l'etudiant a leurs utilisations a travers une serie d'exemples et d'exercices. Dans la deuxieme partie, on s'interessera a des applications de la theorie des jeux a l'analyse de problemes courants dans les domaines de la gestion qui interessent les etudiants.

@@ -1,0 +1,2 @@
+TitreCours: Atelier d'architecture 4
+DescriptionCours: La tectonique. Apprentissage de la composition architecturale a travers le projet. L'etudiant doit integrer dans l'expression architecturale certains aspects fonctionnels, materiels et techniques.

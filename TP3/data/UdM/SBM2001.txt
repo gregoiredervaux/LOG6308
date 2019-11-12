@@ -1,0 +1,2 @@
+TitreCours: Systeme nerveux
+DescriptionCours: Anatomie, physiologie, pathologie et pharmacologie du systeme nerveux. Aspects fondamentaux de la structure et de la physiologie du systeme nerveux. Études des principaux systemes sensoriels, moteurs et vegetatifs.

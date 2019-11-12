@@ -1,0 +1,2 @@
+TitreCours: Technologie des fermentations
+DescriptionCours: Cours relevant de l'I.N.R.S. Introduction. «Design» de bioreacteurs. Milieux de culture utilises pour les fermentations. Sterilisation des milieux de culture. Sterilisation de l'air. Aeration et agitation. Fermentations en lots, par addition intermittente de substrat ainsi qu'en continu. Cinetique de la croissance. Recuperation des produits de fermentation. Systemes de controle des variables environnementales.

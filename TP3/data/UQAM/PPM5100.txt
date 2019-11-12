@@ -1,0 +1,2 @@
+TitreCours: Projet d
+DescriptionCours: S'il est individuel, le projet peut prendre diverses formes: stage, lectures, visites, recherche, participation a un groupe de travail, etc. S'il est collectif, chaque membre du groupe participe aux phases de choix, d'elaboration, d'execution et d'evaluation. Dans tous les cas, le projet doit etre approuve par l'encadreur qui evalue avec l'etudiant ou le groupe d'etudiants la pertinence du projet en regard de la formation professionnelle.

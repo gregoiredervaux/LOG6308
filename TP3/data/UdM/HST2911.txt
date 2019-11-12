@@ -1,0 +1,2 @@
+TitreCours: Theme d'histoire
+DescriptionCours: Survol de l'histoire d'un pays ou d'une region du monde a une epoque donnee.

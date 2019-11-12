@@ -1,0 +1,2 @@
+TitreCours: Pathologie macroscopique veterinaire
+DescriptionCours: Deux semaines de travaux en salle de necropsie.

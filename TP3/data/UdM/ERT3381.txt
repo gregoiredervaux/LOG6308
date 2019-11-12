@@ -1,0 +1,2 @@
+TitreCours: Ergotherapie et informatique
+DescriptionCours: Interactions entre l'utilisateur et le systeme technique. Caracteristiques comparatives des logiciels. Methodes d'evaluation des composantes du systeme. Telematique et mode de vie. Évolution de l'informatique et activites de la vie quotidienne.

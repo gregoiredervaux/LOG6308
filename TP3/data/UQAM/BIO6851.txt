@@ -1,0 +1,2 @@
+TitreCours: Arthropodes
+DescriptionCours: Étude generale des classes suivantes : crustaces, arachnides, myriapodes et insectes. Morphologie fonctionnelle, role ecologique et caracteristiques taxonomiques des principaux groupes. Introduction a la classification des insectes et leur importance economique. Ce cours comprend des travaux pratiques.

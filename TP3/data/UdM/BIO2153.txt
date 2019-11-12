@@ -1,0 +1,2 @@
+TitreCours: T.P. de biologie cellulaire et genetique
+DescriptionCours: Microscopie des cellules vivantes; colorants, contraste; propriete osmotique des cellules; centrifugation. Cytogenetique, genetique mendelienne, expression genetique, genetique humaine, mutation, depistage de cancers hereditaires, test de paternite.

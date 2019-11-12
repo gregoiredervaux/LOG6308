@@ -1,0 +1,2 @@
+TitreCours: Physiologie vegetale
+DescriptionCours: Transpiration et echanges gazeux, transport des seves brute et elaboree, photosynthese, nutrition inorganique, transport des nutriments, croissance et developpement, hormones, tropismes, physiologie des stress.

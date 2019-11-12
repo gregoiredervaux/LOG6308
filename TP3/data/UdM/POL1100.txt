@@ -1,0 +1,2 @@
+TitreCours: Methodes de recherche en politique
+DescriptionCours: Strategies de recherche. Formulation d'hypotheses. Operationnalisation des variables. Mise en application de certaines techniques de recherche.

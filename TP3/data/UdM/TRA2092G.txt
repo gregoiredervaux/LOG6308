@@ -1,0 +1,2 @@
+TitreCours: Les outils informatiques en traduction
+DescriptionCours: Presentation des outils informatiques utilises dans les industries de la langue. Évaluation des outils qui peuvent aider le traducteur a produire des textes de qualite et a ameliorer sa productivite.

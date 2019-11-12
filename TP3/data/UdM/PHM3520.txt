@@ -1,0 +1,2 @@
+TitreCours: Communication
+DescriptionCours: Initiation au processus de la communication. Enseignement des techniques et habiletes en communication. Besoins particuliers de certains patients selon leur pathologie. Relations avec les professionnels de la sante.

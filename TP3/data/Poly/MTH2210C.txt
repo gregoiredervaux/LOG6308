@@ -1,0 +1,2 @@
+TitreCours: Calcul scientifique pour ingenieurs
+DescriptionCours: Introduction aux methodes numeriques par le biais de problemes tires du genie mecanique. Erreurs de modelisation, de representation et de troncature. Methodes numeriques pour la resolution d'equations non lineaires et de systemes d'equations lineaires et non lineaires. Interpolation, differentiation et integration numeriques. Methodes numeriques pour les equations differentielles ordinaires et les equations aux derivees partielles.

@@ -1,0 +1,2 @@
+TitreCours: Pratique professionnelle
+DescriptionCours: Étude des aspects legaux, financiers, administratifs et ethiques de l'architecture de paysage et des pratiques interprofessionnelles de l'amenagement.

@@ -1,0 +1,2 @@
+TitreCours: Mineralurgie
+DescriptionCours: Presentation des caracteristiques physiques et chimiques des minerais. Broyage, concassage et procedes de liberation. Determination des granulometries et techniques de tamisage. Manutention des solides et des pulpes. Principes de concentration des mineraux. Separation gravimetrique, chimique, electrique, magnetique et electrostatique. Introduction a la flottation.

@@ -1,0 +1,2 @@
+TitreCours: Programme de lectures
+DescriptionCours: Liste de lecture de 26 oeuvres litteraires espagnoles et hispano-americaines.

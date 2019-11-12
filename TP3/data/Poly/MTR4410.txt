@@ -1,0 +1,2 @@
+TitreCours: Mise en oeuvre des materiaux
+DescriptionCours: Description de plusieurs procedes de mise en forme. Phenomenologie des procedes de mise en oeuvre a l'etat solide. Formabilite. Évaluation de la formabilite. Variables du procede et du materiau influencant la formabilite. Relation « mise en oeuvre - microstructure - proprietes - formabilite des materiaux ». Description et discussion detaillees d'exemples d'applications : la mise en oeuvre de toles pour emboutissage profond, les aciers microallies, etc. Superplasticite. Metallurgie des poudres. Usinage.

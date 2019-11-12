@@ -1,0 +1,2 @@
+TitreCours: Demographie economique
+DescriptionCours: Étude des causes et consequences economiques de phenomenes demographiques : fecondite, mortalite, migration, mariage, travail de la femme, etc., dans les pays developpes et dans les pays en developpement.

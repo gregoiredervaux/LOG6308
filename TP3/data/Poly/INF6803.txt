@@ -1,0 +1,2 @@
+TitreCours: Traitement video et applications
+DescriptionCours: Definition et objectifs du traitement video. Architecture et caracteristiques des cameras video. Indexation video : detection des transitions, decoupage en scenes, detection automatique d'evenements. Detection du mouvement dans une sequence video. Élimination du bruit et des ombres. Extraction et representation de l'information d'une sequence video. Description des objets en mouvement : modeles d'apparence, modeles structurels, modeles d'humain. Modelisation et reconnaissance des gestes et des activites.

@@ -1,0 +1,2 @@
+TitreCours: Projet en environnement physique
+DescriptionCours: Recherche sur des thematiques environnementales liees a la geographie physique et aux sciences naturelles. Recherche documentaire, objectifs, hypotheses, echantillonnage, analyse des donnees, interpretation des resultats.

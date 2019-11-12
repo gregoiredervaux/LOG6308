@@ -1,0 +1,2 @@
+TitreCours: Droit de l'environnement
+DescriptionCours: Aspects juridiques de l'environnement : autorisations, controles, participation des citoyens, responsabilite civile et statutaire du pollueur, recours. Mecanismes de resolution des problemes environnementaux.

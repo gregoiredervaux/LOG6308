@@ -1,0 +1,2 @@
+TitreCours: Hegel
+DescriptionCours: Initiation a la lecture de Hegel, surtout des deux grandes oeuvres Phenomenologie de l'esprit et Science de la logique.

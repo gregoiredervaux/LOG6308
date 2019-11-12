@@ -1,0 +1,2 @@
+TitreCours: Production d
+DescriptionCours: Atelier dans lequel il sera possible de concevoir et produire en collaboration avec les programmes en cinema, journalisme et multimedia, des emissions tournees en studio et en exterieur et diffusees a intervalle regulier sur les ondes (ex.: Quartier Latin sur Canal Savoir ). Experimentation de la coproduction et de la commande.

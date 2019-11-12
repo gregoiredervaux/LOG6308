@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese II
+DescriptionCours: L'atelier s'articulera essentiellement autour de divers projets ou les etudiants prendront en charge l'un ou l'autre aspect de la production. Ils seront integres au sein d'equipes de realisation et verront a l'encadrement de l'intervention, depuis l'emergence des premieres idees jusqu'a la diffusion finale. Ils deviendront ainsi responsables des negociations juridiques, du financement, de l'encadrement technologique, de la mise en marche et de la diffusion en tant que telle.

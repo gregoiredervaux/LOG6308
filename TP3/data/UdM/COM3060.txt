@@ -1,0 +1,2 @@
+TitreCours: Cyberculture
+DescriptionCours: A partir d'un cadre historique remontant aux origines de la science moderne, ce cours decrit l'emergence progressive de la synthese transdisciplinaire cybernetique, avant d'evoquer ses consequences sur la culture et les communications contemporaines.

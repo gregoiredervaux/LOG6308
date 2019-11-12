@@ -1,0 +1,2 @@
+TitreCours: Aspects strategiques
+DescriptionCours: Differents aspects strategiques des technologies de l'information. Aspects concurrentiels. Matrices d'analyse strategique. Gains economiques des technologies de l'information. Methodes d'evaluation economique. Analyse de la valeur ajoutee. Aspects financiers des technologies d'information. Methodes d'evaluation financiere. Productivite et rentabilite. Methodes de financement. Investissement en capital. Optimisation des activites operationnelles.

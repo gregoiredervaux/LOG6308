@@ -1,0 +1,2 @@
+TitreCours: Analyse pharmaceutique instrumentale
+DescriptionCours: Methodes spectroscopiques, methodes chromatographiques et methodes electrochimiques appliquees a l'identification et a la caracterisation des matieres premieres et des medicaments finis.

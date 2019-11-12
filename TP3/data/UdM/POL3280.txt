@@ -1,0 +1,2 @@
+TitreCours: Épistemologie de la science politique
+DescriptionCours: Tentative de degager les fondements des diverses demarches proposees en science politique. Analyse de la specificite du politique tel qu'il ressort de ces demarches.

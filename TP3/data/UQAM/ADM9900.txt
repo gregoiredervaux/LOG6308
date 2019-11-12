@@ -1,0 +1,2 @@
+TitreCours: Methodes pedagogiques
+DescriptionCours: Ce seminaire a pour but d'approfondir les diverses methodes utilisees pour l'enseignement des sciences de la gestion (etude de cas, etc.) et a etudier les theories relatives a l'apprentissage appliquees au domaine de l'administration.

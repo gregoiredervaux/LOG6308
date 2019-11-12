@@ -1,0 +1,2 @@
+TitreCours: Neuropsychologie experimentale
+DescriptionCours: Revue des concepts et modeles pertinents en neuropsychologie de la cognition. Approches comportementales a l'etude de la localisation cerebrale dans les fonctions cognitives (perception, memoire, attention, etc.) et aux mecanismes cerebraux sous-jacents. Specialisation hemispherique et integration multimodale.

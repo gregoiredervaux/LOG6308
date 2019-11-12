@@ -1,0 +1,2 @@
+TitreCours: Gestion informatisee
+DescriptionCours: Cours relevant de la TÉLUQ Introduire les concepts et les applications de base des systemes d'information de gestion dans les organisations. Les systemes d'information et la resolution des problemes d'entreprise grace a la technologie de l'information. La technologie de l'information: la perspective du gestionnaire. Les applications en affaires et en gestion. La gestion de la technologie de l'information: elements de gestion, planification, mise en application et controle. Aspects internationaux et moraux.

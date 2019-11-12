@@ -1,0 +1,2 @@
+TitreCours: Methodes de recherche en antiquite
+DescriptionCours: Methodes de recherche en histoire ancienne, en philologie et en archeologie. Critique historique : recherche des documents, authenticite et provenance, critique du contenu et elaboration de syntheses. Rapide panorama des sciences auxiliaires.

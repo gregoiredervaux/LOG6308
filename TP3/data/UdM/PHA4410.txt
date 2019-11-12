@@ -1,0 +1,2 @@
+TitreCours: Activites d'integration en pharmacie 6
+DescriptionCours: Activites visant a perfectionner les apprentissages et a integrer l'ensemble des savoirs et des competences.

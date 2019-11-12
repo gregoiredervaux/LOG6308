@@ -1,0 +1,2 @@
+TitreCours: L'IGT pour adolescents
+DescriptionCours: Initiation a l'evaluation des adolescents a l'aide de l'Indice de gravite d'une toxicomanie (IGT) pour adolescents.

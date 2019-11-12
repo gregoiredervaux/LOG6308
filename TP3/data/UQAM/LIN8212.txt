@@ -1,0 +1,2 @@
+TitreCours: Linguistique informatique I
+DescriptionCours: Ce seminaire a contenu variable abordera l'un ou plusieurs des themes suivants: traitement de la parole, traitement syntaxique, semantique, pragmatique, traitement du lexique et terminologie. Ces sujets seront traites dans la perspective de la representation des connaissances et de leur traitement par ordinateur, tant au point de vue de l'analyse qu'a celui de la generation.

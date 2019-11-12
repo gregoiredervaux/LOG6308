@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de mathematiques
+DescriptionCours: Étude et exposition de problemes complexes menant a une synthese de plusieurs chapitres des mathematiques.

@@ -1,0 +1,2 @@
+TitreCours: Esthetique theatrale
+DescriptionCours: Presentation des grandes theories esthetiques du theatre en Occident depuis les Grecs jusqu'au XXe siecle. Apercu des questions philosophiques qu'elles sous-tendent: le beau, son ordre et sa transgression; vraisemblance et verite; goût, norme et subjectivite; la representation; le corps, etc. Reflexion critique sur les relations entre les doctrines esthetiques et les pratiques theatrales dans une perspective historique et contemporaine.

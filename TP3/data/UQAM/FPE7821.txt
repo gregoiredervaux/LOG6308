@@ -1,0 +1,2 @@
+TitreCours: Élaboration et validation des instruments en evaluation des programmes
+DescriptionCours: Approfondissement des approches et des techniques requises pour elaborer et valider des instruments. Ces approches integrent les dimensions quantitatives et qualitatives afin de pleinement repondre aux termes de reference d'une demarche evaluative.

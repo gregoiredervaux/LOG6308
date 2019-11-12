@@ -1,0 +1,2 @@
+TitreCours: Seminaires de maitrise
+DescriptionCours: Exposes et discussions des projets de recherche des etudiants. Presentation orale d'une publication tiree de la litterature. Presentation orale d'un sujet choisi en collaboration avec son directeur de recherche.

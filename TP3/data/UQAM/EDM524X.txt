@@ -1,0 +1,2 @@
+TitreCours: Atelier de productions
+DescriptionCours: Atelier de production dans un medium ou une combinaison de medias deja supportes par le departement de communication. Choix du medium et du contenu de production determines chaque semestre au moment de la commande de cours en fonction des besoins specifiques identifies par les etudiants et les professeurs, ainsi que des disponibilites techniques et professionnelles liees au medium choisi. Cours prealables determines a cette occasion.

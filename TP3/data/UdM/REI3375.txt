@@ -1,0 +1,2 @@
+TitreCours: Pratique de la negociation collective
+DescriptionCours: Negociation, conciliation, mediation, greve. Simulation de strategie, de tactique et de phenomenes corollaires au moyen d'etudes de cas.

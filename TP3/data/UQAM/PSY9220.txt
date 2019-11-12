@@ -1,0 +1,2 @@
+TitreCours: Medecine behaviorale
+DescriptionCours: Étude de la contribution de certains comportements au developpement et au maintien des maladies. Developpement des styles de vie qui favorisent la sante et previennent la maladie. Application et effets des methodes d'evaluation et d'intervention behaviorale a des problemes de sante psychophysiologiques et physiques. Programmes de prevention.

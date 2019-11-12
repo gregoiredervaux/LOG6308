@@ -1,0 +1,2 @@
+TitreCours: Mesure et evaluation en education
+DescriptionCours: Cours theoriques d'introduction a la mesure et a l'evaluation en education. Concepts, principes, modeles et theories. Qualites metrologiques: objectivite, fidelite, validite. Psychometrie et edumetrie. Types et fonctions de l'evaluation scolaire. L'evaluation et le processus decisionnel. Mesure, evaluation, notation. Analyse d'instruments de mesure, de modeles et d'instruments evaluatifs en education. Évaluation qualitative.

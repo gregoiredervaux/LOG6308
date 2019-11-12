@@ -1,0 +1,2 @@
+TitreCours: Geologie profonde
+DescriptionCours: Dynamique et structure interne du globe. Origine de la Terre. Principales caracteristiques des planetes terrestres et des planetes geantes; meteorites. Informations deduites de la seismologie, de la gravite et de la dynamo terrestre. Proprietes physicochimiques du noyau et du manteau. Le bilan thermique de la Terre et ses consequences sur la convection dans le manteau et la tectonique des plaques. Distribution des zones volcaniques et seismiques actives. Laboratoire (1 heure).

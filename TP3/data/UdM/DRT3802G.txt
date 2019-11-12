@@ -1,0 +1,2 @@
+TitreCours: Droit des sciences biologiques
+DescriptionCours: Le role du droit face aux developpements des sciences biologiques tels le developpement des medicaments, les biotechnologies, la transplantation d'organe et l'euthanasie.

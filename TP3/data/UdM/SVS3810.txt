@@ -1,0 +1,2 @@
+TitreCours: Developpement economique communautaire
+DescriptionCours: Étude des principales composantes du developpement economique communautaire. Analyse critique des principales pratiques dans ce champ d'intervention et des enjeux qui y sont lies.

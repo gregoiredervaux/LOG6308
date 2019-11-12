@@ -1,0 +1,2 @@
+TitreCours: Technique de direction
+DescriptionCours: Initiation aux techniques de base necessaires a la direction d'ensembles vocaux ou instrumentaux.

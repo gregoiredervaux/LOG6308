@@ -1,0 +1,2 @@
+TitreCours: Seminaire de recherche honor
+DescriptionCours: Presentation par l'etudiant de son projet de stage : la problematique, la litterature scientifique pertinente et les methodes envisagees. Participation aux seminaires des autres etudiants. Assistance a dix conferences du Departement de biochimie.

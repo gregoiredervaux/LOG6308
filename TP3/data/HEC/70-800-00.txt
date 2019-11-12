@@ -1,0 +1,2 @@
+TitreCours: Propedeutique en microeconomie
+DescriptionCours: Ce cours permet de comprendre les fondements de l'offre et de la demande d'un produit. Pour ce faire, on fournit a l'etudiant et a l'etudiante les principaux outils et concepts de base de l'analyse microeconomique. Le cadre de reference utilise pour la presentation de ces outils et concepts est celui d'un marche en concurrence. Certaines situations de non-concurrence sont egalement examinees.

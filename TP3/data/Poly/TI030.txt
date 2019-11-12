@@ -1,0 +1,2 @@
+TitreCours: Lecture avancee de plans
+DescriptionCours: Verification et analyse de plans. Application des normes et redaction de mesures correctives. Rencontre de chantier simule et expose des exigences supplementaires au projet. Plans d'implantation, d'architecture, de structure, de ventilation, d'electricite et de protection incendie. Comparaison de la conformite des plans avec les normes en vigueur. Preparation de grille d'analyse de plans. Developpement de mesures de supervision et de controle au cours de la construction.

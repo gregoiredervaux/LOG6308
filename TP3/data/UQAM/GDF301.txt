@@ -1,0 +1,2 @@
+TitreCours: Stage 1
+DescriptionCours: Ce cours vise a permettre a l'etudiant de mettre en pratique, dans le cadre du milieu du travail, les notions acquises et les competences developpees jusqu'a present dans le programme. Le contenu de ce cours variera d'un stage a l'autre, mais il vise a permettre a l'etudiant de se familiariser avec le monde de travail. Stage d'une duree minimale de cinq semaines en milieu de travail a un endroit au choix de l'etudiant (Quebec ou ailleurs dans le monde); rapport de stage.

@@ -1,0 +1,2 @@
+TitreCours: Enseignement des arts plastiques et ordinateur
+DescriptionCours: L'etude du potentiel et des qualites pedagogiques de l'ordinateur pour la creation visuelle. L'analyse des strategies de programmation graphique qui, par le jeu de la decouverte et de la creation, favorisent la comprehension interdisciplinaire. References a l'evolution graphique et a la psychologie du developpement.

@@ -1,0 +1,2 @@
+TitreCours: Épidemiologie et vieillissement
+DescriptionCours: Techniques et methodes de base de l'analyse epidemiologique du vieillissement. Facteurs endogenes et facteurs de l'environnement. Donnees nationales et internationales sur des recherches de problemes de sante specifiques a la population agee.

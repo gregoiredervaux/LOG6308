@@ -1,0 +1,2 @@
+TitreCours: Dynamiques des populations
+DescriptionCours: Ce cours cherche a fournir a l'etudiant les outils d'analyse en demographie et en traitement des distributions en geographie des populations. Dans un premier temps, le cours aborde la relation espace-temps-population a toutes les echelles et dans differentes situations. Dans un deuxieme temps, il traite des tensions demo-geographiques contemporaines. Des travaux longs sur des dossiers demographiques completent la formation.

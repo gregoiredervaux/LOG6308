@@ -1,0 +1,2 @@
+TitreCours: Penologie
+DescriptionCours: Le droit penal relatif aux sentences. Principes generaux de determination et d'imposition des sanctions penales. Problemes juridiques relatifs a l'execution et aux repercussions des diverses peines en droit canadien.

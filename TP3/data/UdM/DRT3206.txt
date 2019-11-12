@@ -1,0 +1,2 @@
+TitreCours: Modes altern. de resolution des conflits
+DescriptionCours: Introduction aux composantes du conflit et au processus de transformation du conflit en litige juridique. Distinction entre les positions juridiques et les interets des parties. Presentation de l'eventail des modes de solutions des conflits.

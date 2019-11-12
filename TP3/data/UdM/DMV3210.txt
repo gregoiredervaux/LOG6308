@@ -1,0 +1,2 @@
+TitreCours: Pharmacologie clinique veterinaire
+DescriptionCours: Concepts generaux de pharmacologie clinique et de reglementation des medicaments veterinaires. Principes de therapie medicamenteuse presentes par systeme pour les principales especes animales.

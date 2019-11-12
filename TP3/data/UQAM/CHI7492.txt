@@ -1,0 +1,2 @@
+TitreCours: Projet II
+DescriptionCours: Ce cours pratique a pour but de permettre a certains etudiants de developper davantage les travaux entrepris dans leur premier projet, en vue d'approfondir leur formation.

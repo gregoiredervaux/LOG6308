@@ -1,0 +1,2 @@
+TitreCours: Sciences de l'information en sante
+DescriptionCours: Le cours a pour objectif de se familiariser avec les systemes cliniques. On y presente les concepts et outils informatiques de base, les systemes d'information et de decision.

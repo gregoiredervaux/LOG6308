@@ -1,0 +1,2 @@
+TitreCours: Aides techniques en ergotherapie
+DescriptionCours: Étude approfondie de certaines aides techniques utilisees en ergotherapie. Analyse critique des methodes et moyens disponibles pouvant contribuer a une meilleure conception, evaluation et application des aides techniques.

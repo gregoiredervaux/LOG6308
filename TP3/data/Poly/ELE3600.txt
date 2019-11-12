@@ -1,0 +1,2 @@
+TitreCours: Introduction aux circuits lectriques
+DescriptionCours: lments de circuits (bobines, condensateurs, rsistances linaires et non linaires). Lois de Kirchhoff. Analyse des circuits rsistifs gnraux et thormes associs. Amplificateurs oprationnels. Fonctions de transfert. Rponse en frquence. Phaseurs sinusodaux. Diagrammes de Bode. Circuits rsonnants. Filtres analogiques. Circuits de premier ordre linaires par morceaux. Phnomnes de saut et oscillateurs  relaxation. Simulation par progiciels.

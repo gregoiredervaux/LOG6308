@@ -1,0 +1,2 @@
+TitreCours: Introduction aux algorithmes numeriques
+DescriptionCours: Arithmetique en point flottant, analyse d'erreurs. Équations lineaires et non lineaires. Interpolation, moindres carres. Differenciation et integration numerique. Équations differentielles ordinaires.

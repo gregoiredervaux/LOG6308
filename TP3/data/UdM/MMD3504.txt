@@ -1,0 +1,2 @@
+TitreCours: Obstetrique-gynecologie
+DescriptionCours: Stage en unite d'enseignement clinique. L'etudiant, grace a un contact constant avec des femmes enceintes et des malades, integre les connaissances, developpe les attitudes et acquiert les habiletes propres a l'obstetrique et a la gynecologie.

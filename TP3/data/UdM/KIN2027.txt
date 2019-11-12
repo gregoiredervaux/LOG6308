@@ -1,0 +1,2 @@
+TitreCours: Évaluation musculaire
+DescriptionCours: Concepts, composantes, unites. Tests : procedures, validite, fidelite, normes. Force, puissance, vitesse et flexibilite. Fondements musculaires et metaboliques.

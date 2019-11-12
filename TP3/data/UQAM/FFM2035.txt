@@ -1,0 +1,2 @@
+TitreCours: Stage d
+DescriptionCours: Preparation et realisation d'un projet d'intervention en education interculturelle. Le choix du stage est determine en fonction des concentrations. Chaque stagiaire doit s'efforcer d'integrer dans son stage les elements de formation theoriques et methodologiques abordes dans les cours precedents.

@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'ingen. de la readaptation
+DescriptionCours: Terminologie; aides techniques (mobilite, posture); aspects cliniques, handicaps et deficits; biomecanique de la posture assise, de la propulsion en fauteuil roulant et du transfert; biomecanique des ortheses et protheses, outils d'evaluation; elements de design.

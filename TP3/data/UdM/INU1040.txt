@@ -1,0 +1,2 @@
+TitreCours: Recherche de l'information numerique
+DescriptionCours: Recherche d'information numerique (Internet, Web 2.0, catalogues, bases de donnees commerciales). Strategies de recherche (logique booleenne, operateurs, troncatures). Agents intelligents, alertes. Évaluation des resultats. Logiciel bibliographique.

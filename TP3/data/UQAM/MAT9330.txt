@@ -1,0 +1,2 @@
+TitreCours: Theories cohomologiques
+DescriptionCours: Preliminaires sur les complexes simpliciaux et C.W.-complexes. Homotopie. Axiomes d'Eilenberg-Steenrod et axiomes d'une theorie cohomologique generalisee. Exemples: cohomologie singuliere; fibres vectoriels et K-theorie; cobordisme oriente et non oriente, homotopie stable. Produits dans ces theories. Spectres et theoremes de representation. Quelques applications: theorie des obstructions, formules d'indice, cobordisme d'immersions.

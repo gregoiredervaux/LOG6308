@@ -1,0 +1,2 @@
+TitreCours: L'epoque moderne
+DescriptionCours: Cours d'introduction sur l'histoire de l'Europe moderne, de la decouverte de l'Amerique a la Revolution francaise.

@@ -1,0 +1,2 @@
+TitreCours: Sociocriminologie 1
+DescriptionCours: Presentation des principales theses sociologiques qui envisagent la question criminelle soit sous l'angle de l'explication des conduites criminelles, soit sous l'angle de la reaction sociale et du controle social.

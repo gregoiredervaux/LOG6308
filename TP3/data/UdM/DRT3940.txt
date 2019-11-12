@@ -1,0 +1,2 @@
+TitreCours: Concours interne techn. de plaidoiries
+DescriptionCours: Simulation d'un proces en premiere instance. Interrogatoires, contre-interrogatoires et plaidoiries. Recherche.

@@ -1,0 +1,2 @@
+TitreCours: Courants theoriques en linguistique
+DescriptionCours: Les principaux courants theoriques du vingtieme siecle en Europe et aux États-Unis : structuralisme, fonctionnalisme, grammaire generative. Concepts fondamentaux. Les grands noms : Saussure, Bloomfield, Martinet, Chomsky.

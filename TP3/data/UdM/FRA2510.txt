@@ -1,0 +1,2 @@
+TitreCours: La bande dessinee
+DescriptionCours: Étude de la bande dessinee et du roman graphique : elements d&rsquo;histoire et de poetique, enjeux culturels.

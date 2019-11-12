@@ -1,0 +1,2 @@
+TitreCours: Le monde Antique
+DescriptionCours: Introduction a l'histoire politique, sociale, intellectuelle, artistique et litteraire de l'antiquite greco-latine.

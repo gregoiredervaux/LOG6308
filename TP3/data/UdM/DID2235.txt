@@ -1,0 +1,2 @@
+TitreCours: Difficultes d'appr. du langage ecrit 1
+DescriptionCours: Apprenant de niveau debutant : diagnostic des difficultes d'apprentissage de la lecture et de l'ecriture, et reeducation. Difficultes de developpement des processus et strategies. Principes, plans et approches d'intervention.

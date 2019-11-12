@@ -1,0 +1,2 @@
+TitreCours: Introduction a la nanotechnologie
+DescriptionCours: Introduction : definitions et interets de la nanotechnologie. Bases de la nanotechnologie : proprietes et synthese des nanomateriaux (nanoparticules, nanotubes), survol des technologies de microfabrication, technologie de nanofabrication (faisceaux, etampes, autoassemblage et manipulation atomique), microsystemes et nanosystemes, instrumentation en nanoscience. Applications dans differents domaines : nanomecanique et nanotribologie, nanoelectronique, nanophotonique, nanobiotechnologie et nanobiophotonique.

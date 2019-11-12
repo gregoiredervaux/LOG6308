@@ -1,0 +1,2 @@
+TitreCours: Meth. statistiques en pharmacologie
+DescriptionCours: Analyse de variance, comparaison intergroupes, mesures repetees, variables non-parametriques, courbe de cinetique, courbe dose-reponse, courbe de survie, correlation, regression, additivite, synergie.

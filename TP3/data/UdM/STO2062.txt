@@ -1,0 +1,2 @@
+TitreCours: Radiologie 2
+DescriptionCours: Interpretation radiologique des structures anatomiques et des lesions communes affectant les structures osseuses et dentaires des maxillaires. Imagerie radiologique.

@@ -1,0 +1,2 @@
+TitreCours: Survey of British Literature, 1650-1900
+DescriptionCours: Introduction a la litterature des periodes de la restauration et des tendances neoclassiques, romantiques et victoriennes. Textes representatifs d'ecrivains tels Milton, Pope, Swift, Blake, Byron, Dickens, Wilde.

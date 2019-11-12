@@ -1,0 +1,2 @@
+TitreCours: Histoire des sciences
+DescriptionCours: Prendre conscience que les sciences constituent une activite humaine toujours en evolution et qu'elles sont soumises aux influences des societes dans lesquelles elles se developpent. Évolution des concepts et des theories scientifiques. Étude des lois de la nature. Les etapes de la methode experimentale. La place des sciences dans la connaissance humaine. Impact des sciences et des technologies sur l'humain et son environnement: aspects ethiques, sociaux, economiques, ecologiques.

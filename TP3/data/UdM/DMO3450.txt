@@ -1,0 +1,2 @@
+TitreCours: Économie et population
+DescriptionCours: Facteurs economiques agissant sur la mortalite, la nuptialite, la fecondite et la migration. Effet des phenomenes demographiques sur la vie economique. Demographie economique de l'individu. Theories et modeles simples.

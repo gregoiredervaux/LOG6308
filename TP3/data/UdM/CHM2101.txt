@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de principes d'analyse
+DescriptionCours: Travaux pratiques integres de chimie analytique et physique. Équilibres de phases, etudes physicochimiques des gaz. Methodes d'analyses electrochimiques. Analyses spectroscopiques. Chromatographie gazeuse et liquide. Tension de surface.

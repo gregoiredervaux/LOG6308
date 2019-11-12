@@ -1,0 +1,2 @@
+TitreCours: Theorie des exercices therapeutiques
+DescriptionCours: Concepts generaux de l'approche reeducative. Traitement de la faiblesse musculaire par methodes active/passive et des pertes de mobilite articulaire par exercices. Retroaction biologique en reeducation des troubles du mouvement.

@@ -1,0 +1,2 @@
+TitreCours: Traduction et adaptation publicitaire
+DescriptionCours: Étude de textes comportant des difficultes particulieres : contraintes d'espace, obstacles linguistiques, differences institutionnelles, non-equivalence iconographique.

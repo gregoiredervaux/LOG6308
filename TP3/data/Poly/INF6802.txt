@@ -1,0 +1,2 @@
+TitreCours: Realite virtuelle : principes et applications
+DescriptionCours: Realite virtuelle et environnements virtuels. Applications des systemes de realite virtuelle. Materiel. Logiciels. Normes graphiques. Scene et structure hierarchique d'objets graphiques. Modelisation geometrique et transformations. Visualisation scientifique en immersion. Techniques de navigation et de deplacement. Actions et interactions en immersion. Systemes a retour d'effort. Environnements de collaboration. Avatars. Teleoperation. Protocoles de collaboration.

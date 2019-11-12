@@ -1,0 +1,2 @@
+TitreCours: Observation des comportements
+DescriptionCours: Methodes d'observation pour decrire les comportements. Utilisation des observations pour l'evaluation des difficultes d'adaptation.

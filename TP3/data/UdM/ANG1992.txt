@@ -1,0 +1,2 @@
+TitreCours: Business Writing 2
+DescriptionCours: Pratique de l'ecriture dans le domaine des affaires internationales et a des niveaux de gestion plus avances.

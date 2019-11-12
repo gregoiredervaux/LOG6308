@@ -1,0 +1,2 @@
+TitreCours: Voyage d'etudes
+DescriptionCours: Sejour d'etudes autour d'un projet lie aux etudes medievales. Exemple : la Bourgogne romane, l'Italie medievale. Le voyage sera prepare par un enseignement specifique et entrainera la realisation d'un travail d'etudes.

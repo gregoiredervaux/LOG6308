@@ -1,0 +1,2 @@
+TitreCours: Geographie des activites economiques
+DescriptionCours: Structure et dynamique geographique des activites economiques. Differentes perspectives theoriques sur la localisation des activites economiques. Flux et interrelations entre activites. Activites economiques et developpement.

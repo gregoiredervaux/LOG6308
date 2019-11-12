@@ -1,0 +1,2 @@
+TitreCours: Vietnamien elementaire 1
+DescriptionCours: Apprentissage de la grammaire fondamentale et du vocabulaire de base de la langue vietnamienne. Travail sur la prononciation et sur les tons, au laboratoire de langue.

@@ -1,0 +1,2 @@
+TitreCours: Guitare jazz 3
+DescriptionCours: Étude de la technique de l'instrument et de son repertoire.

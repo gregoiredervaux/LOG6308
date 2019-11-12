@@ -1,0 +1,2 @@
+TitreCours: Formation pratique adulte A
+DescriptionCours: Stage de 5 semaines d'enseignement et de formation supervisee : observation d'examens progressant rapidement vers la pratique et l'integration de l'aspect technique de l'echocardiographie transthoracique adulte de base.

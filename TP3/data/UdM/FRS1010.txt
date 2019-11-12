@@ -1,0 +1,2 @@
+TitreCours: Initiation a la comm. orale et ecrite
+DescriptionCours: Permettre a l'etudiant debutant de s'initier a la communication orale en francais (bases de prononciation, de la lecture et de l'ecriture).

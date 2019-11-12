@@ -1,0 +1,2 @@
+TitreCours: Scientific Writing 2
+DescriptionCours: Pratique de l'ecriture dans le domaine des sciences. Revision grammaticale. Cours destine aux etudiants de niveau intermediaire-avance.

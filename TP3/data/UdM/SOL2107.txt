@@ -1,0 +1,2 @@
+TitreCours: Sociologie politique
+DescriptionCours: Les fondements sociaux de la politique. Champ politique, lutte politique, nouvelles technologies de gouvernance. État moderne, État postcolonial. Rapports entre État et societe civile.

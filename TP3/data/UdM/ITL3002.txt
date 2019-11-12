@@ -1,0 +1,2 @@
+TitreCours: Version
+DescriptionCours: Initiation a la traduction italien-francais et francais-italien, par le biais d'exercices pratiques. Analyse comparative d'elements stylistiques. Traduction appliquee a des textes varies (litteraires, journalistiques, publicitaires, bedes, etc.)

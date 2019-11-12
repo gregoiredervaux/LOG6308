@@ -1,0 +1,2 @@
+TitreCours: Travaux diriges en medecine dentaire
+DescriptionCours: Travail dirige visant le developpement de competences en promotion de la sante buccodentaire ou en recherche ou en expertise technique.

@@ -1,0 +1,2 @@
+TitreCours: Qualite et productivite des outils logiciels
+DescriptionCours: Apercu des outils pour assister au developpement et a l'entretien des logiciels. Plates-formes d'integration des outils. Environnements de developpement. Outils pour la retro-ingenierie des logiciels. Criteres et strategies d'evaluation des outils.

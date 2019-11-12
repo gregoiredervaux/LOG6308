@@ -1,0 +1,2 @@
+TitreCours: Stage 1 d'enseignement au secondaire
+DescriptionCours: Developpement d'habiletes d'enseignement. Intervention en classe et reflexion sur les pratiques. Accent sur la problematique de la gestion de classe.

@@ -1,0 +1,2 @@
+TitreCours: Sante des jeunes 0-18 ans
+DescriptionCours: Étude des besoins de sante dans une optique developpementale, de la naissance a l'adolescence. Problemes particuliers et caracteristiques psychosociales. Analyse critique des programmes concus et realises pour repondre a ces besoins.

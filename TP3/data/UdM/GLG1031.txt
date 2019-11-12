@@ -1,0 +1,2 @@
+TitreCours: Mineralogie
+DescriptionCours: Notion d'especes minerales. Nomenclature et classification. Chimisme et proprietes physiques. Élements de cristallochimie. Modules de cristallographie appropries a l'etude des mineraux.

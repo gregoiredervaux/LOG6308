@@ -1,0 +1,2 @@
+TitreCours: Seminaire en didactique des mathematiques
+DescriptionCours: Ce cours permettra aux nouveaux venus a la maitrise de se familiariser avec le milieu de la recherche en didactique des mathematiques et ses diverses problematiques, d'etre en contact avec des chercheurs de l'UQAM et d'ailleurs ainsi qu'avec les etudiants en redaction de memoires ou projets. (Le cours se deroulera pendant la premiere annee d'etudes a la maitrise selon un horaire qui tiendra compte des disponibilites des invites, des chercheurs et du groupe d'etudiants.)

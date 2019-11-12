@@ -1,0 +1,2 @@
+TitreCours: Methodes et recherche 1
+DescriptionCours: Études, analyse et evaluation des methodes de recherche employees en orthophonie et en audiologie.

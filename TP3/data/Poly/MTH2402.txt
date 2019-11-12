@@ -1,0 +1,2 @@
+TitreCours: Recherche operationnelle
+DescriptionCours: Programmation lineaire. Modelisation de programmes lineaires. Methode du simplexe. Analyse de sensibilite et dualite. Theorie des graphes. Arbres de recouvrement. Arbres de recherche. Relations, equivalences, ordres et treillis. Modeles de reseaux : transport, affectation, couplage, plus court chemin, flot maximum et flot a coût minimum. Problemes de tournees sur les arcs et sur les noeuds. Programmation dynamique. Methodes heuristiques.

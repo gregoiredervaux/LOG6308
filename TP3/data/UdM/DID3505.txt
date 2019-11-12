@@ -1,0 +1,2 @@
+TitreCours: Didactique des mathematiques 2
+DescriptionCours: Comprehension et analyse des savoirs arithmetiques enseignes au 2e cycle du primaire dans une perspective didactique. Organisation de situations pedagogiques. Difficultes d'apprentissage. Évaluation. Arrimage primaire-secondaire.

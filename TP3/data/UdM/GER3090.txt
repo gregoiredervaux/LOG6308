@@ -1,0 +1,2 @@
+TitreCours: Projets speciaux en gerontologie
+DescriptionCours: Activites pedagogiques destinees a permettre a l'etudiant de mettre en pratique les connaissances acquises dans les cours par la realisation d'un projet personnel en gerontologie (recherche, stage, retraite, etc.).

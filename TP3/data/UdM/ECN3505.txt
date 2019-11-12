@@ -1,0 +1,2 @@
+TitreCours: Économie du travail
+DescriptionCours: Offre et demande de travail. Ajustement du marche : chomage, postes vacants, courbe de Phillips, prospection du marche. Syndicalisme et salaire. Contrats implicites. Disparites. Arbitrage. Institutions : salaire minimum, assurance-chomage.

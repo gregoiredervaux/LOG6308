@@ -1,0 +1,2 @@
+TitreCours: Stage en milieu de travail
+DescriptionCours: Experience pratique liee au champ de concentration de l'etudiant. Stage en milieu de travail au Quebec ou a l'etranger d'une duree d'au moins 300 heures y compris la redaction d'un rapport de stage.

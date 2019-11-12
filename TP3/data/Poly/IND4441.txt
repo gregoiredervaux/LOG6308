@@ -1,0 +1,2 @@
+TitreCours: Conception integree produit-procede
+DescriptionCours: Ingenierie simultanee. Systemes de gestion de donnees techniques : maquette numerique, gestion de la documentation, deroulement des operations (approbation, validation, etc.). Prototypage rapide : description des procedes et caracteristiques des prototypes. Usine numerique : modelisation des procedes, de l'environnement et des ressources humaines. Simulation d'une usine virtuelle. Interfacage entre le modele d'usine virtuelle et les systemes de suivi en temps reel de l'usine modelisee.

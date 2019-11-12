@@ -1,0 +1,2 @@
+TitreCours: Politiques urbaines
+DescriptionCours: Analyse comparee des caracteristiques et structures des systemes municipaux des pays occidentaux. Role et prise de decision des gouvernements municipaux. Principales tendances des politiques publiques urbaines.

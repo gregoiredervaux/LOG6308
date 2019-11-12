@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese I
+DescriptionCours: Cette activite vise a completer la formation de l'etudiant par l'intermediaire de la presentation d'une problematique de recherche axee sur les applications d'un systeme d'information geographique. Ce cheminement comprend aussi un etat de la question sur ce qui a deja ete realise dans le domaine de recherche qu'il aura choisi. Sous l'autorite de son ou de ses tuteurs, il devra presenter sous la forme d'un document complet le point sur la question ainsi qu'une bibliographie pertinente.

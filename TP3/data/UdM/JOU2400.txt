@@ -1,0 +1,2 @@
+TitreCours: Journalisme et Internet
+DescriptionCours: Initiation aux techniques de recherche, d'ecriture et de production sur Internet. Experimentation des differents genres et formats destines au Web.

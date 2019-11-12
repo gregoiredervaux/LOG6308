@@ -1,0 +1,2 @@
+TitreCours: Rseaux de communication
+DescriptionCours: Transmission d'information et communication. Le modle OSI (Open Systems Interconnection) et ses couches physiques. L'architecture CIM (Computer Integrated Manufacturing). Types et normes de transmissions physiques. Protocoles employs. Bus de terrain. (WorlFip, Remote I/O, DeviceNet, ASI) Bus (Modbus, Unitelway, DH). Rseaux industriels (Modbus TCP/IP, ControlNet, Profibus, LonWork). Rseaux de gestion. (Ethernet TCP/IP). Tlmtrie et transmission sans fil. Lien avec les serveurs OPC.

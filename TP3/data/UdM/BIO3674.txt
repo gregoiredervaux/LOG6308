@@ -1,0 +1,2 @@
+TitreCours: T.P. Respiration, circulation, excretion
+DescriptionCours: Travaux pratiques en relation avec le cours theorique : Respiration, circulation, excretion.

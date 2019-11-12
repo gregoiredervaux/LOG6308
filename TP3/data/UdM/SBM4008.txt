@@ -1,0 +1,2 @@
+TitreCours: Stage honor en sciences biomedicales
+DescriptionCours: Realisation d'un projet de recherche en milieu universitaire ou hospitalier, ou stages techniques en milieu clinique ou industriel.

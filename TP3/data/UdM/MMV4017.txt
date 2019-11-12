@@ -1,0 +1,2 @@
+TitreCours: Anesthesie/analgesie des grands animaux
+DescriptionCours: Mise en pratique des notions theoriques d'anesthesiologie et d'analgesie chez le cheval, les bovins, les animaux de production et certaines especes de la faune. Travaux diriges et travaux pratiques completent l'enseignement theorique.

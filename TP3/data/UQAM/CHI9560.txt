@@ -1,0 +1,2 @@
+TitreCours: Concepts de toxicologie de l
+DescriptionCours: Examen des interactions entre les contaminants de l'environnement et les organismes vivants, en particulier l'humain. Les systemes suivants seront consideres:les pesticides dans les agro-ecosystemes, les aliments et leurs additifs, les polluants atmospheriques et aquatiques. L'emploi des bioessais pour la detection des effets biologiques des agents de l'environnement sera discute. Quelques etudes de cas traitant de l'impact du deversement d'importantes quantites de toxiques dans l'environnement seront presentes.

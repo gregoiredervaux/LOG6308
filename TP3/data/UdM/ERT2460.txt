@@ -1,0 +1,2 @@
+TitreCours: Formation clinique 2
+DescriptionCours: Experience de pratique professionnelle supervisee ayant pour but d'appliquer differentes approches ergotherapiques a des problematiques diverses. Demarche ergotherapique et au raisonnement clinique.

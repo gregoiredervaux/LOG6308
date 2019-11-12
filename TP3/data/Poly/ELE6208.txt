@@ -1,0 +1,2 @@
+TitreCours: Dynamique du vol et auto-pilotage
+DescriptionCours: Brefs rappels sur la dynamique longitudinale et latrale. Modlisation de l'arodyne. Stabilit du vol plan. Rponse des gouvernes en chane ouverte. Synthse : systmes de commande longitudinale, systmes de commande latrale. Effets de la turbulence atmosphrique. Exigences de manoeuvrabilit. Simulateur de vol.

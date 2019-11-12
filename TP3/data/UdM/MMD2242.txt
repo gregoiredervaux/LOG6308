@@ -1,0 +1,2 @@
+TitreCours: Reanimation cardiaque respiratoire 1
+DescriptionCours: Ce cours permettra aux etudiants d'apprendre l'essentiel des mesures de reanimation cardio-respiratoires sans necessiter les connaissances theoriques de la physiologie ou de la pharmacologie cardiaque et respiratoire.

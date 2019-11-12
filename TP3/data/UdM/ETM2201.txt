@@ -1,0 +1,2 @@
+TitreCours: Latin medieval 2
+DescriptionCours: Élements de syntaxe. Introduction aux lexiques specialises.

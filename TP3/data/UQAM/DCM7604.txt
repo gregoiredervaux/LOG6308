@@ -1,0 +1,2 @@
+TitreCours: Stage en conseil en management
+DescriptionCours: Dans le cadre de ce cours, l'etudiant est amene a mettre en oeuvre, de facon concrete en milieu professionnel, l'ensemble de ses savoirs acquis en cours de programme. Pendant trois mois a temps complet, l'etudiant met a profit ses connaissances et developpe ses habiletes dans un contexte operationnel. Le travail effectue sera presente sous forme de deux rapports : un rapport d'apprentissage et un rapport de mandat des activites professionnelles realisees dans le cadre du stage.

@@ -1,0 +1,2 @@
+TitreCours: Proprits gotechniques des sols
+DescriptionCours: Nature et composition des sols. Minralogie des argiles. Techniques d'identification des minraux argileux et de mesure de l'agencement des particules. Systme sol-eau-lectrolytes. Proprits physico-chimiques des sols. Phnomnes de conduction. Comportement mcanique des argiles et des sables : rsistance au cisaillement et changements de volume. Argiles sensibles et autres sols mtastables. chantillonnage et remaniement. Effet du temps et du vieillissement sur les sols. Modles de comportement.

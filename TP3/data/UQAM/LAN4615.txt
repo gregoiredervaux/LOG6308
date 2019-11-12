@@ -1,0 +1,2 @@
+TitreCours: Francais langue seconde
+DescriptionCours: L'objectif de ce cours est de permettre a l'etudiant de rediger des travaux de sa specialite, a l'aide de logiciels pertinents, d'amener l'etudiant a ameliorer son orthographe des mots difficiles et a enrichir le lexique de sa specialite. Analyse de textes specialises dans diverses disciplines universitaires. Utilisation des logiciels d'exercices grammaticaux, de comprehension de texte et de traitement de texte (orthographe, synonymes, thesaurus, etc.) comme outils de perfectionnement.

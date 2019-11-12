@@ -1,0 +1,2 @@
+TitreCours: Histoire de la medecine et de la sante
+DescriptionCours: Histoire de la medecine et de la sante en Occident, des origines a nos jours.

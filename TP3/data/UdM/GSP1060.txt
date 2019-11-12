@@ -1,0 +1,2 @@
+TitreCours: Planification et controle budgetaire
+DescriptionCours: S'approprier les principes, pratiques et techniques en matiere budgetaire. Planifier et controler en fonction d'un budget et des realites contextuelles et en fonction des domaines publics et prives.

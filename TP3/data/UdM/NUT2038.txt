@@ -1,0 +1,2 @@
+TitreCours: Nutrition appliquee 1
+DescriptionCours: Nutrition appliquee a l'adulte dans des conditions physiologiques et psychologiques particulieres. Modification du comportement alimentaire. Methodologie des enquetes nutritionnelles. Problemes de nutrition et programmes de prevention.

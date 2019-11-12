@@ -1,0 +1,2 @@
+TitreCours: Gestion de portefeuille
+DescriptionCours: L'objectif general est de maitriser les techniques de gestion de portefeuilles d'actions, d'actifs immobiliers et de produits derives. Strategie de gestion de portefeuilles d'actions. Strategies de gestion de portefeuilles de valeurs mobilieres. Modeles de determination des prix des divers types d'options sur actions: modeles de Black et Scholes, modeles de Black, modele de la binomiale, modeles numeriques. Techniques de couverture d'un portefeuille d'actions. Actions internationales; indices d'actions.

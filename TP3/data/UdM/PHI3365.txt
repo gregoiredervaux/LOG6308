@@ -1,0 +1,2 @@
+TitreCours: Philosophie de la biologie
+DescriptionCours: Étude de questions epistemologiques en philosophie de la biologie et de leur rapport a des problemes en philosophie des sciences.

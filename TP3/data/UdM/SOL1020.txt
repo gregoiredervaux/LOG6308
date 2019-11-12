@@ -1,0 +1,2 @@
+TitreCours: Introduction a la statistique sociale
+DescriptionCours: Concepts de base en statistiques, frequences et pourcentages, mesures de tendance centrale et de dispersion. Introduction au test chi-carre, test t, ANOVA. Initiation au logiciel d&rsquo;analyse statistique STATA.

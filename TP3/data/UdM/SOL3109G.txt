@@ -1,0 +1,2 @@
+TitreCours: Sociologie de la sante
+DescriptionCours: Approches socioculturelles de la sante. Sante et classes sociales. Modeles socioculturels. Systeme de soins. Modeles sociocommunautaires.

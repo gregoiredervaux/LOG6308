@@ -1,0 +1,2 @@
+TitreCours: Travail dirige 2
+DescriptionCours: Sous la supervision d'un professeur, l'etudiant effectue un stage dans un laboratoire de recherche, ou participe a diverses etapes du processus de recherche, telles la revue de litterature, l'analyse de donnees, etc.

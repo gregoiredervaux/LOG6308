@@ -1,0 +1,2 @@
+TitreCours: Applications
+DescriptionCours: Application des outils informatises a la prise de decision sous la forme de cas ou de projets reels.

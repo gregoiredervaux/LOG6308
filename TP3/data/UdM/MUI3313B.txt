@@ -1,0 +1,2 @@
+TitreCours: Violoncelle 6
+DescriptionCours: Étude de la technique d'un instrument et de son repertoire.Instrument (complementaire et principal) : troisieme annee, deuxieme semestre.

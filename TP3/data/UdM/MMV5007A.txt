@@ -1,0 +1,2 @@
+TitreCours: Formation continue vet.: activites dir.
+DescriptionCours: Analyse de cas cliniques et de travaux de recherche clinique. Cours normalement offert par le biais de Web CT.

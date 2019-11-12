@@ -1,0 +1,2 @@
+TitreCours: Communication et communautes en reseau
+DescriptionCours: Apercu historique de la communication sur Internet. Phenomenes communautaires interpersonnels et de groupe. Typologies des communautes en reseau. Communautes accidentelles et intentionnelles.

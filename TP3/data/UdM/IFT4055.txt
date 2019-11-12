@@ -1,0 +1,2 @@
+TitreCours: Projet informatique honor
+DescriptionCours: Initiation a la recherche par le biais d'un projet defini et encadre par un professeur au sein d'un laboratoire du DIRO, evalue conjointement par le professeur et un jury du DIRO.

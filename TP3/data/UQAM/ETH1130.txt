@@ -1,0 +1,2 @@
+TitreCours: Histoire du theatre
+DescriptionCours: Histoire du theatre a travers les ages, des origines a 1960. Étude de l'evolution du theatre en rapport avec les grands courants. Analyse des principales theories, de ses auteurs et des differentes productions qui ont influence leur epoque.

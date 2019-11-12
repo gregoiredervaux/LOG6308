@@ -1,0 +1,2 @@
+TitreCours: Aspects algorithmiques de la microelectronique
+DescriptionCours: Étude des aspects algorithmiques des outils assistes par ordinateurs pour la conception et l'analyse de circuits integres a tres grande echelle. Introduction aux algorithmes, aux classes de problemes et aux notions de complexite. Algorithmes de conception graphique, de placement et routage, de verification, d'analyse, de synthese et de compilation de circuits ITGE. Travaux pratiques en laboratoire (3 heures/semaine).

@@ -1,0 +1,2 @@
+TitreCours: Techniques d'enquete et d'analyse
+DescriptionCours: Methodes de collecte des donnees en geographie humaine, questionnaire, entrevue, groupes de discussion, echantillonnage, analyse de contenu.

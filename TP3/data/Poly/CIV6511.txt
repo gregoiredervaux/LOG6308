@@ -1,0 +1,2 @@
+TitreCours: Conception et valuation des ponts
+DescriptionCours: Calcul des charges. Mthodes de rpartition des efforts en 2D et 3D : normes, plaques orthotropes. Ponts spciaux. Calcul des tats limites des ponts. valuation des ponts existants. Renforcement des ponts existants.

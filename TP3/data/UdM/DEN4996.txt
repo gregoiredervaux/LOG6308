@@ -1,0 +1,2 @@
+TitreCours: Applications dentaires des sc. de base
+DescriptionCours: L'evaluation de l'impact des developpements de la recherche sur la pratique clinique en medecine dentaire.

@@ -1,0 +1,2 @@
+TitreCours: Stage de recherche
+DescriptionCours: Pour completer sa formation, l'etudiant est appele a s'integrer a un groupe de recherche-creation et a participer activement a la realisation d'un projet multidisciplinaire sous la direction d'un professeur du programme en vue d'une presentation publique. La participation attendue est celle d'une contribution significative dans son domaine de specialite au projet qui prend la forme de realisation d'elements mediatiques ou de redaction de rapports de recherche.

@@ -1,0 +1,2 @@
+TitreCours: Strategies de marketing
+DescriptionCours: Afin de permettre aux etudiants d'integrer et de mettre en pratique les concepts etudies, une simulation (business game) est utilisee. Pour tirer le maximum de ce cours, il est tres fortement recommande d'avoir suivi auparavant un cours en comptabilite, un cours sur l'analyse des donnees et de posseder une bonne familiarite avec les chiffriers.&nbsp;&nbsp;&nbsp;

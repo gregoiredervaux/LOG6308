@@ -1,0 +1,2 @@
+TitreCours: Mecanique articulaire, dos et posture
+DescriptionCours: Biomecanique des tissus. Fonctionnement et dysfonctionnement des articulations; le cas du dos et de la posture. Chargements articulaires et facteurs de risque. Mouvements indiques et contre-indiques.

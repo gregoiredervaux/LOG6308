@@ -1,0 +1,2 @@
+TitreCours: Programmation par contraintes
+DescriptionCours: Paradigme de programmation par contraintes. Domaines de contraintes. Algorithmes de satisfaction, simplification et implication de contraintes. Manifestations en programmation logique, programmation concourante, bases de donnees relationnelles, raisonnement automatique, interfaces graphiques et optimisation combinatoire. Modelisation et resolution de problemes combinatoires.

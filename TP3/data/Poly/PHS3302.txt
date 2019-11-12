@@ -1,0 +1,2 @@
+TitreCours: Physique du solide II
+DescriptionCours: Comportement electromagnetique de la matiere : proprietes dielectriques, magnetiques et proprietes de transport. Mecanismes de polarisabilite electrique et magnetique. Comportement macroscopique des materiaux dans un champ electrique statique et alternatif. Comportement microscopique : le champ local. Piezoelectricite, ferroelectricite, diamagnetisme, paramagnetisme, ferromagnetisme. Anisotropie et structure en domaines. Dynamique de spins. Transport electronique. Équation de Boltzmann.

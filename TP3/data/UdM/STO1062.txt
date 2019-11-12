@@ -1,0 +1,2 @@
+TitreCours: Radiologie 1
+DescriptionCours: Introduction a la radiologie. Principes de la physique des radiations, production des rayons X, absorption des radiations et radioprotection. Techniques d'imagerie dentaire et de reconstruction informatisee.

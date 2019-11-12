@@ -1,0 +1,2 @@
+TitreCours: Presentation du projet de these
+DescriptionCours: Au plus tard, deux ans apres son inscription initiale (a la fin du sixieme trimestre), l'etudiant doit deposer un projet de these de 20 a 30 pages, comprenant l'expose de ses hypotheses, les principaux elements de sa problematique, l'etat de l'historiographie pertinente, les principales sources qu'il compte utiliser, la methodologie a laquelle il aura recours et son plan de travail.

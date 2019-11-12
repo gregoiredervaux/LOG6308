@@ -1,0 +1,2 @@
+TitreCours: Projet de maitrise IV
+DescriptionCours: Projet de maitrise accompli sous la direction d'un directeur de projet et comprenant une etude de niveau superieur sur un probleme de genie ainsi que la redaction d'un rapport de projet. Le travail comprend l'equivalent de 45 heures par semaine consacrees au projet pendant un trimestre.

@@ -1,0 +1,2 @@
+TitreCours: Instruments de mesure et d'evaluation
+DescriptionCours: Le probleme de la mesure en psychoeducation. Les instruments de mesure et leurs caracteristiques. L'elaboration d'instruments de mesure : les tests, les questionnaires, les entrevues, etc. Analyse d'instruments connus dans le domaine.

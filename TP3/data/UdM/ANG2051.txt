@@ -1,0 +1,2 @@
+TitreCours: Advanced Oral English 1
+DescriptionCours: Cours ayant comme objectif l'amelioration de l'anglais parle et ecrit. Destine aux etudiants qui maitrisent deja les elements de base : la grammaire et la syntaxe.

@@ -1,0 +1,2 @@
+TitreCours: Cliniques a options
+DescriptionCours: Serie d'options intra et extra murales dans divers secteurs d'activites cliniques.

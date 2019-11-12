@@ -1,0 +1,2 @@
+TitreCours: Initiation a la creation publicitaire
+DescriptionCours: Description du fonctionnement de l'agence publicitaire et initiation concrete aux etapes de la conception du message publicitaire a partir d'exercices de simulation («brain storming», analyse d'enquetes, elaboration d'un concept, preparation de scenarios, etablissement d'un plan de diffusion, etc.).

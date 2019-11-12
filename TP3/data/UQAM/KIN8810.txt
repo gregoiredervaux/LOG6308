@@ -1,0 +1,2 @@
+TitreCours: Atelier de recherche
+DescriptionCours: Ce cours vise a appliquer les connaissances acquises dans les trois cours de base a l'etude d'une situation particuliere de motricite humaine ou d'un poste de travail. Recherche sur une problematique identifiee par l'etudiant. L'etudiant doit participer activement a toutes les etapes de la recherche (problematique, recension des ecrits, methodologie, prise des mesures, presentation et discussion des resultats). L'etudiant est supervise par les professeurs durant toutes ces etapes.

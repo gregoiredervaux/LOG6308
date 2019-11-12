@@ -1,0 +1,2 @@
+TitreCours: Litterature latine medievale
+DescriptionCours: Analyse des principaux auteurs latins et des principales formes litteraires latines du Moyen Age occidental.

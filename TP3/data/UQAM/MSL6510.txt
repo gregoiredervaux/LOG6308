@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Fonctions nouvelles assignees aux musees dans l'acquisition, la diffusion et l'interpretation d'oeuvres recentes. Problematiques de conservation museale pour oeuvres concues pour des espaces differents. Contraintes du lieu museal sur la creativite artistique. Nouvelles pedagogies, nouveaux discours critiques engendres par l'art actuel. Relations de l'institution avec les milieux artistiques.

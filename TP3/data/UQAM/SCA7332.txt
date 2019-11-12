@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de meteorologie II
+DescriptionCours: Études avancees des systemes meteorologiques. Introduction aux methodes d'analyses avancees: coupe verticale, analyse isentropique, analyses objectives. Structure et caracteristique des systemes simules par les modeles numeriques aux equations primitives.

@@ -1,0 +1,2 @@
+TitreCours: Procds d'oxydation et traitements avancs
+DescriptionCours: Chimie de l'eau : tude des oxydants (chlore, bioxyde de chlore, ozone, permanganate et monochloramine) utiliss en potabilisation; mise en oeuvre des oxydants dans les filires de traitement, interaction entre les oxydants. Traitements avancs : rayonnement ultraviolet, osmose inverse, nanofiltration, ultrafiltration et microfiltration.

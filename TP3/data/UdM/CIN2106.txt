@@ -1,0 +1,2 @@
+TitreCours: Theme choisi
+DescriptionCours: Étude approfondie d'une approche, d'un auteur ou d'un corpus specifique de films.

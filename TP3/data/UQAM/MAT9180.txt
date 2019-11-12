@@ -1,0 +1,2 @@
+TitreCours: Analyse de survie
+DescriptionCours: Lois de probabilite de survie, modeles de pannes. Estimation du taux d'arrivee; modele a arrivees proportionnelles; donnees censurees (tronquees) et vraisemblance partielle. Inference basee sur les rangs. Analyse d'experiences biologiques.

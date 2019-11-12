@@ -1,0 +1,2 @@
+TitreCours: Arodynamique II
+DescriptionCours: coulement stationnaire incompressible en 2D. coulement  potentiel. Potentiel de vitesses. Fonction de courant. Singularits : sources, doublets, tourbillons. Potentiel complexe. Profils arodynamiques. Thorme de Kutta-Joukowski. Caractristiques arodynamiques des profils. Aile d'envergure finie. Thorie de la ligne portante. Viscosit. Couche limite laminaire sur une plaque plane. coulements compressibles. Onde de choc. Nombre de Mach. coulement supersonique. Arodynamique de l'hlicoptre. Thorie des hlices. Rotor d'hlicoptre.

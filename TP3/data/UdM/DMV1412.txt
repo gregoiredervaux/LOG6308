@@ -1,0 +1,2 @@
+TitreCours: Genomique medicale veterinaire
+DescriptionCours: Biologie moleculaire, genetique et genomique moderne appliquee au domaine medical et veterinaire.

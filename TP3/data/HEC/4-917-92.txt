@@ -1,0 +1,2 @@
+TitreCours: Taxes a la consommation
+DescriptionCours: Ce cours permet aux participants d'acquerir une connaissance suffisante des principes de base concernant les taxes a la consommation (federales, provinciales et droits de douane).&nbsp; Il vise plus particulierement a fournir aux participants les outils necessaires pour repondre aux problemes d'ordre pratique touchant les taxes a la consommation et la douane. texte contenuRubrique div rubrique

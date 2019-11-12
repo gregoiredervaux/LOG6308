@@ -1,0 +1,2 @@
+TitreCours: Microprocesseurs II
+DescriptionCours: Structure materielle d'un micro-ordinateur: unite centrale de traitement, memoire, entrees/sorties; necessite de circuits d'interface. Analyse des cycles de lecture et d'ecriture d'un microprocesseur. Les differents types de memoire; controleurs de memoire dynamique et de decodeurs d'adresse. Controleurs d'interruptions. Circuits d'interface; encodeurs de clavier, compteurs/temporisateurs, unites a bande magnetique, circuit d'affichage. Bus d'expansion. Travaux en laboratoire.

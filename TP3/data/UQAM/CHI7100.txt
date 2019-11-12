@@ -1,0 +1,2 @@
+TitreCours: Analyse de traces
+DescriptionCours: Ce cours discute en detail des methodes employees pour analyser qualitativement et quantitativement de tres faibles quantites de produits. Etude des methodes d'analyse de detection et de determination de traces. Methodes classiques et instrumentales. Application a la determination des polluants de l'atmosphere et de l'eau et a l'analyse de materiaux de haute purete.

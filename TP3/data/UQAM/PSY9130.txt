@@ -1,0 +1,2 @@
+TitreCours: Comportement animal
+DescriptionCours: Étude de l'ontogenese et de la phylogenese du comportement animal. Perspectives tirees de l'ethologie, la psychologie comparee, l'ecologie du comportement, la genetique des populations et la sociobiologie. Histoire, confrontations et syntheses des sous-disciplines. Importance de la selection naturelle pour expliquer le comportement individuel et social. Études des repertoires instinctifs et acquis. Écologie et evolution de l'apprentissage et de la communication animale.

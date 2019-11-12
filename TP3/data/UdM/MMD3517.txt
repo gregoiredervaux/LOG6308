@@ -1,0 +1,2 @@
+TitreCours: Stage : Medecine familiale
+DescriptionCours: Stage en salle d'urgence aupres de medecins-urgentologues et stages en regions supervises par des medecins de famille.

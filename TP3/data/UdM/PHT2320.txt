@@ -1,0 +1,2 @@
+TitreCours: Modalites electrotherapeutiques 2
+DescriptionCours: Apprentissage des modalites electrotherapeutiques utilisees en physiotherapie : electrodiagnostic, stimulation du muscle denerve, LASER, courant continu constant, courants diadynamiques... Choix de diverses modalites. Histoires de cas.

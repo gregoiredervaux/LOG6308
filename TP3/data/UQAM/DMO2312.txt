@@ -1,0 +1,2 @@
+TitreCours: Analyse transversale
+DescriptionCours: Cours relevant de l'Universite de Montreal Methodes d'analyse transversale et leur application aux phenomenes demographiques: mortalite, fecondite, nuptialite, divortialite. Construction de tables de mortalite a partir de statistiques officielles. Analyse des structures de population. Renouvellement des populations. Modeles de population. Élements de perspectives de population.

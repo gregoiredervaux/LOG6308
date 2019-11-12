@@ -1,0 +1,2 @@
+TitreCours: lments de machines
+DescriptionCours: Le cours dcrit les thories de limitations en statique et en fatigue puis les applique aux calculs et aux choix des organes usuels de machines. Le choix des organes est effectu en utilisant les catalogues des fabricants et en justifiant les procdures suggres par des considrations thoriques.

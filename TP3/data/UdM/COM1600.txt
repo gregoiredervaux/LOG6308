@@ -1,0 +1,2 @@
+TitreCours: Communication mediatique
+DescriptionCours: Revue des principales theories contemporaines de la communication mediatique et de leur evolution. Perspectives sur le developpement des technologies de communication et leurs incidences sociales.

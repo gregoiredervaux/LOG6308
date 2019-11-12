@@ -1,0 +1,2 @@
+TitreCours: Systemes politiques europeens
+DescriptionCours: Comparaison des regimes democratiques espagnol, britannique, suedois, italien, allemand, francais. L'impact des constitutions, systemes de partis et modes de scrutin sur l'equilibre des pouvoirs executif et legislatif.

@@ -1,0 +1,2 @@
+TitreCours: Phenomene d'echanges en gen. tiss. et en bio.
+DescriptionCours: Analyse des phenomenes de transport propres aux milieux electrolytiques pour l'ingenierie tissulaire et la biotechnologie. Presence de charges electriques mobiles sous formes d'ions dissous et de charges immobiles associees aux macromolecules ou autres surfaces ioniques. Effet Donnan, la double couche electrique, l'electrophorese, l'electro-osmose, les champs electriques induits par compression ou les potentiels d'ecoulement. Conception d'instruments specialises.

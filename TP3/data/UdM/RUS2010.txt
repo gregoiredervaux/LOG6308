@@ -1,0 +1,2 @@
+TitreCours: Morphologie et syntaxe russes
+DescriptionCours: Étude systematique de la grammaire fondamentale du russe suivie d'exercices pratiques.

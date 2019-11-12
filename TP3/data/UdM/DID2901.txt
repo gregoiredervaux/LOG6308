@@ -1,0 +1,2 @@
+TitreCours: Didactique de l'art dramatique 2
+DescriptionCours: Experiences en art dramatique. Experimentation et evaluation d'activites d'enseignement. Integration de l'art dramatique aux matieres scolaires.

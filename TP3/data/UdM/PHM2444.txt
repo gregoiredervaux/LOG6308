@@ -1,0 +1,2 @@
+TitreCours: Antibiotiques et infectiologie
+DescriptionCours: Pharmacologie des anti-infectieux. Pharmacotherapie de pathologies infectieuses. Conseils aux patients. Monitoring pharmacotherapeutique.

@@ -1,0 +1,2 @@
+TitreCours: Medecine de population porcine
+DescriptionCours: Deux semaines de travaux en medecine de population chez le porc.

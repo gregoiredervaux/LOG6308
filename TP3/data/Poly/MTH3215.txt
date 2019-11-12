@@ -1,0 +1,2 @@
+TitreCours: Mathematiques pour les applicat. multimedias
+DescriptionCours: Interpolation, differentiation et integration numerique. Resolution numerique des equations algebriques. Methodes directes et iteratives pour les systemes d'equations algebriques lineaires et non lineaires. Modelisation mathematique. Erreurs de modelisation, de representation et de troncature. Theorie des equations aux derivees partielles. Methode de separation des variables. Series de Fourier.

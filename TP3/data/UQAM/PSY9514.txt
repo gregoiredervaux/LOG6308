@@ -1,0 +1,2 @@
+TitreCours: Jugement et prise de decision en contexte social
+DescriptionCours: Étude des processus inherents aux prises de decision et au jugement social. Attribution de causalite. Strategies de confirmation d'hypotheses. Biais et heuristiques dans les prises de decision. Techniques d'aide a la prise de decision. Role des modeles lineaires et non lineaires. Fondements theoriques et applications.

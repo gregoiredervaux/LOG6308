@@ -1,0 +1,2 @@
+TitreCours: Les NTIC en langues secondes
+DescriptionCours: L'enseignement des langues a l'aide des NTIC. Analyse de logiciels educatifs et des ressources sur Internet. Principes d'exploitation d'outils informatiques. Élaboration de scenarios d'apprentissage.

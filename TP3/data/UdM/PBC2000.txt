@@ -1,0 +1,2 @@
+TitreCours: Biopathologie generale
+DescriptionCours: Description des lesions cellulaires et tissulaires et de leur pathogenese. Sujets : lesion et mort cellulaire; croissance et differenciation; inflammation; troubles hemodynamiques; maladies de l'immunite; effets des agents chimiques et physiques.

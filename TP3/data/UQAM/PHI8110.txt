@@ -1,0 +1,2 @@
+TitreCours: Seminaire d
+DescriptionCours: Étude approfondie d'un theme, d'un probleme, d'une controverse, d'une ecole de pensee ou d'auteurs en histoire de la philosophie. Le contenu specifique du seminaire sera determine par le comite du programme a chacune de ses occurrences.

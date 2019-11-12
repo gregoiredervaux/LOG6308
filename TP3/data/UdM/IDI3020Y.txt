@@ -1,0 +1,2 @@
+TitreCours: Évaluation globale des besoins
+DescriptionCours: Theorie, particularites de passation, normes, forces et limites des principaux outils d&rsquo;evaluation. Experimentation d&rsquo;outils d&rsquo;evaluation : compilation, realisation d&rsquo;entrevues avec usager et parent, redaction et presentation des recommandations.

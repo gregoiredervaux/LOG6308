@@ -1,0 +1,2 @@
+TitreCours: Medecine des animaux de compagnie
+DescriptionCours: Étude des principales maladies affectant les animaux de compagnie. Diagnostic, traitements et prevention des principales maladies.

@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Le cours vise a introduire certains concepts fondamentaux dans le domaine de l'evaluation des actions de societes, et a developper les capacites d'analyse ainsi que le jugement dans la decision d¿investir dans les actions d'une societe. Il vise aussi a vous aider a comprendre les variables determinant le comportement du marche des actions. Suite a ce cours, vous devriez mieux comprendre comment, en tant que gestionnaire, vous pouvez influencer la valeur marchande de votre firme.

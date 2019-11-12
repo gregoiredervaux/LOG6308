@@ -1,0 +1,2 @@
+TitreCours: Lectures dirigees
+DescriptionCours: Lecture et analyse d'ouvrages et d'articles sur un sujet se situant dans une problematique bien definie et visant des objectifs precis.

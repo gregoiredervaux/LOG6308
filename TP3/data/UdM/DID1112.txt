@@ -1,0 +1,2 @@
+TitreCours: Analyse et conception didactique
+DescriptionCours: Analyse d'un programme de formation disciplinaire. Facteurs et conditions didactiques reliees a l'enseignement. Niveaux de planification. Analyse et elaboration de situations d'apprentissage.

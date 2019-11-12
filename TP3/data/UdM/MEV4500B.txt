@@ -1,0 +1,2 @@
+TitreCours: Medecine des animaux de compagnie
+DescriptionCours: Trois semaines de travaux en medecine des animaux de compagnie et (ou) medecine des equins.

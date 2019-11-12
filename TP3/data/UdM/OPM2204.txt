@@ -1,0 +1,2 @@
+TitreCours: Optique ophtalmique 2.2
+DescriptionCours: Lentilles de fortes puissances positive et negative. Effets physiologiques secondaires au port de lentilles ophtalmiques. Analyse des traitements de surfaces. Parametres de la prescription ophtalmique. Travaux pratiques.

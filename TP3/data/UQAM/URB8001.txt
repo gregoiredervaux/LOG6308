@@ -1,0 +1,2 @@
+TitreCours: Rapport d
+DescriptionCours: Redaction d'un rapport d'activite sous la direction d'un professeur du programme de maitrise en analyse et gestion urbaines. Ce rapport vise a faire une synthese de l'experience acquise dans des activites de gestion urbaine ainsi que par des elements theoriques vus dans le programme.

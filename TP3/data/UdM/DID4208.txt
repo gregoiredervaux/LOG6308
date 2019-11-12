@@ -1,0 +1,2 @@
+TitreCours: Communication orale en orthopedagogie
+DescriptionCours: Modeles et fonctions de la communication orale. Developpement et troubles de la communication. Comportements langagiers de l'enseignant et de l'eleve. Approches d'interventions. Évaluation.

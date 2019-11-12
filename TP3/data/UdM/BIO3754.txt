@@ -1,0 +1,2 @@
+TitreCours: Écologie vegetale
+DescriptionCours: Facteurs biotiques et abiotiques qui determinent l'abondance et la distribution des vegetaux. Applications des principes fondamentaux de l'ecologie vegetale en biologie de la conservation, amenagement du territoire, foresterie, etc.

@@ -1,0 +1,2 @@
+TitreCours: Gestion des mesures d'urgence
+DescriptionCours: Évaluer les risques et les vulnerabilites. Élaborer un plan d'urgence dans une perspective systemique. Fonctionner en etat d'urgence. S'ajuster en fonction du deroulement. Piloter le retour a la normale. Proceder a la retrospection.

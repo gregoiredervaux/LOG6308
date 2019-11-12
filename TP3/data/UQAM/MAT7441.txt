@@ -1,0 +1,2 @@
+TitreCours: Algorithmes en combinatoire
+DescriptionCours: Representation informatisee des structures combinatoires (permutations, partitions, compositions, etc). Generation exhaustive et aleatoire de ces structures. Algorithme de Robinson-Schensted. Arbres binaires de recherche; structures de donnees. Algorithmes sur les graphes: calcul de polynomes associes aux graphes. Algorithmes de coloration et de planarite.

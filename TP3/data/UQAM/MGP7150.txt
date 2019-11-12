@@ -1,0 +1,2 @@
+TitreCours: Faisabilite de projet
+DescriptionCours: Ce cours vise un double objectif: fournir au gestionnaire de projet une approche d'intervention en marketing de projet qui tienne compte des caracteristiques de l'environnement externe et interne dans lequel s'inscrit le projet, et lui proposer des techniques pour mieux assurer la faisabilite du projet. Les principaux elements de contenu sont le marketing de projet, les methodologies d'analyse technique telles que l'ingenierie de la valeur.

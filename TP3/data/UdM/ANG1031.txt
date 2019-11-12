@@ -1,0 +1,2 @@
+TitreCours: Survey of British Literature to 1650
+DescriptionCours: Introduction a la litterature britannique jusqu'a 1650, a ses grands mouvements, a son contexte social. Textes representatifs d'ecrivains tels Chaucer, Shakespeare, Donne.

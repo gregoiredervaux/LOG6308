@@ -1,0 +1,2 @@
+TitreCours: Linguistique du texte amerindien
+DescriptionCours: Lecture commentee de recits montagnais, analyse de forme et de contenu, problemes de transcription et d'interpretation, structure interne du discours.

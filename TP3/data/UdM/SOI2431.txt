@@ -1,0 +1,2 @@
+TitreCours: Integration des competences (urgence)
+DescriptionCours: Activites d'integration des savoirs lies a l'intervention en soins d'urgence aupres des personnes de tous ages et de leur famille. Questions juridiques et ethiques. Exercice du role professionnel et pratique reflexive.

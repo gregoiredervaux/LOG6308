@@ -1,0 +1,2 @@
+TitreCours: Intervention en situation d'urgence
+DescriptionCours: Gestion de crises declenchees par les catastrophes naturelles, mouvements forces des populations et autres phenomenes qui font appel a l'aide internationale. Gestion de risques et conflits. Aide humanitaire. Types d'interventions.

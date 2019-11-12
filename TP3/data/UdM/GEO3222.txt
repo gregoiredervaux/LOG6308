@@ -1,0 +1,2 @@
+TitreCours: Transport et reseaux geographiques
+DescriptionCours: Analyse des transformations recentes en transport. Évaluation des conditions de developpement et de l'impact des reseaux sur les villes et les marches. Role des transporteurs et importance des politiques publiques sur le fonctionnement des reseaux.

@@ -1,0 +1,2 @@
+TitreCours: Mathematiques de l'assurance IARD
+DescriptionCours: Credibilite: estimateur de Bayes, risque, modele de Buhlmann et sa generalisation. Modelisation des pertes: lois de probabilite, modeles parametriques et non-parametriques. Simulation. Ce cours contribue a la preparation des examens SOA C et CAS 4.

@@ -1,0 +1,2 @@
+TitreCours: Stage : Pharmacologie clinique
+DescriptionCours: Clinique des principaux problemes pharmacologiques observes en pratique courante. Participation a la consultation en pharmacologie clinique en milieu hospitalier.

@@ -1,0 +1,2 @@
+TitreCours: Surdite
+DescriptionCours: Incidences psychosociales des differents types de surdite et des differents modes de communication des personnes sourdes et malentendantes. Analyse du vecu psychologique et social de la population sourde et malentendante et des attitudes de la societe a son egard. Les services scolaires, sociaux et de sante et les aides technologiques existants.

@@ -1,0 +1,2 @@
+TitreCours: Hydrologie pour ingnieur
+DescriptionCours: Bilan et cycle hydrologique. Caractristiques du bassin versant. Atmosphre et hydromtorologie. Composantes principales du cycle hydrologique : prcipitation (pluie et neige), vaporation et vapotranspiration, infiltration. Modlisation pluie-ruissellement. Analyse frquentielle des extrmes (crues, tiages).

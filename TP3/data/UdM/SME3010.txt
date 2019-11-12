@@ -1,0 +1,2 @@
+TitreCours: Intervention en situation de crise
+DescriptionCours: La crise : notions fondamentales, types et manifestations. Processus d'intervention et evaluation correspondante. Cadre de pratique. Positionnement de l'intervenant.

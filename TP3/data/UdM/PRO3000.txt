@@ -1,0 +1,2 @@
+TitreCours: Atelier d'integration en promotion
+DescriptionCours: Activite d'integration des apprentissages par la realisation d'une campagne de promotion integree pour un client-annonceur.

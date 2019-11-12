@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Activite telle que proposee par un etudiant ou un groupe d'etudiants et acceptee par le Comite de programme ou le professeur responsable. Cette activite doit permettre aux etudiants individuellement ou collectivement de realiser un stage au Canada ou a l'etranger conformement aux politiques de l'Universite du Quebec a Montreal.

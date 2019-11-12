@@ -1,0 +1,2 @@
+TitreCours: Chimie experimentale 1
+DescriptionCours: Initiation aux travaux pratiques integres de chimie analytique, inorganique, organique et physique. Sante et securite en chimie.

@@ -1,0 +1,2 @@
+TitreCours: Gestion de l'intervention educative
+DescriptionCours: Dimensions et exigences reliees a la gestion de l'intervention educative en milieu de garde. Analyse des approches utilisees en fonction des specificites du milieu. Description des competences a developper. Travail interdisciplinaire et en reseau.

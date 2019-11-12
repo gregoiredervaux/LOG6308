@@ -1,0 +1,2 @@
+TitreCours: Étude pratique du francais oral 5
+DescriptionCours: Permettre a l'etudiant ayant une bonne connaissance du francais de consolider et d'approfondir les strategies conversationnelles et discursives indispensables a la communication orale dans des echanges complexes.

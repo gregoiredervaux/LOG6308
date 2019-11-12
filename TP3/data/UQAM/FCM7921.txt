@@ -1,0 +1,2 @@
+TitreCours: Seminaire de synthese
+DescriptionCours: Ce cours vise a confronter diverses problematiques en communication a partir d'une presentation des projets de memoires etudiants. Diverses thematiques seront approfondies couvrant les principaux secteurs du domaine de la communication: medias, technologies d'information et de communication, communications organisationnelles, communications internationales et interculturelles, etc. Diverses questions methodologiques seront abordees en fonction de la demarche de production des memoires.

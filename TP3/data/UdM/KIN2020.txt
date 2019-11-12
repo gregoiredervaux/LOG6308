@@ -1,0 +1,2 @@
+TitreCours: Gestion du stress
+DescriptionCours: Analyses d'approches corporelles pour la gestion du stress. Methodes de relaxation et d'imagerie mentale. Techniques de respiration.

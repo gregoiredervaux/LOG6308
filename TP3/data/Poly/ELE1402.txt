@@ -1,0 +1,2 @@
+TitreCours: lectrotechnique du gnie civil
+DescriptionCours: Rappel des thormes fondamentaux de circuits. Circuits  courant alternatif monophas et triphas. Mesures des variables lectriques : tension, courant, puissance active et ractive. Transformateur et moteur  courant alternatif. Variateur de vitesse pour moteur asynchrone. Distribution de l'nergie lectrique. Facteur de puissance et tarification. Dispositifs de protection: fusibles, disjoncteurs, prises diffrentielles, etc. Scurit lectrique et code de l'lectricit. Formation en ranimation cardio-respiratoire (RCR).

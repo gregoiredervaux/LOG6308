@@ -1,0 +1,2 @@
+TitreCours: Traitement d'images
+DescriptionCours: Representations digitales. Transformations. Morphing. Compositing. Filtres. Compression couleur.

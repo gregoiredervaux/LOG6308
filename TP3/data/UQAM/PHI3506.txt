@@ -1,0 +1,2 @@
+TitreCours: Meta
+DescriptionCours: Presentation des differentes entreprises qui, a partir d'une theorie du discours normatif, se sont prononcees sur la question des fondements de l'ethique (intuitionnisme, naturalisme, emotivisme, prescriptivisme). Caracterisation des methodes, des objectifs et des concepts de la meta- ethique et examen des rapports entre les theses de la meta-ethique et celles de l'ethique normative.

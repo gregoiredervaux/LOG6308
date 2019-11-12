@@ -1,0 +1,2 @@
+TitreCours: Éducation interculturelle
+DescriptionCours: Étude des particularites de l'enseignement et de l'apprentissage dans des classes multiethniques et multiculturelles.

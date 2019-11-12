@@ -1,0 +1,2 @@
+TitreCours: Canadian Literature
+DescriptionCours: Introduction a la litterature canadienne anglaise. L'utilisation des textes dans l'enseignement de la langue.

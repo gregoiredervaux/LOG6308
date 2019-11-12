@@ -1,0 +1,2 @@
+TitreCours: Climatologie synoptique et appliquee
+DescriptionCours: Introduction a la climatologie synoptique et les applications de la climatologie au niveau regional. Classification des types de circulation et des types de temps. Anomalies climatologiques. Previsions a moyen et a long termes. Applications de la climatologie au niveau regional dans differents domaines de l'activite humaine (exemple: agriculture, transport, tourisme, etc.).

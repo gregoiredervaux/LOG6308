@@ -1,0 +1,2 @@
+TitreCours: Procedes de la metallurgie des poudres
+DescriptionCours: Procedes de fabrication des poudres metalliques. Analyse des caracteristiques morphologiques. Analyse du procede de pressage uniaxe : role des lubrifiants, etude de l'etat de contrainte, mecanismes de densification, evolution de la microstructure. Frittage : mecanismes de transport de matiere, activation, phase liquide. Procedes a haute densite. Moulage par injection de poudres. Études de cas.

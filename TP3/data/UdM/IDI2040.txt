@@ -1,0 +1,2 @@
+TitreCours: Troubles envahissants du developpement
+DescriptionCours: Caracteristiques des syndromes relies aux troubles envahissants du developpement. Impact des diagnostics sur l'intervention. Adaptation de diverses methodes therapeutiques et de pistes d'intervention. Approches intensives UCLA, TEACCH et PECS.

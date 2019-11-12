@@ -1,0 +1,2 @@
+TitreCours: Projet d'intervention infirmiere
+DescriptionCours: Approfondissement de l'experience de sante vecue par une clientele au choix. Élaboration d'un projet d'intervention infirmiere.

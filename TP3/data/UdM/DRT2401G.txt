@@ -1,0 +1,2 @@
+TitreCours: Droit des affaires 1
+DescriptionCours: Notion d'entreprise et implications; publicite legale de l'entreprise; personnalite morale; etude des diverses formes juridiques de l'entreprise (entreprises individuelle et contractuelle, cooperative).

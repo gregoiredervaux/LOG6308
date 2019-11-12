@@ -1,0 +1,2 @@
+TitreCours: Comptabilite financiere II
+DescriptionCours: Connaitre les concepts de base et le traitement comptable relatif a des postes aux etats financiers dans le contexte d'entreprises qui ont des structures complexes. Placement a long terme. Regroupement d'entreprises. États financiers consolides. Information sectorielle. Operations entre personnes apparentees. Conversion des devises etrangeres. Modifications comptables.

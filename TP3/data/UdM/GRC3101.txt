@@ -1,0 +1,2 @@
+TitreCours: Rhetorique et art oratoire
+DescriptionCours: L'art de la persuasion, des debuts semi-legendaires en Sicile (Corax, Tisias) a l'age d'or a Athenes aux Ve et IVe siecles (Gorgias, Lysias, Demosthene, Isocrate). Le cadre theorique : les traites sur la rhetorique, d'Aristote aux Byzantins.

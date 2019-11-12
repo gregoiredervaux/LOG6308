@@ -1,0 +1,2 @@
+TitreCours: Stage d'observation
+DescriptionCours: Activite visant a se familiariser avec le contexte scolaire quebecois et avec le role de l'enseignant dans la classe.

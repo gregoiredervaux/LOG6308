@@ -1,0 +1,2 @@
+TitreCours: Acoustique
+DescriptionCours: La nature physique du son. Les differents parametres utilises en acoustique physique. Les unites, la notion de niveau. La propagation du son dans differents milieux. Appareils utilises en acoustique. Demonstrations.

@@ -1,0 +1,2 @@
+TitreCours: Musique
+DescriptionCours: Ce cours propose une investigation, du point de vue historique et socioculturel, de diverses esthetiques et courants musicaux determinants de la musique occidentale des XVIIIe et XIXe siecles. Selon le cas, references aux ecrits theoriques et critiques des epoques respectives et references interdisciplinaires a differents champs artistiques (peinture, architecture et litterature). Une thematique precise pourrait faire l'objet de ce cours dans son integralite.

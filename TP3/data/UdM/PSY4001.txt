@@ -1,0 +1,2 @@
+TitreCours: Methodes de recherche avancees
+DescriptionCours: Decouverte accidentelle. Meta-analyse. Problemes particuliers de validite interne, de controle et de plans classiques. Plans de recherche speciaux. Reactivite de la mesure. Valeur des resultats. Problematique de la validite externe. Publication.

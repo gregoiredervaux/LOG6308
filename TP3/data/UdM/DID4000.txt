@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de didactique
+DescriptionCours: Planification de sequences d'enseignement/apprentissage, analyse reflexive des aspects didactiques de l'experience d'enseignement. Étude de cas et de problemes relies aux conditions didactiques et aux difficultes d'apprentissage.

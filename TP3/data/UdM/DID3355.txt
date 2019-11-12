@@ -1,0 +1,2 @@
+TitreCours: Didactique de la physique
+DescriptionCours: Problematique et conditions didactiques dans l'apprentissage de la physique. Strategies et techniques didactiques, approche par competences en laboratoire informatise et en classe.

@@ -1,0 +1,2 @@
+TitreCours: Pharmacocinetique et physiopathologie
+DescriptionCours: Repercussions des modifications physiologiques et pathologiques sur la pharmacocinetique des medicaments. Étude des variations des parametres pharmacocinetiques. Instauration, suivi et correction des regimes posologiques.

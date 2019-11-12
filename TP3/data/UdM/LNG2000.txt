@@ -1,0 +1,2 @@
+TitreCours: Grammaires formelles
+DescriptionCours: Chaines, langages, systemes de concatenation, theorie des automates, types de grammaires syntagmatiques.

@@ -1,0 +1,2 @@
+TitreCours: Le gestionnaire et l
+DescriptionCours: Ce cours est concu pour developper les capacites d'analyse et de resolution de problemes ainsi que la comprehension des differents processus de management. L'etudiant est sensibilise aux theories majeures du comportement humain et a leur application dans l'environnement de travail. A la fin de ce cours, les etudiants auront une meilleure comprehension de leur propre comportement ainsi qu'une comprehension des relations interpersonnelles dans differents types d'organisations.

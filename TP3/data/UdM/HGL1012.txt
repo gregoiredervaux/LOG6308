@@ -1,0 +1,2 @@
+TitreCours: Civilisation greco-romaine
+DescriptionCours: Cours destine a eclairer les principaux moments historiques de la Grece et de Rome, en relation avec la pensee, la litterature, l'histoire de l'art, la philosophie et la vie quotidienne. Survivances de l'Antiquite, du Moyen Age a nos jours.

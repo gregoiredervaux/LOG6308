@@ -1,0 +1,2 @@
+TitreCours: Intellig. artific.: methode heurist. de rech.
+DescriptionCours: Usages typiques de methodes heuristiques de recherche. Techniques de representation : graphe d'espace d'etat et graphe ET/OU. Recherche systematique : methodes profondeur d'abord et par niveaux. Recherche heuristique : methodes «le meilleur d'abord», fonctions recursives de ponderation, criteres d'arret, algorithmes A* et AO*. Proprietes formelles et analyse de performance de methodes heuristiques. Developpement de methodes heuristiques.

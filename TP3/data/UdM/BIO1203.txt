@@ -1,0 +1,2 @@
+TitreCours: Introduction a la genetique
+DescriptionCours: Loi de Mendel et mecanismes de l'heredite. Linkage genetique et recombinaison. Probabilites et genetique. Élements de cytogenetique. Mutations. Applications en biotechnologie et impact social.

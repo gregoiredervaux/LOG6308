@@ -1,0 +1,2 @@
+TitreCours: Traumatologie sensorielle et motrice
+DescriptionCours: Étude de divers syndromes affectant le systeme nerveux: syndromes des hemispheres cerebraux, des noyaux gris centraux, du cervelet, de la moelle et syndromes peripheriques sensitifs ou moteurs. Étude de l'influence particuliere des lesions du systeme nerveux sur la force musculaire, le tonus, la coordination, la locomotion et les postures. Les symptomatologies sont abordees en fonction de leurs etiologies et de l'importance de leurs manifestations au niveau de la motricite volontaire.

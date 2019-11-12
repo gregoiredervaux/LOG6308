@@ -1,0 +1,2 @@
+TitreCours: Informatique dentaire
+DescriptionCours: Familiarisation avec les applications informatiques en medecine dentaire, les sites d'interet pour le dentiste, les aspects legaux du dossier informatise, les nouvelles technologies d'interet pour la pratique et le developpement professionnel.

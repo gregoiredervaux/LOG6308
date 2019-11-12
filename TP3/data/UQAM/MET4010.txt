@@ -1,0 +1,2 @@
+TitreCours: Gestion du changement et developpement technique
+DescriptionCours: Science, technologie et systeme social. Les etapes du progres technique. Invention, innovation et changement technique. Structure industrielle et changement technologique. Developpement economique, competitivite et technologie. Changement technique et organisation de la production et de l'emploi. La gestion de la technologie dans l'entreprise: strategies et structure de la R&D.; La gestion de la technologie dans la societe: politiques industrielles, scientifiques et technologiques.

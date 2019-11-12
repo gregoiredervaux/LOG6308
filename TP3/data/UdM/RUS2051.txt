@@ -1,0 +1,2 @@
+TitreCours: Civilisation sovietique
+DescriptionCours: Le pays et sa population. Regime sociopolitique. Organisations sociales. Instruction. Culture.

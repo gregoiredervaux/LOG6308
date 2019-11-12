@@ -1,0 +1,2 @@
+TitreCours: Gerer la qualite et la performance
+DescriptionCours: Developpement d'une pratique de gestion permettant d'assurer des services de qualite en utilisant de facon optimale les ressources allouees. Mesures de qualite et indicateurs de performance en lien avec des criteres d'evaluation mesurables.

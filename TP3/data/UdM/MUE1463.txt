@@ -1,0 +1,2 @@
+TitreCours: Combo
+DescriptionCours: Lecture, dechiffrage et interpretation de partitions musicales du repertoire jazz enregistre en multipistes avec directives de developpement individuel et professionnel.

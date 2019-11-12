@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique 2
+DescriptionCours: Ce seminaire, a contenu variable, porte sur un theme de recherche developpe par un ou des professeurs (reguliers, invites, associes...). Il vise a permettre aux etudiants de prendre connaissance de recherches recentes autour d'un theme donne, de discuter des differents volets de ces recherches et d'approfondir, dans le cadre d'un travail ecrit, un des aspects du theme traite. Le ou les professeurs concernes assument l'evaluation des travaux des etudiants.

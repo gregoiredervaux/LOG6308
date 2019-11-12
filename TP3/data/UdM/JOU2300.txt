@@ -1,0 +1,2 @@
+TitreCours: Atelier de presse televisee
+DescriptionCours: Production d'emissions televisees : recherche, tournage, montage; scenarisation de l'information televisee. Caracteristiques du media, des formes de traitement de la nouvelle et du grand reportage.

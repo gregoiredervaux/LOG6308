@@ -1,0 +1,2 @@
+TitreCours: Analyse de cas
+DescriptionCours: Seminaires. Presentations et discussions de cas. Approche integree de l'ensemble des notions theoriques et cliniques requises pour la pratique de l'optometrie. Utilisation des nouvelles technologies.

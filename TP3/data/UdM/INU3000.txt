@@ -1,0 +1,2 @@
+TitreCours: Projet d'integration
+DescriptionCours: Étude de cas ou recherche dirigee.

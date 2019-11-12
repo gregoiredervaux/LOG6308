@@ -1,0 +1,2 @@
+TitreCours: Cours
+DescriptionCours: Utilisant notamment la lecture de textes anciens, de sources propres a l'Antiquite (epigraphie, archeologie, papyrologie, numismatique, etc.), d'etudes historiques et favorisant la discussion en groupe, cet atelier permet d'approfondir certains aspects de l'histoire politique, economique, sociale ou culturelle du monde antique grec ou romain. La periode et les aspects couverts peuvent varier et sont annonces au debut du cours.

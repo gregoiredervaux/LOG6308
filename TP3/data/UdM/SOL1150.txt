@@ -1,0 +1,2 @@
+TitreCours: Culture et societe
+DescriptionCours: Ce cours abordera les principales theories de la culture en vue de donner une formation de base : culture populaire/culture savante, representation sociale, productions culturelles, etc.

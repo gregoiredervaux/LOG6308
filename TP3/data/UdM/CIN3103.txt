@@ -1,0 +1,2 @@
+TitreCours: Mythologies du cinema
+DescriptionCours: Études des relations entre mythe et cinema selon diverses perspectives, allant des mythes recycles par le cinema aux mythes que le cinema a fondes, et plus generalement, du cinema en tant que nouvelle mythologie du XXe siecle.

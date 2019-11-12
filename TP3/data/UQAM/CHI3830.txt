@@ -1,0 +1,2 @@
+TitreCours: Chimie du traitement des eaux
+DescriptionCours: Étude des transformations et des mecanismes a la base des traitements physicochimiques des eaux. Suspension colloidale, coagulation et floculation. Relations solubilite-pH. Échange ionique applique a l'adoucissement et au dessalement. Pression osmotique et filtration membranaire. Chloration et ozonation : desinfection et reactions secondaires. Absorption sur solides actifs. Problemes de corrosion : equilibre de composition ou traitement.

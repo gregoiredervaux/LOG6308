@@ -1,0 +1,2 @@
+TitreCours: Programmation Excel VBA pour les professions financieres
+DescriptionCours: OBJECTIFS DU COURS :  Les feuilles de travail Excel sont des outils utilises de facon routiniere par plusieurs professionnels financiers. L'objectif du cours vise a donner aux etudiants des connaissances pratiques relatives a la programmation Excel VBA (Visual Basic Application) permettant une utilisation efficace des feuilles de travail Excel.  APPROCHE PÉDAGOGIQUE : Cours magistral.

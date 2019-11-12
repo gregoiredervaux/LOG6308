@@ -1,0 +1,2 @@
+TitreCours: Environnement et aides ergogenes
+DescriptionCours: Reponses a l'exercice dans des environnements varies : chaleur, froid, altitude, microgravite, hyperbarie. Adaptations aigues et chroniques. Nutrition et aides ergogeniques.

@@ -1,0 +1,2 @@
+TitreCours: Projets speciaux
+DescriptionCours: Mise en pratique des connaissances acquises dans le programme grace a un projet de « recherche-action », a un stage, ou autre activite.

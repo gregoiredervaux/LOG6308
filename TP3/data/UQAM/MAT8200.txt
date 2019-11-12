@@ -1,0 +1,2 @@
+TitreCours: Dynamique des apprentissages en classe de mathematiques
+DescriptionCours: Analyse de la dynamique des apprentissages en classe de mathematiques. Étude de bases theoriques supportant cete analyse selon laquelle un apprentissage mathematique n'est pas le resultat de la transmission de connaissances mathematiques par l'enseignant mais plutot un phenomene qui emerge du discours mathematique en classe: analyse des interactions sous l'angle du contrat didactique, analyse sous l'angle de la culture mathematique de la classe, etude du discours mathematique emergent.

@@ -1,0 +1,2 @@
+TitreCours: Droit public avance 1
+DescriptionCours: Étude approfondie d'un theme de droit. Problemes juridiques nouveaux ou negliges. Approche decloisonnee du droit.

@@ -1,0 +1,2 @@
+TitreCours: Impacts des nouvelles technologies
+DescriptionCours: Description des nouveaux champs de developpement de la communication utilisant l'informatique, et survol des systemes de telecommunication modernes qui en decoulent.

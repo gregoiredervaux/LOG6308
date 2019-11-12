@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de recherche veterinaire
+DescriptionCours: Une semaine de travaux dans un laboratoire de recherche appliquee a la medecine veterinaire.

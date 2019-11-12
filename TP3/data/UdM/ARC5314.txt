@@ -1,0 +1,2 @@
+TitreCours: Mecanique, electricite et eclairagisme
+DescriptionCours: Notions d'hygiene, de communication, de securite et d'eclairagisme artificiel. Strategies de chauffage, climatisation et distribution electrique. Analyse des systemes en mecanique. Strategies d'economie d'energie possibles.

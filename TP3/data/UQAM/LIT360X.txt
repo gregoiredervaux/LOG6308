@@ -1,0 +1,2 @@
+TitreCours: Problematique litteraire
+DescriptionCours: Etre a meme d'envisager un corpus litteraire selon un ordre de questions specifiques. Analyser les oeuvres a partir d'un point de vue determine par des interrogations esthetiques, historiques, theoriques ou critiques diverses.

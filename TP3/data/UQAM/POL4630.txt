@@ -1,0 +1,2 @@
+TitreCours: Épistemologie de la science politique
+DescriptionCours: Introduction a la reflexion sur la scientificite en sciences sociales et sur les moyens d'effectuer cette demarche critique. Presentation de quelques notions comme: objectivite, neutralite, subjectivite, demonstration, verification, experimentation... Il sera aussi question des grands debats qui traversent la science politique: individualisme, holisme, quantitatif/qualitatif, deduction, induction et sur l'historicisme et la question du sujet.

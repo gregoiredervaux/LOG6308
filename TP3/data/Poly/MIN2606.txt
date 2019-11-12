@@ -1,0 +1,2 @@
+TitreCours: Manutention des materiaux
+DescriptionCours: Caracteristiques physiques et mecaniques des materiaux rocheux en rapport avec leur chargement, leur transport et leur stockage. Capacite et criteres de selection des equipements miniers. Design de convoyeurs et de pipelines. Comparaison de systemes de manutention : investissements et coûts d'operation. Aspects particuliers de l'analyse et de la selection informatisee de systemes de manutention.

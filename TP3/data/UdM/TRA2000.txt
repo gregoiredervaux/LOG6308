@@ -1,0 +1,2 @@
+TitreCours: Outils informatiques des langagiers
+DescriptionCours: Connaissance des outils et de l'environnement informatiques du traducteur, du redacteur et du terminologue. Initiation pratique.

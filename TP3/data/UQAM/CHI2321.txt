@@ -1,0 +1,2 @@
+TitreCours: Chimie organique III
+DescriptionCours: Études approfondies des concepts de chimie organique, notamment au niveau des produits naturels. Chilarite et analyse conformationnelle. Etudes approfondies de la chimie des glucides, lipides et acides amines. Mecanismes reactionnels et syntheses.

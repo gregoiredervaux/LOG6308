@@ -1,0 +1,2 @@
+TitreCours: Atelier de design hors departement
+DescriptionCours: Unite permettant a l'etudiant de participer a un atelier de design dans un autre departement, dans une autre faculte ou dans une autre universite.

@@ -1,0 +1,2 @@
+TitreCours: Modalites electrotherapeutiques 1
+DescriptionCours: Introduction a l'electrotherapie : courants stimulomoteurs de basse frequence, TENS, ultrasons et courants de moyenne frequence. Modalites thermiques.

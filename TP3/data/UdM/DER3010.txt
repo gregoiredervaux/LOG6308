@@ -1,0 +1,2 @@
+TitreCours: Dentisterie operatoire theorique
+DescriptionCours: Le cours comporte une serie de presentations portant sur des sujets d'actualite en dentisterie operatoire.

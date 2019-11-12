@@ -1,0 +1,2 @@
+TitreCours: Automates programmables
+DescriptionCours: Structure matrielle et logicielle d'automates programmables industriels (API). Entres/Sorties discrtes. Analyse et conception de programme d'applications selon la norme IEC 61131-3. tude des instructions de base des langages LD (Ladder), FBD (Function Block Diagram) et SFC (Sequential Function Chart). Outils et mthodes de dpannage des systmes automatiss. Laboratoire/Travaux pratiques avec outils de programmation et de simulation en usage dans l'industrie.

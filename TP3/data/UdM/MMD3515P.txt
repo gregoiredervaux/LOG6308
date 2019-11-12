@@ -1,0 +1,2 @@
+TitreCours: Stage : Gastro-enterologie pediatrique
+DescriptionCours: Stage aupres de patients d'age pediatrique en gastro-entero-hepatologie pediatrique.

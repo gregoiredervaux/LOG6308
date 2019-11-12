@@ -1,0 +1,2 @@
+TitreCours: Projets diriges
+DescriptionCours: Conception et realisation d&rsquo;un projet theorique ou pratique, sous la direction d&rsquo;un professeur. Examen des rapports entre la recherche savante et la creation artistique : les enjeux, les methodologies, les formes et les contenus.

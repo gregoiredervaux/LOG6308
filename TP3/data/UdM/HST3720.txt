@@ -1,0 +1,2 @@
+TitreCours: Recherche en archives
+DescriptionCours: Ce cours permet a l'etudiant d'utiliser et de confronter sa formation theorique, ainsi que ses connaissances historiques, dans le cadre d'une experience pratique a partir des sources manuscrites.

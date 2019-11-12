@@ -1,0 +1,2 @@
+TitreCours: Construction 1
+DescriptionCours: Étude des assemblages de materiaux generalement utilises pour la construction de la charpente et de l'enveloppe d'un petit batiment et de leur comportement. Initiation a la conception et a la preparation de details de construction.

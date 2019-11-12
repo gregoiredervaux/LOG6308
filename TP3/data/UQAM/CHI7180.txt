@@ -1,0 +1,2 @@
+TitreCours: Methodes d
+DescriptionCours: Introduction a la theorie des lasers. Étude de differents facteurs limitatifs des methodes spectroscopiques et de diverses solutions possibles comme, par exemple, les transformees de Fourier, la modulation et la detection multi-canale. Familiarisation avec la theorie et la pratique de la RMN avancee comme RMN 2D, methodes COSY, NOESY et HETCORR. L'ensemble des methodes d'analyses spectroscopiques sera applique aux domaines de la cinetique, de la determination de structure et de la detection ultra-sensible.

@@ -1,0 +1,2 @@
+TitreCours: Did. de l'informatique au secondaire 1
+DescriptionCours: Problematique de l'enseignement de l'informatique. Programmes. Strategies et techniques didactiques de l'informatique au laboratoire et en classe. Utilisation de materiel informatique propice a l'enseignement au secondaire.

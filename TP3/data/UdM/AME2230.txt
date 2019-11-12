@@ -1,0 +1,2 @@
+TitreCours: Mathematiques et amenagement
+DescriptionCours: Geometrie vectorielle et algorythmique, analyse combinatoire, enumeration, programmation lineaire, logique mathematique, modelisation et structuration, theorie des graphes, transformation : application a l'amenagement.

@@ -1,0 +1,2 @@
+TitreCours: Stage : Psychiatrie legale
+DescriptionCours: Stage clinique en psychiatrie legale.

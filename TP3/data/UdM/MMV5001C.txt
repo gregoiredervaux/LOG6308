@@ -1,0 +1,2 @@
+TitreCours: Seminaires de formation clinique
+DescriptionCours: Ces seminaires ont pour objectif de presenter et discuter les developpements recents dans les sciences cliniques veterinaires.

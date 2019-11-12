@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Les systemes d'information se developpent de facon exponentielle. Dans cette perspective, il est important que le conseiller soit capable d'utiliser les reseaux tels que les autoroutes electroniques, les logiciels en gestion de projet. L'etudiant sera habilite a utiliser divers logiciels de presentation et les logiciels d'analyse de donnees.

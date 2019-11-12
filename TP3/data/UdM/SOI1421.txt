@@ -1,0 +1,2 @@
+TitreCours: Communautes culturelles et soins
+DescriptionCours: Analyse de diverses communautes culturelles en fonction des concepts environnement, soins, sante et personne. Initiation des etudiants a diverses approches visant a mieux comprendre les experiences de sante des communautes culturelles.

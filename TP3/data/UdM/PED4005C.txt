@@ -1,0 +1,2 @@
+TitreCours: Integration : le dossier professionnel
+DescriptionCours: Processus de developpement professionnel et personnel. Construction du savoir et pratique reflexive. Formation continue. Production d'un dossier.

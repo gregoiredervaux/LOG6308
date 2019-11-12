@@ -1,0 +1,2 @@
+TitreCours: Systeme de gestion et archives
+DescriptionCours: Theorie des systemes et gestion des archives. Approches de gestion. Gestion des archives et organisation. Politique de gestion des archives. Normalisation internationale. Analyse des besoins. Application informatique generale.

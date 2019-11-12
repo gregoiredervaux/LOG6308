@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese et preparation aux examens professionnels
+DescriptionCours: Cette activite vise a permettre a l'etudiant de se preparer aux examens professionnels de l'École du Barreau du Quebec. L'activite porte uniquement sur les matieres requises par le Barreau par un survol general des regles applicables en semblables matieres et sur des cas pratiques soumis sous forme de problemes. Cette activite est evaluee selon la notation succes-echec.

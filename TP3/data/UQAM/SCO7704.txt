@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese en verification interne
+DescriptionCours: Ce cours vise a realiser une mission de verification interne portant sur un systeme ou un processus particulier : analyse des risques, planification de mission, execution du programme de verification, evaluation des resultats, redaction du rapport de verification normalise et communications relatives au rapport. L'activite peut prendre la forme d'un stage ou d'un travail dirige et peut etre realisee de facon individuelle ou collective.

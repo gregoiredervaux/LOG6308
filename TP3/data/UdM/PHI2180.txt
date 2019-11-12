@@ -1,0 +1,2 @@
+TitreCours: Philosophie du langage
+DescriptionCours: Examen des thematiques developpees au XXe siecle par la philosophie analytique du langage: la theorie de la signification, l'origine du langage, l'inne et l'acquis, les actes du discours, les jeux de langage, etc.

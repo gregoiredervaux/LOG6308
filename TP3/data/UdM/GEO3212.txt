@@ -1,0 +1,2 @@
+TitreCours: Regions metropolitaines
+DescriptionCours: Analyse theorique et empirique de la structure et du fonctionnement des grandes agglomerations urbaines. Questions demographiques, economiques, sociales et politico-administratives aux echelles inter et intra metropolitaines.

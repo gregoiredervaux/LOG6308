@@ -1,0 +1,2 @@
+TitreCours: Technologie alimentaire
+DescriptionCours: Introduction aux divers procedes technologiques industriels appliques aux aliments. Biotechnologie. Effets sur la valeur nutritive. Utilisation des additifs alimentaires. Toxines endogenes, microbiologiques et contaminants chimiques.

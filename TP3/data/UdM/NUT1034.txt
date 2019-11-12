@@ -1,0 +1,2 @@
+TitreCours: Nutrition et alimentation : T.P.
+DescriptionCours: Choix et utilisation pertinente des diverses tables de composition des aliments.

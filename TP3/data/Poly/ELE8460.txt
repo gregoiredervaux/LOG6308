@@ -1,0 +1,2 @@
+TitreCours: Appareillage electrique
+DescriptionCours: Élements d'un reseau de transport. Calcul des parametres de lignes. Transformateurs: circuits equivalents, pertes, mise sous tension, protection. Disjoncteurs: fonctionnement et dimensionnement. Équipements de compensation: condensateurs, branchements serie et shunt, inductances shunt, FACTS (Flexible Alternative Current Transmission Systems). Coordination d'isolement. Parafoudres: fonctionnement et dimensionnement.

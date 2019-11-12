@@ -1,0 +1,2 @@
+TitreCours: Espace et individu
+DescriptionCours: Notions de base en psychologie de l'environnement : analyse et interpretation des besoins chez certaines categories d'utilisateurs; discours et reflexions theoriques quant aux effets psychiques de l'environnement sur les comportements humains.

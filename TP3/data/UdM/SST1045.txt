@@ -1,0 +1,2 @@
+TitreCours: Loi et SST
+DescriptionCours: Loi sur les accidents du travail et les maladies professionnelles. Definitions, concepts et instruments juridiques de base. Jurisprudence et problemes d'application. Évaluation du dossier d'indemnisation.

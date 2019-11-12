@@ -1,0 +1,2 @@
+TitreCours: Pharmacologie 3
+DescriptionCours: Effets pharmacologiques des principales hormones et des principaux peptides. Pharmacologie du systeme digestif. Mecanismes d'action, indications, precautions, interactions.

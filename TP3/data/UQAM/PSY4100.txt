@@ -1,0 +1,2 @@
+TitreCours: Psychologie du developpement
+DescriptionCours: Étude des lois et des phenomenes du developpement humain. Methodes de recherche. Notions d'etape, de stade et de rythme de croissance. Heredite et environnement. Diverses approches theoriques de la psychologie du developpement. Developpement intellectuel, emotif et social, de la naissance a la vieillesse.

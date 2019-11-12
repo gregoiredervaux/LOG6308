@@ -1,0 +1,2 @@
+TitreCours: Concepts des langages de programmation
+DescriptionCours: Historique. Concepts et implantation des entites de base. Mecanismes d'execution : pile, tas, passage de parametres. Langage de bas niveau (C). Programmation structuree, fonctionnelle et logique. Langages specialises.

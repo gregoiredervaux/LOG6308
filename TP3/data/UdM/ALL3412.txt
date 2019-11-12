@@ -1,0 +1,2 @@
+TitreCours: Allemand : langue etrangere (DaF) 2
+DescriptionCours: Analyse du contenu et de la progression grammaticale de manuels d'allemand choisis, visites de classes, preparation de sequences d'enseignement, utilisation de moyens techniques courants, discussion des principes d'evaluation des connaissances.

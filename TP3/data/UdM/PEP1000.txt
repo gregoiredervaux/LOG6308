@@ -1,0 +1,2 @@
+TitreCours: Analyse politique theorique
+DescriptionCours: Analyse theorique portant sur le statut ontologique des principaux concepts en science politique, et sur leur mise en relation.

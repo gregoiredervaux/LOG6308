@@ -1,0 +1,2 @@
+TitreCours: Production de la parole
+DescriptionCours: Theories de la production de la parole. Problematique des mesures instrumentales de l'articulation et de la phonation avec perspectives sur des applications pluridisciplinaires.

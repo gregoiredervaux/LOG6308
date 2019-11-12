@@ -1,0 +1,2 @@
+TitreCours: Relations economiques internationales
+DescriptionCours: Traits saillants de la structure du commerce et des relations internationales mondiales, balance des paiements, taux de change, theories et politiques commerciales, politique d'aide au developpement, integration commerciale.

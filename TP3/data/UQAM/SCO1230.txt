@@ -1,0 +1,2 @@
+TitreCours: Logiciels comptables I
+DescriptionCours: Ce cours vise a permettre a l'etudiant d'acquerir une connaissance de base dans l'utilisation de logiciels comptables. Cours a contenu variable determine chaque annee en fonction des logiciels les plus utilises sur le marche. Il peut etre adapte au parcours specifique d'un groupe d'etudiants. Cours donnes en laboratoire informatique.

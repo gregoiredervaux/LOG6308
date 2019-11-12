@@ -1,0 +1,2 @@
+TitreCours: Ressources humaines et relations de travail
+DescriptionCours: Presentation de la fonction ressources humaines par rapport aux autres fonctions de gestion des ressources d'une organisation. Roles hierarchique et fonctionnel de la fonction. Presentation de l'aspect integration des ressources humaines. Dimensions des relations de travail et perspectives de gestion.

@@ -1,0 +1,2 @@
+TitreCours: Principes de chirurgie veterinaire 1
+DescriptionCours: Description du materiel et de l'equipement chirurgicaux. Notions pratiques sur la guerison des plaies. Principes et notions de base de l'intervention chirurgicale et des soins perioperatoires applicables a toutes les especes veterinaires.

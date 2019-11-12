@@ -1,0 +1,2 @@
+TitreCours: Analyse et conception des logiciels
+DescriptionCours: Ingenierie des besoins. Methodes de specification formelle. Principes, methodes et notations de conception. Description et styles d'architectures logicielles. Composantes logicielles, patrons de conception et cadres d'application.

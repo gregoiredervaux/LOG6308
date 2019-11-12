@@ -1,0 +1,2 @@
+TitreCours: Theorie macroeconomique 2
+DescriptionCours: Comportement d'optimisation intertemporelle des menages et des firmes; decisions de consommation et d'epargne; modeles de croissance et de convergence; politiques gouvernementales et influence de l'endettement public.

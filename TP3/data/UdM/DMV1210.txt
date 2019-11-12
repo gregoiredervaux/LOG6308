@@ -1,0 +1,2 @@
+TitreCours: Physiologie des animaux domestiques 1
+DescriptionCours: Physiologie generale et des systemes hemopoietique, cardiovasculaire, respiratoire, renal et digestif. Particularites des diverses especes d'importance veterinaire. Parametres d'importance medicale.

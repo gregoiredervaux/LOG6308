@@ -1,0 +1,2 @@
+TitreCours: Formation personnalisee 2
+DescriptionCours: Approfondissement d'une periode historique, d'un theme dans le cadre d'un cours du baccalaureat specialise de 3e annee.

@@ -1,0 +1,2 @@
+TitreCours: Phenomenes d
+DescriptionCours: Familiariser l'etudiant avec les principaux modeles mathematiques s'appliquant aux phenomenes d'attente. Le rendre habile a modeliser correctement un phenomene d'attente concret, a evaluer (par analyse ou par simulation) les performances du systeme, a y apporter des ameliorations. Rappel des processus de Markov. Étude de phenomenes d'attente avec un ou plusieurs postes de service et sous diverses hypotheses concernant les distributions des temps d'arrivee et de service. Notions de simulation.

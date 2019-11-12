@@ -1,0 +1,2 @@
+TitreCours: Projet integrateur en immobilier
+DescriptionCours: L'objectif de ce projet est d'amener les participants arrivants au terme de leur formation a mettre en pratique les approches et les concepts traites dans leurs cours precedents, notamment le cadre legal en immobilier, le marketing et la gestion des ressources humaines dans le domaine immobilier. Les participants devront choisir une problematique emanant de leur milieu de travail et produire un rapport comprenant un plan d'actions pratiques.

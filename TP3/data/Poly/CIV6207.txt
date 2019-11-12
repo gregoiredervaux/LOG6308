@@ -1,0 +1,2 @@
+TitreCours: Lab. de procds de traitement des eaux
+DescriptionCours: Exprimentation en laboratoire sur les oprations et procds unitaires utiliss en traitement des eaux uses et des eaux potables : sdimentation, filtration, aration, floculation, dsinfection, traitements biologiques des eaux uses, adsorption, dshydratation et flottation des boues, ozonation.

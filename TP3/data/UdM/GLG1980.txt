@@ -1,0 +1,2 @@
+TitreCours: Patrimoine geologique du Quebec
+DescriptionCours: Grands evenements et patrimoine geologiques du Quebec montres principalement durant les excursions. Rapports entre la geologie, l'histoire et le developpement du Quebec.

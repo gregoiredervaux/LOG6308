@@ -1,0 +1,2 @@
+TitreCours: Seminaire de synthese
+DescriptionCours: Propose a la fin de la scolarite, ce seminaire permettra des echanges critiques entre les etudiants, lesquels seront appeles a partager et a discuter leurs connaissances theoriques et pratiques acquises au cours des stages et travaux diriges.

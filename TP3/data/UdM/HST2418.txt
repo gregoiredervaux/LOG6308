@@ -1,0 +1,2 @@
+TitreCours: Nouvelle France
+DescriptionCours: Histoire economique, politique et sociale de la Nouvelle-France, XVIIe et XVIIIe siecles.

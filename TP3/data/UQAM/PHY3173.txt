@@ -1,0 +1,2 @@
+TitreCours: Physique des ondes
+DescriptionCours: Ce cours presente l'etude des proprietes des ondes se propageant dans divers milieux Équation d'onde classique, corde vibrante, ondes progressives. Revue des relations de dispersion, et des notions de vitesse de phase et de vitesse de groupe. Étude de la reflexion, de la transmission et de l'impedance. Les ondes electromagnetiques planes en milieu dielectrique, et les lois de reflexion et de refraction. Étude des methodes d'analyse de Fourier. Cours magistral et exercices.

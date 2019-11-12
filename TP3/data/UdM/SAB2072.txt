@@ -1,0 +1,2 @@
+TitreCours: Dentisterie pediatrique theorique
+DescriptionCours: Developpement de l'enfant, aspects psychologiques, diete, hygiene, fluor, parodontie, pathologie pediatrique, imagerie, urgences, affections dentaires et leurs traitements.

@@ -1,0 +1,2 @@
+TitreCours: Bacteriologie generale 2
+DescriptionCours: Notions de physiologie et genetique bacterienne. Croissance des populations bacteriennes; replication, recombinaison, transposition, reparation et echange du materiel hereditaire; mutagenese; genetique des bacteriophages; methodes d'analyse.

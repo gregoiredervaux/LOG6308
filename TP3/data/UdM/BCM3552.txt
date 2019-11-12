@@ -1,0 +1,2 @@
+TitreCours: Bases de la bio-informatique appliquee
+DescriptionCours: Introduction a la bioinformatique theorique et lors de sessions pratiques sur ordinateur (algorithmes utilises, structure/annotation de genes, alignement multiple, prediction d'amorces, bases de donnees, analyses d'images et outils representatifs).

@@ -1,0 +1,2 @@
+TitreCours: Design graphique
+DescriptionCours: Entrainement au controle de la qualite, a travers un projet qui tienne compte des exigences techniques et budgetaires, des demandes de la production et de l'echeancier.

@@ -1,0 +1,2 @@
+TitreCours: Francais langue seconde
+DescriptionCours: L'objectif de ce cours est d'amener l'etudiant a maitriser les notions les plus complexes de la grammaire francaise et a les integrer dans des productions ecrites. Les variations d'ordre stylistique, social, et culturel. La syntaxe recherchee. Les expressions idiomatiques et litteraires. Les constructions verbales complexes avec prepositions. La phrase complexe a multiples propositions subordonnees. L'emploi du subjonctif. L'emploi des locutions conjonctives, adverbiales et prepositives.

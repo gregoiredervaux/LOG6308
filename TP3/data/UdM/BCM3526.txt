@@ -1,0 +1,2 @@
+TitreCours: Genetique et genomique humaine
+DescriptionCours: Application des concepts et des techniques de genetique moleculaire a l'etude du genome humain : cartographie des genes, variabilite genetique, genetique des traits complexes. Introduction aux concepts de genomique et de genetique des populations.

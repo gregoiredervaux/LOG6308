@@ -1,0 +1,2 @@
+TitreCours: Tribunaux administratifs
+DescriptionCours: Theorie generale des tribunaux administratifs. Procedure et preuve devant les tribunaux administratifs, motivation des decisions.

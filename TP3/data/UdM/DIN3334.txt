@@ -1,0 +1,2 @@
+TitreCours: Prototypage rapide en design
+DescriptionCours: Modelisation 3D d'objets et traitement des fichiers pour la fabrication automatisee. Prototypage rapide et son application a la production des maquettes, de prototypes, de modeles et d'outillages. Numerisation 3D d'objets.

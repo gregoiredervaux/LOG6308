@@ -1,0 +1,2 @@
+TitreCours: Neurophysiologie du comportement
+DescriptionCours: Revue approfondie de l'anatomie et des interconnexions des structures du systeme nerveux central. Étude des techniques de mesures de l'activite du SNC telles qu'electrophysiologiques, neuroradiologiques, histochimiques, etc. Étude macroscopique et microscopique du traitement de l'information dans les grands systemes fonctionnels chez l'humain (visuel, auditif, etc.)

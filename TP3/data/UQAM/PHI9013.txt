@@ -1,0 +1,2 @@
+TitreCours: Lectures dirigees
+DescriptionCours: Serie de lectures sous la direction d'un professeur. Ces lectures portent sur des textes qui sont connexes au sujet de these du candidat, mais qui ne constituent pas le corpus sur lequel porte la these en priorite. Le programme de lectures dirigees comporte une serie de rencontres entre l'etudiant et le professeur. L'etudiant doit realiser au moins un travail ecrit.

@@ -1,0 +1,2 @@
+TitreCours: Temps et espaces francophones
+DescriptionCours: Variation du francais dans le temps (IXe au XXe siecle), dans l'espace geographique (Europe, Amerique, etc.) et dans l'espace social (francais regionaux, populaires, etc.), surtout du point de vue du texte ecrit (lexique, syntaxe, orthographe).

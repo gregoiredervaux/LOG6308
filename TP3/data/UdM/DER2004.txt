@@ -1,0 +1,2 @@
+TitreCours: Prothese partielle fixe pratique
+DescriptionCours: Mise en pratique des principes et des techniques enseignes dans le cours DER 2001.

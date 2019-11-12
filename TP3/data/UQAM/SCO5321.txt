@@ -1,0 +1,2 @@
+TitreCours: Fiscalite I pour planificateurs financiers
+DescriptionCours: Étude des elements fiscaux de base et application a la planification financiere personnelle. Cadre fiscal des particuliers. Calcul du revenu des diverses sources; de charge et emploi; de bien; de gains et pertes en capital; d'exploitation d'une entreprise. Revenu imposable

@@ -1,0 +1,2 @@
+TitreCours: Problemes de philosophie moderne
+DescriptionCours: Étude de problemes relatifs a la philosophie du 17e et du 18e siecles: la rationalite, le scepticisme, les passions, la morale, etc.

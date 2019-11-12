@@ -1,0 +1,2 @@
+TitreCours: Infirmiere en sante
+DescriptionCours: Concepts et approches visant la promotion de la sante et la prevention de la maladie chez l'infirmiere. Analyse critique de l'interaction entre le travail et la sante. Problematique des accidents du travail et des maladies professionnelles.

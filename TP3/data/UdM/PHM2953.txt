@@ -1,0 +1,2 @@
+TitreCours: Pharmacologie generale
+DescriptionCours: Principe de pharmacodynamie et de pharmacocinetique des medicaments. Classes de medicaments et leur pharmacologie. Posologie, voies d'administration et toxicite.

@@ -1,0 +1,2 @@
+TitreCours: Theorie critique
+DescriptionCours: Introduction a la theorie critique de l'École de Francfort, telle qu'elaboree par ses membres philosophiques de premiere et deuxieme generations: Horkheimer, Adorno, Benjamin, Marcuse, Habermas.

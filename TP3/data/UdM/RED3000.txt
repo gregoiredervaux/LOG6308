@@ -1,0 +1,2 @@
+TitreCours: Atelier de redaction professionnelle
+DescriptionCours: Atelier de reecriture et travail dirige selon les normes d'un article destine a la publication ou d'un rapport repondant aux exigences du milieu professionnel et evalue par un jury.

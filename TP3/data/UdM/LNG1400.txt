@@ -1,0 +1,2 @@
+TitreCours: Notions de phonetique et de phonologie
+DescriptionCours: Introduction a la phonetique et a la phonologie. Techniques d'analyse et de description.

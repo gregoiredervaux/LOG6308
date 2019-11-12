@@ -1,0 +1,2 @@
+TitreCours: Biologie de la communication
+DescriptionCours: Anatomie et physiologie de la phonation et de l'audition. La chaine de communication verbale : productions de sons par l'appareil phonatoire et reception par l'appareil auditif. Anatomie macroscopique et microscopique des deux systemes. Notions de neurophysiologie : reception sensorielle, activites centrales, effection neuromusculaire. Phonation : controle de la respiration, controle du larynx et des cavites. Audition : physiologie de l'oreille et des voies auditives.

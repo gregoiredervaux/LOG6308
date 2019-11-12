@@ -1,0 +1,2 @@
+TitreCours: Activites d'integration en pharmacie 2
+DescriptionCours: Activites visant a consolider les apprentissages et developper les competences transversales des etudiants dans le but de faciliter leur integration dans un milieu de pratique.

@@ -1,0 +1,2 @@
+TitreCours: Seminaire d'ethnologie
+DescriptionCours: Divers themes ethnologiques d'actualite.

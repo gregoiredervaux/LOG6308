@@ -1,0 +1,2 @@
+TitreCours: Writing Workshop 1
+DescriptionCours: Permettre a l'etudiant ayant une bonne connaissance de l'anglais de developper sa competence ecrite, d'analyser et de synthetiser de l'information, d'employer des strategies reliees a l'elaboration d'un texte : ideation, structuration et revision.

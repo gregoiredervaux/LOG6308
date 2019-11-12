@@ -1,0 +1,2 @@
+TitreCours: Troubles de la parole
+DescriptionCours: Introduction aux troubles de l'articulation, de la resonance, de la voix, de la prosodie et de la fluidite. Taxonomies. Étiologie, epidemiologie, semiologie et evolution en termes de deficiences, incapacites et handicaps.

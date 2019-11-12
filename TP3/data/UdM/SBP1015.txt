@@ -1,0 +1,2 @@
+TitreCours: Labo de chimie pour sciences biopharm.
+DescriptionCours: Initiation aux travaux pratiques integres en laboratoire.

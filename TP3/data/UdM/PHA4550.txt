@@ -1,0 +1,2 @@
+TitreCours: Stage a thematique optionnelle
+DescriptionCours: Ce stage permet a l&rsquo;etudiant d&rsquo;explorer une thematique de son choix reliee a la pratique pharmaceutique dans un milieu repondant a des criteres predetermines.

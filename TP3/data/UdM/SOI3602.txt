@@ -1,0 +1,2 @@
+TitreCours: Experiences de transition dans les soins
+DescriptionCours: Analyse d'experiences necessitant un suivi systematique des soins. Continuite des soins entre les services, les divers professionnels, les proches ou aidants familiaux et les organisations. Maintien a jour et transmission de l'information.

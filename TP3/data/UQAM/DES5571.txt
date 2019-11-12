@@ -1,0 +1,2 @@
+TitreCours: Projet et architectonique
+DescriptionCours: Ce laboratoire a pour objectif de permettre aux etudiants de se familiariser avec la problematique de la construction en relation avec la pensee et le projet en architecture. Examen des procedes et des solutions techniques mis en oeuvre dans des precedents tant canoniques que typologiques. Exercices visant a favoriser l'application des savoirs et savoir-faire specifiques a la resistance des materiaux et au metabolisme du bati, au projet developpe dans le cadre des ateliers de fin d'etudes.

@@ -1,0 +1,2 @@
+TitreCours: Pratique du francais oral et ecrit 3
+DescriptionCours: Permettre a l'etudiant ayant une connaissance de base du francais de revoir et d'approfondir les connaissances linguistiques et socioculturelles indispensables a la communication orale et ecrite dans des echanges plus elabores.

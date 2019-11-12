@@ -1,0 +1,2 @@
+TitreCours: Instrument 3
+DescriptionCours: Contenu a preciser au moment de l'inscription.

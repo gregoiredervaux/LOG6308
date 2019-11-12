@@ -1,0 +1,2 @@
+TitreCours: Dispositifs et circuits actifs micro-ondes
+DescriptionCours: Jonction PN. Diodes de divers types (PIN, TUNNEL, GUNN, IMPATT et BARITT). Transistors (MESFET). Adaptation d'impedance utilisant des elements distribues (MIC) et des elements semi-localises (MHMIC, MMIC). Filtres et amplificateurs micro-ondes : cercle de gain, cercle de stabilite, figure de bruit. Graphes de fluence, regles de Mason. Oscillateurs. Techniques de polarisation. CAO de circuits micro-ondes.

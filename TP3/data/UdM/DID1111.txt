@@ -1,0 +1,2 @@
+TitreCours: Culture scientifique au primaire
+DescriptionCours: Nature de l'activite scientifique et technologique. Concepts de base, percees historiques, conceptions frequentes et chronologies historiques en sciences et technologies. Programme d'etudes du prescolaire et du primaire.

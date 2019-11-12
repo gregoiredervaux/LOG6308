@@ -1,0 +1,2 @@
+TitreCours: Aspects combinatoires de l
+DescriptionCours: Analyse des structures de donnees dynamiques, histoires de fichiers; analyse d'algorithmes. Combinatoire des mots et des codes; series formelles non commutatives, langages rationnels et algebriques, automates, codage de structures combinatoires. Étude d'outils informatises pour le denombrement et la classification des structures et pour le calcul numerique, algebrique ou symbolique (Macsyma, Cayley, Maple, etc.). Problemes de commutation partielle et de parallelisme.

@@ -1,0 +1,2 @@
+TitreCours: Physique mathematique
+DescriptionCours: Cours d'introduction aux outils mathematiques necessaires a la resolution de problemes pratiques rencontres dans divers domaines de la physique. Le cours portera principalement sur l'importance des equations differentielles ordinaires et aux derives partielles en physique. Les fonctions orthogonales et la theorie de Sturm-Liouville. Les fonctions specialisees de la physique et les transformations de Fourier et de Laplace. Exercices et problemes aux limites et fonction de Green. Cours magistral et exercices.

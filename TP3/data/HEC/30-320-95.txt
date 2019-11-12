@@ -1,0 +1,2 @@
+TitreCours: Gestion de la formation des ressources humaines
+DescriptionCours: Role strategique de la formation dans l'entreprise d'aujourd'hui; avantages et inconvenients des techniques en fonction des objectifs, clienteles et ressources; principes et techniques applicables a l'apprenant adulte; l'evaluation de la performance de la « fonction formation » au sein de l'entreprise.

@@ -1,0 +1,2 @@
+TitreCours: Atelier de francais ecrit
+DescriptionCours: Grammaire et style : ordre des mots; ponctuation. Recit : description, narration. Structure : plan, resume. Communication : affirmation, hypothese; argumentation; charnieres. Lexique : synonymie, sens propre et figure, figures; anglicismes.

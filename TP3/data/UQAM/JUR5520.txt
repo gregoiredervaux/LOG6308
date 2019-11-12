@@ -1,0 +1,2 @@
+TitreCours: Droit fiscal
+DescriptionCours: Ce cours vise a initier l'etudiant a l'etude des principes juridiques de politique fiscale et des formes d'imposition. Principes de politique fiscale et formes d'imposition. Les criteres d'assujettissement a l'impot. Les sources de revenu: revenu d'un emploi, d'une entreprise, d'un bien. L'amortissement fiscal. Le gain ou la perte en capital. L'impot des particuliers: calcul du revenu imposable et de l'impot. Notions generales sur l'imposition des corporations.

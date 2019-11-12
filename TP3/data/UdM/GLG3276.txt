@@ -1,0 +1,2 @@
+TitreCours: Geologie miniere
+DescriptionCours: Methodes de cartographie miniere, de sondages et d'echantillonnage. Notions de teneur de coupure, calcul des reserves par methodes conventionnelles. Évaluation des reserves par les methodes geostatistiques.

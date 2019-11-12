@@ -1,0 +1,2 @@
+TitreCours: Économie de l'assurance
+DescriptionCours: Theorie economique de l'assurance. Fonctions des marches de l'assurance et partage du risque. Risque moral et selection adverse. Assurance publique et privee.

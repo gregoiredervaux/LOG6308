@@ -1,0 +1,2 @@
+TitreCours: Mathematiques pour chimistes
+DescriptionCours: Outils d'usage frequent, par exemple : series, nombres complexes, fonctions de plusieurs variables, vectorielles, equations differentielles, matrices et valeurs propres, probabilites, methodes numeriques, analyse de Fourier.

@@ -1,0 +1,2 @@
+TitreCours: Seminaire de maitrise en informatique I
+DescriptionCours: Ce seminaire a pour but de favoriser l'acces a divers domaines specialises ou nouveaux en informatique ainsi que l'initiation a la recherche.

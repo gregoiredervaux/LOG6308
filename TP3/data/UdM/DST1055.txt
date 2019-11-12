@@ -1,0 +1,2 @@
+TitreCours: Notions de physique pour enseignants
+DescriptionCours: Approfondissement des concepts a la base de la physique et de leurs rapports aux applications technologiques modernes.

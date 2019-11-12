@@ -1,0 +1,2 @@
+TitreCours: Perception
+DescriptionCours: Reconnaissance de forme et systemes experts: systemes cybernetiques bases sur les modeles issus de la psychologie de la perception, de l'apprentissage, de la motricite et de la cognition. Modeles paralleles de memoire associative: modeles matriciels, non matriciels et holographiques.

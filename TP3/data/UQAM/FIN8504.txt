@@ -1,0 +1,2 @@
+TitreCours: Theories avancees de portefeuille
+DescriptionCours: L'objectif general est de maitriser les diverses theories en finance ayant trait au domaine de la gestion de portefeuille. Theories de Markowitz a l'APT. Applications financieres des theories des neurones et du chaos. Theorie avancee de l'analyse de la performance d'un gestionnaire de portefeuille. L'integration de la fonction d'utilite dans les theories de portefeuille. Modeles mathematiques de l'evaluation des actifs financiers: modeles stochastiques et modeles deterministes.

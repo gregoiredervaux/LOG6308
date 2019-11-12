@@ -1,0 +1,2 @@
+TitreCours: Anesthesie bovine et equine
+DescriptionCours: Deux semaines de stages dans le service d'anesthesie des grands animaux.

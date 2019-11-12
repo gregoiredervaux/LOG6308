@@ -1,0 +1,2 @@
+TitreCours: Systmes multivariables
+DescriptionCours: Rappel sur les espaces et oprateurs linaires. Equations d'tat. Forme de Jordan. Matrices de transfert. Analyse des systmes dynamiques linaires, stationnaires et non stationnaires. Caractristiques structurelles; observabilit, commandabilit, stabilisabilit, dtectabilit et tests. Thorie de la ralisation scalaire et multivariable. Mthodes de Hankel. Synthse de contrleurs et observateurs dans l'espace d'tat. Formes canoniques, thorme de sparation. Commande dcouple.

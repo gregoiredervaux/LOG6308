@@ -1,0 +1,2 @@
+TitreCours: Algebre 2
+DescriptionCours: Anneaux, ideaux, anneaux de polynomes, modules. Espaces dual et bi-dual. Forme de Jordan d'une matrice, theoreme de Cayley-Hamilton.

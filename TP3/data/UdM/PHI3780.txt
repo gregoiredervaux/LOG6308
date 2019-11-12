@@ -1,0 +1,2 @@
+TitreCours: Figures de la philosophie europeenne
+DescriptionCours: Ce cours traite d'un penseur ou d'un theme capital de la philosophie europeenne du XIXe ou XXe siecle. Le ou les penseurs cibles peuvent comprendre Schopenhauer, Kierkegaard, Marx, Benjamin, Lacan, Foucault, Deleuze, etc.

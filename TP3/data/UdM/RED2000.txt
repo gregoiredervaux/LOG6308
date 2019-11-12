@@ -1,0 +1,2 @@
+TitreCours: Redaction administrative
+DescriptionCours: Les communications administratives. Particularites et difficultes lexicales et stylistiques. Documents administratifs : correspondance, ordre du jour, proces-verbal, c.v. Le rapport : cueillette, analyse, structuration des informations, redaction.

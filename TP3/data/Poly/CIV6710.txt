@@ -1,0 +1,2 @@
+TitreCours: Gomtrie des tracs
+DescriptionCours: Critres de conception des tracs routiers. Caractristiques des lments gomtriques en relation avec la scurit routire. tude des carrefours  niveaux ruraux et urbains. Principes de conception des changeurs : trafic, gomtrie. tude de cas particuliers. Audits de scurit. Applications  des travaux de conception.

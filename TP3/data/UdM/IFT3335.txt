@@ -1,0 +1,2 @@
+TitreCours: Intelligence artificielle : introduction
+DescriptionCours: Resolution heuristique de problemes. Representation des connaissances. Techniques d'inference et de planification. Étude d'un langage approprie. Traitement de langue naturelle. Apprentissage. Systemes experts.

@@ -1,0 +1,2 @@
+TitreCours: Intro. med. animaux exotiq. de compagnie
+DescriptionCours: Introduction a la medecine et gestion clinique d'especes d'animaux exotiques de compagnie susceptibles d'etre rencontrees en pratique privee au Quebec.

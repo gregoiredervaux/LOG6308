@@ -1,0 +1,2 @@
+TitreCours: Langues et mondialisation
+DescriptionCours: Impact de la mondialisation sur l'industrie langagiere. Langues en demande et marches en croissance. Évolution des moyens de communication. Globalisation des produits et services. Processus et applications : internationalisation et localisation.

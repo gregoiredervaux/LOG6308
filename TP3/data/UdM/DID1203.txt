@@ -1,0 +1,2 @@
+TitreCours: Didactique de l'ecrit (grammaire)
+DescriptionCours: Plurisystemes du francais : grammatical, orthographique, semantique. Approches, methodes d'enseignement et apprentissage aux 2e et 3e cycles du primaire. Exploration d'outils, preparation de sequences.

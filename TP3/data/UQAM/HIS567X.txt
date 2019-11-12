@@ -1,0 +1,2 @@
+TitreCours: Cours
+DescriptionCours: Utilisant notamment la lecture de documents et d'etudes historiques et favorisant la discussion en groupe, cet atelier permet d'approfondir certains aspects de l'histoire politique, economique, sociale ou culturelle soit de l'Afrique, l'Asie, le Proche-Orient ou le Moyen Orient. Les aspects couverts par ce cours peuvent varier et sont annonces au debut du cours.

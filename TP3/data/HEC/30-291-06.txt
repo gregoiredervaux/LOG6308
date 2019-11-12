@@ -1,0 +1,2 @@
+TitreCours: Gestion financiere II
+DescriptionCours: Ce deuxieme cours en finance corporative se concentre sur les aspects analytique et theorique de la gestion financìere non abordes lors du&nbsp;cours Gestion financiere I (30-290-06).  &nbsp;  Plus specifiquement,&nbsp;il aborde les themes suivants :  &nbsp;   le coût des diverses sources de financement et le coût moyen pondere du capital d'une entreprise;  la gestion des investissements dans le contexte d'incertitude et d'inflation;  la gestion des risques financiers et;  l'evaluation d'entreprise.

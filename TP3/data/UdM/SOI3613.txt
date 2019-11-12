@@ -1,0 +1,2 @@
+TitreCours: Soins infirmiers et sante publique
+DescriptionCours: Approche populationnelle. Determinants de la sante. Promotion de la sante et prevention primaire. Exemples d'approches en sante publique.

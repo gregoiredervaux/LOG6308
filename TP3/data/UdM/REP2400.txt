@@ -1,0 +1,2 @@
+TitreCours: Internet et relations publiques
+DescriptionCours: Recherche et evaluation des sources d'information, Strategies de communication Web. Socialisation des medias : blogues, reseaux, wikis, videos. Notions de credibilite et de transparence. Veille Web. Techniques et tactiques emergentes.

@@ -1,0 +1,2 @@
+TitreCours: Atelier de recherche II
+DescriptionCours: Le second atelier permet de poursuivre le travail amorce dans le premier et d'accumuler le materiel necessaire au processus de redaction du memoire, toujours sous la direction du tuteur. Il appartient a celui-ci de verifier s'il y a progres et d'attribuer une note en consequence.

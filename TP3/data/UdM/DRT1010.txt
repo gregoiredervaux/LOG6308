@@ -1,0 +1,2 @@
+TitreCours: Fondements du droit 1
+DescriptionCours: Introduction aux fondements du droit par l'histoire des institutions et des idees. Formation et evolution des deux grandes traditions juridiques occidentales : common law et droit civil.

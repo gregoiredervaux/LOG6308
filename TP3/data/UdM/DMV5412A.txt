@@ -1,0 +1,2 @@
+TitreCours: Dermatologie veterinaire
+DescriptionCours: Deux semaines de stages dans le service de dermatologie veterinaire.

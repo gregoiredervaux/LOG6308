@@ -1,0 +1,2 @@
+TitreCours: Exploration du systeme nerveux
+DescriptionCours: Anatomie, physiologie, pathologie et pharmacologie des systemes nerveux central, peripherique et autonomique. Syndromes neurologiques. Principes de base de therapie et prevention. Introduction a l'ophtalmologie et a l'oto-rhino-laryngologie.

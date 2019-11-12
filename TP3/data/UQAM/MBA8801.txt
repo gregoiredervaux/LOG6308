@@ -1,0 +1,2 @@
+TitreCours: Gestion de projets touristiques
+DescriptionCours: Ce cours vise a initier l'etudiant au processus de conception, de developpement et d'evaluation de nouveaux projets: techniques de prospective, methodes de generation d'idees, modeles perceptifs de l'environnement, identification de projets pertinents a l'entreprise, etude des choix technologiques. Il traite de la mise en place et de la gestion de cheminements critiques et d'installation.

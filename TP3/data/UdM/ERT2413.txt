@@ -1,0 +1,2 @@
+TitreCours: Ergotherapie aupres de la personne agee
+DescriptionCours: Analyse de problemes de sante chez la personne agee et leurs consequences sur le quotidien. Specificite au sein de l'equipe interprofessionnelle.

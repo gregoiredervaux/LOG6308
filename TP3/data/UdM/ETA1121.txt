@@ -1,0 +1,2 @@
+TitreCours: Finalites educatives et ecole secondaire
+DescriptionCours: Familiarisation des etudiants aux finalites de l'education aux principales institutions scolaires. Accent sur l'ordre de formation secondaire et particulierement sur la fonction enseignante.

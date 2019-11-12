@@ -1,0 +1,2 @@
+TitreCours: Gestion des ressources humaines dans les entreprises collectives
+DescriptionCours: Ce cours vise l'acquisition par l'etudiant des aspects operationnels de la fonction ressources humaines en entreprise. Les dimensions plus specifiques de la gestion des ressources humaines en entreprise collective y seront aussi abordees, comme la gestion du benevolat et la participation.

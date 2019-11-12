@@ -1,0 +1,2 @@
+TitreCours: History of the English Language
+DescriptionCours: Le developpement chronologique de la langue anglaise a partir de ses origines jusqu'a nos jours (phonologie, grammaire, lexicologie). Le cadre sociohistorique dans lequel la langue evolue.

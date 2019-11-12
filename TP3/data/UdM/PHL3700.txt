@@ -1,0 +1,2 @@
+TitreCours: Genese et reglementation des medicaments
+DescriptionCours: Developpement des medicaments, pratique et methodologie des essais cliniques, etudes de phases 1 a 4, etude d'efficacite, etude de tolerance, pharmacovigilance, biostatistiques, reglementation, bioethique.

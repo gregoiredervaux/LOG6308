@@ -1,0 +1,2 @@
+TitreCours: Russe parle 3
+DescriptionCours: Cours avance de russe parle. Exposes et discussions sur des sujets speciaux et sur les realites contemporaines sovietiques.

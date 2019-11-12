@@ -1,0 +1,2 @@
+TitreCours: Inspection des risques industriels
+DescriptionCours: Methodologie d'inspection en milieu industriel. Dangers inherents aux matieres, operations et procedes dangereux. Étude approfondie de certains procedes/operations frequemment rencontres. Évaluation des methodes de stockage et des risques connexes. Exigences techniques et normes. Criteres et methodes d'inspection du materiel de protection contre l'incendie. Évaluation des reseaux d'extincteurs automatiques. Analyse d'un plan de securite incendie au point de vue des risques particuliers.

@@ -1,0 +1,2 @@
+TitreCours: Creation musicale en langage Python
+DescriptionCours: Cours d'introduction a l'informatique musicale base sur le langage de programmation Python et le logiciel Ounk.

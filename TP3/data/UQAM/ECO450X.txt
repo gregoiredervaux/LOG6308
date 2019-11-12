@@ -1,0 +1,2 @@
+TitreCours: Questions economiques
+DescriptionCours: Le but de ce cours est d'approfondir les connaissances des etudiants relativement a une problematique specifique. Le contenu du cours est determine en fonction des interets du professeur et des etudiants. Le sujet est choisi par le conseil de programme au moment de la commande de cours.

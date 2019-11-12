@@ -1,0 +1,2 @@
+TitreCours: Aspects avances de Java
+DescriptionCours: Traitement des exceptions en Java. Interfaces usager. Type generique. Collections. JavaBeans, JDBC. Programmation parallele et reseau.

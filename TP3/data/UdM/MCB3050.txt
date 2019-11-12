@@ -1,0 +1,2 @@
+TitreCours: Microbiologie des aliments 1
+DescriptionCours: Transformation et deterioration microbiologiques de differents groupes d'aliments; methodes de conservation et controle de l'activite microbienne; toxico-infections alimentaires; echantillonnage et analyse microbiologiques; reglementations.

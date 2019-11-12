@@ -1,0 +1,2 @@
+TitreCours: Physiologie vegetale avancee
+DescriptionCours: Organisation spatiale et integration des voies metaboliques par rapport aux fonctions. Metabolisme et developpement. Interactions plante-environnement du point de vue metabolique. Modifications fonctionnelles par genie metabolique.

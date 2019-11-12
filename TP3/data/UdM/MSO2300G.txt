@@ -1,0 +1,2 @@
+TitreCours: Promotion et education de la sante
+DescriptionCours: A partir des determinants de la sante, etude de l'ensemble des perspectives, des strategies et des principes d'intervention visant le maintien, l'amelioration ou la promotion de l'etat de sante de la population.

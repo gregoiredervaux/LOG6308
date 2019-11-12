@@ -1,0 +1,2 @@
+TitreCours: Planification en communication interne
+DescriptionCours: Projets et actions de communication interne. Identification des besoins, des clienteles et des variables espace/temps. Redondances et combinatoires des reseaux. Études de cas et atelier de planification.

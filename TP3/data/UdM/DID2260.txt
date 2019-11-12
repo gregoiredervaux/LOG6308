@@ -1,0 +1,2 @@
+TitreCours: Didactique de la proportionnalite
+DescriptionCours: Difficultes et obstacles lies a l'enseignement - apprentissage des proportions. Rupture et filiation du raisonnement proportionnel dans l'etude de : nombres, geometrie, probabilites, statistiques. Élaboration d'un cadre de reference didactique.

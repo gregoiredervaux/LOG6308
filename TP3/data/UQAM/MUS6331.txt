@@ -1,0 +1,2 @@
+TitreCours: Musique et informatique
+DescriptionCours: Initiation aux connaissances et aux pratiques de l'informatique en musique. Introduction a l'utilisation d'ordinateurs, d'instruments digitaux et peripheriques. Étude et apprentissage des logiciels de creation, de sequence, d'edition, d'interpretation, d'echantillonnage et d'education. Realisation de travaux pratiques. Ce cours est suivi de trois heures/semaine de travaux en laboratoire.

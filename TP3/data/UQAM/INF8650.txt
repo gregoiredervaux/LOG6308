@@ -1,0 +1,2 @@
+TitreCours: Reseaux haut debit
+DescriptionCours: Permettre a l'etudiant de connaitre les problematiques de conception des reseaux haut debit (incluant les reseaux Gigabit). Les technologies reseaux dominantes sur la scene du haut debit. Les problemes fondamentaux auxquels se heurtent les concepteurs des reseaux comme le support du trafic multimedia, le trafic temps reel et la necessite de differentiation des applications des usagers selon les exigences de qualite de service.

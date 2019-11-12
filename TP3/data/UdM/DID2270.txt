@@ -1,0 +1,2 @@
+TitreCours: Le raisonnement en mathematiques
+DescriptionCours: Nature et sens de l'activite mathematique. Resolution de problemes. Representations, modelisation et abstraction. Induction et deduction. Point de vue de la cognition. Étude critique des programmes et manuels.

@@ -1,0 +1,2 @@
+TitreCours: Geophysiologie
+DescriptionCours: Geographie physique 1 : le geosysteme planetaire. Origine et interactions entre lithosphere, atmosphere, hydrosphere, biosphere et noosphere.

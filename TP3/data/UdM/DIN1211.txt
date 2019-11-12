@@ -1,0 +1,2 @@
+TitreCours: Forme et couleur
+DescriptionCours: Perception et manipulation des formes, textures et couleurs. Developpement, au moyen d'exercices centres sur la forme et la couleur, des capacites d'observation, d'imagination et d'application de l'esthetique.

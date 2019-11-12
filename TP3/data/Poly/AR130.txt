@@ -1,0 +1,2 @@
+TitreCours: Asservissements hydrauliques
+DescriptionCours: Types de transmission et de rgulation de puissance. Revue des pompes, moteurs et vrins hydrauliques; pertes et rendements. Servovalves : constitution, courbes dbit-pression, efficacit du transfert de puissance, forces internes. Servomoteurs et servovrins : modlisation, rponse temporelle et frquentielle, erreurs, stabilit et compensation. Composantes lectroniques.

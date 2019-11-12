@@ -1,0 +1,2 @@
+TitreCours: Production vegetale
+DescriptionCours: Étude du domaine de la production vegetale selon deux grands axes : l'agro-alimentaire et le developpement de l'amenagement des ressources forestieres. Systemes de culture; mauvaises herbes, cycles d'elements en agro-ecosystemes et en foret; flux d'energie et leur rapport avec la production ; rotations; agroforesterie.

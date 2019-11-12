@@ -1,0 +1,2 @@
+TitreCours: Laboratoires de genie mecanique II
+DescriptionCours: Quatre laboratoires syntheses portant sur differents domaines du genie mecanique. L'accent est mis sur l'etude experimentale de differents phenomenes physiques complexes, sur les methodes utilisees pour generer les donnees pertinentes et sur l'analyse des resultats et/ou sur la conception de systemes.

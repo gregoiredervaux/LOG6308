@@ -1,0 +1,2 @@
+TitreCours: Periodes et territoires
+DescriptionCours: Problematisation d'un corpus par rapport a son inscription spatio-temporelle (Art en Occident du Xe siecle a nos jours)

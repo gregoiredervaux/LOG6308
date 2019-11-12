@@ -1,0 +1,2 @@
+TitreCours: Tradition orale litteraire russe
+DescriptionCours: Origines et sources d'inspiration de la tradition orale litteraire russe. Ses genres : chansons, contes, proverbes, poemes epiques, theatre populaire.

@@ -1,0 +1,2 @@
+TitreCours: Problemes de resonance
+DescriptionCours: Ce cours s'interesse aux troubles de la parole lies a diverses malformations. Il comporte trois volets : les fentes labio-palatines et malformations cranio-faciales, les laryngectomises et les malformations dentaires.

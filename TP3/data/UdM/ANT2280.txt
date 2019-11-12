@@ -1,0 +1,2 @@
+TitreCours: Methodes en archeologie historique
+DescriptionCours: Approches et methodes de fouille en archeologie historique, appliquees a l'Est nord-americain. Principes de releve, d'enregistrement et d'analyse. Étude de materiaux, d'objets et de vestiges caracteristiques des contextes terrestre et subaquatique.

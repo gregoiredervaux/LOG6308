@@ -1,0 +1,2 @@
+TitreCours: Dysphagies
+DescriptionCours: Introduction a l'evaluation et l'intervention aupres des personnes affectees par une dysphagie.

@@ -1,0 +1,2 @@
+TitreCours: Attestation
+DescriptionCours: Permettre a l'etudiant d'evaluer des systemes informatises complexes, de planifier et d'executer des missions speciales. Verification des systemes informatises complexes. Techniques de verification informatisees. Systemes experts. Rapports speciaux. Information financiere prospective. Organismes de service. Missions de certification diverses. Verification environnementale. Verification de gestion. Verification integree. Continuite d'exploitation. Verification dans le contexte international. Juricomptabilite. Études de cas.

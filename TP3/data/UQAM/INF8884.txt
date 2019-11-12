@@ -1,0 +1,2 @@
+TitreCours: Seminaire de maitrise en informatique IV
+DescriptionCours: Ce seminaire a pour but de favoriser l'acces a divers domaines specialises ou nouveaux en informatique ainsi que d'initier a la recherche.

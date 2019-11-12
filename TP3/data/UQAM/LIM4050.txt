@@ -1,0 +1,2 @@
+TitreCours: Recherche appliquee
+DescriptionCours: Conduite d'un projet de recherche visant a l'application d'hypotheses ou de theories linguistiques. Le projet vise prioritairement la confrontation des donnees theoriques avec le milieu. Le projet permet l'insertion de specialistes exterieurs a l'universite.

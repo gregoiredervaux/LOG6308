@@ -1,0 +1,2 @@
+TitreCours: Le design informatise et ses applications
+DescriptionCours: L'objectif de ce cours est de montrer comment les outils de l'informatique permettent de resoudre des problemes concrets de design. Ce cours offre egalement un panorama des applications possibles dans les diverses disciplines du design.

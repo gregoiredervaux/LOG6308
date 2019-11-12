@@ -1,0 +1,2 @@
+TitreCours: Geriatrie
+DescriptionCours: Stage dans un milieu geriatrique au cours duquel l'etudiant, grace a un contact constant avec des personnes agees, acquiert et applique les connaissances, et developpe les attitudes et les habilites propres a la geriatrie.

@@ -1,0 +1,2 @@
+TitreCours: Theories de la forme architecturale
+DescriptionCours: Familiarisation avec les elements determinants de la forme architecturale; explication des relations entre l'objet architectural et ses contextes : societes, cultures et theories; environnements naturels et construits.

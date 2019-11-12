@@ -1,0 +1,2 @@
+TitreCours: Étiologie et modeles d'intervention
+DescriptionCours: Explication de l'etiologie de la dependance a l'aide des differents modeles theoriques. Analyse des facteurs ayant contribue au developpement de la dependance. Adaptation des outils d'intervention et des modeles associes.

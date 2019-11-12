@@ -1,0 +1,2 @@
+TitreCours: Demarche technologique
+DescriptionCours: Conception et construction d'un prototype (cahier des charges, processus de design). Production en serie (etape de planification et de fabrication). Organisation et gestion de l'entreprise technologique (marketing, finances, ressources humaines, production). Atelier de 30 heures portant sur l'application de ces processus dans la realisation de projets technologiques concrets.

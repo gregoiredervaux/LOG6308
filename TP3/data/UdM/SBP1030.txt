@@ -1,0 +1,2 @@
+TitreCours: Élem. de chimie pour sc. biopharm. 3
+DescriptionCours: Principes de chimie-physique et chimie organique appliquees au controle des medicaments par techniques speciales. Essais des pharmacopees (identification, quantification, impuretes).

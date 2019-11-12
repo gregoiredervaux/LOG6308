@@ -1,0 +1,2 @@
+TitreCours: Systeme HACCT et ISO 9000 en med. vet.
+DescriptionCours: Dans un contexte veterinaire, permettre aux participants d'acquerir les connaissances theoriques et pratiques relatives aux systemes d'assurance qualite HACCP et ISO dans les usines de production ou de transformation des produits carnes.

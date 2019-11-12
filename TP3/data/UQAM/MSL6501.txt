@@ -1,0 +1,2 @@
+TitreCours: Musees et techniques de communication
+DescriptionCours: Cours relevant de l'Universite de Montreal Utilisation des techniques de communication pour la diffusion des expositions et la mise en valeur des divers musees. Étude des moyens audiovisuels, des catalogues d'exposition, les divers modes de presentation des exhibits et des sondages.

@@ -1,0 +1,2 @@
+TitreCours: Groupe et situation d'aide
+DescriptionCours: Definir la relation d'aide dans les contextes de groupes. Explorer diverses approches pratiques et actuelles reliees a la relation d'aide. En laboratoire, experimenter diverses methodes et diverses techniques a l'interieur des approches abordees.

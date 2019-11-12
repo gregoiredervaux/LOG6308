@@ -1,0 +1,2 @@
+TitreCours: Algebre numerique
+DescriptionCours: Methodes iteratives pour systemes algebriques et differentiels; convergence, bornes theoriques et pratiques. Techniques numeriques en controle optimal.

@@ -1,0 +1,2 @@
+TitreCours: Projets speciaux en milieu de travail
+DescriptionCours: Activites dirigees permettant a l'etudiant d'acquerir une experience pratique dans un cadre professionnel.

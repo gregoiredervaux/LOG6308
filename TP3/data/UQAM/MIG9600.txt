@@ -1,0 +1,2 @@
+TitreCours: Rapport de projet en entreprise
+DescriptionCours: Ce rapport consiste a une analyse critique du projet realise en entreprise. L'evaluation du travail effectue en fonction des pratiques courantes et emergentes du domaine, ainsi que des recommandations pertinentes de nature a ameliorer la qualite du travail realise, sont parties integrantes du rapport.

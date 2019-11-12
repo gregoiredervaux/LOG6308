@@ -1,0 +1,2 @@
+TitreCours: Realites professionnelles
+DescriptionCours: Initiation a la vie professionnelle : organisation de la profession, modes d'exercice et conditions de travail, structure du marche, deontologie.

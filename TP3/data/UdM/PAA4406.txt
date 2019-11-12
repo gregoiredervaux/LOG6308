@@ -1,0 +1,2 @@
+TitreCours: Antibiologie veterinaire
+DescriptionCours: Antibiotherapie des animaux de compagnie et de consommation. Pharmacologie des classes d'antibiotiques: pharmacocynetique, modes d'action, resistance, pharmacodynamie, interactions medicamenteuses, schema therapeutique.

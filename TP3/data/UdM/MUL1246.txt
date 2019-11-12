@@ -1,0 +1,2 @@
+TitreCours: Appreciation musicale, musiques du monde
+DescriptionCours: Presentation des repertoires et des contextes d'utilisation de musiques non occidentales en vue de mettre en evidence les criteres de jugements esthetiques qui dictent a la fois les strategies de production et les conduites d'ecoute.

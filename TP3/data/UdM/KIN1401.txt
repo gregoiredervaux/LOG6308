@@ -1,0 +1,2 @@
+TitreCours: Atelier au primaire
+DescriptionCours: Laboratoires d'intervention. Theories pedagogiques, planification et intervention supervisees aupres d&rsquo;eleves du primaire. Initiation a l'evaluation des apprentissages.

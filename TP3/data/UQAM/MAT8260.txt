@@ -1,0 +1,2 @@
+TitreCours: Theorie de la decision
+DescriptionCours: Decision et modeles: le probleme general. Approche bayesienne: admissibilite d'une regle de Bayes, theoreme du minimax. Estimation et tests d'hypotheses d'un point de vue decisionnel. Reconnaissance des formes. Classification de formes. Methode du gradient stochastique. Adaptation et apprentissage. Approximations stochastiques. Theorie de l'information appliquee aux problemes de decision.

@@ -1,0 +1,2 @@
+TitreCours: Acides nucleiques et genetique 1
+DescriptionCours: Metabolisme des nucleotides. Structure de l'ADN, de l'ARN, de la chromatine et des chromosomes. Replication, degradation, mutation, reparation et recombinaison de l'ADN. Code genetique. Mecanismes de l'heredite. Maladies genetiques.

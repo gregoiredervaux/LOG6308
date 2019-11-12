@@ -1,0 +1,2 @@
+TitreCours: Gestion de l'invalidite et de la readap.
+DescriptionCours: Analyse historique et socio-economique du phenomene de l'invalidite et du droit a la readaptation. Historique et caracteristiques des differents regimes d'indemnisation. Organisation et pratiques de la gestion de l'invalidite et de la readaptation.

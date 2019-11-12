@@ -1,0 +1,2 @@
+TitreCours: Projets integres en sciences/techn. 1
+DescriptionCours: Contribution des disciplines (biologie, chimie, physique, didactiques) a la resolution de problemes complexes dans les differents domaines generaux de formation.

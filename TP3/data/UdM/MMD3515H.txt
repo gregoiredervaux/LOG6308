@@ -1,0 +1,2 @@
+TitreCours: Stage : Urgences pediatriques
+DescriptionCours: Stage clinique offrant une vue globale de la pediatrie en urgences pediatriques.

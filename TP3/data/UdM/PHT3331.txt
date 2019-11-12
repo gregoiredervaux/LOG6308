@@ -1,0 +1,2 @@
+TitreCours: Physiotherapie de la douleur
+DescriptionCours: Notions de physiologie, psychologie et d'evaluation du phenomene de douleur. Douleur chronique. Modalites therapeutiques de la douleur.

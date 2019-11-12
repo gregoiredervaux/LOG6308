@@ -1,0 +1,2 @@
+TitreCours: Techniques de redaction
+DescriptionCours: Objectifs et strategies de communication; types de discours; planification et structuration des documents; redaction de differents genres de textes.

@@ -1,0 +1,2 @@
+TitreCours: Did. des mathematiques au secondaire 1
+DescriptionCours: Champ d'etude de la didactique des maths.; interets et limites pour l'ens. Étude critique des programmes. Analyse didactique des choix et decisions prises lors de la conception et la prestation de situations d'ens.

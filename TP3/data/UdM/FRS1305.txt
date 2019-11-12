@@ -1,0 +1,2 @@
+TitreCours: Communication orale 3
+DescriptionCours: Permettre a l'etudiant de developper et de nuancer sa competence de communication orale dans des echanges plus elabores et d'acquerir les notions linguistiques et socioculturelles propres au niveau.

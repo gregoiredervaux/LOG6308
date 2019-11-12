@@ -1,0 +1,2 @@
+TitreCours: Espaces et societes
+DescriptionCours: Introduction aux societes urbaines et a la dimension sociale des phenomenes urbains.

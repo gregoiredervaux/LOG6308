@@ -1,0 +1,2 @@
+TitreCours: Introduction aux techniques en C.E.C.
+DescriptionCours: Stage de 2 mois: Introduction aux techniques en circulation extracorporelle (C.E.C). Presentation du bloc operatoire en chirurgie cardiaque, des equipements, des intervenants et de leurs roles, des protocoles, de l'arsenal pharmacologique disponible.

@@ -1,0 +1,2 @@
+TitreCours: Stage en genetique et genomique
+DescriptionCours: Stage de recherche en genetique moleculaire ou en genomique. Inclut de la recherche en laboratoire ou avec l'ordinateur. Comprend la redaction d'un plan et d'un rapport de recherche et une presentation orale lors d'un minisymposium.

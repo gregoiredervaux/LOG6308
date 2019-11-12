@@ -1,0 +1,2 @@
+TitreCours: Activite de terrain en urbanisme
+DescriptionCours: L'activite de terrain amenera des etudiants, en visite encadree, a une municipalite, metropole ou region urbaine, prioritairement au Quebec. L'activite comprend des seances de preparation a la visite et des seances de presentation et de discussion des rapports rediges par les etudiants.

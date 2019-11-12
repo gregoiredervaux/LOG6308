@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'anatomie clinique 1
+DescriptionCours: Anatomie humaine decrite dans une perspective clinique et illustree d'applications medico-chirurgicales.

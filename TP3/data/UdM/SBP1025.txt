@@ -1,0 +1,2 @@
+TitreCours: Stat. appliquees aux sc. biopharm.
+DescriptionCours: Methodes et princ. De base. Applic. en labo. Intro. a la probabilite. Principe de l'estimation et des intervalles de confiance. Tests d'hypothese. Taille d'echantillon. Analyse non-parametrique. Analyse de variance. Regression et correlation.

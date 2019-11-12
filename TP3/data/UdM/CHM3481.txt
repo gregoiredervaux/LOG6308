@@ -1,0 +1,2 @@
+TitreCours: Les materiaux polymeres
+DescriptionCours: Les resines thermoplastiques et thermodurcissables. Les fibres textiles. Les elastomeres. Les materiaux composites. Diagrammes d'etat, structures morphologiques et proprietes mecaniques. Mise en oeuvre et rheologie. Aspects theoriques.

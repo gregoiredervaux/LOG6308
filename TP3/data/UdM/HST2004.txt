@@ -1,0 +1,2 @@
+TitreCours: Initiation aux methodes quantitatives
+DescriptionCours: Les techniques statistiques et leurs applications en histoire.

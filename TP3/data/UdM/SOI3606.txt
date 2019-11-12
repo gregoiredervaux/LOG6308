@@ -1,0 +1,2 @@
+TitreCours: Communaute et sante
+DescriptionCours: Sante publique et sante comm. Problematiques sanitaires et sociales. Notions d&rsquo;epidemiologie et statistiques. Éducation a la sante. Telesante. Prevention et eradication d&rsquo;epidemies. Enseignement a des groupes. Environnements favorables a la sante.

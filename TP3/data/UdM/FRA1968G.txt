@@ -1,0 +1,2 @@
+TitreCours: Le vocabulaire
+DescriptionCours: Les dictionnaires de langue et les lexiques. Exercices d'enrichissement, de precision et de correction (improprietes, anglicismes, etc.) du vocabulaire visant l'emploi du mot juste et l'elimination des repetitions dans les textes.

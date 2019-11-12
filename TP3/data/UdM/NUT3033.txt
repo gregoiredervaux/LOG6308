@@ -1,0 +1,2 @@
+TitreCours: Initiation a la recherche en nutrition
+DescriptionCours: Initiation aux methodes de recherche en nutrition fondamentale, appliquee et clinique. Protocole de recherche. Revue bibliographique ou enquete sur un sujet de nutrition.

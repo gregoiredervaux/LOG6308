@@ -1,0 +1,2 @@
+TitreCours: Syntaxe 3
+DescriptionCours: Ce seminaire porte sur l'analyse de problemes de pointe en syntaxe. Des analyses recentes seront discutees et evaluees du point de vue de leur adequation empirique et de leur contribution theorique. Les participants seront amenes a developper un sens critique par rapport aux nouveaux paradigmes.

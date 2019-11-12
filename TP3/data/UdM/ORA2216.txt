@@ -1,0 +1,2 @@
+TitreCours: Instrumentation
+DescriptionCours: Étude des composantes des principaux appareils utilises en pratique audiologique et orthophonique. Initiation a l'utilisation de differents appareils d'amplification, d'enregistrement et d'analyse.

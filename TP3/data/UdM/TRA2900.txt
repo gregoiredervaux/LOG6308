@@ -1,0 +1,2 @@
+TitreCours: Simulation de cabinet de traduction
+DescriptionCours: En liaison avec le milieu professionnel, les etudiants traduiront des textes de differents secteurs d'activite en respectant les criteres quantitatifs et qualitatifs de la profession.

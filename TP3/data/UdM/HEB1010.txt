@@ -1,0 +1,2 @@
+TitreCours: Langue hebraique elementaire
+DescriptionCours: Acquisition de la lecture et de l'ecriture hebraiques. Élements de morphologie et de syntaxe fondes sur l'etude de fragments textuels bibliques et modernes.

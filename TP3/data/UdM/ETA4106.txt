@@ -1,0 +1,2 @@
+TitreCours: Fondements de l'education
+DescriptionCours: Apports des sciences humaines et sociales, notamment de l'histoire, de la philosophie et de la sociologie, a l'etude de la theorie et de la pratique educatives.

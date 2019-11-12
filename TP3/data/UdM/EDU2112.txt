@@ -1,0 +1,2 @@
+TitreCours: Stage d'enseignement 1
+DescriptionCours: Prise en charge supervisee d'un ou de groupes d'eleves. Accent sur la conception, la planification et le pilotage des lecons.

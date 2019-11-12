@@ -1,0 +1,2 @@
+TitreCours: Logique
+DescriptionCours: Algebres de Boole et logique propositionnelle. Langues du premier et second ordre avec egalite. Theoremes de compacite et de Skolem-Löwenheim. Lois logiques. Élimination des quantificateurs. Theoreme de completude.

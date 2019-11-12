@@ -1,0 +1,2 @@
+TitreCours: Économie industrielle
+DescriptionCours: Theories du comportement de la firme en situation de concurrence et d'information imparfaites et leurs applications. Structures de marche, politiques d'etablissement des prix, choix et differenciation des produits, integration verticale et horizontale, productivite, recherche et developpement et adoption de nouvelles technologies. Reglementation et politique de concurrence. Études empiriques.

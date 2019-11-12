@@ -1,0 +1,2 @@
+TitreCours: Chimie physique 3
+DescriptionCours: Principes de mecanique quantique. Methode des variations. Theorie des perturbations. Calculs de structure electronique d'atomes et de molecules.

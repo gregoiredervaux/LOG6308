@@ -1,0 +1,2 @@
+TitreCours: Analyse de la societe quebecoise
+DescriptionCours: Une serie de conferences permettant a des sociologues connus du milieu d'exposer leur analyse de la societe quebecoise actuelle, en s'attachant particulierement aux aspects suivants: evolution historique, problemes economiques, sociaux et demographiques, jeu des classes sociales et des groupes ethniques, profil politique, ideologies passees et actuelles.

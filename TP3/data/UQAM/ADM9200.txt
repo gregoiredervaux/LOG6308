@@ -1,0 +1,2 @@
+TitreCours: Methodologie de la recherche en administration
+DescriptionCours: Conception de la recherche en general, methodologies de la recherche en methodes quantitatives, en sciences du comportement et en economie, methodologies generalement utilisees en administration : recherches experimentales, etudes en laboratoires, techniques d'observation, etc.

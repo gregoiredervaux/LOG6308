@@ -1,0 +1,2 @@
+TitreCours: Literary Theory and Criticism
+DescriptionCours: Methodes d'analyse de textes litteraires emanant de plusieurs theories litteraires et culturelles.

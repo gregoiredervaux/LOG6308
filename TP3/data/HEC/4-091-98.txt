@@ -1,0 +1,2 @@
+TitreCours: UM-DRT 6215 Droit fiscal administratif
+DescriptionCours: Sujets couverts  1.&nbsp;Introduction  2.&nbsp;Declarations  3.&nbsp;Paiement  4.&nbsp;Cotisation  5.&nbsp;Verification  6.&nbsp;Aspects penaux  7.&nbsp;Responsabilite des administrateurs et des tiers  8.&nbsp;Perception et recouvrement  9.&nbsp;Dossier equite  10.&nbsp;Opposition  11.&nbsp;Appels  12.&nbsp;Aspects administratifs de la TPS/TVQ  13.&nbsp;Non-residents, aspects administratifs texte contenuRubrique div rubrique

@@ -1,0 +1,2 @@
+TitreCours: Anatomie et physiologie de la parole
+DescriptionCours: Introduction a l'anatomie et au fonctionnement des structures impliquees dans la production de la parole et de la deglutition.

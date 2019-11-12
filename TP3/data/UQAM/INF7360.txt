@@ -1,0 +1,2 @@
+TitreCours: Depistage de l
+DescriptionCours: Techniques d'indexation. Techniques de depistage: requetes booleennes, recherche de «patterns», vecteurs de descripteurs, techniques d'intelligence artificielle. Interfaces aux systemes de depistage de l'information: techniques par menu, langages de requetes booleennes simples, «browsing».

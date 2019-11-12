@@ -1,0 +1,2 @@
+TitreCours: Stage : Medecine de l'adolescence
+DescriptionCours: Stage clinique offrant une vue globale de la pediatrie en pediatrie de l'adolescence.

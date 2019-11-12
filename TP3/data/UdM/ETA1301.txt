@@ -1,0 +1,2 @@
+TitreCours: Philosophie de l'education catholique
+DescriptionCours: Étude de la philosophie de l'enseignement catholique. Analyse de son utilite dans le monde moderne.

@@ -1,0 +1,2 @@
+TitreCours: Redaction de devis
+DescriptionCours: Mise en situation du devis dans le dossier du projet d'architecture. Recherche, obtention, analyse, evaluation, selection et classement de l'information en vue de la redaction. Normalisation. Qualites d'une redaction efficace.

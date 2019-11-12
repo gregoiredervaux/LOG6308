@@ -1,0 +1,2 @@
+TitreCours: Mathematiques financieres
+DescriptionCours: Le cours de Mathematiques financieres permet a l'etudiant de comprendre les notions et definitions inherentes aux mathematiques financieres. L'etudiant aura l'occasion d'apprendre la manipulation de certaines fonctions de logiciels comme Excel et d'une calculatrice financiere. Des situations de la vie courante de l'emprunteur et de l'investisseur seront presentees.

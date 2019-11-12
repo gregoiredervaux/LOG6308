@@ -1,0 +1,2 @@
+TitreCours: Exploitation de l'information sec. int.
+DescriptionCours: Cerner les dimensions essentielles a la gestion de l'information. Produire des informations utiles. Établir les priorites et utiliser les informations. Proteger les actifs informationnels. Évaluer les retombees des informations.

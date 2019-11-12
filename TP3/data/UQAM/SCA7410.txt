@@ -1,0 +1,2 @@
+TitreCours: Hydrometeorologie
+DescriptionCours: Étude detaillee des processus hydrologiques relies a la meteorologie. Rappels sur les bilans hydriques. Transformations pluie-ruissellement et neige-ruissellement. Differences entre les milieux ruraux et urbains. Types d'ecoulement des eaux de surface. Variations de la qualite de l'eau. La pluie d'un point de vue hydrologique. Cours axe vers la modelisation et la gestion des ressources hydriques.

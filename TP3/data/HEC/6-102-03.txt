@@ -1,0 +1,2 @@
+TitreCours: Modeles quantitatifs en marketing
+DescriptionCours: Ce cours vise a familiariser l'etudiant avec certains modeles quantitatifs en marketing dont l'usage est repandu dans le milieu de la recherche commerciale.&nbsp; Les modeles&nbsp; discutes portent sur la tarification d'un produit, la promotion des ventes, le positionnement de produits, la prevision et la simulation de parts de marche ainsi que sur la segmentation.&nbsp; L'apprentissage de la modelisation se fait a travers l'etude et l'analyse de modeles existants et d'une serie de travaux empiriques.  &nbsp;

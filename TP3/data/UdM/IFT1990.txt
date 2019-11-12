@@ -1,0 +1,2 @@
+TitreCours: Informatique pour sciences sociales
+DescriptionCours: Initiation a l'utilisation des micro-ordinateurs. Concepts et vocabulaire de base. Logiciels et materiel. Traitement de l'information. Utilisation du reseau Internet et de progiciels pour l'analyse quantitative et qualitative de donnees.

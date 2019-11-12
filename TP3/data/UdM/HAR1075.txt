@@ -1,0 +1,2 @@
+TitreCours: Initiation a la recherche historique
+DescriptionCours: Initiation aux methodes de recherche en histoire de l'art et aux regles de la recherche scientifique. Études de cas a partir des elements suivants : documents d'archives, provenance, datation, attribution, biographie d'artiste et examen scientifique.

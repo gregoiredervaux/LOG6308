@@ -1,0 +1,2 @@
+TitreCours: Philosophie francaise contemporaine
+DescriptionCours: A partir des relations entre la philosophie et la litterature, la perception et le langage, l'identite et la difference, etude de philosophes francais contemporains tels Sartre, Merleau-Ponty, Foucault et Levinas.

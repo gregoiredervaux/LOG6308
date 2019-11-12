@@ -1,0 +1,2 @@
+TitreCours: Seminaire lie aux activites de recherche I
+DescriptionCours: Regles et principes de l'elaboration et de la presentation d'un projet de these (PTD). Établissement d'une problematique de recherche. Choix d'une methodologie appropriee au champ de recherche de l'etudiant. Analyse critique des differentes techniques analytiques appropriees. Activite individuelle qui donne lieu a l'etablissement d'une entente d'encadrement entre l'etudiant et son directeur de recherche.

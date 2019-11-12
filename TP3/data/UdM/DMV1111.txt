@@ -1,0 +1,2 @@
+TitreCours: Histologie et embryologie veterinaire
+DescriptionCours: Developpement embryonnaire, organogenese et placentation. Croissance postnatale. Histologie comparee des tissus et des systemes; particularites des especes domestiques dans un contexte veterinaire.

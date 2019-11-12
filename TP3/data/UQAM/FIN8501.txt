@@ -1,0 +1,2 @@
+TitreCours: Économie et conjoncture avancee
+DescriptionCours: L'objectif general est de maitriser les principes fondamentaux de l'analyse economique et de l'analyse conjoncturelle. Revue des notions de base en microeconomie et en macroeconomie. Les modeles economiques. Modeles mathematiques des cycles economiques. Estimation des modeles macroeconomiques: problemes d'identification. Analyse economique et evaluation des actifs financiers.

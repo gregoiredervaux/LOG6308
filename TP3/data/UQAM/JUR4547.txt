@@ -1,0 +1,2 @@
+TitreCours: Resolution des conflits
+DescriptionCours: Theories et techniques afferentes a la conduite d'une negociation ou d'une mediation. Procedures et techniques specifiques a certains contextes notamment : droit de la famille, droit du travail, droit penal, droit commercial, droit administratif, droit de la consommation. Interaction des dimensions juridiques et des autres dimensions (notamment sociales, psychologiques, ethiques) dans les processus de resolution de conflits.

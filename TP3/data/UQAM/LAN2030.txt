@@ -1,0 +1,2 @@
+TitreCours: Francais langue seconde
+DescriptionCours: Les objectifs du cours sont les suivants: permettre a l'apprenant de faire la synthese de son apprentissage en francais ecrit; permettre a l'etudiant de se preparer a l'examen de francais de l'universite et aux examens d'entree des differents programmes universitaires. Cours pouvant varier selon les besoins qui se manifesteront tout au long de l'evolution du programme. Ce cours permettrait la mise sur pied de lecons experimentales.

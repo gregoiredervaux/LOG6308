@@ -1,0 +1,2 @@
+TitreCours: Travaux pratiques
+DescriptionCours: Travail d'analyse realise individuellement a partir d'une experience pratique. Ce travail doit etre encadre et evalue par un professeur.

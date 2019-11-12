@@ -1,0 +1,2 @@
+TitreCours: Sujet special en geographie
+DescriptionCours: Cours a contenu variable traitant des themes d'actualite ou des techniques de pointe en geographie.

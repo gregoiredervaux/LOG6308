@@ -1,0 +1,2 @@
+TitreCours: Sante mentale et communaute
+DescriptionCours: Étude du concept de sante mentale et son evolution. Épidemiologie de la sante mentale : identification des facteurs interdependants influant sur l'etat de la sante mentale. Identification et role des organismes communautaires en sante mentale.

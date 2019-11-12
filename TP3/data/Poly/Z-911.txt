@@ -1,0 +1,2 @@
+TitreCours: Rentabilite des projets
+DescriptionCours: Les decisions economiques en ingenierie. Sources d'information pour l'evaluation de projets. Analyse des coûts et point mort. Actualisation et equivalences monetaires dans le temps. Analyse de la rentabilite des investissements independants. Comparaison d'options mutuellement exclusives. Quelques applications importantes des techniques d'evaluation. Prise en compte de l'impot dans l'evaluation de projets d'investissements. Decisions concernant le budget d'investissement. Risque et incertitude.

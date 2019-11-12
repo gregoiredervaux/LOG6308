@@ -1,0 +1,2 @@
+TitreCours: Medecine des volailles
+DescriptionCours: Étude des principales maladies affectant les volailles. Diagnostic, prevention et controle dans le contexte de la medecine de population. Impact de ces maladies sur la production.

@@ -1,0 +1,2 @@
+TitreCours: Mathematiques fondamentales
+DescriptionCours: Revision des concepts et des techniques de mathematiques fondamentales. Ce cours s'adresse aux etudiants deja admis au baccalaureat en genie et qui, tout en ayant termine leurs etudes collegiales depuis peu, ont des faiblesses en mathematiques (mesurees par le pretest).

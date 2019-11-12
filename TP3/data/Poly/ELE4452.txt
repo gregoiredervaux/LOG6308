@@ -1,0 +1,2 @@
+TitreCours: Rseaux lectriques
+DescriptionCours: Principes de planification et de fonctionnement des rseaux interconnects. Modles mathmatiques des composantes d'un rseau. Analyse en rgime tabli et coulements de puissance : formulation et solutions. Courants de dfaut. Stratgies d'opration, dispatching conomique, rgulation de tension et de frquence, transits de puissance et interconnexions.

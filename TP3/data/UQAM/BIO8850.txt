@@ -1,0 +1,2 @@
+TitreCours: Sujets de pointe en ecologie
+DescriptionCours: Presentation de concepts ecologiques de pointe par des professeurs en ecologie ; discussion d'articles pertinents aux themes choisis.

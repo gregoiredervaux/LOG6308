@@ -1,0 +1,2 @@
+TitreCours: Ensemble cuivres
+DescriptionCours: Participation a diverses formations instrumentales ou vocales de la Faculte de musique. Ces formations sont precisees chaque annee selon les besoins et les possibilites.

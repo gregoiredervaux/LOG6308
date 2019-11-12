@@ -1,0 +1,2 @@
+TitreCours: Lecture a vue
+DescriptionCours: Entrainement a une lecture a vue correcte et rapide de partitions musicales. Acquisition de techniques permettant une vision a la fois globale et analytique de la partition a dechiffrer. Developpement de reflexes facilitant l'execution immediate et fidele de l'oeuvre. Cours-atelier.

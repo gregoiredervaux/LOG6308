@@ -1,0 +1,2 @@
+TitreCours: Ergo - Developpement professionnel 2
+DescriptionCours: Simulation de situations cliniques. Applications de differentes modalites d'evaluation et d'intervention. Communication orale et ecrite.

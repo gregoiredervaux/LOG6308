@@ -1,0 +1,2 @@
+TitreCours: Systmes de communication et de navigation
+DescriptionCours: Systmes de communication HF, VHF et SATCOM. Systmes de transmission de donnes. Systmes de prvention de collisions ariennes, systmes d'enregistrement de donnes et radiobalise de dtresse. Systmes interrogateurs. Systmes de navigation  court et  long rayon d'action. Systmes de navigation globale par satellite. Radar mtorologique.

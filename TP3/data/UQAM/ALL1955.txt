@@ -1,0 +1,2 @@
+TitreCours: Allemand avance 1
+DescriptionCours: Cours relevant de l'Universite de Montreal Developpement des activites linguistiques autonomes telles que discussion, debat, redaction, recherche et expose. Lecture de textes originaux plus complexes et exploitation d'enregistrements audiovisuels.

@@ -1,0 +1,2 @@
+TitreCours: Stage 2
+DescriptionCours: Activite obligatoire non creditee. Stage de 4 mois effectue dans un milieu de travail a l'exterieur de l'Universite et, s'il y a lieu, a l'exterieur du Quebec ou du Canada. Un rapport de stage sanctionne la reussite de l'activite. La notation de cette activite est succes ou echec.

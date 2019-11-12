@@ -1,0 +1,2 @@
+TitreCours: Conception et planif. des reseaux informat.
+DescriptionCours: Processus de planification des reseaux informatiques. Exigences et specifications. Modelisation des principaux problemes de planification des reseaux. Conception et expansion topologiques. Localisation des equipements. Reseaux informatiques a plusieurs niveaux. Dimensionnement des reseaux informatiques et acheminement du trafic avec criteres de performance, de fiabilite et de qualite de service. Allocation des ressources dans les reseaux informatiques. Études de cas.

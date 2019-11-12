@@ -1,0 +1,2 @@
+TitreCours: Changements climatiques
+DescriptionCours: Perspective historique, structure de l'atmosphere, modelisation des changements climatiques, adaptation aux changements, rehaussement marin, strategies de prevention et d'intervention.

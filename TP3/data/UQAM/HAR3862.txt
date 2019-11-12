@@ -1,0 +1,2 @@
+TitreCours: Art et nouvelles technologies
+DescriptionCours: Ce cours vise a etudier le langage et l'impact des diverses technologies videographique, infographique (computer art, art virtuel), reprographique (copie art) et holographique sur l'art de la deuxieme moitie du XXe siecle. Seront analyses les diverses productions et courants artistiques qui integrent ces medias specifiques, ainsi que les nouveaux modes de reception qu'ils proposent.

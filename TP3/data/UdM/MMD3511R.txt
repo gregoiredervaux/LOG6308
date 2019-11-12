@@ -1,0 +1,2 @@
+TitreCours: Stage : Hematologie et oncologie
+DescriptionCours: Stage clinique aupres des malades ambulants ou hospitalises dans la specialite hematologie et oncologie.

@@ -1,0 +1,2 @@
+TitreCours: Chimie organique
+DescriptionCours: Principales notions de stereochimie. Methodes spectrales IR et RMN. Aldehydes et cetones; acides carboxyliques et derives, amines; hydrates de carbone; acides amines, peptides, proteines. Composes heterocycliques.

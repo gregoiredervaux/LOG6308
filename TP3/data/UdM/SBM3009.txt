@@ -1,0 +1,2 @@
+TitreCours: Stage de recherche en pharmacologie
+DescriptionCours: Realisation d'un projet de recherche en pharmacologie dans un milieu approuve par le comite responsable de l'orientation.

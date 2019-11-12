@@ -1,0 +1,2 @@
+TitreCours: Équipements de mecanique du batiment
+DescriptionCours: Ce cours porte sur les divers equipements de mecanique de batiment visant a proteger les occupants et a preserver les biens materiels. Il amene l'etudiant a faire usage de tels equipements, dans le but de minimiser l'impact du sinistre sur les occupants et sur le batiment comme tel, et d'accelerer la stabilisation de l'incident en cause.

@@ -1,0 +1,2 @@
+TitreCours: Measurement
+DescriptionCours: The course entitled "Measurement" is designed to introduce and expand on the theoretical foundations and applications of various issues and methodologies in the area. The course provides emphasis on issues rooted in Classical Test Theory as well as those which underlie the more modern approach to measurement characterized by Item Response Theory (IRT).&nbsp;A "hands-on" or practical approach characterizes this course.

@@ -1,0 +1,2 @@
+TitreCours: Platon et Aristote
+DescriptionCours: Étude d'un ou de plusieurs ecrits representatifs de Platon ou d'Aristote.

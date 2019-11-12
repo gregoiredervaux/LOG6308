@@ -1,0 +1,2 @@
+TitreCours: Histoire du livre et de l'imprime
+DescriptionCours: Les trois revolutions du livre, de la naissance de l'imprime a l'arrivee de l'informatique; l'histoire du livre dans le contexte quebecois et canadien. Ensemble du circuit de l'imprime, de la production d'un manuscrit a sa distribution.

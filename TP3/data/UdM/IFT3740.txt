@@ -1,0 +1,2 @@
+TitreCours: Animation par ordinateur
+DescriptionCours: Animation traditionnelle. Animation rigide 3D. Corps articules. Rotoscopie. Keyframing. Cinematique inverse. Deformations libres. Synchronisation du son et de l'image.

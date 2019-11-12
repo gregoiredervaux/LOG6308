@@ -1,0 +1,2 @@
+TitreCours: Projet de synthese
+DescriptionCours: L'activite de synthese vise a completer les etudes de premier cycle en sciences des religions par un travail de focalisation des acquis autour d'un projet personnel de l'etudiant, soit dans le champ de travaux appliques en lien avec une mineure qui prepare a l'intervention professionnelle, soit dans le champ d'une preparation a la poursuite d'etudes avancees. Il revient ainsi a l'etudiant d'identifier le territoire de son projet de synthese.

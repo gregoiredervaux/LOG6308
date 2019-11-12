@@ -1,0 +1,2 @@
+TitreCours: Techniques de lutte contre la pollution de l
+DescriptionCours: Étude des principales techniques de lutte contre la pollution de l'eau. Actions avant et apres le rejet. Reduction du volume des rejets. Reduction de la charge des rejets. Actions sur le milieu recepteur. Aspects economiques.

@@ -1,0 +1,2 @@
+TitreCours: Stage en education physique
+DescriptionCours: Familiarisation a l'enseignement au prescolaire, au primaire et au secondaire. Introduction a la fonction enseignante. Observation des activites d'enseignement et d'apprentissage en education physique.

@@ -1,0 +1,2 @@
+TitreCours: Radiopharmacie
+DescriptionCours: Introduction a la medecine nucleaire. Medicaments radioactifs et leur importance. Application des radio-isotopes en medecine et disciplines connexes. Mesure de la radiation. Action des medicaments radiopharmaceutiques.

@@ -1,0 +1,2 @@
+TitreCours: Pathologie generale
+DescriptionCours: Étude des processus pathologiques (inflammation, immunopathologie, transformation neoplasique, anomalies genetiques etc.) incluant les contenus d'histologie fonctionnelle necessaires a leur comprehension.

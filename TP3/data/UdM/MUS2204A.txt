@@ -1,0 +1,2 @@
+TitreCours: Solfege et dictee 3
+DescriptionCours: Acquisition d'automatismes de lecture et d'audition par rapport au langage tonal. Perspective analytique.

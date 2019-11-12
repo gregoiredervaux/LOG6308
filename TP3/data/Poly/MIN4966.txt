@@ -1,0 +1,2 @@
+TitreCours: Projet integrateur IV
+DescriptionCours: Selection du type de mine (a ciel ouvert ou souterraine) et de la methode de minage. Taux de production de la mine. Design des installations de surface : usine de traitement; chevalement et treuil; usine de remblayage; site d'entreposage des rejets; services de surface. Design des installations souterraines : puits de la mine; rampes et galeries; chute a minerai et cheminee de ventilation; design de l'aerage; selection des equipements; selection du personnel necessaire; transport du remblai. Évaluation economique.

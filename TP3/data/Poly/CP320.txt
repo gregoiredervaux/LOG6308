@@ -1,0 +1,2 @@
+TitreCours: Commande de procds
+DescriptionCours: quations diffrentielles et transformes de Laplace. Les fonctions de transfert, les schmas-blocs et la modlisation des systmes dynamiques. Rgulations  boucles ouvertes et fermes. Rgulation proportionnelle, intgrale et drive (PID). Rponse frquentielle des systmes, diagramme de Bode. Critres de stabilit, marge de stabilit. Techniques de compensation. Performances d'un systme de contrle. Ajustement des paramtres de contrle. Introduction aux systmes non linaires. tude des diffrents concepts sur logiciels spcialiss.

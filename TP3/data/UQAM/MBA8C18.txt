@@ -1,0 +1,2 @@
+TitreCours: Gestion des ressources humaines dans le domaine des sciences comptables
+DescriptionCours: Ce cours vise l'acquisition par l'etudiant des aspects operationnels de la fonction ressources humaines en entreprise. On y aborde son importance: comment elle est une variable essentielle a la mise au point et a l'integration de strategies dans l'entreprise. Le contenu de ce cours peut varier en cheminement specialise.

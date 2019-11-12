@@ -1,0 +1,2 @@
+TitreCours: Les mathematiques au primaire
+DescriptionCours: Les mathematiques enseignees : histoire, savoirs, rapport au savoir et transposition. Arrimage entre les differents ordres d'enseignement.

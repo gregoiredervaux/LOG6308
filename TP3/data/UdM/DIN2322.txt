@@ -1,0 +1,2 @@
+TitreCours: Materiaux 3 : materiaux polymeriques
+DescriptionCours: Nature et proprietes des materiaux polymeriques. Classes de thermoplastiques et thermodurcissables. Plastiques renforces, elastomeres et textiles synthetiques. Procedes de mise en forme et d'assemblage. Principales applications.

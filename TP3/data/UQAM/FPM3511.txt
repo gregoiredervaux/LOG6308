@@ -1,0 +1,2 @@
+TitreCours: Stage hors Quebec
+DescriptionCours: Ce stage est obligatoire pour tous les etudiants qui ont complete un stage hors Quebec et regroupe tous ces etudiants dans un meme groupe-cours. De par sa nature, ce cours favorise l'ouverture sur le monde. Ainsi, dans un contexte de communaute d'apprentissage, les etudiants sont appeles a partager et a echanger entre eux, par courriel pour transmettre eventuellement a la communaute universitaire leurs experiences professionnelles vecues en milieu scolaire etranger sur divers plans pedagogiques et culturels.

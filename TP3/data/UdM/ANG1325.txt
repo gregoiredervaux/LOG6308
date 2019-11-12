@@ -1,0 +1,2 @@
+TitreCours: Survey of Canadian Literature
+DescriptionCours: Les grandes lignes de la litterature canadienne du XVIe siecle au XXe siecle.

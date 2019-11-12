@@ -1,0 +1,2 @@
+TitreCours: Ergonomie dans le reseau de la sante
+DescriptionCours: Generalites sur l'ergonomie. Appreciation de la charge de travail : activite physique, charge mentale, aspects psychosociologiques, environnement, etc. Contraintes particulieres.

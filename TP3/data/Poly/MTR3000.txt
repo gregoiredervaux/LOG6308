@@ -1,0 +1,2 @@
+TitreCours: Materiaux ceramiques
+DescriptionCours: Structure atomique et cristallographie. Microstructure et diagrammes d'equilibre. Matieres premieres et elaboration des poudres. Mise en forme des ceramiques. Frittage des ceramiques. Usinage et controle de qualite des ceramiques. Proprietes physiques, mecaniques et thermiques. Mecanismes de deformation et rupture. Applications electriques, magnetiques, optiques et biologiques.

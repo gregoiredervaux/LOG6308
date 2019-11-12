@@ -1,0 +1,2 @@
+TitreCours: Techniques d'internationalisation
+DescriptionCours: Planification d'un projet d'internationalisation. Analyse et specification des besoins. Principes et methodes de conception de logiciels internationalises. Architectures et composantes logicielles. Outils et applications pratiques.

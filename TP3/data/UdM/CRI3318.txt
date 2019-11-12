@@ -1,0 +1,2 @@
+TitreCours: Methodes quantitatives
+DescriptionCours: La logique de l'analyse a trois variables. Les methodes de creation d'echelles et de groupes. Protocoles et tests de recherche evaluative (analyse de variance). La regression multiple. Syntaxe SPSS.

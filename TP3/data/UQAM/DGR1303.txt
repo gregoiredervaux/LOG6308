@@ -1,0 +1,2 @@
+TitreCours: Infographie
+DescriptionCours: Introduction a la numerisation et au traitement d'images. Logiciel utilise: Adobe Photoshop.

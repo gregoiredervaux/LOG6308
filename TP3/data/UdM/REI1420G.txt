@@ -1,0 +1,2 @@
+TitreCours: Emploi et salaire
+DescriptionCours: Fonctionnement des marches du travail. Analyse de l'offre et de la demande. La determination des salaires. Salaires et allocations des ressources. Les differentes theories concernant les salaires. Institutions et equilibre des marches.

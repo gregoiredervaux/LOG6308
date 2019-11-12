@@ -1,0 +1,2 @@
+TitreCours: Ateliers de production avancee multimedias II
+DescriptionCours: Ateliers de production dans un medium ou une combinaison de medias deja supporte par le departement de communication (photo, video, audio, micro-informatique...). Travail en equipes multidisciplinaires formees autour de projets specifiques ou de commandes de service. Les realisations varieront donc a chaque fois.

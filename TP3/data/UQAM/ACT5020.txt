@@ -1,0 +1,2 @@
+TitreCours: Theorie du risque
+DescriptionCours: Ce cours vise a initier l'etudiant au concept mathematiques de risque, aux differents modeles utilises pour l'evaluation du risque et aux techniques d'evaluation du risque dans les problemes actuariels. Fondements mathematiques des assurances. Notion de risque. Modeles a court et a long termes. Modeles collectifs et individuels, processus de Poisson. Simulation de modeles. Calcul de la probabilite de ruine. Applications de la theorie du risque. Ce cours comporte une seance d'exercices de 2 heures par semaine.

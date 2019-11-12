@@ -1,0 +1,2 @@
+TitreCours: Lectures dirigees en etudes lusophones
+DescriptionCours: Encadrement personnalise d'une recherche en litterature, cinema ou art du monde lusophone, elaboree par l'etudiant de concert avec un professeur rattache au programme.

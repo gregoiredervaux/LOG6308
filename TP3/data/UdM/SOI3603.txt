@@ -1,0 +1,2 @@
+TitreCours: Soins infirmiers de 1re ligne
+DescriptionCours: La premiere ligne du reseau de la sante et des services sociaux quebecois. CLSC et groupes de medecine de famille. Suivi systematique de clientele. Collaboration professionnelle. Émergence du role de l'infirmiere.

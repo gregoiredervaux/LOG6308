@@ -1,0 +1,2 @@
+TitreCours: Litterature quebecoise du XIXe siecle
+DescriptionCours: Étude de l'evolution des textes, genres et formes de la litterature quebecoise du XIXe siecle.

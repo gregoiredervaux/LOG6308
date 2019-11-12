@@ -1,0 +1,2 @@
+TitreCours: Travail d'equipe et projet de genie chimique
+DescriptionCours: Connaissance et experimentation de la dynamique et de l'organisation du travail en equipe; normes, roles, culture groupale, pouvoir et leadership, relations affectives et cohesion, tache et objectifs, organisation, structuration, technique de resolution de probleme et prise de decision. Styles de leadership et gestion des conflits dans une equipe. Importance de la conception en ingenierie. Rapport de conception et planification de projet. Projet de conception.

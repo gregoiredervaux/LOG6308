@@ -1,0 +1,2 @@
+TitreCours: Stage d'enseignement au primaire
+DescriptionCours: Developpement d'habiletes de gestion de la classe et d'enseignement dans une perspective de pedagogie differenciee.

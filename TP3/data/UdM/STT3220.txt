@@ -1,0 +1,2 @@
+TitreCours: Methodes de prevision
+DescriptionCours: Taxonomie des modeles de prevision. Regression lineaire avec erreurs autocorrelees. Lissage exponentiel. Regression pour des series saisonnieres. Modeles ARIMA. Performance previsionnelle. Utilisation d'un progiciel.

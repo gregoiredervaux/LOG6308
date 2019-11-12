@@ -1,0 +1,2 @@
+TitreCours: Macroeconomie
+DescriptionCours: Principales questions macroeconomiques contemporaines : croissance et fluctuations economiques, inflation, chomage, taux d'interet, taux de change, deficits budgetaires gouvernementaux, politique monetaire canadienne.

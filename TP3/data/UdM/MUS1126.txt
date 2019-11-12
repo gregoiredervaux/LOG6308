@@ -1,0 +1,2 @@
+TitreCours: Intro - Édition numerique et audio midi
+DescriptionCours: Apprentissage d'un logiciel d'edition de partitions. Introduction aux technologies MIDI et a l'audionumerique. Initiation au travail multipiste et a des sequenceurs audio et MIDI.

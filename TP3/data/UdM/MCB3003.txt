@@ -1,0 +1,2 @@
+TitreCours: Applications biotechno. de l'immunologie
+DescriptionCours: Conception et realisation de miniprojets de recherche s'articulant autour du developpement d'un vaccin nouveau. Apprentissage de la demarche scientifique, de la recherche bibliographique informatisee et de techniques de pointe en immunologie.

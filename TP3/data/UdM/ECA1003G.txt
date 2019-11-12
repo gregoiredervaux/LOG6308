@@ -1,0 +1,2 @@
+TitreCours: Cardiopathies congenitales 1
+DescriptionCours: Embryologie, etude echographique de l'anatomie cardiaque, foetale, de la physiologie foetale et de transition. Anatomie, physiopathologie et evaluation echographique des cardiopathies congenitales les plus frequentes.

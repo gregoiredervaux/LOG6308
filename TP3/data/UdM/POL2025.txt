@@ -1,0 +1,2 @@
+TitreCours: Politique et economie
+DescriptionCours: Initiation aux concepts et instruments fondamentaux de l'analyse economique. Portee, pertinence et limites de l'analyse et de la theorie economique pour l'analyse politique.

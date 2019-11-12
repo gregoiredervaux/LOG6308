@@ -1,0 +1,2 @@
+TitreCours: Consultation statistique
+DescriptionCours: Étude et analyse de donnees deja recueillies en utilisant des statistiques descriptives, ainsi que des techniques de regression multiple, plans d'experience, modeles lineaires generalises.

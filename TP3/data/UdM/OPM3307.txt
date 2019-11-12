@@ -1,0 +1,2 @@
+TitreCours: Élements de diagnostic en lent. corn.
+DescriptionCours: Integration des aspects theoriques et cliniques en liaison avec l'anamnese afin d'optimiser la prescription de lentilles corneennes. Discussion de cas en fonction des diverses options presentees pour chacun.

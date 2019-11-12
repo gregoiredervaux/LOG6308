@@ -1,0 +1,2 @@
+TitreCours: Initiation a l'economie
+DescriptionCours: Initiation a l'etude de l'economie : production de biens et services, determination des prix, revenu national, taux d'interet, inflation, chomage, politiques economiques, echanges internationaux et taux de change.

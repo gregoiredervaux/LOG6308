@@ -1,0 +1,2 @@
+TitreCours: Activites physiques et vieillissement
+DescriptionCours: Aspects physiologiques, psychologiques et psychosociaux de l'activite physique liee au vieillissement. Analyse de divers modes d'intervention propres a ce groupe d'age. Roles des intervenants. Possibilites et limites de l'activite physique.

@@ -1,0 +1,2 @@
+TitreCours: Apprentissage auditif tonal 1
+DescriptionCours: Apprentissage destine a l'acquisition de premiers automatismes de lecture et d'audition tonales. Perspective analytique ou il s'agit d'entrainer l'oreille et l'oeil a percevoir des ensembles et des constantes.

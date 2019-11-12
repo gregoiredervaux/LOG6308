@@ -1,0 +1,2 @@
+TitreCours: Stage a la revue Lex electronica
+DescriptionCours: Contribution a l'edition de la revue electronique du CRDP. Maitrise des divers outils de recherche conventionnels et informatises.

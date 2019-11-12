@@ -1,0 +1,2 @@
+TitreCours: Pratique en milieu de travail
+DescriptionCours: Stage dans un service ou cabinet de traduction sous la supervision d'un professionnel, avec l'approbation prealable du responsable des stages.

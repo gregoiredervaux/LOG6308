@@ -1,0 +1,2 @@
+TitreCours: La communication orale pour les futurs enseignants
+DescriptionCours: Ce cours vise a developper des habiletes de communication pedagogique en langue orale reliees a la voix (articulation, debit, etc.) a certaines competences linguistiques (morphosyntaxe et lexique), aux competences discursives (coherence), aux competences communicatives (relations avec l'auditoire) ainsi qu'aux niveaux de langue. Des exercices pratiques permettront aux etudiants de developper ou de confirmer leurs habiletes pour ces differents aspects de la communication orale.

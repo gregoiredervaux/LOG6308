@@ -1,0 +1,2 @@
+TitreCours: Psychologie communautaire et societe
+DescriptionCours: Application des theories et modeles de la psychologie communautaire a un probleme contemporain (exemples: immigration et refugies, les sans-abris, familles monoparentales, stades de l'adolescence et de jeunes adultes).

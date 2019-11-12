@@ -1,0 +1,2 @@
+TitreCours: Communication financiere
+DescriptionCours: Ce cours vise a initier les etudiants aux communications financieres et aux differentes reglementations en matiere de regie d'entreprise et de gouvernance. Le cours presente les differents outils de communication tels que rapport annuel et trimestriel et la tournee de promotion aupres des courtiers. Les obligations de rendre compte aupres de l'autorite des marches financiers et autres autorites en matiere boursiere. Le cours presente par ailleurs quelques notions de mathematiques financieres.

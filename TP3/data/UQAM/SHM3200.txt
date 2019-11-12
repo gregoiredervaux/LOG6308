@@ -1,0 +1,2 @@
+TitreCours: Lectures dirigees
+DescriptionCours: Activite qui permet a l'etudiant, sous la direction d'un professeur choisi par le responsable du programme, d'approfondir un sujet relatif a la mineure choisie et en rapport avec sa discipline principale (majeure). Une telle activite s'elabore a partir d'une bibliographie definie et donne lieu a la redaction d'une synthese critique d'au moins une trentaine de pages.

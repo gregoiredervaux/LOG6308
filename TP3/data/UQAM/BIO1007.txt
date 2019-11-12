@@ -1,0 +1,2 @@
+TitreCours: Le corps humain I
+DescriptionCours: Cours relevant de la TÉLUQ Connaitre, comprendre et etre en mesure d'expliquer la structure et le fonctionnement du corps humain en relation avec l'etude de certaines pathologies. Notions d'homeostasie, du controle chimique et endocrinien des differents metabolismes. Étude des systemes et leurs pathologies : systeme nerveux et fonctions de perceptions, systemes squelettiques, l'hypophyse et la relation hypothalamo-hypophysaire, systeme circulaire.

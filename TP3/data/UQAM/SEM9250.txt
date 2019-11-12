@@ -1,0 +1,2 @@
+TitreCours: Lectures dirigees
+DescriptionCours: L'etudiant dresse, sous la supervision d 'un professeur du programme, une liste de textes portant sur une problematique specifique liee au projet de these et redige un rapport de lecture detaille, en montrant l'enrichissement que ces lectures constituent pour son projet de these.

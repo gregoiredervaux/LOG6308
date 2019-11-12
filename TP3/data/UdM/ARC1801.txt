@@ -1,0 +1,2 @@
+TitreCours: Integration 1
+DescriptionCours: Activite transversale (expositions, conferences, exercices, visites) ayant pour objectif de permettre aux etudiants de faire la synthese de leurs acquis en premiere annee.

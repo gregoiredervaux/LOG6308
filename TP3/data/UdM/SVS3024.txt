@@ -1,0 +1,2 @@
+TitreCours: Seminaire de stage
+DescriptionCours: Seminaire d'integration centre sur le stage de formation pratique. Communication et relation d'aide; systematisation des apprentissages; discussions de cas.

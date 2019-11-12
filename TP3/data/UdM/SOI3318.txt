@@ -1,0 +1,2 @@
+TitreCours: Soins infirmiers en cardiologie 2
+DescriptionCours: Dimensions biopsychosociales des soins aux patients avec infarctus, insuffisance cardiaque ou autres cardiopathies. Conditions respiratoires associees. Demarches de soins.

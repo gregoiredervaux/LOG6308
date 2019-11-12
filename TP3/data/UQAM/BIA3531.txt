@@ -1,0 +1,2 @@
+TitreCours: Specialisation II en toxicologie et sante environnementale
+DescriptionCours: L'objectif du cours est de traiter de facon approfondie divers themes centraux, tels les.sujets suivants : dechets et sante, toxicologie genetique et produits de la biotechnologie, PB-TK (toxicocinetique a base physiologique), reglementation en toxicologie, toxicologie des produits pharmaceutiques, toxicologie de l'environnement.

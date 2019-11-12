@@ -1,0 +1,2 @@
+TitreCours: Internet et creation de pages Web
+DescriptionCours: Ce cours a pour but de familiariser les etudiants a utiliser les outils disponibles sur le reseau Internet, la creation de pages Web.

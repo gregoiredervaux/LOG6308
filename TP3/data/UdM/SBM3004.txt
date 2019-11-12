@@ -1,0 +1,2 @@
+TitreCours: Projet de fin d'etude
+DescriptionCours: Realisation d'un projet de recherche en milieu universitaire ou hospitalier, ou stages techniques en milieu clinique. Presentation d'un rapport ecrit et communication orale.

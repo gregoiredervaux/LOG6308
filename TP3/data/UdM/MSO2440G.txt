@@ -1,0 +1,2 @@
+TitreCours: Programmes en sante communautaire
+DescriptionCours: Analyse des besoins, formulation d'objectifs, choix de strategies d'intervention. Élaboration, application, evaluation des programmes. Qualite, efficacite et operationnalisation.

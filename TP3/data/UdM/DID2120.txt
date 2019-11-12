@@ -1,0 +1,2 @@
+TitreCours: Didactique des sciences au collegial
+DescriptionCours: Études des principales caracteristiques de la pedagogie du collegial. Introduction aux notions cles des didactiques des disciplines scientifiques : conception, obstacles, transposition et reorganisation des savoirs.

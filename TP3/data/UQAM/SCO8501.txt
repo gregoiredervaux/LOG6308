@@ -1,0 +1,2 @@
+TitreCours: Methodes quantitatives appliquees aux sciences comptables
+DescriptionCours: Utilisation des outils mathematiques et statistiques dans le cadre des systemes d'information comptable aux fins de l'amelioration de la productivite des entreprises.

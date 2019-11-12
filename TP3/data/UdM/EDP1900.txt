@@ -1,0 +1,2 @@
+TitreCours: Methode de travail intellectuel
+DescriptionCours: Acquisition d'une methode de travail facilitant la realisation des travaux de recherche. Definition d'une problematique. Plan, recherche bibliographique et collecte d'information, traitement de l'information, presentation et redaction d'un travail.

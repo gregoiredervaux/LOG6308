@@ -1,0 +1,2 @@
+TitreCours: Psychopathologie 2
+DescriptionCours: Études approfondies des principaux modeles actuels en psychopathologie. Applications a la prevention et au traitement.

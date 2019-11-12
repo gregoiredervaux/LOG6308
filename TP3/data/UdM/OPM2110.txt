@@ -1,0 +1,2 @@
+TitreCours: Optometrie 2.2
+DescriptionCours: Laboratoires d'optometrie sur les techniques diagnostiques enseignees dans le cours OPM 2109. Sessions de depistage. Observations en clinique. Examen de competence clinique.

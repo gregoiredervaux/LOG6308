@@ -1,0 +1,2 @@
+TitreCours: Stage a l
+DescriptionCours: Activite etudiante individuelle d'une duree minimale de deux mois realisee dans un pays etranger. Le stage se deroule dans un etablissement d'accueil (universite, centre de recherches, etc.) et comprend des activites liees aux travaux de recherche, d'intervention ou de creation de l'etudiant. Le stage doit etre approuve par le directeur de recherche et la direction du programme avant le depart de l'etudiant.

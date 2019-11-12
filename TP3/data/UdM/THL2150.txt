@@ -1,0 +1,2 @@
+TitreCours: Animation pastorale
+DescriptionCours: Dynamiques, ressources et defis de l'animation dans l'action pastorale. Developpement d'attitudes et d'habiletes par des exercices pratiques.

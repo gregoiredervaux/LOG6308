@@ -1,0 +1,2 @@
+TitreCours: Architecture des ordinateurs 2
+DescriptionCours: Technologie VLSI. Architectures RISC / CISC avancees. Analyse et techniques d'accroissement des performances. Ordinateurs paralleles; reseaux; coherence de memoire. Langages de description de materiel.

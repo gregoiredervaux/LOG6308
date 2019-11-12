@@ -1,0 +1,2 @@
+TitreCours: Transm. de donnes et rseau de comm. numr.
+DescriptionCours: Rseaux de transmission de donnes : rseaux tlphoniques, Internet et ATM (Asynchronous Transfer Mode). Classification et normalisation. Rappel du modle OSI et du modle TCP/IP. Mthodes de commutation et de multiplexage. Algorithmes et protocoles pour le routage, l'adressage et le contrle de la congestion. Modles de performance de rseaux. Mesures de qualit de service. Problmatique et technologies pour les rseaux  large bande. Tlphonie IP. Sujets spciaux.

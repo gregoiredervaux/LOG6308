@@ -1,0 +1,2 @@
+TitreCours: Pratiques de developpement endogene
+DescriptionCours: Dynamiques des Sud. Analyse des pratiques exemplaires. Prise en compte des contextes specifiques. Frein et moteur au developpement endogene.

@@ -1,0 +1,2 @@
+TitreCours: Coordination de l'essai clinique
+DescriptionCours: Notions generales sur la recherche clinique conduite en milieu hospitalier : protocole de recherche, comite d'ethique, recrutement et consentement des patients, roles et responsabilites des intervenants, normes de pratique et aspects reglementaires.

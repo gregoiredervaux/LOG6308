@@ -1,0 +1,2 @@
+TitreCours: Voyage d'etude en architecture
+DescriptionCours: Études in situ de realisations remarquables en rapport avec leur contexte physique et culturel, avec rencontres et conferences de specialistes locaux.

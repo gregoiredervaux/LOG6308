@@ -1,0 +1,2 @@
+TitreCours: Chimie des produits naturels
+DescriptionCours: Importance industrielle et medicinale des produits naturels : biosynthese, synthese totale, preuve de structure, etudes stereochimiques, methodologie synthetique, analyse retrosynthetique et nouveaux concepts.

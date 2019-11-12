@@ -1,0 +1,2 @@
+TitreCours: Theorie de la planification urbaine et regionale
+DescriptionCours: Presentation de theories de la planification urbaine et regionale. Élaboration des processus de planification dans un cadre urbain et regional: la formulation de la problematique, enquete, analyse, identification des problemes, formulation des objectifs, elaboration, evaluation et choix des options, formulation des politiques, mise au point des instruments de mise en oeuvre, mise en oeuvre, evaluation des incidences des plans d'urbanisme, revision des plans.

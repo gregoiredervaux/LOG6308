@@ -1,0 +1,2 @@
+TitreCours: Neurobiologie de la communication
+DescriptionCours: Ontogenese du systeme nerveux central et acquisition du langage. Cerveau et fonctions cognitives. Fondements neurobiologiques de la parole, de l'audition et du langage oral et ecrit.

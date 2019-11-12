@@ -1,0 +1,2 @@
+TitreCours: Autoroute de information (Internet,Intranet)
+DescriptionCours: Nouvelles technologies d'information et de communication. Historique de l'INTERNET. Protocoles. Logiciels de navigation et fonctionnalites multimedias. Recherche structuree d'information sur le Web: engins de recherche, requetes d'information. Communications electroniques: courrier electronique, groupes de nouvelles. INTERNET: montage et gestion d'un site Web. INTRANET: entretien et gestion de bases de donnees au sein d'une petite et moyenne entreprise. Notions de HTML, JAVA, JavaScript et animations.

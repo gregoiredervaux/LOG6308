@@ -1,0 +1,2 @@
+TitreCours: Économie de l'energie dans les batiments
+DescriptionCours: Sources d'energie dans le monde. Coût des differentes formes d'energie. Caracteristiques des constructions actuelles et futures. Caracteristiques des systemes de climatisation. Bilan energetique d'un batiment. Mesures simples d'economie d'energie. Differents modes de recuperation d'energie : serpentins boucles, echangeurs rotatifs et caloducs. Utilisation de la pompe de chaleur. Applications typiques. Coût d'un systeme de recuperation et economies annuelles.

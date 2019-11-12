@@ -1,0 +1,2 @@
+TitreCours: Travaux diriges en biomedecine vet. 2
+DescriptionCours: Lectures dirigees en medecine veterinaire. Emphase sur l'implication physiologique des conditions cliniques en medecine veterinaire. Approche multidisciplinaire et multiespece.

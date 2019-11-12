@@ -1,0 +1,2 @@
+TitreCours: Langue
+DescriptionCours: Analyse d'expressions quotidiennes de la langue japonaise ainsi que des dimensions culturelles et esthetiques au sein d'oeuvres du cinema et de la litterature du Japon. Le corpus cinematographique comprendra des extraits d'importantes oeuvres de differentes periodes et de celebres films d'animation. Le corpus litteraire comprendra des extraits d'oeuvres contemporaines ainsi que ceux de la litterature populaire et des Manga. Enseignement d'expressions propres au cinema et a la litterature du Japon. Presentations multimedias et discussions.

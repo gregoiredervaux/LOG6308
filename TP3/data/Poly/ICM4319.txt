@@ -1,0 +1,2 @@
+TitreCours: Caisse et bogie, et projet
+DescriptionCours: Tenue en service : statique, dynamique, fatigue, tenue a la collision, crash. Confort : vibrations, acoustique, isolation thermique. Securite passive. Problemes de pressurisation et d'onde acoustique. Stabilite, suspension, liaison et adherence au sol, risque de deraillement. Design industriel. Cycle de vie et obsolescence, RAMSE. Technique du pendulaire (Tilting).

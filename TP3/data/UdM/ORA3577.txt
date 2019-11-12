@@ -1,0 +1,2 @@
+TitreCours: Psychoacoustique avancee
+DescriptionCours: Ce cours fait l'etude des dimensions psychoacoustiques qui sont modifiees par la presence d'une atteinte du systeme peripherique et central.

@@ -1,0 +1,2 @@
+TitreCours: Construction et genie du site
+DescriptionCours: Conception d'ouvrages utilisant des courbes horizontales et verticales; profils et sections, calcul de volumes. Approfondissement de la gestion de l'eau de surface : ruissellement, entreposage, evacuation du site.

@@ -1,0 +1,2 @@
+TitreCours: Traduction commerciale et economique
+DescriptionCours: Analyse et traduction de textes portant sur des sujets commerciaux et economiques tels que commerce interieur et exterieur, finances et banques, Bourse, organisation des societes commerciales et comptabilite.

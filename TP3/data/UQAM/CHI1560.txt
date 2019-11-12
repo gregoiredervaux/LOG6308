@@ -1,0 +1,2 @@
+TitreCours: Introduction a la toxicologie biochimique
+DescriptionCours: Ce cours expose les notions fondamentales necessaires a la comprehension des interactions de substances toxiques avec les systemes biochimiques. Les constituants de base de la cellule: proteines, lipides et acides nucleiques, sont presentes et leur implication possible dans l'induction de perturbations fonctionnelles est discutee. L'etude des effets perturbateurs de differentes classes de composes, tels les solvants organiques, les metaux lourds et les pesticides, sert a introduire ces concepts.

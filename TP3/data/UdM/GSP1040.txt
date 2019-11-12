@@ -1,0 +1,2 @@
+TitreCours: Technologie de la securite interieure
+DescriptionCours: Choisir et utiliser les technologies en analyse strategique et les systemes d'information, en matiere de prevention, de detection, et de gestion. Maitriser les applications des divers systemes et des multiples moyens technologiques.

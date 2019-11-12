@@ -1,0 +1,2 @@
+TitreCours: Methodes et techniques d'entrevues
+DescriptionCours: Principales methodes. Relation entre les participants. Variables en cause dans une entrevue. Techniques de motivation, d'investigation, de communication et d'information.

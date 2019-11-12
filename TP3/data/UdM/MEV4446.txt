@@ -1,0 +1,2 @@
+TitreCours: Medecine zoologique aviaire
+DescriptionCours: Aspects cliniques et maladies des oiseaux avec une emphase particuliere sur les conditions rencontrees chez les especes d'oiseaux de compagnie et d'elevage.

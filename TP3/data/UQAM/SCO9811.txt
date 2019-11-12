@@ -1,0 +1,2 @@
+TitreCours: Seminaire sur les theories en sciences comptables
+DescriptionCours: Ce seminaire permet aux etudiants d'approfondir les classiques dans le domaine tout en suscitant une reflexion scientifique sur la nature et l'evolution des connaissances.

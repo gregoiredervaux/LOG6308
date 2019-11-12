@@ -1,0 +1,2 @@
+TitreCours: Thermodynamique
+DescriptionCours: Concepts et definitions de base; proprietes des substances pures; travail et chaleur. Premier principe de la thermodynamique; systemes fermes; systemes ouverts. Deuxieme principe de la thermodynamique; reversibilite et irreversibilite; entropie. Cycles de puissance et de refrigeration. Proprietes des solutions ideales.

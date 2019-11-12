@@ -1,0 +1,2 @@
+TitreCours: Chimie generale
+DescriptionCours: Theorie atomique. Structure des atomes. Liaisons chimiques. Chimie des solutions. Équilibres. Neutralisation. Produit de solubilite. Oxydo-reduction. Ions complexes.

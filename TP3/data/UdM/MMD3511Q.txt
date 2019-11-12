@@ -1,0 +1,2 @@
+TitreCours: Stage : Hematologie clinique
+DescriptionCours: Stage clinique aupres des malades ambulants ou hospitalises dans la specialite hematologie clinique.

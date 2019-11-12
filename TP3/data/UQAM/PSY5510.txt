@@ -1,0 +1,2 @@
+TitreCours: Psychopharmacologie
+DescriptionCours: L'objectif de ce cours est la sensibilisation aux modes d'action des medicaments et substances psychotropes. Bases biochimiques. Classification des drogues et leurs actions sur le comportement. Usage experimental, emploi therapeutique, toxicomanies.

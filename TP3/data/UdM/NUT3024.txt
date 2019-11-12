@@ -1,0 +1,2 @@
+TitreCours: Amenagement des services d'alimentation
+DescriptionCours: Étude de la planification d'un amenagement. Definition de concept de service en alimentation. Concepts et references relies aux equipements et technologies des services d'alimentation. Pratiques de gestion et tendances influencant les amenagements.

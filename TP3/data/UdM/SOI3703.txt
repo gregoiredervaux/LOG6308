@@ -1,0 +1,2 @@
+TitreCours: Pratique de soins - Soins de 1re ligne
+DescriptionCours: Stage supervise de pratique infirmiere dans un contexte de soins de premiere ligne ou realisation d'un projet d'apprentissage relie aux soins de premiere ligne. Application des connaissances acquises lors du cours SOI3603.

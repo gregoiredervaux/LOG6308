@@ -1,0 +1,2 @@
+TitreCours: Chimie organique 2
+DescriptionCours: Études des fonctions simples comportant la fonction carbonyle. Notions de mecanismes reactionnels et de stereochimie des reactions. Spectroscopie infrarouge et spectrometrie de masse.

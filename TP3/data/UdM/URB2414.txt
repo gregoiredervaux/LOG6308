@@ -1,0 +1,2 @@
+TitreCours: Representation et modelisation spatiale
+DescriptionCours: Representation et informatique. Representation 3D, superposition des representations 2D et 3D. Communication visuelle de l&rsquo;analyse urbaine et des projets d&rsquo;urbanisme. Conception assistee par ordinateur.

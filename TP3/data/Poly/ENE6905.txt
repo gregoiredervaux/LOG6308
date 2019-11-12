@@ -1,0 +1,2 @@
+TitreCours: Stage industriel
+DescriptionCours: Le stage de recherche a pour but de completer la formation scientifique de l'ingenieur inscrit a la maitrise en genie energetique et de l'aider a preparer, en collaboration avec les ingenieurs ou des chercheurs de l'industrie, le futur sujet de son memoire de maitrise. Ces stages s'effectueront sous la responsabilite des professeurs de l'Institut en collaboration avec des representants de l'industrie.

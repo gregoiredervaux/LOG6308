@@ -1,0 +1,2 @@
+TitreCours: Methodes non parametriques
+DescriptionCours: Statistique non parametrique classique: tests de rang et tests de permutation, efficacite asymptotique relative de deux tests, tests d'ajustement, coefficients de correlation (de Spearman, tau de Kendall); estimation robuste (mediane, moyennes tronquees). Initiation a l'estimation de la densite et a la regression non parametrique: concepts de lissage et de choix de parametre lissant; procedures simples de S-plus.

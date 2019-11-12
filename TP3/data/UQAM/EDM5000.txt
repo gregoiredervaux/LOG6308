@@ -1,0 +1,2 @@
+TitreCours: Stage de production II
+DescriptionCours: Ce cours vise a offrir aux etudiants une formation complementaire a la formation academique en confrontant le stagiaire aux exigences d'une production dans le cadre d'un milieu professionnel etabli. Étape transitoire entre le milieu scolaire et le milieu professionnel; perfectionnement de l'apprentissage pratique dans un contexte non simule; mise en application de l'esprit critique affine par les cours theoriques dans les trimestres anterieurs.

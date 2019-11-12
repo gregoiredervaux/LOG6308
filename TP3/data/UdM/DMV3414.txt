@@ -1,0 +1,2 @@
+TitreCours: Milieu de travail en med. veterinaire
+DescriptionCours: Bases organisationnelles et operationnelles des entreprises de service en medecine veterinaire. Problematiques et gestion des ressources humaines en milieux veterinaires.

@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'ethologie
+DescriptionCours: Concepts fondamentaux en ethologie; determinismes des comportements : facteurs externes et internes; aspects physiologiques, ecologiques et genetiques du comportement; comportement social; ontogenie et evolution du comportement.

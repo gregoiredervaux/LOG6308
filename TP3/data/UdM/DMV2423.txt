@@ -1,0 +1,2 @@
+TitreCours: Travaux diriges en biomedecine vet. 3
+DescriptionCours: Approche multidisciplinaire a l'aide de problemes par l'utilisation des modeles porcin et (ou) de volailles pour approfondir certaines connaissances et en acquerir de nouvelles dans les sciences biomedicales veterinaires.

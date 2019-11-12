@@ -1,0 +1,2 @@
+TitreCours: Lecture du poeme
+DescriptionCours: Initiation a la lecture des textes poetiques : theorie, methodes et techniques du commentaire.

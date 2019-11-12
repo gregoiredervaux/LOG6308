@@ -1,0 +1,2 @@
+TitreCours: Usagers, perception et cognition
+DescriptionCours: Introduction a la perception et a la cognition de l'objet et de l'utilisation de cet objet. Étude des groupes d'usagers et des methodes d'enquete sur les besoins de ces groupes.

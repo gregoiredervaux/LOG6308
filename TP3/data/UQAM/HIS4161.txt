@@ -1,0 +1,2 @@
+TitreCours: Rome antique
+DescriptionCours: Étude et analyse des grandes periodes de l'histoire romaine. Les origines de Rome et la monarchie etrusque. La periode republicaine: economie et societe; institutions et creation de l'Empire. La Rome imperiale et la Pax Romana. Crises et declin de l'empire romain.

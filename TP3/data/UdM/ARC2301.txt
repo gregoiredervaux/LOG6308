@@ -1,0 +1,2 @@
+TitreCours: Climat et physique du batiment
+DescriptionCours: Relations qualitatives entre l'homme, les constructions et le climat. Solutions architecturales energetiquement plus economiques et adaptees a notre milieu physique. Quantification et implications sur la physique du batiment.

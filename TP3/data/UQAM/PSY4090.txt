@@ -1,0 +1,2 @@
+TitreCours: Psychologie de la personnalite
+DescriptionCours: La notion de personnalite. Les grandes approches de l'etude de la personnalite: psychodynamique, traits et types, phenomenologique, behaviorale. Leur conception de la structure de la dynamique, du developpement, de la normalite, de l'anormalite et du changement de la personnalite. Leurs methodes de mesures et d'evaluation de la personnalite. Les theories implicites ou naives de la personnalite. Étude de quelques concepts centraux.

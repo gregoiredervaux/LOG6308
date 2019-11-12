@@ -1,0 +1,2 @@
+TitreCours: Chirurgie clinique 2
+DescriptionCours: Ouverture du dossier/examen, plan de traitement, preparation du patient, interventions chirurgicales d'ordre general au niveau de la cavite buccale sous anesthesie locale; controles postoperatoires, traitement des sequelles eventuelles.

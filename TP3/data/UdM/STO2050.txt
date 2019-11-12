@@ -1,0 +1,2 @@
+TitreCours: Anesthesiologie regionale
+DescriptionCours: Generalites sur l'anesthesie locale. Preparation, asepsie, techniques, sequelles. Lecons theoriques et seances cliniques.

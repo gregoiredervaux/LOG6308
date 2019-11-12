@@ -1,0 +1,2 @@
+TitreCours: Sante, securite et design industriel
+DescriptionCours: Information et experimentation des principes de sante et securite appliques au design d'equipements domiciliaires, d'activites de sport et loisirs et dans la prevention des accidents de travail. Statistiques sur les accidents.

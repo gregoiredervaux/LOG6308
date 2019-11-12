@@ -1,0 +1,2 @@
+TitreCours: Did. nbr. rationnels, adapt. scol. prim.
+DescriptionCours: Analyse et interpretation didactiques de difficultes relatives a l'enseignement-apprentissage des rationnels. Analyse des erreurs. Situations didactiques adaptees aux eleves en difficulte au primaire, ingenieries et evaluation.

@@ -1,0 +1,2 @@
+TitreCours: Connaissances en nutrition appliquee
+DescriptionCours: Enquetes nutritionnelles. Alimentation aux diverses periodes de la vie. Adaptations des besoins nutritionnels de base et applications a des conditions particulieres : ethnies, activite physique de loisirs et de competition. Securite alimentaire.

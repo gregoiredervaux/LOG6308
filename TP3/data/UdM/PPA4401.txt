@@ -1,0 +1,2 @@
+TitreCours: Éleves du primaire en diff. et milieu
+DescriptionCours: Analyse de l'interaction entre, d'une part les caracteristiques et besoins de l'eleve du primaire en difficulte, et d'autre part les caracteristiques, besoins et contraintes des milieux pedagogiques frequentes.

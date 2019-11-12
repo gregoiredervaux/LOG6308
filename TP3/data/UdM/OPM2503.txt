@@ -1,0 +1,2 @@
+TitreCours: Pharmacologie oculaire 2.1
+DescriptionCours: Systemes cholinergique et adrenergique. Caracteristiques et utilisation clinique a des fins diagnostiques des medicaments mydriatiques, cycloplegiques et anesthesiques locaux.

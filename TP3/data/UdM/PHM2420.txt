@@ -1,0 +1,2 @@
+TitreCours: Produits steriles
+DescriptionCours: Formulation. Interactions contenant-contenu. Types d'eau. Filtration. Les bonnes pratiques de fabrication. Desinfection. Sterilisation. Contamination particulaire et pyrogenique. Controle de qualite.

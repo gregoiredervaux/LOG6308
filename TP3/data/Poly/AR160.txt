@@ -1,0 +1,2 @@
+TitreCours: Projet en aronautique
+DescriptionCours: Ralisation d'un projet, par lequel l'tudiant aura  analyser un problme et proposer une solution en tenant compte de contraintes. Le projet amnera l'tudiant  faire une synthse de ses connaissances en aronautique. Le cours utilise une approche mthodologique de gestion de projet en mettant l'accent sur le travail en quipe et sur la communication. Ainsi, les tudiants auront  prsenter leur projet et leurs rsultats, oralement et par crit sous forme de rapport technique.

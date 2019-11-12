@@ -1,0 +1,2 @@
+TitreCours: Radiations electromagnetiques
+DescriptionCours: Étude de la propagation d'ondes electromagnetiques dans l'atmosphere. Ondes electromagnetiques dans le vide. Sources, antennes dipolaires et radar. Milieu materiel de propagation: gaz. Absorption, diffusion de Rayleigh, attenuation, reflectivite. Milieu ionospherique. Effets des elements de precipitation. Effets de nuisance pour la communication. Telemesure de proprietes atmospheriques.

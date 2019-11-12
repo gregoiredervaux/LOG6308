@@ -1,0 +1,2 @@
+TitreCours: Jeunes, prevention et toxicomanies
+DescriptionCours: Description des problematiques reliees a la consommation et a l'abus de drogues chez les jeunes. Analyse des comportements problematiques, identification des facteurs de risque et choix de la strategie de prevention en fonction des contextes.

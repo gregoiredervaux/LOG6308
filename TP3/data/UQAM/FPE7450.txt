@@ -1,0 +1,2 @@
+TitreCours: Recherches correlationnelles en education
+DescriptionCours: Types de problemes de recherche en education situes dans un contexte correlationnel: conditions d'utilisation et portee des conclusions. Correlation lineaire, curvilineaire, partielle, multiple; regression simple, multiple. Introduction a l'analyse factorielle. Interpretation: association versus causalite; determination et indetermination. Travaux d'applications lors d'activites en laboratoire de micro-ordinateurs. Reflexion sur les conclusions permises.

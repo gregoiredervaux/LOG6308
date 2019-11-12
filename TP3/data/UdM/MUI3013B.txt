@@ -1,0 +1,2 @@
+TitreCours: Chant baroque 6
+DescriptionCours: Étude de la technique de l'instrument et de son repertoire.

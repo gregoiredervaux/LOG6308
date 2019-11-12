@@ -1,0 +1,2 @@
+TitreCours: Nutrition et alimentation
+DescriptionCours: Aliments, sources de nutriments. Effets de differents traitements sur la valeur nutritive des aliments. Nature, usage et limites des tables de composition des aliments. Recommandations nutritionnelles. Disponibilite alimentaire.

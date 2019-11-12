@@ -1,0 +1,2 @@
+TitreCours: Structuration de textes
+DescriptionCours: Analyse et redaction de textes a caractere analytique, informatif et persuasif : ordre logique des arguments, charnieres, enchainement des idees, constitution du texte, paragraphes. Lecture et analyse d'essais et d'articles.

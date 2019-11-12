@@ -1,0 +1,2 @@
+TitreCours: Introduction a la medecine clinique 1
+DescriptionCours: Introduction des diverses composantes biologiques, psychologiques et sociales des problemes de sante. Communication et relation medecin - patient. Technique d'entrevue, d'histoire de cas et d'examen physique. Role et responsabilites du medecin.

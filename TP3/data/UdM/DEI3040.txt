@@ -1,0 +1,2 @@
+TitreCours: Projet de fin d'etudes
+DescriptionCours: Projet synthese : etude avancee sur un theme caracterise par la complexite des facteurs et leur rapport d'influence sur la situation d'amenagement projetee. Sujets specialises et prospectifs; developpement detaille du concept elabore.

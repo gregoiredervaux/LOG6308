@@ -1,0 +1,2 @@
+TitreCours: Activites de construction et d
+DescriptionCours: Étude du role des activites de construction et d'exploration dans l'apprentissage et l'enseignement des mathematiques. Exploration et analyse d'activites utilisant l'ordinateur. Conception et experimentation d'une activite a partir de logiciels existants.

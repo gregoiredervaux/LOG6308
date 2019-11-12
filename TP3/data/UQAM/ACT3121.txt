@@ -1,0 +1,2 @@
+TitreCours: Actuariat II
+DescriptionCours: Revision des concepts de la theorie de l'interet et de la finance utilisee dans le domaine de l'actuariat. Preparation aux examens professionnels. Rappel de la theorie de l'interet: mesure de l'interet, rentes, taux de rendement et calcul du prix des obligations. Élements de finance: rapports financiers, valeur presente, modeles du risque et du rendement, marches efficients. Introduction aux produits derives. Seance d'exercices. Ce cours comporte une seance d'exercices de 2 heures par semaine.

@@ -1,0 +1,2 @@
+TitreCours: Interventions en milieu residentiel
+DescriptionCours: Modalites d'intervention en milieu residentiel. Composantes du milieu qui influencent la mise en place et la conduite d'interventions. Dimension pluridisciplinaire.

@@ -1,0 +1,2 @@
+TitreCours: Justice criminelle 2
+DescriptionCours: L'enquete policiere. L'organisation judiciaire. Le deroulement d'une instance. L'imposition de la peine. La preuve penale.

@@ -1,0 +1,2 @@
+TitreCours: Preservation de l'information numerique
+DescriptionCours: Preservation materielle vs numerique. Politiques et strategies de preservation numerique. Conversion de l'information analogique. Authenticite, perennite. Certification des depots. Vulnerabilite et mesures d'urgence. Projets, initiatives, tendances.

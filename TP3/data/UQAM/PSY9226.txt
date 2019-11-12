@@ -1,0 +1,2 @@
+TitreCours: Modification du comportement en milieu familial
+DescriptionCours: Techniques d'observation en milieu familial. Intervention aupres des enfants souffrant de divers problemes (hyperactivite, agressivite, etc.). Évaluations et interventions aupres des couples en difficulte. Considerations et problemes ethiques.

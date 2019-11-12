@@ -1,0 +1,2 @@
+TitreCours: Bases biologiques du developpement
+DescriptionCours: Concepts de base du developpement biologique. Liens avec le developpement psychosocial. Mecanismes biologiques de l'apprentissage, des emotions, de l'attachement et des comportements sociaux. Interdependance biologie-environnement.

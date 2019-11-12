@@ -1,0 +1,2 @@
+TitreCours: Histoire et philosophie de l'education
+DescriptionCours: Étude de conceptions et de theories educatives et pedagogiques qui ont marque l'histoire et la reflexion philosophique occidentale de l'Antiquite jusqu'a nos jours.

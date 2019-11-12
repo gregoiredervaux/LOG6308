@@ -1,0 +1,2 @@
+TitreCours: Stage 1
+DescriptionCours: Ce stage est une immersion et une initiation a la physiotherapie en milieu clinique. L'enseignement clinique est en relation avec les connaissances acquises en cours d'annee.

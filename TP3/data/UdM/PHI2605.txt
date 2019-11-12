@@ -1,0 +1,2 @@
+TitreCours: Descartes
+DescriptionCours: Étude des principaux aspects de la pensee philosophique de Descartes : methode et reforme scientifique, metaphysique, anthropologie et morale.

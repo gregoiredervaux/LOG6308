@@ -1,0 +1,2 @@
+TitreCours: Phytotherapie
+DescriptionCours: Identification, classification, relations biologiques en regard des proprietes pharmacologiques et therapeutiques. Produits de vente libre. Interactions medicaments - produits naturels.

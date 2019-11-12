@@ -1,0 +1,2 @@
+TitreCours: Tactiques et moyens d'action en securite
+DescriptionCours: Planification et evaluation des actions en securite interieure : patrouille, enquete, surveillance, ilotage, prevention situationnelle, blitz. Principes strategiques et tactiques, theorie de la dissuasion. Divers contextes de la securite.

@@ -1,0 +1,2 @@
+TitreCours: Redaction scientifique et technique
+DescriptionCours: Cours relevant de la TÉLUQ Developper ses habiletes a transmettre des informations objectives, dans une langue claire et precise. La documentation. La structuration de la pensee. Les dimensions de la communication technoscientifique: linguistique, orale, iconique. Les destinataires de la communication technoscientifique: pairs, apprenants, grand public.

@@ -1,0 +1,2 @@
+TitreCours: Politiques publiques appliquees
+DescriptionCours: Analyse d'un probleme de politique a partir d'une etude de cas.

@@ -1,0 +1,2 @@
+TitreCours: Instrument de tradition orale 5
+DescriptionCours: Étude de la technique d'un instrument et de son repertoire.

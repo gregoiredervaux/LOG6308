@@ -1,0 +1,2 @@
+TitreCours: Pratique de soins - Sante publique
+DescriptionCours: Stage supervise de pratique infirmiere dans un contexte de sante publique. Application des connaissances acquises lors du cours SOI3613. Contribution a un projet (nouveau ou en cours) visant la sante populationnelle.

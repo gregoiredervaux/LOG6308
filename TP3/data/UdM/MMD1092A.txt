@@ -1,0 +1,2 @@
+TitreCours: Introduction a la toxicologie
+DescriptionCours: Principes generaux de toxicologie. Absorption, distribution, biotransformation, excretion. Formes d'intoxication. Relation dose-effet et dose-reponse. Toxicocinetique. Évaluation de la toxicite. Limites admissibles d'exposition.

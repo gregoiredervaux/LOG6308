@@ -1,0 +1,2 @@
+TitreCours: Gestion des ressources humaines
+DescriptionCours: Évaluation des nouvelles tendances en matiere de gestion du personnel dans le secteur public, notamment le service axe sur les besoins des usagers/citoyens, la gestion participative, l'informatisation des services, les programmes d'acces a l'egalite.

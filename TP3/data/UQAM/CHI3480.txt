@@ -1,0 +1,2 @@
+TitreCours: Macromolecules biologiques
+DescriptionCours: Études des proprietes physicochimiques des macromolecules. Les proprietes physiques des proteines, polypeptides, acides nucleiques et polynucleotides synthetiques sont etudiees a la lumiere des theories modernes. Proprietes des acides nucleiques, DNA et differents types de RNA (t-RNA, m-RNA, r-RNA). Structures primaire et secondaire, denaturation et renaturation.

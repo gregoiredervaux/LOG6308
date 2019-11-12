@@ -1,0 +1,2 @@
+TitreCours: Analyse de donnees discretes
+DescriptionCours: Analyse de donnees categoriques. Modele log-lineaire. Modele logistique. Analyse de diversite.

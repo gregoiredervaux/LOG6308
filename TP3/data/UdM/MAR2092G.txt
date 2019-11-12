@@ -1,0 +1,2 @@
+TitreCours: Les chocs
+DescriptionCours: Les chocs : cardiogenique, septique, anaphylactique, hypovolumique, medullaire et endocrinien. Les chocs en milieu pediatrique.

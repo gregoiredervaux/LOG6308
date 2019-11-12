@@ -1,0 +1,2 @@
+TitreCours: Sujet special en informatique cognitive
+DescriptionCours: L'objectif est d'offrir aux etudiants des cours a contenus variables et varies sur des sujets tres actuels dans le domaine de l'informatique cognitive. Chaque fois d'un cours est offert, le contenu est nouveau et propose par un professeur a partir de son domaine de recherche. Ce cours peut etre offert sur un theme pour une duree de 45 heures ou sur deux ou trois themes en fractionnant differemment le temps.

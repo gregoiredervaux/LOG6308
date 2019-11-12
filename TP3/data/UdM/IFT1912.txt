@@ -1,0 +1,2 @@
+TitreCours: Initiation aux chiffriers electroniques
+DescriptionCours: Environnement de travail. Notions de base. Les commandes. Les fonctions. Les graphiques. Les macrocommandes. Sujets d'application.

@@ -1,0 +1,2 @@
+TitreCours: Dentisterie operatoire theorique
+DescriptionCours: Principes de base en dentisterie operatoire permettant la restauration des dents permanentes a l'aide de differents materiaux obturateurs.

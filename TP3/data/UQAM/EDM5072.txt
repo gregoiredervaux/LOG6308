@@ -1,0 +1,2 @@
+TitreCours: Production en mediatique
+DescriptionCours: Étude et pratique de l'edition electronique. Les connaissances de base: la lettre, la typographie, la mise en page et la pragmatique de la mediatique (conception, production et diffusion). Les applications: le traitement de texte, sa lecture optique, la phototypographie, la manipulation des fichiers; la mise en ecran; introduction a l'hypertexte; l'acces aux services electroniques, conception et gestion des journaux electroniques.

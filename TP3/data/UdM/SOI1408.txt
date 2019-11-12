@@ -1,0 +1,2 @@
+TitreCours: Évaluation de la sante
+DescriptionCours: Étude d'outils permettant d'evaluer la sante des individus dans une perspective familiale et communautaire. Analyse et evaluation de situations de sante aupres d'individus composant la famille et la communaute.

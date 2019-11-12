@@ -1,0 +1,2 @@
+TitreCours: Stylistique
+DescriptionCours: Point de vue linguistique. Analyse classique (procedes expressifs). Nouvelles conceptions des buts et des methodes de la stylistique. Applications.

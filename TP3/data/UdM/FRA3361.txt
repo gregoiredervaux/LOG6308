@@ -1,0 +1,2 @@
+TitreCours: Theorie du texte de theatre
+DescriptionCours: Étude de diverses methodes d'approche du texte de theatre (analyse structurale semiotique, sociocritique, pragmatique, etc.).

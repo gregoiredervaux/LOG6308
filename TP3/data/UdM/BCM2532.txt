@@ -1,0 +1,2 @@
+TitreCours: Pratique de la communication en sciences
+DescriptionCours: Lecture et analyse critique d'un article scientifique. Redaction d'un article et presentation orale de donnees experimentales.

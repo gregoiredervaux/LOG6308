@@ -1,0 +1,2 @@
+TitreCours: Medecine veterinaire et environnement
+DescriptionCours: Notions d'ecosystemes et de biodiversite. Agro-ecosystemes. Impacts de l'agriculture et des productions animales sur l'environnement. Évaluation de la sante animale environnementale selon une approche veterinaire. Faune urbaine et sante publique.

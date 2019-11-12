@@ -1,0 +1,2 @@
+TitreCours: Organisation intellectuelle 1
+DescriptionCours: Classification et autres metadonnees. Methodes et modes de classement. Contexte du respect des fonds. Creation d'outils de reperage : index, controle d'autorite. Application informatique specifique aux documents analogiques et numeriques.

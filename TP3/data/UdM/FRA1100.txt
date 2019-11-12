@@ -1,0 +1,2 @@
+TitreCours: Introduction a la litterature medievale
+DescriptionCours: Initiation a la lecture des genres et des textes du Moyen Age.

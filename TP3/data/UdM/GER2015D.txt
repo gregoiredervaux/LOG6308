@@ -1,0 +1,2 @@
+TitreCours: Alimentation et vieillissement
+DescriptionCours: Questions alimentaires liees au vieillissement : modifications physiologiques et contraintes sociales. Impacts de la societe de consommation sur les habitudes alimentaires. Maladies d'origine nutritionnelle. Étude des therapeutiques alimentaires.

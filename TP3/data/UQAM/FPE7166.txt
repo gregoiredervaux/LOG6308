@@ -1,0 +1,2 @@
+TitreCours: Éducation comparee
+DescriptionCours: Methode comparative en education. Étude des principales analyses comparatives. Examen des solutions apportees par les systemes scolaires etrangers, par des pays developpes ou en voie de developpement, aux problemes particuliers qui interessent chaque etudiant.

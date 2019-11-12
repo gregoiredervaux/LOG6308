@@ -1,0 +1,2 @@
+TitreCours: Tectonophysique
+DescriptionCours: Comportements mecaniques des materiaux terrestres. Deformation et rheologie de la lithosphere. Tectonique experimentale. Geophysique appliquee a l'analyse des structures tectoniques.

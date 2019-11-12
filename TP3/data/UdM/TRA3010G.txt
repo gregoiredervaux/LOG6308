@@ -1,0 +1,2 @@
+TitreCours: Revision et controle de la qualite
+DescriptionCours: Principes et pratique de la revision, criteres et methode. Aspects psychologiques de la revision. Initiation au controle de la qualite. Revision a l'ordinateur. Code typographique et correction d'epreuves.

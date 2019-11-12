@@ -1,0 +1,2 @@
+TitreCours: Diagnostic financier et planification financiere
+DescriptionCours: Ce cours vise a fournir les connaissances de base sur les elements d'analyse et de gestion financiere a court terme des entreprises. Afin d'atteindre cet objectif, le cours est divise en deux parties.  &nbsp;  Dans la premiere partie, des cas sont utilises pour illustrer a la fois les techniques menant au diagnostic financier et les limites de ces outils.  &nbsp;  Dans la deuxieme partie, on se tourne vers les perspectives d'avenir des entreprises et l'elaboration de plans de financement.

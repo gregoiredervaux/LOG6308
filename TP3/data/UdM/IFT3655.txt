@@ -1,0 +1,2 @@
+TitreCours: Modeles stochastiques
+DescriptionCours: Processus stochastiques. Chaines de Markov. Horizons finis et infinis. Actualisation. Files d'attente. Processus de decision markoviens. Resolution d'equations de recurrence. Modeles d'inventaire. Fiabilite.

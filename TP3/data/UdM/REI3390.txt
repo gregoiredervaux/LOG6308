@@ -1,0 +1,2 @@
+TitreCours: Études a l'etranger 2
+DescriptionCours: Étude de systemes compares ou de pratiques de relations du travail a l'etranger.

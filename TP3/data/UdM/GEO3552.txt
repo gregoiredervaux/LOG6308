@@ -1,0 +1,2 @@
+TitreCours: Projet en environnement humain
+DescriptionCours: Recherche sur des thematiques environnementales liees a la geographie humaine et aux sciences sociales. Recherche documentaire, analyse de contenu, objectifs, hypotheses, echantillonnage, analyse des donnees, interpretation des resultats.

@@ -1,0 +1,2 @@
+TitreCours: Études specialisees en marketing II
+DescriptionCours: Ce cours se propose d'examiner en detail les diverses techniques avancees d'analyse multivariee utilisees pour la solution de problemes de marketing (par exemple: analyse du marche, segmentation, positionnement et lancement de nouveaux produits ou services). La formulation mathematique et les postulats sous-jacents aux modeles seront presentes, mais l'accent sera mis sur l'utilisation de logiciels et l'interpretation de resultats dans le cadre d'applications en marketing.

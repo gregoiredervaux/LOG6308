@@ -1,0 +1,2 @@
+TitreCours: Dynamique de l
+DescriptionCours: Cours de base appliquant la mecanique classique aux phenomenes atmospheriques. Le mouvement atmospherique aux diverses echelles: aspects theoriques et phenomenologiques. Les forces dans l'atmosphere: pression, Coriolis, gravite et viscosite par la turbulence. Les equations de continuite et d'energie. Divergence, tourbillon et circulation. Les equations du mouvement et les phenomenes des diverses echelles, petite, moyenne et grande. Ondes atmospheriques.

@@ -1,0 +1,2 @@
+TitreCours: Pensee politique moderne
+DescriptionCours: Lecture systematique de textes modernes (XVIe au XIXe siecle) afin d'en degager la structure logique et le contenu politique.

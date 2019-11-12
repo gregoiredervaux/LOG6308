@@ -1,0 +1,2 @@
+TitreCours: Économie de la sante
+DescriptionCours: Le systeme economique et l'industrie des services de sante. Themes abordes : demande de soins, offre de services medicaux, performance et financement des etablissements, remuneration, analyse avantages-coûts, coûts-efficacite aux decisions de sante.

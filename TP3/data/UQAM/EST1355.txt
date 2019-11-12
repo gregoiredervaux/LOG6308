@@ -1,0 +1,2 @@
+TitreCours: Espace scenique
+DescriptionCours: Relation du jeu avec l'espace. Introduction aux differents lieux sceniques et a leurs possibilites scenographiques. Mise en lumiere de leur influence reciproque (jeu, mise en scene, texte, eclairage, decor).

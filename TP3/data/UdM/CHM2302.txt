@@ -1,0 +1,2 @@
+TitreCours: Chimie organique 3
+DescriptionCours: Les composes conjugues; les polyenes et les aromatiques. Spectroscopie UV-visible. Substitution electrophile aromatique et reactions concertees. Composes d'importance biologique. Spectroscopie RMN avancee.

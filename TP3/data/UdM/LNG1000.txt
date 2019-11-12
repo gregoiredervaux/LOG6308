@@ -1,0 +1,2 @@
+TitreCours: Introduction aux langages formels
+DescriptionCours: Étude des langages formels en tant qu'outils de representation des structures semantiques, syntaxiques et morphologiques de la langue.

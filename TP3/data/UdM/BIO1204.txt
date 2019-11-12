@@ -1,0 +1,2 @@
+TitreCours: Genetique
+DescriptionCours: Mecanismes de l'heredite. Linkage genetique, notions de cytogenetique et applications de l'analyse chromosomique. Mutations. Structure et regulation des genes. Applications en biotechnologie. Principaux syndromes genetiques. Heredite du cancer.

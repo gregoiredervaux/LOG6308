@@ -1,0 +1,2 @@
+TitreCours: Politique constitutionnelle
+DescriptionCours: Principes fondamentaux du constitutionnalisme. Analyse de leur developpement et de leurs rapports a la politique democratique.

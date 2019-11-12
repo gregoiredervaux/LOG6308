@@ -1,0 +1,2 @@
+TitreCours: Bioethique
+DescriptionCours: Dimension theologique des debats ethiques sur la vie humaine, dans ses commencements et dans sa fin. Debats relatifs a la vie, a la sante et a la mort: avortement, techniques reproductives, euthanasie, politiques de la sante, etc.

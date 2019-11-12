@@ -1,0 +1,2 @@
+TitreCours: Le graphisme et le processus createur
+DescriptionCours: Initiation au design graphique, aux materiaux et aux differentes etapes de la realisation d'un imprime. Principaux sujets : papiers, typographie, mise en page, separation de couleurs et procedes d'impression.

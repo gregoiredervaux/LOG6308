@@ -1,0 +1,2 @@
+TitreCours: Bton prcontraint
+DescriptionCours: Principes gnraux de la prcontrainte. Procds de prcontrainte des ouvrages en bton. tude dtaille de la prcontrainte par cbles. Calcul des forces quivalentes  un systme donn de prcontrainte. Analyse lastique d'une poutre isostatique en bton prcontraint. Analyse d'une poutre hyperstatique. Introduction  l'analyse d'ouvrages complexes; portiques, coques. Moment rsistant ultime d'une section de poutre en bton prcontraint. Rsistance  l'effort tranchant. Design d'une poutre en bton prcontraint.

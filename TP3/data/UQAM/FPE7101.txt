@@ -1,0 +1,2 @@
+TitreCours: Activite de mentorat 1
+DescriptionCours: Cette activite destinee a tout etudiant en poste de gestion vise a permettre la creation des liens d'echanges et des soutiens sur la pratique professionnelle entre les gestionnaires en fonction et le mentorat. Cette activite utilise la reappropriation des apprentissages en sous-groupes, la confrontation a l'expertise du mentor et le reinvestissement dans la pratique du mentore.

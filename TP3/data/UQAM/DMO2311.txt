@@ -1,0 +1,2 @@
+TitreCours: Analyse longitudinale
+DescriptionCours: Cours relevant de l'Universite de Montreal Élements d'analyse longitudinale: application a la mortalite, a la fecondite, a la nuptialite et a la migration. Construction de tables demographiques a partir des statistiques officielles. Histoire d'une promotion de mariages: ruptures d'union, constitution de la descendance, etc.

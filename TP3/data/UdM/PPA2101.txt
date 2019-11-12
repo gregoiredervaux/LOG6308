@@ -1,0 +1,2 @@
+TitreCours: L'environnement educatif a la maternelle
+DescriptionCours: Sensibilisation a l'ensemble des elements qui definissent l'enseignement et l'apprentissage au prescolaire. Organisation spatio-temporelle et specificite des activites educatives reliees aux domaines d'apprentissage.

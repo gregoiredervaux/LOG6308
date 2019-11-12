@@ -1,0 +1,2 @@
+TitreCours: Pensee rationnelle et argumentation
+DescriptionCours: Langage et pensee. Les differentes fonctions du langage. Concepts fondamentaux : definition, raisonnement, presupposition, premisse, conclusion, raisonnement valide, etc. Utilisation de diagrammes de Venn comme test de la validite. Sophismes.

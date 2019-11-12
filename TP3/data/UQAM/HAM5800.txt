@@ -1,0 +1,2 @@
+TitreCours: Stage de production
+DescriptionCours: Realisation d'un stage aupres d'un organisme culturel. Mise en situation de l'etudiant a l'interieur de la production d'un evenement ou d'une manifestation culturelle, dans ses differentes etapes de realisation.

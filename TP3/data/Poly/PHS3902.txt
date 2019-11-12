@@ -1,0 +1,2 @@
+TitreCours: Projet de simulation
+DescriptionCours: Methodes numeriques fondamentales. Applications aux problemes du genie physique. Introduction aux principes d'integration de diverses methodes numeriques. Simulations : transfert de chaleur en 2D, distribution du champ electrique en 3D, dynamique moleculaire d'un gaz de particules en 2D. Projet realise en equipe, presentation orale.

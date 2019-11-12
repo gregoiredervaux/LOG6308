@@ -1,0 +1,2 @@
+TitreCours: Organisation des ordinateurs et systemes
+DescriptionCours: Composantes d'un ordinateur. Jeux d'instructions. Entree/sortie. Synchronisation des processus. Ordonnancement. Protection. Systemes distribues.

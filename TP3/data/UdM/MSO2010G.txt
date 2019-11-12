@@ -1,0 +1,2 @@
+TitreCours: Introduction a la biostatistique
+DescriptionCours: Revue des principales notions de base en biostatistique : statistiques descriptives, estimations ponctuelles et par intervalle, analyses de variance, regression et correlation, analyses de donnees categorielles.

@@ -1,0 +1,2 @@
+TitreCours: Reglementation de l'ing. en pharmaceutique
+DescriptionCours: Aspects d'ingenierie touchant la validation des procedes propres. Les bonnes pratiques de fabrication (cGMP) des procedes propres : biotechnologies, pharmaceutiques, l'agro-alimentaire et la chimie fine. Aspects particuliers relies a la conception, les materiaux, la mise au point et l'operation d'unites de production. Validation des equipements et systemes; validation des systemes informatises, des systemes d'eau et de ventilation. Projet sur la validation d'un procede propre propose par une industrie.

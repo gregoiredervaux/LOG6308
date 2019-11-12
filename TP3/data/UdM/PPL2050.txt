@@ -1,0 +1,2 @@
+TitreCours: Sante et developpement
+DescriptionCours: Conception de la sante. Sante et droits. Systemes de sante. Acces aux ressources. Dimensions sociales et economiques. Pauvrete. Problemes et enjeux.

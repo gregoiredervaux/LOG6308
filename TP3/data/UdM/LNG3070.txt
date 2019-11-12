@@ -1,0 +1,2 @@
+TitreCours: Phonologie : theorie et description
+DescriptionCours: Les developpements recents en phonologie generative, modeles d'acquisition et de production.

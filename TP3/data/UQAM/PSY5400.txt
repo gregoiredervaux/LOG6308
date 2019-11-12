@@ -1,0 +1,2 @@
+TitreCours: Analyse fonctionnelle du comportement
+DescriptionCours: Analyse de comportements humains complexes. Contraintes biologiques, maturation et apprentissage. Processus d'interaction individu-environnement. Individualite et traits de comportement. Developpement de la competence et apprentissage de roles socioculturels. L'accent peut etre mis, selon l'annee, sur des etapes particulieres de la vie (petite enfance, enfance, adolescence, age adulte ou vieillesse) ou des populations speciales.

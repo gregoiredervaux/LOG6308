@@ -1,0 +1,2 @@
+TitreCours: Principes d'evaluation clinique
+DescriptionCours: Histoire de cas et evaluation : le sujet, la situation, les ressources a mobiliser. Scenarios d'application dans les situations specifiques.

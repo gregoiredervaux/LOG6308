@@ -1,0 +1,2 @@
+TitreCours: Laboratoire d'implantologie
+DescriptionCours: Seances de travaux de laboratoire : manipulation de diverses composantes de pieces prothetiques pour implants dentaires, choix et planification de leur assemblage pour protheses fixes et amovibles sur implants.

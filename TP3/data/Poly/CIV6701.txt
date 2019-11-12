@@ -1,0 +1,2 @@
+TitreCours: Planification des transports
+DescriptionCours: Planification des transports : tapes, stratgies et valuation. Grandes tapes de la modlisation agrge des transports : gnration, distribution, choix modal, affectation (concepts, hypothses et limitations). Modlisation intgre des transports : effets dmographiques, utilisation du sol et comportements individuels de transport. Modles d'activits et microsimulation. Approches alternatives de dplacements : autopartage, covoiturage, modes actifs et retombes sur la sant.

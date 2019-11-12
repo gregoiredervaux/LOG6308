@@ -1,0 +1,2 @@
+TitreCours: Psychologie physiologique
+DescriptionCours: Introduction. Techniques en psychophysiologie. Anatomie. Micro-anatomie et electrophysiologie. Les systemes sensoriels et moteurs. La motivation et les emotions. Le sommeil et l'eveil. L'apprentissage et la memoire.

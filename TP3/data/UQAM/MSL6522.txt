@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique
+DescriptionCours: Ce seminaire dont le contenu est variable fait place a une reflexion critique sur des problematiques et des themes importants en museologie qui ne sont pas abordes dans les autres cours du programme.

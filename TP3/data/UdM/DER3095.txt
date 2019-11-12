@@ -1,0 +1,2 @@
+TitreCours: Prothese amovible clinique 1
+DescriptionCours: Realisation de protheses amovibles sur des patients completement ou partiellement edentes.

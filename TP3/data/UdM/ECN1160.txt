@@ -1,0 +1,2 @@
+TitreCours: Analyse des donnees economiques
+DescriptionCours: Sources des donnees economiques. Methodes elementaires d'analyse. Methodes de sondages. Recensements et enquetes. Initiation a un logiciel d'analyse des donnees economiques.

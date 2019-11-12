@@ -1,0 +1,2 @@
+TitreCours: Seminaire de recherche en histoire de la philosophie
+DescriptionCours: Recherches relatives a un secteur ou un probleme particulier de l'histoire de la philosophie. Ce secteur ou ce probleme, qui sera determine par le professeur, peut concerner un auteur ou un groupe d'auteurs en particulier, ou encore l'evolution d'un theme ou d'une problematique au cours d'une periode donnee.

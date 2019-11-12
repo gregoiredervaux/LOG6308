@@ -1,0 +1,2 @@
+TitreCours: Sc. inf., sante et securite du travail
+DescriptionCours: Problematique de la sante et securite du travail en vue de definir des soins infirmiers globaux et complets visant la promotion de la sante, la prevention des maladies, les traitements et la readaptation.

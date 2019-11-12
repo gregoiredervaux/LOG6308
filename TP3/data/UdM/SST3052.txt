@@ -1,0 +1,2 @@
+TitreCours: Gestion integree de la SST
+DescriptionCours: Les aspects strategiques de la gestion de trois composantes de la SST : la prevention, la reparation, le financement.

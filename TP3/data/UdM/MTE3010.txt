@@ -1,0 +1,2 @@
+TitreCours: Harmonie avancee 1
+DescriptionCours: Harmonie avancee : motifs, marches, modulations eloignees. Relation entre harmonie et rythme. Composition de phrases et de periodes elaborees.

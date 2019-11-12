@@ -1,0 +1,2 @@
+TitreCours: Systemes ignes et metamorphiques
+DescriptionCours: Étude approfondie de l'evolution des roches. Systemes experimentaux et theoriques. Interrelation entre petrologie, geochimie et tectonisme.

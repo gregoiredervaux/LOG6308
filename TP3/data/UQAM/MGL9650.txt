@@ -1,0 +1,2 @@
+TitreCours: Étude de cas
+DescriptionCours: Les cours d'etude de cas sont proposes dans le but de favoriser l'acquisition de connaissances pratiques du genie logiciel. L'etude de cas se situe entre le cours magistral, ou l'etudiant recoit toute l'information, et certaines activites de type projet ou l'etudiant chemine vers une solution a un probleme donne. L'etude de cas doit: developper l'habilete de l'etudiant a aborder et a resoudre un probleme; developper ses aptitudes au travail en equipe et approfondir les notions acquises. Elle doit couvrir les facettes d'un probleme.

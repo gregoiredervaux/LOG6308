@@ -1,0 +1,2 @@
+TitreCours: Le theatre et les autres arts
+DescriptionCours: Analyse des elements plastiques et rythmiques fondamentaux du theatre en relation avec les arts de la peinture, de la sculpture, de l'architecture, de la musique et de la danse.

@@ -1,0 +1,2 @@
+TitreCours: Dessin et communication
+DescriptionCours: Introduction a la representation graphique du projet; le dessin comme outil d'exploration et de representation des idees; acquisition des bases theoriques et pratiques des techniques de representation graphique utilisees en design d'interieur.

@@ -1,0 +1,2 @@
+TitreCours: Traduction juridique et administrative
+DescriptionCours: Analyse et traduction de differents genres de textes J/A, en prenant en compte les systemes notionnels, terminologiques et phraseologiques. Developpement d'une demarche d'exploitation de connaissances specialisees.

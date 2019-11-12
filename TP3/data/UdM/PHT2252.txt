@@ -1,0 +1,2 @@
+TitreCours: Stage clinique 2
+DescriptionCours: Application des connaissances theoriques et pratiques acquises concernant les systemes neurologique, musculaire et squelettique.

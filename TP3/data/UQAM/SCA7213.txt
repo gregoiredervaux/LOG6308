@@ -1,0 +1,2 @@
+TitreCours: Methodes numeriques de calcul II
+DescriptionCours: Applications au cours SCA7212 Methodes numeriques de calcul I, application en ecologie physique ou en meteorologie. Exemple: modeles numeriques globaux: barotropique, baroclinique, equations primitives. Parametrisation des effets subsynoptiques.

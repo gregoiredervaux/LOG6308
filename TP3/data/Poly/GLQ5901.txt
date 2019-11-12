@@ -1,0 +1,2 @@
+TitreCours: Projet de fin d'etudes
+DescriptionCours: Sous la direction d'un professeur du departement, l'etudiant complete un projet qu'il a choisi a meme une liste des projets du departement ou un projet qu'il a concu, pourvu que ce projet ait ete accepte par le professeur-directeur. Le rapport du projet est redige et presente selon des normes professionnelles et il fait l'objet d'une presentation orale d'une duree de 15 minutes devant les professeurs et etudiants du programme.

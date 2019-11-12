@@ -1,0 +1,2 @@
+TitreCours: Probabilites et statistique
+DescriptionCours: Probabilites, independance. Variables aleatoires. Esperance. Lois de probabilite. Vecteurs aleatoires. Loi des grands nombres, theoreme limite central. Intervalles de confiance. Regression lineaire. Test du khi-deux.

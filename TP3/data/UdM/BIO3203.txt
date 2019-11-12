@@ -1,0 +1,2 @@
+TitreCours: Genetique evolutive
+DescriptionCours: Genetique avancee des eucaryotes. Developpement, processus metaboliques, reproduction; cytogenetique, cartographie genetique, processus non-mendeliens (transmission epigenetique, elements transposables, genomes chloroplastique et mitochondrial).

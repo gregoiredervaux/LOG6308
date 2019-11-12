@@ -1,0 +1,2 @@
+TitreCours: Logique computationnelle
+DescriptionCours: Deduction et calcul, deduction naturelle, logique lineaire, lambda calcul, combinateurs, categories cartesiennes fermees, theorie des types, theorie des constructions, mecanisation des logiques d'ordre superieur, procedures de decision, heuristiques, mathematiques constructives. Applications: programmation fonctionnelle, programmation logique, demonstration de theoremes assistee par ordinateur, langages formels de specifications.

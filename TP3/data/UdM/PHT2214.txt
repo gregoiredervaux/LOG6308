@@ -1,0 +1,2 @@
+TitreCours: Physiotherapie en neurologie 1
+DescriptionCours: Modeles de readaptation motrice. Facilitation et inhibition neuromusculaire. Acquisition motrice chez l'enfant. Évaluations et traitements des incapacites suite a une deficience motrice cerebrale ou une hemiplegie.

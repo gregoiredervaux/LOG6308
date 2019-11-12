@@ -1,0 +1,2 @@
+TitreCours: Difficultes d
+DescriptionCours: Description de differents outils permettant l'observation des comportements langagiers d'enfants d'age scolaire qui presentent des difficultes d'apprentissage de la langue parlee. Production et experimentation de grilles d'observation. Interpretation des resultats. Élaboration de moyens d'intervention a l'usage des enseignants.

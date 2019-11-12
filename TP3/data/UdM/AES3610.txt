@@ -1,0 +1,2 @@
+TitreCours: Colloque sur l'Asie de l'Est
+DescriptionCours: Le but du cours est de permettre une integration des connaissances acquises entre les diverses disciplines abordees.

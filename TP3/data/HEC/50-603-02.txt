@@ -1,0 +1,2 @@
+TitreCours: Mathematiques de l
+DescriptionCours: Ce cours vise a familiariser les etudiants avec les techniques utilisees pour solutionner les principaux problemes relatifs a la valeur de l'argent dans le temps. Les principales applications financieres sont celles relatives au financement, au placement et a la gestion des investissements. On donnera des exemples types d'applications et on utilisera le chiffrier Excel pour les resoudre.

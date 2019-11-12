@@ -1,0 +1,2 @@
+TitreCours: Applications pedagogiques de l
+DescriptionCours: Acquisition des connaissances et habiletes necessaires pour l'utilisation de certains logiciels. Revue des modes d'utilisation de l'ordinateur en classe de francais: logiciels outils (traitement de texte et outils d'aide a la redaction) et didacticiels dedies a l'apprentissage de la lecture et de l'ecriture. Utilisation de l'ordinateur a des fins d'evaluation.

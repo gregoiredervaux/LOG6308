@@ -1,0 +1,2 @@
+TitreCours: Intervention de premiere ligne
+DescriptionCours: Principes et fondements a la base du concept de soins de sante primaires. Identification des services de premiere ligne et articulation de ces derniers avec les autres acteurs du reseau de la sante.

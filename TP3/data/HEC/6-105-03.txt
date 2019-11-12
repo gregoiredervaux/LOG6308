@@ -1,0 +1,2 @@
+TitreCours: Analyse des bases de donnees en marketing
+DescriptionCours: Le marketing par base de donnees consiste dans un ensemble de techniques visant a analyser et eventuellement optimiser le retour sur les investissements effectues en marketing. Dans ce cours, les etudiants apprendront&nbsp;- dans un contexte plus applique et moins magistral que dans le cadre d'autres cours&nbsp;- plusieurs de ces techniques de forage de donnees. Les etudiants ayant complete ce cours seront aptes a occuper ensuite un premier poste d'analyste de bases de donnees en marketing.

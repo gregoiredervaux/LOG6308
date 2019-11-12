@@ -1,0 +1,2 @@
+TitreCours: Histologie
+DescriptionCours: Étude de l'organisation fonctionnelle des tissus et organes des vertebres. Stades precoces de l'embryogenese. L'etre pluricellulaire. Tissus primaires : epitheliums, conjonctifs (cartilage, os, sang), musculaire et nerveux. Histologie des organes: appareils circulatoire, digestif, respiratoire, excreteur, endocrinien et reproducteur; organes lymphoides, teguments. Ce cours comprend des travaux pratiques.

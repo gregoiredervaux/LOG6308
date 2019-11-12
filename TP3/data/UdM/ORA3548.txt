@@ -1,0 +1,2 @@
+TitreCours: Activites d'integration en audiologie 2
+DescriptionCours: Activites d'echanges et de resolution de problemes dans le but d'integrer les connaissances theoriques et les experiences pratiques et cliniques.

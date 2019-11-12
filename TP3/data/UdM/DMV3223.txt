@@ -1,0 +1,2 @@
+TitreCours: Sante publique veterinaire
+DescriptionCours: Étude des differentes situations necessitant une intervention du medecin veterinaire dans le domaine de la sante publique, telles les zoonoses et toxi-infections alimentaires. Mise a jour sur les maladies en emergence et reemergence.

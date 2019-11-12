@@ -1,0 +1,2 @@
+TitreCours: Stage en entreprise
+DescriptionCours: Derniere etape de formation pratique dans l'un des trois medias.

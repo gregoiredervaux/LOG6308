@@ -1,0 +1,2 @@
+TitreCours: Optique ophtalmique 1.1
+DescriptionCours: Analyse des differents materiaux ophtalmiques. Étude approfondie des lentilles spheriques, prismatiques, astigmates, cylindriques et toriques. Theorie et pratique de l'instrumentation de mesures.

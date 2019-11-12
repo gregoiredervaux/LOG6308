@@ -1,0 +1,2 @@
+TitreCours: Dentisterie des animaux de compagnie
+DescriptionCours: Examen buccal. Dossier et charte dentaire; pathologies buccales frequentes et options de traitement. Radiographies, prophylaxie et extractions simples. Instrumentations manuelles et appareils mecaniques les plus appropries et leur entretien.

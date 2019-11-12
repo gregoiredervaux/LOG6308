@@ -1,0 +1,2 @@
+TitreCours: Urgence et soins intensifs
+DescriptionCours: Situations d'urgence et contexte de soins intensifs. Notions de traumatologie. Soins et technologie appropries. Modes de ventilation et de sevrage. Intubation. Ventilation artificielle prolongee.

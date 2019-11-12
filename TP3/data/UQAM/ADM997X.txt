@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique en finance
+DescriptionCours: Seminaire a contenu variable portant sur la finance

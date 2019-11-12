@@ -1,0 +1,2 @@
+TitreCours: Dentisterie veterinaire
+DescriptionCours: Deux semaines de stages dans le service de dentisterie veterinaire.

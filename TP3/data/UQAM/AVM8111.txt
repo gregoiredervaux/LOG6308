@@ -1,0 +1,2 @@
+TitreCours: Atelier de creation I
+DescriptionCours: Creation et recherche en arts visuels et mediatiques. Presentation et realisation d'une oeuvre reliee au projet de recherche-creation de l'etudiant, dans une ou plusieurs disciplines de son choix. Analyse de sa pratique artistique et rapports avec l'importance de la multidisciplinarite dans la pensee artistique contemporaine.

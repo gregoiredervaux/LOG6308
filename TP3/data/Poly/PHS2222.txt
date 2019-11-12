@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'optique moderne
+DescriptionCours: Optique geometrique: Principe de Fermat et ses consequences. Loi de Snell-Descartes et equation du rayon dans un milieu inhomogene. Formation des images: stigmatisme et aplanetisme. Conditions de Gauss: utilisation des matrices. Étude des instruments d'optique. Optique ondulatoire: Ondes monochromatiques et quasi monochromatiques. Coherences (temporelle et spatiale). Interferences de deux ondes et d'ondes multiples. Diffraction de Fraunhoffer et de Fresnel.

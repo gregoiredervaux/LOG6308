@@ -1,0 +1,2 @@
+TitreCours: Theorie des jeux et des jeux differentiels
+DescriptionCours: Generalites. Strategies pures, conditions d'existence. Strategies mixtes, theoreme de Von Neumann. Determination des strategies optimales. Application a quelques problemes economiques et militaires. Jeux definis sur un espace continu de variables d'etat. Definition des jeux differentiels. Approche par calcul variationnel classique. Principe du point selle. Theorie de Pontryagin. Jeux differentiels a information imparfaite: etat actuel de la question. Applications.

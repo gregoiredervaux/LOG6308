@@ -1,0 +1,2 @@
+TitreCours: Phonologie 1
+DescriptionCours: Ce cours vise a permettre l'approfondissement des connaissances en theorie phonologique. Il portera sur la base phonetique de la phonologie; les notions analytiques de base, les niveaux de representation et les processus phonologiques les plus courants seront d'abord examines. Les fondements de la phonologie non lineaire et les representations autosegmentales seront abordes ensuite. Il sera egalement question de la structure syllabique, de la structure metrique et de la structure interne des segments.

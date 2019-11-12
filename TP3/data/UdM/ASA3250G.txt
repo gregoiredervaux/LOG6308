@@ -1,0 +1,2 @@
+TitreCours: Droit et ethique en gestion
+DescriptionCours: Analyse des normes gouvernant la gestion des services de sante et des services sociaux, et des valeurs personnelles et organisationnelles presentes au moment de la prise de decision. Mise en evidence des dilemmes ethiques alors poses.

@@ -1,0 +1,2 @@
+TitreCours: Écologie et environnement
+DescriptionCours: Organisation generale de la biosphere, dynamique de l'environnement physique, histoire de la biosphere, populations et communautes, les grands types d'ecosystemes, l'homme dans la biosphere.

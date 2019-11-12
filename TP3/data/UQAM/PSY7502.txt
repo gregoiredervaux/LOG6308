@@ -1,0 +1,2 @@
+TitreCours: Processus d
+DescriptionCours: Les processus d'acquisition et d'extinction en conditionnement classique. Les conditions favorisant l'apparition des comportements operants: faconnement, mise en relief, amorcage. Les comportements modeles par des contingences. Les processus de renforcement positif. La diminution des comportements. L'extinction. Les programmes de renforcement. Les comportements regis par des regles et le controle du stimulus. L'analyse descriptive du comportement. L'analyse fonctionnelle du comportement. L'analyse experimentale du comportement.

@@ -1,0 +1,2 @@
+TitreCours: Biochimie, bio. cell. intro bio. mol.
+DescriptionCours: Biochimie: acides amines, glucides, lipides, nucleotides. Metabol. intermed. Bio. cell. : compos. biochim., role des organites cell. signal. cell., recepteurs et canaux effecteurs et seconds messagers. Bio. mol. : intro. struct. et fonct. de l'ADN.

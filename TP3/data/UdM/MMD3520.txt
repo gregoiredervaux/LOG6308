@@ -1,0 +1,2 @@
+TitreCours: Stage : Radiologie
+DescriptionCours: Differents stages favorisant un approfondissement des connaissances en radiologie diagnostique, une initiation a la medecine nucleaire et a la radiologie oncologique.

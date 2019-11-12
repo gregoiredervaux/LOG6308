@@ -1,0 +1,2 @@
+TitreCours: Methodologie scientifique
+DescriptionCours: Problematique, hypotheses, plans de recherche a groupes et a cas unique, variables et controle. Instruments et cueillette des donnees; echantillonnage et generalisation des resultats. Normes de presentation des travaux.

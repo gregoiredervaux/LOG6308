@@ -1,0 +1,2 @@
+TitreCours: Methodes mathematiques de la physique II
+DescriptionCours: Équations aux derivees partielles : equations de Laplace et de Poisson, equation de la diffusion, equations d'ondes et de Helmholtz, fonctions de Green. Fonctions speciales : problemes de Sturm-Liouville, fonctions gamma et beta, fonctions de Bessel, polynomes de Legendre, d'Hermite et de Laguerre. Notions sur la theorie des groupes : representations des groupes, groupes de symetrie, groupes continus.

@@ -1,0 +1,2 @@
+TitreCours: Perception de la parole
+DescriptionCours: Connaitre les theories de la perception de la parole et comprendre le role et le developpement de la perception dans l'acquisition du langage oral.

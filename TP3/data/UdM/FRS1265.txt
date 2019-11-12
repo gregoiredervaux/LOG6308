@@ -1,0 +1,2 @@
+TitreCours: Communication sur mesure 1
+DescriptionCours: Permettre a l'etudiant de developper ses competences en francais dans un domaine lie a ses etudes ou a son occupation.

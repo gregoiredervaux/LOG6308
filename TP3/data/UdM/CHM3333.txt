@@ -1,0 +1,2 @@
+TitreCours: Modelisation moleculaire : introduction
+DescriptionCours: Concepts de base en modelisation moleculaire et applications en chimie bioorganique et medicinale. Notions de mecanique moleculaire, dynamique moleculaire et methode Monte Carlo.

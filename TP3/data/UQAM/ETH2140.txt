@@ -1,0 +1,2 @@
+TitreCours: Voix et techniques I
+DescriptionCours: Correction et amelioration de la langue parlee franco-quebecoise. Analyse et depistage des defauts de l'expression orale. Exercices de correction et apprentissage de la pause de voix et de la projection selon les media: radio, scene, cinema.

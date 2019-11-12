@@ -1,0 +1,2 @@
+TitreCours: Stage industriel I - suite
+DescriptionCours: Extension du stage ST101 de 4 a 8 mois. Le rapport final pourrait, en fonction de la politique du departement, faire l'objet d'une presentation orale.

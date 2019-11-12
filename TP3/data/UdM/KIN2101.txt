@@ -1,0 +1,2 @@
+TitreCours: Biomecanique et enseignement
+DescriptionCours: Application des principes directeurs et des lois de la mecanique a la description des exercices physiques et des gestes sportifs. Analyse du mouvement, etudes des forces qui le generent.

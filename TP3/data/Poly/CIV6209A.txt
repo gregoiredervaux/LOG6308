@@ -1,0 +1,2 @@
+TitreCours: Concept. de station d'purat. des eaux uses
+DescriptionCours: Application des notions thoriques et pratiques de traitement physico-chimique et biologique  une conception fonctionnelle d'une station d'puration des eaux uses domestiques ou industrielles. Capacit requise; exigences de traitement; pompage; enlvement de la matire organique, de l'azote et du phosphore; modlisation dynamique; traitement des boues; contrle, cots; plans et profils.

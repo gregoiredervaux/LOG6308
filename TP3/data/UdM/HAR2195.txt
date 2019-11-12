@@ -1,0 +1,2 @@
+TitreCours: Art, culture et identite au Quebec
+DescriptionCours: Analyse du developpement des arts au Quebec, a partir des approches historiques et de la problematique identitaire, et en fonction des contextes politique, social et culturel aux XIXe et XXe siecles.

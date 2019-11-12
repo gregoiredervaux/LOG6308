@@ -1,0 +1,2 @@
+TitreCours: Intervention de groupe
+DescriptionCours: Analyse de differents modeles d'intervention de groupe utilises en travail social. Developpement d'habiletes reliees au processus d'intervention et a l'animation de groupe. Observation de la dynamique de groupe.

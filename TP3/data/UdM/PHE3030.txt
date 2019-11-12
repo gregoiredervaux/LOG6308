@@ -1,0 +1,2 @@
+TitreCours: Activite d'integration
+DescriptionCours: Cours visant l'integration des apprentissages effectues en cours de formation. Realisation d'une activite liee au domaine philanthropique.

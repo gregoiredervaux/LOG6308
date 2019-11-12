@@ -1,0 +1,2 @@
+TitreCours: Pharmacologie fonctionnelle et exp. 1
+DescriptionCours: Notions de chimie appliquees aux principes de pharmacologie Affinite selectivite criblage modelisation. Évaluation de proprietes pharmacologiques : cardiovasculaire, systeme nerveux, anticancereuse. Cadre legal de l'experimentation.

@@ -1,0 +1,2 @@
+TitreCours: Activites d'integration en pharmacie 5
+DescriptionCours: Activites visant a consolider les apprentissages et a parfaire la prestation de soins pharmaceutiques en milieu communautaire; interventions pertinentes dans la communaute.

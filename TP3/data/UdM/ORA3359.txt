@@ -1,0 +1,2 @@
+TitreCours: Troubles acquis du langage
+DescriptionCours: Étude approfondie de la semiologie de l'aphasie et de ses troubles associes et des problemes de communication relies a des atteintes neurologiques diverses. Approches a l'evaluation, a la reeducation et a la readaptation.

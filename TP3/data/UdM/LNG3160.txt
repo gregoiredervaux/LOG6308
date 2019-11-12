@@ -1,0 +1,2 @@
+TitreCours: Atelier de travaux pratiques
+DescriptionCours: Travaux appliques ou experimentaux concernant une problematique specifique d'un domaine disciplinaire de la linguistique. Étude etendue de donnees de formation a des methodologies particulieres.

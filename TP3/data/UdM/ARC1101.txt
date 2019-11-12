@@ -1,0 +1,2 @@
+TitreCours: Histoire generale de l'architecture
+DescriptionCours: Les etapes du devenir architectural ou le passe vu dans une perspective d'avenir. Reflexions sur les objectifs, les methodes, les choix et les contraintes des constructeurs.

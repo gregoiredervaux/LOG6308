@@ -1,0 +1,2 @@
+TitreCours: Ergotherapie et les etats psychotiques
+DescriptionCours: A partir du modele psychanalytique, etude de themes importants dans la therapie de la psychose : institution et therapie, transfert et contre-transfert, image corporelle et structuration du moi, therapie mediatisee.

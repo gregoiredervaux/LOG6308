@@ -1,0 +1,2 @@
+TitreCours: Stage d'informatique 1
+DescriptionCours: Premier stage du programme COOP, en milieu de travail, donnant lieu a un rapport, evalue conjointement par l'employeur et un jury du DIRO.

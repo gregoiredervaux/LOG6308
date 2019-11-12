@@ -1,0 +1,2 @@
+TitreCours: Seminaire de biostatistique
+DescriptionCours: Ce seminaire a pour but de favoriser l'acces a divers domaines specialises ou nouveaux en biostatistique ainsi que l'initiation a la recherche.

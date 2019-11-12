@@ -1,0 +1,2 @@
+TitreCours: Projet de modelisation numerique
+DescriptionCours: Realisation en equipe d'un projet integrateur. L'etudiant sera amene a choisir, utiliser, adapter et programmer plusieurs methodes numeriques vues dans les cours de calcul scientifique et de modelisation numerique. Modelisation d'une application du genie chimique comportant la resolution numerique d'un ou de plusieurs problemes sous-jacents. Ce cours fait appel a des notions sur l'analyse des procedes, la thermodynamique chimique et la dynamique des systemes.

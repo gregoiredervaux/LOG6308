@@ -1,0 +1,2 @@
+TitreCours: Troubles de l'audition
+DescriptionCours: Introduction a la physiopathologie et a la psychoacoustique des troubles de l'audition peripherique et centrale. Étiologie, notions epidemiologiques, deficiences, incapacites et desavantages.

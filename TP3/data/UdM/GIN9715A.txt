@@ -1,0 +1,2 @@
+TitreCours: Corrosion et degr. des biomat. (GBM8540)
+DescriptionCours: Biomateriaux: definitions, specificites, utilisations, choix. Classes: polymeres, composites, metaux, alliages, ceramiques. Corrosion et degradation des implants (exemples). Prevention de la corrosion et degradation.

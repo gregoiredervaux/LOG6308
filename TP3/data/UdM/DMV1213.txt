@@ -1,0 +1,2 @@
+TitreCours: Gestion veterinaire des elevages
+DescriptionCours: Organisation et gestion veterinaire des productions animales dans les agro-ecosystemes. Importance de l'industrie des animaux de compagnie dans les milieux urbains.

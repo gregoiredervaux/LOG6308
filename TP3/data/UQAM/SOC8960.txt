@@ -1,0 +1,2 @@
+TitreCours: Projet de stage
+DescriptionCours: Élaboration d'un projet de stage de l'etudiant. Il comprend l'indication du sujet et de l'organisme ou se deroulera le stage: une revue de litterature, la problematique, le cadre theorique, ainsi que les hypotheses ou piste de recherche (s'il y a lieu), la methodologie, les methodes d'analyse, une proposition de programme de travail precisant les etapes de la recherche et l'echeancier envisage.

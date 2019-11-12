@@ -1,0 +1,2 @@
+TitreCours: Intervention communautaire
+DescriptionCours: Presentation des theories a la base de l'action communautaire et processus d'intervention basee sur des experiences du Quebec et dans d'autres pays. Developpement des habiletes specifiques a sa pratique.

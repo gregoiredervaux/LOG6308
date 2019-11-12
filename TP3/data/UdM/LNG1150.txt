@@ -1,0 +1,2 @@
+TitreCours: Linguistique amerindienne
+DescriptionCours: Langues et cultures autochtones des Ameriques a travers une demonstration de l'analyse et description d'une langue tiree a tour de role, et de facon cyclique, d'une des trois familles du Quebec.

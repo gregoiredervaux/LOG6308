@@ -1,0 +1,2 @@
+TitreCours: Biologie moleculaire
+DescriptionCours: Structure et fonction des acides nucleiques et des proteines. Regulation genique chez les procaryotes et les eucaryotes. Élements de controle transcriptionnel et post-transcriptionnel. Technologie et applications de l'ADN recombinant.

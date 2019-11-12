@@ -1,0 +1,2 @@
+TitreCours: Problemes specifiques : therapie 1
+DescriptionCours: Le cours porte sur un sujet specifique pertinent a l'ergotherapie. Le theme du cours varie selon les besoins des etudiants et l'evolution de la profession.

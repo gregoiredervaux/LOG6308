@@ -1,0 +1,2 @@
+TitreCours: Histoire et multimedia
+DescriptionCours: Initiation a l'analyse et a l'elaboration d'oeuvres a caractere historique diffusees au moyen de sites Web et de cederoms.

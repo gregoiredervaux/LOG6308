@@ -1,0 +1,2 @@
+TitreCours: Medecine interne equine
+DescriptionCours: Étude de l'aspect medical des principales maladies affectant les equins. Physiopathologie, diagnostic, traitement et prevention des principales maladies.

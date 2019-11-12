@@ -1,0 +1,2 @@
+TitreCours: Medecine buccale 1
+DescriptionCours: Methodologie du diagnostic. Planification des soins dentaires en presence de desordres systemiques d'interet en dentisterie. Manifestations buccales des maladies systemiques et d'atteintes limitees a la cavite buccale.

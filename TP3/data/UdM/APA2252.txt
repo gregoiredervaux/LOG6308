@@ -1,0 +1,2 @@
+TitreCours: Projections et langages graphiques
+DescriptionCours: Acquisition d'outils et de techniques de representation exacte de l'espace exterieur : projections cotees, perspective et axonometrie.

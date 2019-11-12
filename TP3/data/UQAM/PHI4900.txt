@@ -1,0 +1,2 @@
+TitreCours: Philosophie et arts plastiques
+DescriptionCours: Étude, d'un point de vue philosophique, des concepts theoriques dominants utilises dans le domaine des arts plastiques. L'art et la representation, le sujet, la forme, le langage, la creation, l'expression, l'engagement. Analyse et critique des theories esthetiques liees aux arts plastiques.

@@ -1,0 +1,2 @@
+TitreCours: Theriogenologie chez le bovin
+DescriptionCours: Methodes avancees pour le diagnostic et traitement des principales causes d'infertilite chez la femelle et le male.

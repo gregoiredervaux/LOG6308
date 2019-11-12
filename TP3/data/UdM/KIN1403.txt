@@ -1,0 +1,2 @@
+TitreCours: Atelier au prescolaire
+DescriptionCours: Laboratoires d'intervention motrice et sensorielle au prescolaire. Élaboration et presentation d'un programme d'activites physiques prescolaire destine aux titulaires de classe.

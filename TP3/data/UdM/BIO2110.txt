@@ -1,0 +1,2 @@
+TitreCours: T.P. de biologie moleculaire
+DescriptionCours: Transformation bacterienne, extraction d'ADN plasmidien et genomique, amplification par PCR, electrophorese d'ADN sur gel, extraction et electrophorese de proteines sur gel, transfert de proteines et detection par westernblot.

@@ -1,0 +1,2 @@
+TitreCours: Troubles du langage oral et ecrit
+DescriptionCours: Le langage ecrit, sa nature et son acquisition. Étude des problemes de langage de l'enfant d'age scolaire et de leur impact sur l'apprentissage. Approches a l'intervention aupres de l'enfant et de son environnement.

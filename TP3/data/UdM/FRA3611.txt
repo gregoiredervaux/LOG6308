@@ -1,0 +1,2 @@
+TitreCours: Les avant-gardes
+DescriptionCours: Étude de mouvements avant-gardistes des litteratures de langue francaise.

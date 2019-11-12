@@ -1,0 +1,2 @@
+TitreCours: Geologie historique et du continent
+DescriptionCours: Methodologie de la geologie historique. Description morphologique, stratigraphique, structurale et economique de l'Amerique du Nord, du Precambrien au Cenozoique.

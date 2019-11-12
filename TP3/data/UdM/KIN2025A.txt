@@ -1,0 +1,2 @@
+TitreCours: Practicum (deuxieme partie)
+DescriptionCours: Stage en milieu d'application. Exercice et habiletes d'evaluation, de programmation et d'encadrement en activite physique dans le cadre de la clinique du Departement de kinesiologie.

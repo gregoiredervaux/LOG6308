@@ -1,0 +1,2 @@
+TitreCours: Travaux diriges II
+DescriptionCours: Cette activite de recherche, sous la responsabilite du directeur de recherche, comporte des travaux d'atelier complementaires a la realisation de l'oeuvre ou a l'intervention artistique. L'etudiant devra rediger un texte (10 pages) preparatoire au memoire-creation faisant etat de l'intention et de la mise en contexte de l'oeuvre ou de l'intervention.

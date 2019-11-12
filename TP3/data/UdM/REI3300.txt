@@ -1,0 +1,2 @@
+TitreCours: Negociation collective
+DescriptionCours: Nature, definition et objet de la negociation, theories et modeles. L'environnement de la negociation collective. La strategie des acteurs. Les structures de negociation. Deroulement de la negociation et modes de resolution des conflits.

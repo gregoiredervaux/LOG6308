@@ -1,0 +1,2 @@
+TitreCours: Stage d'enseignement en orthopedagogie 2
+DescriptionCours: Developpement d'habiletes de gestion de la classe et d'enseignement aupres d'eleves handicapes ou en difficulte d'adaptation et d'apprentissage ages de 12 a 18 ans.

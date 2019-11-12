@@ -1,0 +1,2 @@
+TitreCours: Didactique des sciences I
+DescriptionCours: Reflexion sur la place et le role de l'education scientifique au secondaire. Prise de conscience des diverses dimensions intervenant dans la preparation d'une situation d'apprentissage en science au secondaire. Étude des grands concepts. Le cours vise a preparer les etudiants a produire une sequence d'enseignement qui devra etre completee avant leur depart en stage et qui forme une partie importante de leur rapport de stage.

@@ -1,0 +1,2 @@
+TitreCours: Marketing pharmaceutique
+DescriptionCours: Notions fondamentales du marketing, marketing du medicament par les compagnies pharmaceutiques; marketing des services offert par les pharmaciens a leur clientele, au grand public et aux autres professionnels de la sante.

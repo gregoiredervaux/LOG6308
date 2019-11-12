@@ -1,0 +1,2 @@
+TitreCours: Methodes separatives
+DescriptionCours: Coefficient de partage et application a l'extraction selective. Theorie de la chromatographie: plateau theorique, temps de retention, resolution. Étude des differents types de chromatographie: gaz-solide, gaz-liquide, liquide-solide, liquide-liquide. Spectrometrie de masse : ionisation, fragmentation moleculaire. Exemples d'application a l'analyse quantitative et a la caracterisation des molecules. Cours et travaux pratiques en laboratoire.

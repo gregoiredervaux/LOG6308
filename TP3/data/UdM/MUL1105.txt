@@ -1,0 +1,2 @@
+TitreCours: Histoire de la musique 3
+DescriptionCours: Histoire musicale de l'epoque baroque : le XVIIe siecle, de Monteverdi a Bach inclusivement.

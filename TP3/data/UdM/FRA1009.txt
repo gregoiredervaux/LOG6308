@@ -1,0 +1,2 @@
+TitreCours: Grammaire du francais
+DescriptionCours: Revision systematique de la grammaire francaise, de la construction de la phrase a la nature des mots. Analyse grammaticale. Analyse logique. Notions de redaction.

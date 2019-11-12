@@ -1,0 +1,2 @@
+TitreCours: Introduction a la psychometrie
+DescriptionCours: Le probleme de la mesure en psychologie. Les instruments de mesure et leurs caracteristiques : validite, fidelite, etc. L'elaboration des instruments de mesure : les grilles d'observation, les tests, les mesures psychophysiologiques, etc.

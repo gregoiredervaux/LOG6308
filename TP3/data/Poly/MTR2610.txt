@@ -1,0 +1,2 @@
+TitreCours: Comportement mecanique des materiaux
+DescriptionCours: Études geometrique et cinematique des deformations. Tenseur des contraintes et deviateur. Principaux comportements mecaniques des materiaux (metaux, polymeres, ceramiques et composites) : elasticites isotrope et anisotrope, viscoelasticite, criteres d'ecoulement plastique, criteres de rupture, lois d'ecoulement plastiques et visco-plastiques. Realisation d'essais mecaniques (traction, fluage-relaxation, flexion, durete, microdurete) et traitement numerique des donnees.

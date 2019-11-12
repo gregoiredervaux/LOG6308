@@ -1,0 +1,2 @@
+TitreCours: Groupes et algebres de Lie
+DescriptionCours: Definitions, exemples et proprietes de base des groupes et algebres de Lie. Classification et structure des algebres de Lie semi-simples. Decomposition de Cartan: algebres de Lie reelles. Formule des caracteres de Weyl. Representations orthogonales et symplectiques.

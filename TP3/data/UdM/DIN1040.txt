@@ -1,0 +1,2 @@
+TitreCours: Atelier de design 1
+DescriptionCours: Trois exercices de conception d&rsquo;un objet definis en fonction des besoins d&rsquo;un groupe d&rsquo;utilisateurs et visant l&rsquo;apprentissage du projet comme methode de recherche en design.

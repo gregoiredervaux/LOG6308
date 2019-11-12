@@ -1,0 +1,2 @@
+TitreCours: Programmation en C#
+DescriptionCours: Étude du langage et de la programmation orientee objet en C#. Applications aux structures de donnees et aux interfaces graphiques de base.

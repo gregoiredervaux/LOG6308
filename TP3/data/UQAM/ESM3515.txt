@@ -1,0 +1,2 @@
+TitreCours: Didactique de la technologie
+DescriptionCours: Initiation a la technologie, education technologique et education manuelle et technique: analyse des programmes d'etudes, principes de planification de l'enseignement, demarche d'evaluation, integration des matieres, organisation et gestion de l'atelier. Voie technologique: organisation et demarche pedagogique.

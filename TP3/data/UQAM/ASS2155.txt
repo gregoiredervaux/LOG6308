@@ -1,0 +1,2 @@
+TitreCours: Laboratoire des techniques d
+DescriptionCours: Definition de concepts de base. Methodologie de l'observation en situation d'apprentissage. Variables observables: organisation materielle, comportement dans la relation maitre-eleves, etc. Presentation d'instruments. Applications pratiques: cueillette des donnees, analyse et interpretation.

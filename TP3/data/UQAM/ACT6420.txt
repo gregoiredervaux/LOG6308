@@ -1,0 +1,2 @@
+TitreCours: Modeles de prevision
+DescriptionCours: L'objectif de ce cours est de comprendre le processus de modelisation et les principes d'application des methodes statistiques a des donnees observees. Analyse par regression: modele a deux variables et modele a regression multiple. Modele de regression a une equation, correlation serielle et heteroscedasticite. Modele de series chronologiques: lissage et extrapolation, modeles stochastiques, modeles lineaires et estimation des parametres. Ce cours comporte une seance d'exercices de 2 heures par semaine.

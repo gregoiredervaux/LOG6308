@@ -1,0 +1,2 @@
+TitreCours: Communication orale 2
+DescriptionCours: Permettre a l'etudiant de developper sa competence de communication orale dans des echanges previsibles; renforcer ses notions syntaxiques, phonetiques et lexicales en lien avec les fonctions langagieres prevues pour ce cours.

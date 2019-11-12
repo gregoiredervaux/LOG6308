@@ -1,0 +1,2 @@
+TitreCours: C.SPÉC.: Grands projets et genie-conseil
+DescriptionCours: Projets d'amenagement industriel d'envergure. Ingenierie de faisabilite. Estimation des travaux, des coûts et du calendrier. Strategie d'execution des travaux. Approvisionnement a l'international. Problematiques d'assemblage en usine ou sur les sites. Creation et allocation des budgets. Gestion documentaire. Systeme d'information integre de gestion de projets applique aux projets industriels d'envergure. Cas d'application sur un systeme d'information d'entreprise.

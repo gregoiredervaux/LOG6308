@@ -1,0 +1,2 @@
+TitreCours: Sciences et technologies du vivant
+DescriptionCours: Analyse sociologique des differents problemes et des questions soulevees par l'avancee des technologies du vivant. Manipulation genetique, technologies de la reproduction, clonage, etc. Reflexion sur les enjeux sociaux, ethiques et politiques des sciences et technologies en ce domaine. Examen des diverses approches analytiques et critiques elaborees par la sociologie.

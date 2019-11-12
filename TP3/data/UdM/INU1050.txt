@@ -1,0 +1,2 @@
+TitreCours: Diffusion d'information numerique
+DescriptionCours: Architecture de l'information, gestion de projets de diffusion. Sites Web, Web 2.0, multimedia, blogues, flux RSS, outils collaboratifs, forums, listes de distribution, Wiki, systeme de gestion de contenu.

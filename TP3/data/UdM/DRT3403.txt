@@ -1,0 +1,2 @@
+TitreCours: Financement de l'entreprise
+DescriptionCours: Techniques d'analyse financiere. Politiques de financement. Aspects juridiques du financement interne et externe de l'entreprise. Financement des transactions commerciales. Mecanismes de protection de l'investisseur.

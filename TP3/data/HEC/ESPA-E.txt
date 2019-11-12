@@ -1,0 +1,2 @@
+TitreCours: Test d
+DescriptionCours: Pour tout renseignement concernant ce test, cliquez sur le lien ci-dessous.  http://www.hec.ca/qualitecomm/espagnol/elenhec.html

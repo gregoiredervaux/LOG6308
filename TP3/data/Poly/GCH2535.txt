@@ -1,0 +1,2 @@
+TitreCours: Modelisation numerique en genie chimique
+DescriptionCours: Analyse et conciliation de donnees experimentales en genie chimique. Methodes numeriques pour la resolution des equations differentielles ordinaires et application aux bilans de chaleur et de matiere dans les procedes du genie chimique. Theorie sur les equations aux derivees partielles et lien avec les equations d'echanges en genie chimique. Introduction aux methodes des differences finies, des elements finis et des volumes finis pour la simulation de phenomenes d'echanges simples.

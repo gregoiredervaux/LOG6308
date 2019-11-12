@@ -1,0 +1,2 @@
+TitreCours: Avionique
+DescriptionCours: Historique des systmes d'avionique. Cabine de pilotage et instruments de bord. Systmes de communication. Systmes de navigation  court et  long rayon d'action. Rpondeur de radar secondaire. Systmes avertisseurs. Compatibilit lectromagntique. Protection contre la foudre.

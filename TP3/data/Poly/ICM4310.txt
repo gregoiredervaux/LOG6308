@@ -1,0 +1,2 @@
+TitreCours: Environnement ferroviaire
+DescriptionCours: Problematique du transport : strategie et philosophie mondiales. Solutions ferroviaires: transport des personnes (trains a grande vitesse, tramway, train intervilles, metro) et transport de fret. Interoperabilite. Homologation et normalisation. Service a la clientele (accueil, systeme d'information, divertissement).

@@ -1,0 +1,2 @@
+TitreCours: Orthodontie clinique 1
+DescriptionCours: Traitements orthodontiques mineurs. Volet preclinique : planification, empreintes, modeles d'etude, confection d'un appareil orthodontique amovible avec fil lingual. Volet clinique : pratique des notions acquises au volet preclinique.

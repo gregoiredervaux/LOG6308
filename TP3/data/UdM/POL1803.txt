@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'analyse quantitative
+DescriptionCours: Logique sous-jacente a l'analyse quantitative. Pratique des techniques elementaires d'analyse univariee et bivariee a l'aide de la statistique descriptive et inductive. Pertinence de ces techniques.

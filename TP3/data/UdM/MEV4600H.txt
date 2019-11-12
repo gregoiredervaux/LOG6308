@@ -1,0 +1,2 @@
+TitreCours: Medecine des animaux de compagnie
+DescriptionCours: Deux semaines d'exposition clinique en medecine des animaux de compagnie. Stage d'ete hors programme entre la 4e et la 5e annee.

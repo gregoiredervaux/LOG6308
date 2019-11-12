@@ -1,0 +1,2 @@
+TitreCours: Arts et societes
+DescriptionCours: Étude sociologique des arts. Dimensions sociales de l'experience esthetique. Approches theoriques et methodologiques diverses. Études de certains aspects materiels ou symboliques de l'oeuvre d'art. D'autres themes pourront etre abordes: professions, publics, marches, reseaux et institutions de l'art; application a l'un ou l'autre domaine: architecture, arts visuels et mediatiques, arts de la scene, cinema, design, musique, theatre, litterature, pratiques emergentes.

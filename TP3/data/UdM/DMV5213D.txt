@@ -1,0 +1,2 @@
+TitreCours: Medecine zoologique
+DescriptionCours: Deux semaines de travaux en medecine des animaux de la faune, de zoo ou exotiques de compagnie (MEZ).

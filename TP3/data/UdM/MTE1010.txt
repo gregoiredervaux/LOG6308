@@ -1,0 +1,2 @@
+TitreCours: Écriture et analyse 1
+DescriptionCours: Bases de grammaire et de syntaxe en harmonie tonale : structures, fonctions, enchainements d'accords, cadences, phrases. Contexte non modulant et modulant. Écriture a quatre voix a partir de basses chiffrees et analyses d'exemples du repertoire.

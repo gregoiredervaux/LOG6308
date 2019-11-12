@@ -1,0 +1,2 @@
+TitreCours: Reseau integre de services:defis actuels
+DescriptionCours: Cadre, definition, enjeux, finalites. Planification et organisation regionale. Roles, responsabilites, interdependance des etablissements. Programmes et gestion de cas. Mesures des resultats. Enseignement et soutien a la clientele.

@@ -1,0 +1,2 @@
+TitreCours: Biologie de la reproduction
+DescriptionCours: Reproduction male et femelle : anatomie, histologie, spermatogenese, ovogenese, regulations hormonales et facteurs hypothalamo-hypophysaires male et femelle. Les cytokines dans la fonction de reproduction.

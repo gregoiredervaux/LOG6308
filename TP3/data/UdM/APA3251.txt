@@ -1,0 +1,2 @@
+TitreCours: Analyse visuelle
+DescriptionCours: Methodes quantitatives et cartographiques d'analyse visuelle. Recul critique : statut de l'« oeil geometrique » dans les sciences; paysage dans l'art; dimensions sonores et non visuelles des paysages; le qualitatif.

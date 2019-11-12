@@ -1,0 +1,2 @@
+TitreCours: Film d
+DescriptionCours: Recherche et experimentation menant a la creation d'une production originale. Methodologie de la conception et de la production.

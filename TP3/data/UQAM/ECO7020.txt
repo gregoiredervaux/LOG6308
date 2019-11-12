@@ -1,0 +1,2 @@
+TitreCours: Seminaire de recherche
+DescriptionCours: Ce cours a pour but d'initier l'etudiant a l'ensemble des activites de recherche, aux principales etapes que comporte normalement toute recherche scientifique ainsi qu'au processus du choix d'une methodologie. Il vise egalement a guider l'etudiant dans la definition de son projet de memoire qu'il devra presenter dans le cadre du seminaire.

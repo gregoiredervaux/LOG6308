@@ -1,0 +1,2 @@
+TitreCours: Atelier d'ecriture
+DescriptionCours: Nature et fonctions de l'atelier d'ecriture. Écriture individuelle et collective de textes varies. Revision des aspects textuels et linguistiques. Pratiques reflexives. Dimensions didactiques.

@@ -1,0 +1,2 @@
+TitreCours: Sujets en theorie economique ou econometrie
+DescriptionCours: Cours a contenu variable abordant divers themes de recherche actuels dans un domaine particulier de la theorie economique ou de l'econometrie.

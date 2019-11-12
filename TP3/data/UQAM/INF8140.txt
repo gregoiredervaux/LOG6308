@@ -1,0 +1,2 @@
+TitreCours: Complexite des calculs
+DescriptionCours: Mesures de complexite et hierarchie en temps et en memoire. Reductibilite. Classes P et NP, exemples de problemes NP-complets, problemes intraitables. Solutions approchees de problemes NP - complets.

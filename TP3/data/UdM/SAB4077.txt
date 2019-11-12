@@ -1,0 +1,2 @@
+TitreCours: Orthodontie clinique 2
+DescriptionCours: Examen des patients, etude de cas, etablissement du diagnostic, plan de traitement, presentation de cas, traitement avec appareils amovibles ou fixes simples.

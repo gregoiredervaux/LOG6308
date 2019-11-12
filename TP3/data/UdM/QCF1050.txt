@@ -1,0 +1,2 @@
+TitreCours: Introduction au Quebec
+DescriptionCours: Le but du cours est de confronter et d'integrer, en autant que possible, diverses approches (historique, sociologique, litteraire, etc.) de la realite quebecoise.

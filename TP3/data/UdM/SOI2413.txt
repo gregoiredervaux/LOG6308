@@ -1,0 +1,2 @@
+TitreCours: Soins en situation d'urgence 2
+DescriptionCours: Situations de sante a l'urgence chez des personnes de tous ages: neuro, sante mentale, toxico et autres. Sciences biologiques et pharmacologiques. Plan therapeutique infirmier et jugement clinique: surveillance, monitorage, prise de decision.

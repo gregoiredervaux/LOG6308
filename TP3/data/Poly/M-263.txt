@@ -1,0 +1,2 @@
+TitreCours: Plomberie
+DescriptionCours: Systemes de drainage d'eaux pluviales et d'eaux usees. Systeme d'event. Appareils de plomberie. Systemes d'eau froide, d'eau chaude domestique et de recirculation. Chauffe-eau domestique. Protection pour incendie : cabinet a boyau d'arrosage, gicleurs automatiques. Systeme de pompes de surpression.

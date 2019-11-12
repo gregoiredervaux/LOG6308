@@ -1,0 +1,2 @@
+TitreCours: Climatologie physique
+DescriptionCours: Étude des aspects physiques des climats locaux, regionaux et mondiaux. Donnees climatologiques, calcul des composants du bilan d'energie, radiation solaire et terrestre, flux turbulents de chaleur et de vapeur d'eau, entreposage d'energie, influence de la topographie, distribution mondiale des climats. Modification des climats, classification des climats et distribution des parametres climatiques physiques.

@@ -1,0 +1,2 @@
+TitreCours: Systemes de laboratoire en milieu clinique
+DescriptionCours: Introduction : roles des laboratoires en milieu clinique. Le laboratoire de biochimie : analyses, produits et equipements. Le laboratoire d'hematologie : analyses, produits et equipements. Le laboratoire de microbiologie : principes physiques (photometrie, fluorescence, radiometrie, turbidite), analyses, produits et equipements. Le laboratoire de pathologie : analyses, produits et equipements. Mesures de securite en laboratoire. Projet : elaboration du cahier des charges d'un equipement.

@@ -1,0 +1,2 @@
+TitreCours: Medecine des animaux de consommation
+DescriptionCours: Une semaine complementaire aux stages MEV 4505 et MEV 4605. Stage d'ete hors programme entre la 4e et la 5e annee.

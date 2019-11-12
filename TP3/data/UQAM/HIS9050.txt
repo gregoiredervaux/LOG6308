@@ -1,0 +1,2 @@
+TitreCours: Atelier de recherche I
+DescriptionCours: Meme description que celle du cours HIS9053.

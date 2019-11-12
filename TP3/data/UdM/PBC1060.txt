@@ -1,0 +1,2 @@
+TitreCours: Embryologie et histologie humaine
+DescriptionCours: Biologie cellulaire. Developpement de l'embryon humain. Histologie des principaux organes. Correlations histophysiologiques. Attention speciale donnee au tissu osseux, au systeme digestif et a l'embryologie de la tete et du cou.

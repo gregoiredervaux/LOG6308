@@ -1,0 +1,2 @@
+TitreCours: Design et choix de materiaux
+DescriptionCours: Demarche de conception et de realisation d'un projet de design en matiere plastique. Definition du probleme, elaboration d'un cahier des charges, concepts preliminaires, dessins, maquette, fabrication et analyse economique. Regles de conception de pieces en matiere plastique selon les procedes utilises. Approche de design de pieces plastique avec paroi simple, avec paroi nervuree, avec paroi remplie de gaz et autre. Tendances technologiques en assemblage, impression et finis de surface.

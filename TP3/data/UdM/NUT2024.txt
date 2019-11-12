@@ -1,0 +1,2 @@
+TitreCours: Alimentation des collectivites
+DescriptionCours: Planification de menus en fonction de la valeur nutritive, des ressources disponibles pour des populations en sante ou malades. Standardisation de formules culinaires. Organisation, direction et evaluation de production et de distribution des repas.

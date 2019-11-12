@@ -1,0 +1,2 @@
+TitreCours: Stage d
+DescriptionCours: Activite d'enseignement faite sous la supervision du directeur de recherche de l'etudiant ou d'un membre de son comite d'etudes. Dans ce stage, l'etudiant doit assumer la responsabilite principale d'un cours de 45 heures du niveau universitaire dans son domaine de specialisation. L'evaluation porte sur la preparation des cours, la prestation du stagiaire et la correction des travaux. Un rapport final doit etre ecrit decrivant l'experience d'enseignement et suggerant des ameliorations possibles.

@@ -1,0 +1,2 @@
+TitreCours: Histoire des theologies chretiennes
+DescriptionCours: Panorama des pratiques theologiques au cours des siecles. Influences philosophiques et culturelles. Contextes et enjeux sociaux, ecclesiaux, spirituels et politiques.

@@ -1,0 +1,2 @@
+TitreCours: Intervention aupres des stomises
+DescriptionCours: Stage supervise aupres d'adultes et d'enfants dans differents milieux.

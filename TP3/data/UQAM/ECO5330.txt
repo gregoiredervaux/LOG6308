@@ -1,0 +1,2 @@
+TitreCours: Analyse economique pour ingenieurs
+DescriptionCours: Applications des outils elementaires de l'analyse economique a certains problemes d'ingenierie. Études de marche. Introduction a l'analyse de projets. Mathematiques financieres et actualisation. Concepts de taux de rendements et de valeur actuelle nette. Étude et mesure des changements technologiques.

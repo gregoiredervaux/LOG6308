@@ -1,0 +1,2 @@
+TitreCours: Questions particulieres en sciences des religions
+DescriptionCours: Ce cours a contenu variable se presente comme un laboratoire cherchant a appliquer l'approche comparatiste en selectionnant une thematique commune a plusieurs traditions religieuses pour degager les constantes et les variations observables, en chercher l'explication et reflechir sur l'operation comparatiste elle-meme. On selectionnera a chaque fois un theme tel que l'esoterisme, le mysticisme, le monachisme, l'angeologie, l'eschatologie, l'ascetisme, etc.

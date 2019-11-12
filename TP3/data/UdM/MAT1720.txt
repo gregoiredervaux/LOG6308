@@ -1,0 +1,2 @@
+TitreCours: Probabilites
+DescriptionCours: Espace de probabilite. Analyse combinatoire. Probabilite conditionnelle. Independance. Variable aleatoire. Fonction de repartition et fonction generatrice. Esperance mathematique. Loi faible des grands nombres. Theoreme limite central.

@@ -1,0 +1,2 @@
+TitreCours: Les elections
+DescriptionCours: Les regles electorales. La participation et l'abstention. Les clienteles electorales et les traditions partisanes. Les strategies des partis et des electeurs. La conjoncture electorale. Le vote et les politiques gouvernementales.

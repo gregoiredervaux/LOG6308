@@ -1,0 +1,2 @@
+TitreCours: Introduction a l
+DescriptionCours: A la fin de ce cours, l'etudiant devrait etre en mesure de comprendre les mouvements dus aux forces electriques et magnetiques, d'une particule chargee, ou d'un ensemble de particules chargees. Il devrait egalement etre apte a saisir les principes de fonctionnement de divers appareils impliquant des phenomenes electromagnetiques.

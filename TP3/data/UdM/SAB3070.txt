@@ -1,0 +1,2 @@
+TitreCours: Dentisterie pediatrique theorique
+DescriptionCours: Examen, manifestations cliniques des maladies systemiques, traitements pulpaires, genetique, habitudes orales, orthophonie, traumatismes dentaires, enfants mal-aimes, resines composites posterieures, compomeres, ionomeres de verre, pediatrie.

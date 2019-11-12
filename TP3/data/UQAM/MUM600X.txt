@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese
+DescriptionCours: Activite multidisciplinaire permettant a un ou plusieurs etudiants de realiser un projet individuel ou collectif dans lequel il sera possible a chacun de faire la synthese et l'experience de deux ou plusieurs disciplines au programme, telles que : pedagogie et interpretation, composition et interpretation et animation, etc. Utilisation pratique d'outils informatiques.

@@ -1,0 +1,2 @@
+TitreCours: Propedeutique en comptabilite
+DescriptionCours: Description       Ce cours a pour objectif d'aider l'etudiant a acquerir une comprehension personnelle de la comptabilite et a developper ses habilites de diagnostic et de jugement face aux informations comptables. Le cours apportera a l'etudiant une sensibilisation de la fonction controle dans l'entreprise, une familiarisation du vocabulaire comptable et une appreciation de l'information utilisee par les bailleurs de fonds pour poser un diagnostic sur la sante financiere de l'entreprise. attr attr

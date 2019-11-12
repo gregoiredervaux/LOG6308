@@ -1,0 +1,2 @@
+TitreCours: Methodes quantitatives en marketing
+DescriptionCours: Recherche, analyse des donnees et systeme d'information en marketing. Analyse descriptive et causale. Plans experimentaux. Utilisation des logiciels. Introduction aux methodes d'analyse univariees, bivariees et multivariees en marketing. Applications aux etudes de comportement du consommateur et aux analyses de marche. Implications sur les strategies du marketing mix.

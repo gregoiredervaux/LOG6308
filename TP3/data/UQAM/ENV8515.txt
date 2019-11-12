@@ -1,0 +1,2 @@
+TitreCours: Essai
+DescriptionCours: L'objectif de ce cours est de developper les capacites d'integration et de reflexion critique sur une problematique interdisciplinaire. Redaction d'un essai realise apres que la scolarite ait ete completee et les deux stages effectues. Il s'agit d'un exercice de synthese et d'integration et d'une analyse critique retrospective et prospective sur une problematique environnementale ou un domaine d'intervention, fonde sur les acquis durant la scolarite et lors des stages.

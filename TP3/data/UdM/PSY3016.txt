@@ -1,0 +1,2 @@
+TitreCours: Cueillette et traitement des donnees
+DescriptionCours: Methodes avancees de cueillette et d&rsquo;analyse des donnees de recherche. Modelisation en psychologie experimentale. Utilisation avancee de logiciels: suite bureautique, analyse statistique, calcul et controle de l&rsquo;experimentation.

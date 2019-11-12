@@ -1,0 +1,2 @@
+TitreCours: Text Analysis
+DescriptionCours: Technique de lecture active. Analyse fonctionnelle des textes anglais. Structures argumentatives. La contraction de textes comme outil d'analyse. Problemes particuliers de comprehension (slang, jargons, registres, ambiguites...).

@@ -1,0 +1,2 @@
+TitreCours: Savoir
+DescriptionCours: Écart entre enseignement et apprentissage. Examen des champs d'etudes et des sequence d'objectifs qui les structurent. Modifications a leur apporter en fonction des processus cognitif, affectif, corporel et decisionnel mis en jeu. Restructuration d'un programme disciplinaire choisi par l'etudiant.

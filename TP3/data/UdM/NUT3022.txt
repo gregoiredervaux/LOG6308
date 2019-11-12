@@ -1,0 +1,2 @@
+TitreCours: Gestion financiere/syst. d'inf. des S.A.
+DescriptionCours: Comptabilite. Documents comptables propres aux services d'alimentation (S.A.). Budget des S.A. sans but lucratif ou a profit. Controle des coûts. Systemes d'information et leurs applications liees a la gestion des services d'alimentation.

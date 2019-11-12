@@ -1,0 +1,2 @@
+TitreCours: Psychodynamique du travail
+DescriptionCours: La psychodynamique du travail en tant que discipline scientifique inherente au champ de la SST; buts, methodes, usages.

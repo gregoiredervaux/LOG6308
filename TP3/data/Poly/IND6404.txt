@@ -1,0 +1,2 @@
+TitreCours: Étude de cas en ergonomie
+DescriptionCours: Examen de problemes rencontres dans des taches de nature physique et cognitive relevant de la sante, de la securite, et de la productivite du travail. Presentation de cas pratiques. Analyse du probleme, choix de la demarche methodologique, choix des methodes, modalites de la cueillette de donnees et mesures. Interpretation des resultats et conception d'une solution possible. Implantation de la solution et examen des changements prevus a l'environnement de travail.

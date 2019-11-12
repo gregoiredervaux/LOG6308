@@ -1,0 +1,2 @@
+TitreCours: Financial Mathematics
+DescriptionCours: The objective of this course is to familiarize the students with the techniques used to solve the most frequent problems relating to the value of money in time. The principal financial applications are those relating to financing and management of investments.

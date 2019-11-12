@@ -1,0 +1,2 @@
+TitreCours: Dessin 1
+DescriptionCours: Maitrise du langage de base du dessin. Exploration de ses caracteristiques et travail avec le modele. Utilisation du dessin comme un outil pour l'expression artistique creative.

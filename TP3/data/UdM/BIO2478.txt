@@ -1,0 +1,2 @@
+TitreCours: Herpetologie
+DescriptionCours: Biologie comparee des amphibiens et des reptiles: classification, phylogenie, biogeographie, morphologie, physiologie, ecologie et ethologie des differents ordres. Problemes actuels en herpetologie.

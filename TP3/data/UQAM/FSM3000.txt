@@ -1,0 +1,2 @@
+TitreCours: Histoire des sciences
+DescriptionCours: Évolution de concepts et de theories scientifiques. Étude des lois de la nature. Les etapes de la methode experimentale. Exemples dans differentes disciplines: chimie, biologie, physique, etc. L'explication scientifique et le developpement des sciences. La place des sciences dans la connaissance humaine.

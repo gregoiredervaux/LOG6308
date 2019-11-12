@@ -1,0 +1,2 @@
+TitreCours: Controle strategique
+DescriptionCours: Role de l'information et des pratiques en comptabilite de management permettant le deploiement de la strategie, la mesure et le suivi de la performance organisationnelle (coût, risque et valeur), le controle et la gouvernance. Évolution des pratiques dans la perspective des transformations economiques, sociales et organisationnelles.

@@ -1,0 +1,2 @@
+TitreCours: Histoire du Quebec, 1960 a nos jours
+DescriptionCours: Vue d'ensemble de l'histoire recente du Quebec : population, economie, societe, vie politique et expressions culturelles.

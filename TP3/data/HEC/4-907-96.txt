@@ -1,0 +1,2 @@
+TitreCours: Attestation
+DescriptionCours: Ce cours presente un cadre conceptuel des missions d'attestation et etudie l'objet, la portee et les normes de celles qui different de la verification des etats financiers. On y abordera le cadre conceptuel des missions d'attestation, les missions d'examen et de compilation, les missions d'attestation autres que la verification ou l'examen d'etats financiers et les missions propres au secteur public. &nbsp;

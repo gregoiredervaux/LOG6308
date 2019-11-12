@@ -1,0 +1,2 @@
+TitreCours: Asservissements
+DescriptionCours: Introduction aux systemes asservis. Transformee de Laplace. Modelisation : schemas-blocs, homologies electromecaniques. Fonctions de transfert. Reponse temporelle. Reponse en frequence. Analyse en chaine fermee : controleurs PID, ecarts en regime permanent. Stabilite. Techniques de Routh-Hurwith et du lieu des racines. Simulation et analyse a l'aide de l'ordinateur.

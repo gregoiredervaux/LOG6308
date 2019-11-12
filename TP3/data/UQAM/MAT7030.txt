@@ -1,0 +1,2 @@
+TitreCours: Topologie generale
+DescriptionCours: Definitions fondamentales. Filtres et suites generalisees. Applications continues. Axiomes de separation. Espaces compacts. Methodes de definition d'une topologie. Connexion. Espaces produits. Structures uniformes. Espaces metriques. Theoreme de Baire.

@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Ce cours s'adresse a un auditoire non specialise et vise a expliquer le role important de l'atome dans le monde technologique actuel. L'evolution de la notion d'atome au cours des siecles. L'atome d'aujourd'hui: principes physique de base. Les radiations atomiques et nucleaires (photons, rayons X, alpha, beta, gamma, ultra violet, infra rouge...). Le laser, le reacteur nucleaire, la phosphorescence et la fluorescence, l'irradiation des aliments, autres applications selon l'interet des etudiants.

@@ -1,0 +1,2 @@
+TitreCours: Mathematiques de l'assurance-vie 2
+DescriptionCours: Suite du cours ACT 2250 : application des fonctions biometriques a l'assurance-vie et sante; annuite, rentes. Ce cours contribue a la preparation des examens SOA MLC et CAS 3.

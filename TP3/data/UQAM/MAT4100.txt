@@ -1,0 +1,2 @@
+TitreCours: Initiation aux categories
+DescriptionCours: Definition d'une categorie; sous-categorie. Exemples. Morphismes particuliers. Foncteurs: foncteurs adjoints. Categories des foncteurs. Diagramme; limite a gauche et limite a droite des diagrammes. Categories additives; categories abeliennes.

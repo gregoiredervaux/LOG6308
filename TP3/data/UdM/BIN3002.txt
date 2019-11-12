@@ -1,0 +1,2 @@
+TitreCours: Integration biosciences/informatique 2
+DescriptionCours: Partie 1: Bases de donnees biologiques: conception et creation; unification de la terminologie biologique. Partie 2 : Survol des modeles d'apprentissage machine utilises en bio-informatique.

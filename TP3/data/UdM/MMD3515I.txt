@@ -1,0 +1,2 @@
+TitreCours: Stage : Soins intensifs pediatriques
+DescriptionCours: Stage clinique offrant une vue globale de la pediatrie en soins intensifs pediatriques.

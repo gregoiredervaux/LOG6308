@@ -1,0 +1,2 @@
+TitreCours: Modeles et programmes d'intervention
+DescriptionCours: Modeles conceptuels et theoriques utiles a l'elaboration, a l'implantation et a l'evaluation de programmes de depistage de prevention et de soutien. Évaluation et soutien aux competences parentales. Presentation des modeles de recherche evaluative.

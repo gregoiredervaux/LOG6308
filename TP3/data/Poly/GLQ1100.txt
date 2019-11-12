@@ -1,0 +1,2 @@
+TitreCours: Geologie generale
+DescriptionCours: Identification des mineraux les plus repandus. Origine et classification des roches ignees, sedimentaires et metamorphiques. Érosion, transport et depots d'origine fluviatile, eolienne, glaciaire et marine. Temps geologiques et tectonique des plaques. Seismicite. Structures geologiques. Geologie du Quebec. Le Quaternaire de la vallee du Saint-Laurent.

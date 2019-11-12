@@ -1,0 +1,2 @@
+TitreCours: Ambulatoire equine
+DescriptionCours: Deux semaines de stage en clinique ambulatoire equine.

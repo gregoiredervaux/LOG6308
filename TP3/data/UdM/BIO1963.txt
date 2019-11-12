@@ -1,0 +1,2 @@
+TitreCours: Origine et diversite du vivant : T.P.
+DescriptionCours: Initiation a la microscopie et a des techniques biologiques comme la spectrophotometrie et la centrifugation. Étude de l'osmose. Procaryotes versus eucaryotes. Notions de biodiversite: mycetes, plantes, invertebres, vertebres.

@@ -1,0 +1,2 @@
+TitreCours: Projet de conception et de fabrication
+DescriptionCours: Projet d'equipe sur le design et la fabrication d'un prototype d'une piece selon un cahier des charges. Conception de l'outillage necessaire a la fabrication de la piece apres approbation du prototype. Outils de DAO, CAO et FAO utilises. Le projet fera l'objet d'un rapport qui doit presenter l'etat de la question, le developpement de la solution choisie, les resultats et les conclusions. Le projet fera aussi l'objet d'une presentation orale publique devant un jury d'evaluation.

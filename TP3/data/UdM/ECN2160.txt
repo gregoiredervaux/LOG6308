@@ -1,0 +1,2 @@
+TitreCours: Économetrie 2
+DescriptionCours: La regression multiple : hypotheses de base, estimation par moindres carres ordinaires et maximum de vraisemblance, proprietes des estimateurs. Quelques extensions du modele. Modeles de choix discrets. Exemples d'application.

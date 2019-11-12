@@ -1,0 +1,2 @@
+TitreCours: Sujets speciaux
+DescriptionCours: Cette activite vise a permettre aux etudiants du doctorat en philosophie de suivre, exceptionnellement, un cours de philosophie du niveau de la maitrise, lorsque le sujet du cours s'apparente a leur domaine de recherche. Pour s'inscrire a cette activite, l'etudiant doit obtenir l'accord du directeur du programme.

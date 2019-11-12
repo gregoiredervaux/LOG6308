@@ -1,0 +1,2 @@
+TitreCours: Litterature du piano 3
+DescriptionCours: Étude de la litterature du piano de Faure jusqu'a nos jours, a travers les compositeurs et les oeuvres qui ont marque l'evolution du langage musical et pianistique. Approche historique, stylistique, formelle et technique.

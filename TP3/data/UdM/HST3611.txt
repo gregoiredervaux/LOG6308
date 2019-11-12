@@ -1,0 +1,2 @@
+TitreCours: Problemes d'histoire
+DescriptionCours: Étude de controverses historiques concernant une region ou une epoque.

@@ -1,0 +1,2 @@
+TitreCours: Stage : Neurologie
+DescriptionCours: Stage clinique aupres des malades ambulants ou hospitalises dans la specialite neurologie.

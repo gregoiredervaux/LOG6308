@@ -1,0 +1,2 @@
+TitreCours: Laboratoire en neurocognition musicale 1
+DescriptionCours: Initiation a la recherche en neurocognition musicale sur la base d'un travail de recherche en equipe : revue de litterature, formulation precise de questions et d'hypotheses, methodes experimentales, collecte et analyses de donnees.

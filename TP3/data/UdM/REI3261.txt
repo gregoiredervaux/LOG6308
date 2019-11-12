@@ -1,0 +1,2 @@
+TitreCours: SST et approche ergonomique
+DescriptionCours: A l'aide d'etudes de cas, analyse de situations impliquant des questions de sante et de securite au travail : facteurs d'accidents du travail et risques de maladies professionnelles et approche ergonomique.

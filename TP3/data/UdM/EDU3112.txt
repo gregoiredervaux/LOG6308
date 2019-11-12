@@ -1,0 +1,2 @@
+TitreCours: Stage d'enseignement 2
+DescriptionCours: Prise en charge supervisee d'un ou de groupes d'eleves. Accent sur la gestion de la classe, le soutien aux EHDAA et l'evaluation des apprentissages.

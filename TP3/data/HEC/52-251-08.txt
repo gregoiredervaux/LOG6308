@@ -1,0 +1,2 @@
+TitreCours: Corporate Finance I
+DescriptionCours: This is the first part of the two MBA core courses in corporate finance. This first course&nbsp;Corporate Finance I introduce the effect of the time value of money and the discounting techniques necessary to analyze and implement optimal investment decisions by firms.&nbsp;

@@ -1,0 +1,2 @@
+TitreCours: Philologie 1 : ancien et moyen francais
+DescriptionCours: Analyse philologique de documents litteraires et linguistiques (XIIe - XVe s.). Fragmentation lexicale et formation idiomatique en ancien et en moyen francais.

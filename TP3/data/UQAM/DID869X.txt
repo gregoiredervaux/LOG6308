@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique en enseignement superieur
+DescriptionCours: Ce seminaire, a contenu variable, a comme objectif l'approfondissement des theories, problematiques et orientations de la recherche portant sur un theme particulier relatif au domaine de l'enseignement superieur. Le contenu exact de ce cours est precise au trimestre ou il se donne et doit etre approuve par le comite de programme.

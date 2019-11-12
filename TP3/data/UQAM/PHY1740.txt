@@ -1,0 +1,2 @@
+TitreCours: Énergie et chaleur
+DescriptionCours: Approfondissement des concepts enseignes dans le cadre du programme de physique au secondaire. Concept d'energie. Differentes manifestations de l'energie. Chaleur. Temperature. Calorimetrie. Chaleur specifique. Dilatation. Pression. Variables thermodynamiques. Équation d'etat. Transformations thermodynamiques. Transmission de chaleur. Évaporation. Fusion. Travaux pratiques.

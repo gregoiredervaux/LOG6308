@@ -1,0 +1,2 @@
+TitreCours: Projet technologique
+DescriptionCours: Cours relevant de l'É.T.S. Identification d'une situation probleme comportant des aspects scientifiques et technologiques. Recherche de solutions scientifiques et technologiques. Conception d'un projet de fabrication d'un objet: plan, cahier de charges, prototype, etc. Utilisation des technologies informatiques (CA0, FAO). Analyse des impacts environnementaux. Bilan d'identification des apprentissages realises.

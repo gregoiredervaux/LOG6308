@@ -1,0 +1,2 @@
+TitreCours: Gestion de projets et cooperation
+DescriptionCours: La gestion de projets abordee a travers des modeles inspires de divers champs d'activites : processus, adaptation aux particularites culturelles, forces et limites de divers modeles. Pratiques alternatives.

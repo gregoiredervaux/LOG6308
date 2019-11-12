@@ -1,0 +1,2 @@
+TitreCours: Lecture technique en anglais
+DescriptionCours: Developpement de la comprehension ecrite par la lecture de documents techniques. Articles generaux et scientifiques, rapports et normes. Acquisition de vocabulaire general et technique. Revision de la grammaire fondamentale. Ateliers et discussions en classe au sujet des divers articles presentes.

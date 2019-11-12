@@ -1,0 +1,2 @@
+TitreCours: Groupe de codeveloppement
+DescriptionCours: Definition, principes, etapes, roles, conditions de succes. Étude attentive d'une situation vecue par l'etudiant, partage de savoirs pratiques et de connaissances theoriques. Échanges et intervision en vue d'ameliorer la pratique professionnelle.

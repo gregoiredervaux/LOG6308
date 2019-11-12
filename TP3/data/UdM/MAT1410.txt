@@ -1,0 +1,2 @@
+TitreCours: Calcul 2
+DescriptionCours: Calcul vectoriel : divergence, rotationnel, laplacien. Formules de Green-Riemann, de Stokes et theoreme de la divergence. Introduction aux equations differentielles. Équations differentielles lineaires d'ordre un et deux.

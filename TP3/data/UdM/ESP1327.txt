@@ -1,0 +1,2 @@
+TitreCours: Civilisation hispano-americaine 2
+DescriptionCours: Étude approfondie des aspects culturels specifiques aux aires geographiques hispano-americaines.

@@ -1,0 +1,2 @@
+TitreCours: Optique geometrique
+DescriptionCours: Principes fondamentaux de la catoptrique et de la dioptrique. Systemes centres. Applications a l'instrumentation clinique et a l'optique oculaire.

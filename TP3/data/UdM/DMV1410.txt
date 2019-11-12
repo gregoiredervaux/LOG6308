@@ -1,0 +1,2 @@
+TitreCours: Comportement animal
+DescriptionCours: Comportement normal des animaux domestiques. Principes generaux d'apprentissage chez les animaux et utilisation potentielle de ces notions en medecine veterinaire.

@@ -1,0 +1,2 @@
+TitreCours: Systemes de support en gestion de projet
+DescriptionCours: Le cours a pour objectif de familiariser l'etudiant avec les principaux systemes de support et notamment: les systemes de gestion et controle de la qualite; les systemes de comptabilite par activites, de controle des coûts et d'analyse des ecarts; les procedures d'approvisionnement et de passation des contrats; les tableaux de bord de projet et les rapports de gestion.

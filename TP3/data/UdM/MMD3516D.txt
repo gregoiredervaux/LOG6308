@@ -1,0 +1,2 @@
+TitreCours: Stage : Psychosomatique
+DescriptionCours: Stage clinique en psychosomatique.

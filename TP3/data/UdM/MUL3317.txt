@@ -1,0 +1,2 @@
+TitreCours: Terrains musicaux
+DescriptionCours: Initiation aux techniques d'enquete et d'analyse musicales par le truchement de presentation de divers terrains menes en ethnomusicologie (musiques creole, indienne, inuit, suisse, francaise, amerindienne...).

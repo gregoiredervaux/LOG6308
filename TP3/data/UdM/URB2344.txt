@@ -1,0 +1,2 @@
+TitreCours: Gestion de l'environnement et urbanisme
+DescriptionCours: Application des concepts ecologiques a l&rsquo;intervention sur les milieux urbains. Integration de valeurs et des contraintes du developpement durable dans l&rsquo;intervention urbanistique. Acquisition d&rsquo;une connaissance operationnelle des outils.

@@ -1,0 +1,2 @@
+TitreCours: Industrie pharmaceutique veterinaire
+DescriptionCours: Deux semaines de stages au sein d'une organisation pharmaceutique canadienne reliee a la medecine veterinaire.

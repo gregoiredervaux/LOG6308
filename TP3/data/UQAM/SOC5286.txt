@@ -1,0 +1,2 @@
+TitreCours: Atelier de methodologie quantitative 1
+DescriptionCours: Ce cours permet aux etudiants d'effectuer une demarche de methodologie quantitative dans son ensemble. Mise en pratique des methodes d'analyse des sources de donnees primaires et secondaires apres avoir determine un objet specifique en relation avec le groupe-cours.

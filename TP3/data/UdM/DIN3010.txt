@@ -1,0 +1,2 @@
+TitreCours: Atelier de design 4
+DescriptionCours: Conception et realisation d'un objet ou d'un systeme jusqu'aux details de fabrication et de deploiement. Projet realise dans le cadre d'un theme propose, lequel correspond a un domaine de concentration du programme.

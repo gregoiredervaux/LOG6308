@@ -1,0 +1,2 @@
+TitreCours: Programmation en Visual Basic
+DescriptionCours: Programmation par evenements et orientee objet avec Visual Basic. Classes d'objets, composants ActiveX et .NET, connexions aux bases de donnees, controle d'applications Windows (VBA).

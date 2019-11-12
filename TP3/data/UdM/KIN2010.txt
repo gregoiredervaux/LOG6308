@@ -1,0 +1,2 @@
+TitreCours: Croissance et developpement moteur
+DescriptionCours: Developpement de l'aptitude physique et motrice chez l'humain. Effets de la pratique d'activites physiques sur la croissance et le developpement : exercices, intensites et frequences en fonction de l'age.

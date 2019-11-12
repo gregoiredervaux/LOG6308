@@ -1,0 +1,2 @@
+TitreCours: Anatomie veterinaire
+DescriptionCours: Anatomie des especes animales d'importance veterinaire. Étude des particularites morphologiques de ces especes. Une attention speciale est accordee aux structures d'interet medical et chirurgical.

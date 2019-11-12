@@ -1,0 +1,2 @@
+TitreCours: Pathologie buccale
+DescriptionCours: Pathogenese, histopathologie, presentation clinique et radiologique, traitement des lesions des tissus durs et mous de la cavite buccale. Demonstrations pratiques au laboratoire avec pieces macroscopiques et coupes histopathologiques.

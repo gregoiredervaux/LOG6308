@@ -1,0 +1,2 @@
+TitreCours: Projet de memoire I
+DescriptionCours: Le «projet de memoire I» qui compte pour trois credits, est la realisation par le candidat du cheminement prealable a sa recherche principale de maitrise. Il se presente sous la forme d'un document complet faisant le point de la question dans la litterature scientifique et est etaye par une bibliographie critique du theme du memoire. Cette partie de la recherche est faite sous le controle du directeur du memoire.

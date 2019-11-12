@@ -1,0 +1,2 @@
+TitreCours: Sc. humaines, adapt. scol. au secondaire
+DescriptionCours: Savoirs de reference. Programme, demarche d'apprentissage et ressources. Adaptation des interventions aux eleves en difficulte du secondaire.

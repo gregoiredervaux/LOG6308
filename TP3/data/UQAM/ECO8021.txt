@@ -1,0 +1,2 @@
+TitreCours: Finances internationales
+DescriptionCours: Analyse theorique et empirique des finances internationales. Determinants et dynamique de la balance des paiements et des taux de change; efficience du marche des changes; attaques speculatives et crises de la balance des paiements; intervention optimale sur le marche des actifs; transmission internationale de l'inflation et des cycles economiques; coordination internationale des politiques de stabilisation; systeme monetaire international.

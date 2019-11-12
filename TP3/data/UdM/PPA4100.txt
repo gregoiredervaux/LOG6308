@@ -1,0 +1,2 @@
+TitreCours: Gestion de classe/besoins particuliers
+DescriptionCours: Organisation et gestion des groupes integrant des eleves ayant des difficultes d'apprentissage ou de comportement. Impact des differentes pratiques sur l'engagement et la reussite des eleves a besoins particuliers. Collaboration avec la famille.

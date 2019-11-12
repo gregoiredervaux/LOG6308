@@ -1,0 +1,2 @@
+TitreCours: Codes a longueur variable
+DescriptionCours: Codes prefixes, structure combinatoire des codes biprefixes, methodes syntaxiques et series formelles, groupes associes aux codes, methodes probabilistes, conjugaison, factorisations du monoide libre et bases de l'algebre de Lie libre, factorisation des codes, equivalence commutative, semi-simplicite des algebres syntaxiques des codes biprefixes.

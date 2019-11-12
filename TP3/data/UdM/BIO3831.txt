@@ -1,0 +1,2 @@
+TitreCours: Oceanographie
+DescriptionCours: L'ocean comme ecosysteme. L'accent sera mis sur les processus qui influencent la productivite du plancton a petite echelle (physiologie/biochimie) et a grande echelle (bassin oceanique/globale).

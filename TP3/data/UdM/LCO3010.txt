@@ -1,0 +1,2 @@
+TitreCours: Theories de la litterature
+DescriptionCours: Survol des principales formes de theorisation du phenomene litteraire selon leurs perspectives propres : sociologiques, semiologiques, poetiques, esthetiques, etc.

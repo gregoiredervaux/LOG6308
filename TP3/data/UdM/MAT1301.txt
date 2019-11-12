@@ -1,0 +1,2 @@
+TitreCours: Mathematiques elementaires
+DescriptionCours: Geometrie analytique. Algebre superieure. Theorie des equations. Theorie des graphes et applications.

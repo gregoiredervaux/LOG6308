@@ -1,0 +1,2 @@
+TitreCours: Integration 2
+DescriptionCours: Activite transversale (expositions, exercices, concours) ayant pour objectif de permettre aux etudiants de mettre en relation critique textes, dessins, maquettes et modeles numeriques comme formes d'expression d'un projet architectural.

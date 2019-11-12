@@ -1,0 +1,2 @@
+TitreCours: Systemes d'aeronefs
+DescriptionCours: Configuration et fonctionnement du train d'atterrissage. Alimentation en carburant. Circuits d'oxygene. Securite. Degivreurs et antigivreurs. Climatisation et pressurisation. Pilotage automatique. Circuits hydrauliques. Systemes de communication.

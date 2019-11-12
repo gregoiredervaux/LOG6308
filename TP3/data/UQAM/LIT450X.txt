@@ -1,0 +1,2 @@
+TitreCours: Lecture de films
+DescriptionCours: Etre a meme d'envisager un corpus filmique selon un ordre de questions specifiques. Analyser les films choisis a partir d'un point de vue determine par des interrogations esthetiques, historiques, theoriques ou critiques diverses. Utilisation de materiel informatique (meuble multimedia).

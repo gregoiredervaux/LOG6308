@@ -1,0 +1,2 @@
+TitreCours: These
+DescriptionCours: La these presente la synthese des travaux de recherche de l'etudiant. Elle doit comporter un caractere inedit et constituer un apport original a l'avancement des connaissances dans le domaine de l'informatique cognitive. Elle doit etre soutenue publiquement devant un jury forme selon les reglements de l'universite.

@@ -1,0 +1,2 @@
+TitreCours: Capteurs et instrumentation biomedicale
+DescriptionCours: Conception des circuits electroniques des systemes de monitoring et de diagnostic utilises en mede-cine. Structure type d'un instrument biomedical. Normes de securite. Circuits electroniques de base pour le conditionnement du signal. Approches pour diminuer l'interference et le bruit. Principes de fonctionnement de divers types de capteurs : changement d'impedance, sources de potentiel, rayon-nement, optique, biochimique. Applications : biopotentiels, parametres physiologiques, imagerie medicale.

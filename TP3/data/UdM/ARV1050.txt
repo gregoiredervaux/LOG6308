@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'archivistique
+DescriptionCours: Methode de travail. Ressources documentaires. Histoire. Disciplines apparentees. Terminologie. Categories et types de documents. Notions fondamentales. Fonctions. Legislations. Institutions et reseaux. Presentation d'un logiciel de gestion.

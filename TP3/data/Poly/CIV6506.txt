@@ -1,0 +1,2 @@
+TitreCours: Calcul avanc des charpentes d'acier
+DescriptionCours: Proprits des aciers de structures. Calcul aux tats limites. Assemblages excentriques boulonns et souds. Analyse statique des structures avec cbles. Poutres courbes. Pices d'acier mince formes  froid. Systmes structuraux pour btiments multi-tags. Calcul plastique des charpentes d'acier. Calcul parasismique des charpentes de btiments.

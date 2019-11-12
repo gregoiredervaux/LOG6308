@@ -1,0 +1,2 @@
+TitreCours: Langage, pensee et connaissance
+DescriptionCours: Introduction a la philosophie anglo-americaine du XXe siecle et a la « philosophie analytique » : analyse du langage comme methode de decouverte philosophique; Frege, Russell, Wittgenstein, Searle, Putnam, Rorty et Goodman.

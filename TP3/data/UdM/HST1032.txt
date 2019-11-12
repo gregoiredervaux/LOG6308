@@ -1,0 +1,2 @@
+TitreCours: Histoire du Moyen Age
+DescriptionCours: Cours d'introduction a l'histoire de la civilisation occidentale de la basse Antiquite au XVe siecle.

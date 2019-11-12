@@ -1,0 +1,2 @@
+TitreCours: Optimisation des reseaux logistiques et de transport
+DescriptionCours: La conception de reseaux logistiques performants est un enjeu strategique majeur dans les entreprises. La logistique est aussi un champ d'application privilegie pour les outils informatises d'aide a la decision. Le cours vise a initier les etudiants aux differents outils d'optimisation disponibles pour resoudre les nombreux problemes de planification de la chaine logistique et du transport aux niveaux strategique, tactique, operationnel et meme en temps reel.&nbsp;

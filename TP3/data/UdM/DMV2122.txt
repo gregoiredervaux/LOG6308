@@ -1,0 +1,2 @@
+TitreCours: Biopathologie veterinaire
+DescriptionCours: Processus pathologiques medicaux veterinaires : pathologie cellulaire; malformations et anomalies chromosomiques; inflammation et reparation tissulaire; immunopathologie; troubles circulatoires; neoplasie; pigments et depots mineraux.

@@ -1,0 +1,2 @@
+TitreCours: Projet de btiment durable
+DescriptionCours: Ce cours amne l'tudiant  entreprendre un projet de btiment durable. Que ce soit une rnovation, l'ajout d'une partie de btiment ou un nouveau btiment, l'tudiant devra proposer des mesures concrtes pour rendre ce btiment durable et valuer en dtail les impacts de ces mesures. Ce travail se fait en quipe et chaque tudiant doit y contribuer selon son cheminement acadmique personnel. Le travail final devra tre prsent et dfendu devant un groupe de juges experts du domaine.

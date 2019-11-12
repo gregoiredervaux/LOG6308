@@ -1,0 +1,2 @@
+TitreCours: Communication marketing et technologies de communication
+DescriptionCours: Ce cours permettra aux futurs communicateurs d'acquerir les connaissances necessaires permettant de planifier et d'orchestrer un projet de communication marketing en faisant appel a l'ensemble des moyens a sa disposition. Le processus de planification media sera revu en detail : de l'analyse du contexte au deploiement des moyens et de la mesure de performance. Forces et faiblesses de chaque media seront analysees.

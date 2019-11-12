@@ -1,0 +1,2 @@
+TitreCours: Rheologie des polymeres
+DescriptionCours: Phenomenes rheologiques pour les polymeres fondus ou en solution. Analyse de problemes dans l'industrie des plastiques, des caoutchoucs, des peintures, dans l'industrie pharmaceutique et alimentaire. Comportements non newtoniens des fluides complexes. Viscoelasticite et theories moleculaires s'appliquant aux phenomenes importants observes avec les polymeres. Projet de laboratoire sur les methodes modernes de la rheometrie.

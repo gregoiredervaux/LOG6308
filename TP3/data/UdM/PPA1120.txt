@@ -1,0 +1,2 @@
+TitreCours: L'adolescent et l'ecole secondaire
+DescriptionCours: Sensibilisation aux problematiques contemporaines de l'adolescence. Environnements et developpements psychosociaux des eleves. Études de cas.

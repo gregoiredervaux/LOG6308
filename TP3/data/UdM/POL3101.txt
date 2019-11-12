@@ -1,0 +1,2 @@
+TitreCours: Marketing politique
+DescriptionCours: Étude des grands concepts du marketing, etude du marketing politique proprement dit et examen d'un certain nombre d'applications pratiques notamment durant les campagnes electorales.

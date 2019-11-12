@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Étude des theories concernant le developpement langagier de l'enfant d'age prescolaire. Bilan des recherches dans ce domaine. Experimentation et analyse de situations diagnostiques ou d'apprentissage s'inspirant de travaux didactiques sur l'activite langagiere orale et ecrite, chez des enfants d'age prescolaire.

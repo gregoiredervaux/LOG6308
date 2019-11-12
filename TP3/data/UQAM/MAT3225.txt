@@ -1,0 +1,2 @@
+TitreCours: Didactique de la variable et de la fonction
+DescriptionCours: Preparer a l'enseignement au niveau secondaire des notions reliees aux concepts de variable, d'inconnue et de fonction. Analyse d'approches diverses et exploitation de resultats de recherches recentes: conceptions et difficultes des eleves, notion de variable, representations graphiques, utilisation de diagrammes, liens entre diverses representations. Utilisation de la calculatrice graphique en classe. Analyse d'instruments de mesure et d'evaluation. Seances d'exercices (2 heures par semaine).

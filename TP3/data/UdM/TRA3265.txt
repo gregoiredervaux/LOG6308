@@ -1,0 +1,2 @@
+TitreCours: Langues medicale et pharmacologique
+DescriptionCours: Étude en contexte bilingue des notions, de la terminologie et de la phraseologie des textes M/P. Caracteristiques linguistiques du discours M/P. Demarche d'apprentissage et outils specialises. Problemes specifiques de transfert.

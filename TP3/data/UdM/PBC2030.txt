@@ -1,0 +1,2 @@
+TitreCours: Pathologie speciale en dentisterie
+DescriptionCours: Lecons theoriques concernant les aspects pathologiques fondamentaux des maladies des differents systemes (cardiaque, respiratoire, etc.) en relation avec la medecine dentaire.

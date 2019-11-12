@@ -1,0 +1,2 @@
+TitreCours: Recherche-action
+DescriptionCours: Planification, realisation et evaluation d'un projet specifique servant a promouvoir l'activite physique dans un milieu parascolaire ou communautaire. Recherche appliquee.

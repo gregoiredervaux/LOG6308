@@ -1,0 +1,2 @@
+TitreCours: Seminaire sectoriel
+DescriptionCours: Historique de l'approche behavoriale. Les differents modeles utilises dans le courant behavioral pour expliquer l'apprentissage et l'evolution du comportement. La situation actuelle de l'approche behaviorale contemporaine. Les principales tendances et orientations dans les methodes d'intervention behaviorales. Les controverses inherentes a l'existence de ces diverses tendances.

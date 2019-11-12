@@ -1,0 +1,2 @@
+TitreCours: Oncologie canine et feline
+DescriptionCours: Principes de l'evaluation et de la formulation d'un plan therapeutique chez les animaux de compagnie atteints d'un cancer avec une emphase sur les therapies specifiques (chimiotherapie et radiotherapie) et la communication avec le proprietaire.

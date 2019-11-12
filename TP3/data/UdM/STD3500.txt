@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de demographie statistique
+DescriptionCours: Synthese des connaissances en statistique et en demographie par l'exploration et l'analyse d'une base de donnees demographiques. Presentation des donnees et de la methodologie statistique. Discussion et interpretation des resultats.

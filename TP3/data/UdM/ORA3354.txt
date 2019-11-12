@@ -1,0 +1,2 @@
+TitreCours: Troubles de l'articulation
+DescriptionCours: Étude approfondie des troubles de l'articulation. Correlats structuraux, neurologiques et comportementaux. Approches specifiques a l'evaluation, la reeducation et la readaptation.

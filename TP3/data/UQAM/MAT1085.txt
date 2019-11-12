@@ -1,0 +1,2 @@
+TitreCours: Probabilites et statistiques
+DescriptionCours: Presenter les principes fondamentaux des probabilites et de ses applications a la statistique. Permettre de developper une appreciation du role des modeles probabilistes dans les sciences sociales, physique et biologiques. Statistiques descriptives. Probabilites. Variables aleatoires. Lois discretes. Lois continues. Estimation ponctuelle. Intervalles de confiance. Tests d'hypotheses. Tests du Khi-deux. Analyse de la variance. Regression lineaire simple.

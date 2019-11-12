@@ -1,0 +1,2 @@
+TitreCours: Analyse et resolution de problemes
+DescriptionCours: Le travail de consultant consiste dans la plupart des cas a etre capable, a partir de situations complexes, de resoudre des problematiques qui font l'objet de la demande du client. Le conseiller doit donc etre habilite a utiliser les principales techniques de resolution de problemes (Pareto, Delphi, PSP). Il apprendra egalement a utiliser ces modeles dans divers contextes de groupe, de collectivite ou d'organisation.

@@ -1,0 +1,2 @@
+TitreCours: Projet de fin d'tudes
+DescriptionCours: Sous la direction d'un professeur du dpartement, l'tudiant complte un projet qu'il a choisi  mme une liste des projets du dpartement. L'tudiant peut galement raliser un projet qu'il a conu, aprs l'avoir fait approuver par un professeur du dpartement. Le projet est rdig et prsent selon des normes professionnelles. Le professeur guide l'tudiant vers les travaux les plus importants.

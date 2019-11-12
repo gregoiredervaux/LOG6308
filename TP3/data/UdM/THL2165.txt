@@ -1,0 +1,2 @@
+TitreCours: Grec biblique elementaire
+DescriptionCours: Initiation au grec biblique (Koine). Morphologie : conjugaisons, declinaisons, vocabulaire. Syntaxe elementaire : phrase, type de propositions. Lecture et traduction de textes du Nouveau Testament.

@@ -1,0 +1,2 @@
+TitreCours: Medecine de population avicole
+DescriptionCours: Deux semaines de travaux en medecine de population avicole.

@@ -1,0 +1,2 @@
+TitreCours: Gestion financiere dans les entreprises collectives
+DescriptionCours: Ce cours vise une initiation aux techniques d'analyse et de prevision des fonds dans une entreprise. Y sont traitees les differentes sources de financement disponibles et les choix necessaires en termes de coûts et de risques pour l'atteinte d'une politique financiere optimale. Les dimensions specifiques de la gestion financiere de l'entreprise collective seront aussi abordees.

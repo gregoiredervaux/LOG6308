@@ -1,0 +1,2 @@
+TitreCours: La gestion de projet et son contexte
+DescriptionCours: L'objectif general du cours est de cerner les enjeux et les perspectives du domaine de la gestion de projet et de situer le processus de conception de projet dans son contexte strategique et organisationnel. De facon plus specifique, le cours presente le domaine de la gestion de projet incluant ses fondements conceptuels, son contexte strategique et organisationnel et les roles de chef de projet ainsi que les principales particularites et habiletes inherentes a la gestion de projet.

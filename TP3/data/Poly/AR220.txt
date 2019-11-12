@@ -1,0 +1,2 @@
+TitreCours: Systmes lectriques embarqus
+DescriptionCours: Systmes d'clairage. Contrle hydraulique. Systmes de contrle des volets et du stabilisateur. Contrle et indication d'tat du train d'atterrissage. Systmes d'antiblocage des roues et de conduite au sol. Systme d'indication d'tat des portes. Systmes de contrle du conditionnement d'air et de pressurisation. Systme de contrle du carburant. Systme de protection contre le dcrochage.

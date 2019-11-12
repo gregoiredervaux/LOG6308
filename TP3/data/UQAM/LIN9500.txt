@@ -1,0 +1,2 @@
+TitreCours: Phonetique experimentale
+DescriptionCours: Ce seminaire porte sur les theories les plus recentes en observation, analyse et interpretation des donnees de phonetique articulatoire, acoustique et perceptuelle. Étude des interrelations possibles des theories proposees dans le domaine et des perspectives d'avenir.

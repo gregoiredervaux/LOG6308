@@ -1,0 +1,2 @@
+TitreCours: Modeles hydrologiques
+DescriptionCours: Étude et utilisation de differents modeles hydrologiques. Modeles de simulation et d'optimisation; modeles elementaires et complexes; modeles en milieu urbain et en milieu rural; modeles pour les aspects quantitatifs et qualitatifs; modeles a court terme et a long terme.

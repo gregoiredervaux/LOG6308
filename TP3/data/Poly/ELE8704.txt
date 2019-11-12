@@ -1,0 +1,2 @@
+TitreCours: Transmission de donnees et reseaux internet
+DescriptionCours: Reseau Internet et reseau telephonique. Rappel du modele TCP/IP. Commutation, multiplexage, adressage, routage, et controle de congestion. Modeles de performance de reseaux. Fiabilite, qualite de service, differentiation de services, disciplines de services. Voix, video et television sur IP. Reseaux dedies. Reseaux P2P. Reseaux de diffusion de contenu (Content Delivery Networks). Problematique et technologies des reseaux multiservice a large bande. Sujets speciaux.

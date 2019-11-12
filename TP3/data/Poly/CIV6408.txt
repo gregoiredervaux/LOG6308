@@ -1,0 +1,2 @@
+TitreCours: Gotechnique des rgions froides
+DescriptionCours: Proprits thermiques des matriaux terrestres et calculs thermotechniques. Gel et dgel. Tassement d au dgel. Soulvement d au gel. Rhologie des sols gels. Mesure sur place des proprits mcaniques du perglisol. Capacit portante des fondations directes et des pieux en perglisol. Stabilit des talus lors du dgel.

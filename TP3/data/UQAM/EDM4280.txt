@@ -1,0 +1,2 @@
+TitreCours: Organisation du travail en television
+DescriptionCours: Ce cours couvre les aspects techniques et theoriques qui regissent la production d'emissions de television ainsi que les rapports entre les membres d'une equipe de television. Le cours aborde la question du vocabulaire technique et du langage en television. Étude des particularites entourant la production en exterieur et en studio de divers types d'emissions: information, variete, dramatique, fiction, musique, talkshow, etc.

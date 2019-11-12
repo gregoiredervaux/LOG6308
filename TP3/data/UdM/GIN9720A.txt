@@ -1,0 +1,2 @@
+TitreCours: Biophotonique (GBM8802)
+DescriptionCours: Bases de l'optique moderne. Interaction lumiere-matiere. Instrumentation en biophotonique: sources, capteurs, detection temporelle et spectrale. Applications en biologie et en medecine (diagnostiques, therapeutiques).

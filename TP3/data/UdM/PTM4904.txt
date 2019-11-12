@@ -1,0 +1,2 @@
+TitreCours: Microbiologie et ecologie alim. vet.
+DescriptionCours: Évolution de la microflore a travers differentes etapes de la transformation des viandes. Facteurs intrinseques et extrinseques au controle des microflores d'alteration et pathogenes d'un point de vue veterinaire.

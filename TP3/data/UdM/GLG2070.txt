@@ -1,0 +1,2 @@
+TitreCours: Sedimentologie
+DescriptionCours: Formation des sediments, transport et sedimentation. Structures syngenetiques et diagenetiques. Les sediments terrigenes et chimiques. Diagenese. Tectonique et sedimentation.

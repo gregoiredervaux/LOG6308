@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Cours global sur l'etre humain et son environnement a l'aide de l'approche systemique. Étude des principes des systemes et de l'approche systemique. Utilisation de cette methodologie pour la comprehension des grandes questions relatives a l'etre humain et a son environnement. Application a un secteur particulier de l'environnement, au sein d'un travail de trimestre.

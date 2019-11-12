@@ -1,0 +1,2 @@
+TitreCours: Prothese complete clinique 1
+DescriptionCours: Seances de travaux cliniques pour la realisation de protheses completes sur un patient totalement edente.

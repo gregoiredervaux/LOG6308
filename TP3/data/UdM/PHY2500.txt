@@ -1,0 +1,2 @@
+TitreCours: Physique de la matiere condensee
+DescriptionCours: Structures cristallines. Dynamique du reseau. Bandes d'energie et dynamique des electrons. Metaux. Semi-conducteurs. Isolants. Proprietes dielectriques et magnetiques.

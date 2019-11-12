@@ -1,0 +1,2 @@
+TitreCours: Stage de recherche
+DescriptionCours: Ce stage a pour objectif de permettre a l'etudiant de se familiariser avec certaines composantes du travail de recherche en didactique (aspects theoriques et methodologiques, travail sur le terrain, analyse de donnees...) et de recueillir les informations pertinentes a son travail de recherche. Cet objectif pourra etre atteint, par exemple, par une integration a une equipe de recherche en enseignement des mathematiques ou par des visites de centres ou d'ecoles dans lesquelles des projets de recherche sont en cours.

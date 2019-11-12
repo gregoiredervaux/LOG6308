@@ -1,0 +1,2 @@
+TitreCours: Semantique 2
+DescriptionCours: Ce seminaire porte sur l'analyse de problemes de pointe en semantique. Des analyses recentes seront discutees et evaluees du point de vue de leur adequation empirique et de leur contribution theorique. On etudiera egalement la place de la semantique dans un modele grammatical et son interaction avec les autres composantes de la grammaire.

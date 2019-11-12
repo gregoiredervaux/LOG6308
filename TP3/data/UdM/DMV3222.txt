@@ -1,0 +1,2 @@
+TitreCours: Immunologie clinique veterinaire
+DescriptionCours: Étude de cas en immunologie clinique veterinaire : immunite vis-a-vis les infections, les immunodeficiences, les reactions d'hypersensibilite, les reactions auto-immunes.

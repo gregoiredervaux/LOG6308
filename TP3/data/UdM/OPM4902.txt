@@ -1,0 +1,2 @@
+TitreCours: Stages externes
+DescriptionCours: Stages en soins oculovisuels effectues a l'exterieur de la Clinique universitaire de la vision dans un milieu approuve par l'École d'optometrie, a l'etranger, dans le reste du Canada, ou au Quebec.

@@ -1,0 +1,2 @@
+TitreCours: Gestuelle baroque
+DescriptionCours: Étude des principes de base du geste de l'acteur-chanteur aux XVIIe et XVIIIe siecles. Mise en application utilisant des textes litteraires, des cantates et des tragedies lyriques.

@@ -1,0 +1,2 @@
+TitreCours: Algebre lineaire
+DescriptionCours: Systemes d'equations lineaires, elimination de Gauss, inverse matricielle. Espace vectoriel, independance lineaire, transformations lineaires, changement de base. Produit scalaire. Determinants. Diagonalisation. Exemples d'applications.

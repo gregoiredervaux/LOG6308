@@ -1,0 +1,2 @@
+TitreCours: Stage en milieu d'intervention
+DescriptionCours: Transfert des apprentissages effectues dans le programme dans les milieux de pratique en prevention ou en readaptation en toxicomanie.

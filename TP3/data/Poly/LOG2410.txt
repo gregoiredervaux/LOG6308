@@ -1,0 +1,2 @@
+TitreCours: Conception logicielle
+DescriptionCours: Activite d'analyse et de conception dans le processus du genie logiciel : principes, specifications et methodes. Methodes d'analyse et de conception orientee-objet : langages et notation standards, modelisation structurelle, modelisation de comportement et modelisation architecturale. Decomposition en couches logicielles. Cadres de reference et patrons de conception. Gestion des ressources et traitement des exceptions.

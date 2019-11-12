@@ -1,0 +1,2 @@
+TitreCours: Pharmacotherapie nutritionnelle
+DescriptionCours: Interactions medicaments-nutriments. Alimentation parenterale chez divers patients : indications, evaluation des besoins nutritionnels, monitoring pharmacotherapeutique, conseils aux patients, complications. Alimentation enterale.

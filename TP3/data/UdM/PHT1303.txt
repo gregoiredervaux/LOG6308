@@ -1,0 +1,2 @@
+TitreCours: Biomecanique et reeducation
+DescriptionCours: Mecanique applicable a l'etude du mouvement. Biomecanique des tissus normaux et en voie de guerison. Analyse de l'effet des forces externes/internes dans les exercices therapeutiques. Dynamique des mouvements fonctionnels normaux/pathologiques.

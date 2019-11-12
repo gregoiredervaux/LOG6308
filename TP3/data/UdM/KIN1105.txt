@@ -1,0 +1,2 @@
+TitreCours: Activites de combat
+DescriptionCours: Developpement des competences agir et interagir en ÉPS. Savoirs, savoir-etre, savoir-faire, savoir-agir dans des activites tels l&rsquo;auto-defense, le judo, la lutte.

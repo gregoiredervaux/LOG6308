@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese
+DescriptionCours: L'objectif poursuivi est de permettre de proceder a une synthese du cheminement de l'etudiant dans son champ de specialisation. Cet exercice doit s'appuyer sur une synthese de lecture ou la redaction d'un essai faisant l'integration des elements de formation presentes dans la specialite. Il peut etre adapte au parcours individuel de l'etudiant.

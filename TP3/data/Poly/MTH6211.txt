@@ -1,0 +1,2 @@
+TitreCours: Implantation de la methode des elements finis
+DescriptionCours: Concepts de programmation scientifique a l'aide d'un langage procedural. Structure d'un programme d'elements finis. Algebre numerique matricielle. Methodes directes et iteratives. Matrices creuses. Renumerotation des degres de liberte et reduction de la largeur de bande. Utilisation de bibliotheques numeriques pour la resolution des systemes lineaires de grande taille. Decomposition de domaine pour le calcul distribue. Utilisation d'une bibliotheque de communication pour le calcul distribue.

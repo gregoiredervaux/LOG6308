@@ -1,0 +1,2 @@
+TitreCours: Microsociologie
+DescriptionCours: Introduction aux theories et aux observations des phenomenes sociaux a l'echelle individuelle et des groupes restreints. Étude du processus de socialisation, des interactions sociales, de l'ethnomethodologie et des representations sociales.

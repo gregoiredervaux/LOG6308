@@ -1,0 +1,2 @@
+TitreCours: Systemes de sante et d'education
+DescriptionCours: Étude des orientations, objectifs et principaux programmes en matiere de sante et d'education. Interrelations des differents intervenants dans les systemes de sante et d'education et principales caracteristiques des institutions qui les composent.

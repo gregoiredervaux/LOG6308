@@ -1,0 +1,2 @@
+TitreCours: La technologie au service de la societe I
+DescriptionCours: Ce cours permet a l'etudiant d'acquerir des connaissances scientifiques et technologiques dans les domaines relies a l'homme et a son habitat et d'en evaluer les applications dans la vie quotidienne. Les besoins et les ressources energetiques. Les formes d'energies et l'habitat. L'eau et l'habitat. Les moyens de transport. Les impacts sur la qualite de vie. Travaux pratiques.

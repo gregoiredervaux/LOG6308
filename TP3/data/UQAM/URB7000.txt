@@ -1,0 +1,2 @@
+TitreCours: Methodes d
+DescriptionCours: Ce cours presente un cadre conceptuel et methodologique destine a faciliter la prise de decision dans les problemes urbains. L'etude de projets concrets permettra de degager comment s'elabore une problematique et montrera dans quelle mesure il est possible de recourir a certaines approches, en particulier a une analyse en termes d'avantages-coûts pour evaluer les modalites les plus adequates pour atteindre un objectif.

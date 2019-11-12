@@ -1,0 +1,2 @@
+TitreCours: Électromagnetisme
+DescriptionCours: Lois de Coulomb et de Gauss. Potentiel scalaire. Conducteurs. Énergie electrique et magnetique . Dipole. Courants et densite de courant electrique. Lois d'Ampere et de Biot et Savart. Potentiel vecteur. Loi de Faraday.

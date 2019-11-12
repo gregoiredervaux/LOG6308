@@ -1,0 +1,2 @@
+TitreCours: Le pharmacien-conseil
+DescriptionCours: Gestion de l&rsquo;information scientifique; equipe interdisciplinaire; continuite des soins et communication avec les professionnels; communication a des groupes; entretien aidant; orientation vers les ressources appropriees.

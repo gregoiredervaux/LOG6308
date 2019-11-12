@@ -1,0 +1,2 @@
+TitreCours: Auteur francais
+DescriptionCours: Recherches sur une ou plusieurs &oelig;uvres d&rsquo;un auteur francais.

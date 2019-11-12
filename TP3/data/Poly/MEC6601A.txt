@@ -1,0 +1,2 @@
+TitreCours: Theorie et applications en dynamique des gaz
+DescriptionCours: Écoulements compressibles unidimensionnels : ondes de choc instationnaires; ecoulements avec apport thermique, frottement et variation de section. Écoulements non visqueux: equations d'Euler; equation du potentiel compressible; theorie des petites perturbations; methode des caracteristiques. Écoulements visqueux: equations de Navier-Stokes; concept de la couche limite fluide et thermique.

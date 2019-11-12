@@ -1,0 +1,2 @@
+TitreCours: Gestion de projets technologiques
+DescriptionCours: L'ingenieur et les projets technologiques. Responsabilites de l'equipe de projet et roles de ses membres. Identification et selection des projets. Cahiers de charges, organigramme technique. Gestion de la qualite. Risques. Estimation des ressources, budgetisation. Planning et controle des ressources. Systeme d'information. Familiarisation avec un outil informatique de gestion de projet. Documents contractuels. Approvisionnement. Cloture de projets. Mise en situation.

@@ -1,0 +1,2 @@
+TitreCours: Notions d'ethique en sante publique
+DescriptionCours: Notions de base en ethique pour ensuite examiner la dimension ethique que pose le recours a la technologie du vivant en production animale, notamment les OGM, les animaux transgeniques, les animaux clones, le «biopharming».

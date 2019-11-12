@@ -1,0 +1,2 @@
+TitreCours: Activite de recherche IV
+DescriptionCours: Activite de recherche faite par l'etudiant et portant sur son theme de recherche dont le contenu est determine selon une entente etablie entre l'etudiant et son directeur de recherche. Cette activite est supervisee et evaluee par le comite d'etude de l'etudiant. Doit etre pris concurremment avec le PSY8340.

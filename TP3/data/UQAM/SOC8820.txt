@@ -1,0 +1,2 @@
+TitreCours: Sociologie de la sante mentale
+DescriptionCours: Le cours porte sur les enjeux sociologiques (socialisation, controle, regulation, medicalisation, etc.) qui caracterisent l'univers contemporain des institutions, disciplines, pratiques et discours en sante mentale. Il s'agira de mieux comprendre tant les theorisations que les processus sociaux concrets lies a la definition, l'intervention et les transformations de ce qu'on appelait «folie» et qu'on appelle aujourd'hui «trouble mental».

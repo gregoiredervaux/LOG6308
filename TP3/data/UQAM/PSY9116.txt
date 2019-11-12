@@ -1,0 +1,2 @@
+TitreCours: Cerveau et langage
+DescriptionCours: Revue des concepts de psycholinguistique pertinents. Neurobiologie du developpement phylogenetique et ontogenetique du langage. Bases cerebrales du traitement phonologique, syntaxique et semantique. Neuromotricite de la parole. Biopsychologie de la representation et du traitement de l'information en mode verbal. Dysfonctions neuropsychologiques du langage (begaiement, dysarthries, dysphasies etc.). Nosologie des aphasies. Outils d'evaluation et de recherche en neuropsychologie du langage.

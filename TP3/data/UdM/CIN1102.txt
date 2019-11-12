@@ -1,0 +1,2 @@
+TitreCours: Langage et matieres de l'expression
+DescriptionCours: Introduction aux aspects fondamentaux du langage cinematographique et aux principes de l'esthetique du film. Étude de la forme filmique, des structures, des figures et des modes de fonctionnement de l'image.

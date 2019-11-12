@@ -1,0 +1,2 @@
+TitreCours: Communication orale et ecrite. Niveau 3
+DescriptionCours: Permettre a l'etudiant ayant une connaissance de base du francais de developper sa competence de communication orale et ecrite dans des echanges plus elabores et d'acquerir des notions linguistiques et socioculturelles.

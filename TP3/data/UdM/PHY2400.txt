@@ -1,0 +1,2 @@
+TitreCours: Physique des plasmas
+DescriptionCours: Milieu plasma: definition, grandeurs caracteristiques, exemples d'applications. Mouvement d'une particule chargee dans des champs electriques et magnetiques. Description hydrodynamique : equations de transport, diffusion, mobilite.

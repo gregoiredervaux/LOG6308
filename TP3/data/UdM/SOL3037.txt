@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de recherche 2
+DescriptionCours: Dans la poursuite du cours SOL 3036, l'etudiant va elaborer le plan de recherche et les methodes pertinentes pour explorer sa problematique deja formulee. Ceci resultera en un protocole de recherche complet sur le sujet de son choix.

@@ -1,0 +1,2 @@
+TitreCours: Stage d'integration a la profession
+DescriptionCours: Integration dans une equipe-ecole et prise en charge d'une classe. Prise en compte des differences. Developpement de l'autonomie professionnelle.

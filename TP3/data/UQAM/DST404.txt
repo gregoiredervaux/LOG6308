@@ -1,0 +1,2 @@
+TitreCours: Conception et analyse d
+DescriptionCours: Cours relevant de l'É.T.S. Methodologie de developpement d'un objet technique. Definition du probleme et cahier des charges. Élaboration et evaluation des solutions. Élements de CAO. Methodes de fabrication industrielle. Realisation d'un objet technique (FAO). Cours de 3 heures. Seances de travaux pratiques et de laboratoires (2 heures) portant sur la conception, la modelisation et la realisation d'objets techniques.

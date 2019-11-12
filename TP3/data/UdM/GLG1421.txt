@@ -1,0 +1,2 @@
+TitreCours: Planimetrie geologique
+DescriptionCours: Stage de terrain visant a initier aux techniques courantes de cartographie geologique. Une semaine de travail sur le terrain a la fin du second trimestre.

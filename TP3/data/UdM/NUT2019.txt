@@ -1,0 +1,2 @@
+TitreCours: Controle de la qualite des aliments
+DescriptionCours: Initiation aux techniques modernes de l'analyse qualitative et quantitative des constituants alimentaires. Controle de la qualite tel qu'applique dans l'industrie alimentaire. Projets experimentaux.

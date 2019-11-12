@@ -1,0 +1,2 @@
+TitreCours: Medecine avicole specialisee
+DescriptionCours: Analyse pathologique, clinique et epidemiologique des maladies rencontrees en elevage avicole, biosecurite et controle des maladies.

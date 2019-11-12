@@ -1,0 +1,2 @@
+TitreCours: Histoire, education physique et sante
+DescriptionCours: Place et role des pratiques corporelles en education de l'Antiquite a nos jours. Theories justifiant l'enseignement de l'education physique en milieu scolaire. La sante par l'activite physique. Integration de la dimension culturelle.

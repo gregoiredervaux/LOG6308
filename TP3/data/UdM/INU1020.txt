@@ -1,0 +1,2 @@
+TitreCours: Organisation de l'information numerique
+DescriptionCours: Organisation de l'information numerique sur un poste de travail, dans un systeme de GED et sur le Web. Normes et standards. Attribution d'identifiants. Creation de metadonnees. Vocabulaires controles. Principes de classification.

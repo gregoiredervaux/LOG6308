@@ -1,0 +1,2 @@
+TitreCours: Pharmacotherapie 2
+DescriptionCours: Pharmacotherapie des systemes articulaire, nerveux central, endocrinien et visuel. Pharmacotherapie en pediatrie et en geriatrie. Conseil aux patients, effets indesirables, interactions medicamenteuses, monitoring pharmacotherapeutique.

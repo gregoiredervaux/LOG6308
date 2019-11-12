@@ -1,0 +1,2 @@
+TitreCours: Pragmatique
+DescriptionCours: Étude des conditions d'utilisation du langage. Description des actes de parole, des motivations et des reactions des interlocuteurs, des types de discours. Implications en traduction.

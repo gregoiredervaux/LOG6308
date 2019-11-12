@@ -1,0 +1,2 @@
+TitreCours: Methodes instrumentales electrochimiques
+DescriptionCours: Votammetrie cyclique a balayage, macroelectrodes, microelectrodes, chronoamperometrie, chronocoulometrie, electrode tournante a disque et anneau, spectroelectrochimie, spectroscopie d'impedance, methodes impulsionnelles, balance a cristal de quartz, analyse de surface. Theorie et pratique au laboratoire.

@@ -1,0 +1,2 @@
+TitreCours: Procds d'assemblage
+DescriptionCours: Concepts thoriques. Mtal en feuille: joints thermiques, mcaniques et chimiques. Composites : types, caractristiques, assemblage. Liaisons et attachements relatifs aux systmes hydrauliques, pneumatiques et lectriques. Cotation fonctionnelle. Machinage : famille de procds et applications. Utilisation de gabarits pour l'assemblage et le contrle robotique.

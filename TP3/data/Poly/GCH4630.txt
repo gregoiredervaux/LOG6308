@@ -1,0 +1,2 @@
+TitreCours: Travaux pratiques de genie biopharmaceutique
+DescriptionCours: Étude en laboratoire de divers procedes de transfert de quantite de mouvement, de transfert de chaleur et de transfert de matiere rencontres dans des procedes biotechnologiques. Suivi des biocinetiques reliees a la croissance de cellules et a la production de produits d'interet. Instrumentation, techniques de mesure et d'analyse de donnees. Rapports techniques ecrits et oraux.

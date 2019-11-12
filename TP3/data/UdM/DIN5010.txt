@@ -1,0 +1,2 @@
+TitreCours: Travail dirige en design industriel 1
+DescriptionCours: Sous la direction d'un membre du corps professoral, realisation d'un projet ou d'un concours visant a approfondir certaines connaissances ou certaines habiletes inherentes au design industriel.

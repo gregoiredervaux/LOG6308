@@ -1,0 +1,2 @@
+TitreCours: Performance motrice humaine
+DescriptionCours: Mesure et evaluation des demandes d'une tache motrice. Theories sous-jacentes aux differents types d'evaluation. Impact de certaines maladies a caractere sensoriel ou moteur sur la performance motrice humaine.

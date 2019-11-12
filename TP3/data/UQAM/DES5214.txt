@@ -1,0 +1,2 @@
+TitreCours: Typographisme
+DescriptionCours: Organisation spatiale, association, juxtaposition de la typographie et d'elements visuels. Étude de grilles de mises en place.

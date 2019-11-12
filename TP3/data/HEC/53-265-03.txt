@@ -1,0 +1,2 @@
+TitreCours: Financial Derivatives
+DescriptionCours: The course's goal is to introduce participants to financial derivatives on interest rates, currency and commodities. Several concepts and features are covered such as: arbitrage pricing, valuation principles and uses of derivative products to hedge risks in financial and non-financial firms  &nbsp;  The lectures are organised around three major types of derivative products: forward contracts, swaps and options.  &nbsp;

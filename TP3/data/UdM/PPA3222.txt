@@ -1,0 +1,2 @@
+TitreCours: Gestion de classe en L2
+DescriptionCours: Gestion de l'espace-temps en classe du primaire/secondaire. Modeles de gestion des environnements pedagogiques. Exploitation des ressources communautaires. Prevention et intervention. Prise en compte de l'heterogeneite.

@@ -1,0 +1,2 @@
+TitreCours: Stage honor en sciences de la vision
+DescriptionCours: Realisation d'un projet de recherche sciences de la vision dans un milieu approuve par le responsable de l'orientation.

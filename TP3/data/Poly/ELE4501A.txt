@@ -1,0 +1,2 @@
+TitreCours: Circuits et systmes comm. radiofrquences
+DescriptionCours: Analyse des performances d'un lien de communications radiofrquences pour les communications sans fil et par satellite. tude des architectures des metteurs/rcepteurs et des diffrents types d'lments actifs (diodes et transistors) utiliss pour concevoir les diffrents blocs fonctionnels de ces metteurs/rcepteurs. Conception de circuits radiofrquences d'amplification linaire. Conception, ralisation et test d'un circuit/sous-systme d'amplification ou de mlange de frquences.

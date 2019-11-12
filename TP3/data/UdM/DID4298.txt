@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de didactique des maths
+DescriptionCours: Preparation et critique de sequences didactiques. Utilisation et adaptation de materiel d'enseignement. Projets d'integration des mathematiques a d'autres disciplines du curriculum. Critique par des intervenants du milieu scolaire.

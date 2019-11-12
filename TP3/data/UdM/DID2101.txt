@@ -1,0 +1,2 @@
+TitreCours: Introduction a la didactique
+DescriptionCours: Place, contenu du champ disciplinaire dans la formation generale des eleves. Definition, nature, objet et vocabulaire de la didactique avec applications a l'une ou l'autre discipline. Programmes du primaire et du secondaire.

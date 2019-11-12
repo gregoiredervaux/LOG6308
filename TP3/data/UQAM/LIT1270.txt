@@ -1,0 +1,2 @@
+TitreCours: Didactique de la creation litteraire
+DescriptionCours: Élements des theories de la creation adaptes au contexte didactique. Ce cours met l'accent sur la formation pratique et la production de textes litteraires (poesie, conte, nouvelle, etc.). Strategies d'apprentissage pour susciter la motivation et la participation des eleves et developper leurs habiletes d'ecriture. Presentation, analyse et elaboration de scenarios de cours (lecons-types, activites d'animation, exercices, evaluation, etc.).

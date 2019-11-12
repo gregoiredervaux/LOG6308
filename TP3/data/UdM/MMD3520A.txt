@@ -1,0 +1,2 @@
+TitreCours: Stage: Radiologie generale
+DescriptionCours: Initiation a la radiologie avec survol des differentes sous specialites.

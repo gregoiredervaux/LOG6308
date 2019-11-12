@@ -1,0 +1,2 @@
+TitreCours: Preservation des archives
+DescriptionCours: Nature, finalite et planification strategique de la preservation. Contexte multimedia. Normes de protection. Prevention, conservation et restauration. Modes de protection des fichiers informatiques: repiquage, migration et emulation.

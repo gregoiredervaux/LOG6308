@@ -1,0 +1,2 @@
+TitreCours: Physique et geographie
+DescriptionCours: Notions de mecanique, d'hydrodynamique, de thermodynamique, de theorie des ondes et d'optique necessaires a l'etude de la geographie physique.

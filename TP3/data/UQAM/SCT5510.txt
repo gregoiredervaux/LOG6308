@@ -1,0 +1,2 @@
+TitreCours: Tectonique des plaques
+DescriptionCours: Introduction a la tectonique globale. Derive des continents, expansion des fonds oceaniques et tectonique des plaques. Geometrie et cinematique. Évolution des fonds oceaniques. Rifts intracontinentaux. Marges continentales passives. Bassins sedimentaires. Subduction et evolution des arcs insulaires. Marges actives. Failles transformantes, collision continentale. Le cycle de Wilson. Application a l'evolution des chaines anciennes. Les causes de la tectonique des plaques. Laboratoire (1 heure). Sorties sur le terrain.

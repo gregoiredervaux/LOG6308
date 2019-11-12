@@ -1,0 +1,2 @@
+TitreCours: Gestion financiere strategique
+DescriptionCours: Ce cours developpe les habiletes des etudiants en matiere de strategie financiere organisationnelle. Il favorise une vision strategique de la comptabilite de gestion tenant compte de la mission de l'organisation et des ressources disponibles. Le cours aborde les notions suivantes : strategies de croissance ; structure de financement et de gestion des risques financiers ; conception des outils de controle et d'evaluation de la performance. Modalites: etudes de cas.

@@ -1,0 +1,2 @@
+TitreCours: Integration de l'entreprise et nouv. technol.
+DescriptionCours: Division du travail et integration de l'entreprise. Integration organisationnelle et integration informatique de l'entreprise. Types de systemes integrateurs. Systemes integrateurs et transformation de l'organisation. Degre d'integration informatique de l'entreprise. Reingenierie de processus et integration informatique. Mecanismes d'integration de l'ingenierie simultanee.

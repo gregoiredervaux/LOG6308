@@ -1,0 +1,2 @@
+TitreCours: Patrons pour la comprehension de programme
+DescriptionCours: Principales definitions de patrons (patrons architecturaux, de conception, anti-patrons, idiomes). Principales theories liees a la comprehension de programmes et a l'utilisation de patrons. Principales methodes d'utilisation des patrons pour le developpement et la maintenance et pour faciliter la comprehension de programmes. Principales techniques d'application de patrons et d'identification d'occurrences dans divers artefacts logiciels (code source, modeles statiques, dynamiques, historiques).

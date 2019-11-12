@@ -1,0 +1,2 @@
+TitreCours: Soins infirmiers en neurologie
+DescriptionCours: Dimensions biopsychosociales du client presentant des problemes neurologiques d'origine vasculaire, tumorale, traumatique... necessitant ou non une chirurgie. Demarches de soins.

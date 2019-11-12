@@ -1,0 +1,2 @@
+TitreCours: Biochimie vet. et metabolisme animal
+DescriptionCours: Biochimie dans un contexte veterinaire. Structures, proprietes biologiques et fonctions des constituants cellulaires, leur biosynthese, degradation et interconversions.

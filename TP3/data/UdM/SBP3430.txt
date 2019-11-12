@@ -1,0 +1,2 @@
+TitreCours: Travaux specialises en pharmacologie
+DescriptionCours: Criblage a petite echelle. Affinite, selectivite, puissance, efficacite. Methodes d'analyse radio-isotopiques et non- isotopiques. Cinetique enzymatique.

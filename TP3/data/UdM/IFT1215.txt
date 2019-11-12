@@ -1,0 +1,2 @@
+TitreCours: Introduction aux systemes informatiques
+DescriptionCours: Historique. Composantes d'un ordinateur. Codage des donnees et des instructions. Langages machine et de haut niveau. Concepts et utilisation d'un systeme d'exploitation. Introduction a l'Internet. Consequences sociales de l'informatique.

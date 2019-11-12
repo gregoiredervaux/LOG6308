@@ -1,0 +1,2 @@
+TitreCours: Theriogenologie des animaux de compagnie
+DescriptionCours: Deux semaines de stage dans le service de theriogenologie des animaux de compagnie.

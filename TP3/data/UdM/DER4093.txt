@@ -1,0 +1,2 @@
+TitreCours: Prothese amovible clinique 2
+DescriptionCours: Realisation de protheses amovibles sur patients completement ou partiellement edentes et parfois sur patients souffrant de malformations maxillo-faciales.

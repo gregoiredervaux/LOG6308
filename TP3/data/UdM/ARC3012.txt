@@ -1,0 +1,2 @@
+TitreCours: Atelier formes et techniques
+DescriptionCours: Developpement d'un projet articule par le rapport coherent a etablir entre la forme architecturale et les methodes de construction. Cet atelier specialise porte sur la resolution technique de problemes d'architecture.

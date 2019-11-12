@@ -1,0 +1,2 @@
+TitreCours: Bioethique en soins infirmiers
+DescriptionCours: Fondements de l'ethique et de la bioethique. Principales theories. Rapport droit/morale. Processus decisionnel. Dilemmes ethiques en pratique infirmiere. Analyse de situations conflictuelles.

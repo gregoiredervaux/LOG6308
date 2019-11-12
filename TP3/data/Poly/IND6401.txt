@@ -1,0 +1,2 @@
+TitreCours: Conception de postes de travail
+DescriptionCours: Rappel des notions de systemes. Methodologie et methodes pour la conception et l'evaluation des systemes humains-travail. Complements sur les caracteristiques humaines : anthropometrie, theorie de l'information, dynamique des systemes, commandes par la voix. Methodes informatisees pour la conception et pour l'evaluation des postes de travail.

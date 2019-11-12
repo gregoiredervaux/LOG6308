@@ -1,0 +1,2 @@
+TitreCours: Didactique et TIC pour l'univers social
+DescriptionCours: Évaluation critique de logiciels et sites Internet relatifs a l'univers social. Production et diffusion de documents multimedias. Scenarios d'integration pedagogique des TIC.

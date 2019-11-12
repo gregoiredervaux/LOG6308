@@ -1,0 +1,2 @@
+TitreCours: Statique et dynamique
+DescriptionCours: Études de diverses methodes de resolution de problemes relies a la mecanique des corps rigides. Équilibre des corps rigides. Diagramme du corps libre. Centroides et centres de gravite. Analyse des structures. Frottement sec. Moments et produits d'inertie. Principe du travail virtuel. Mouvements rectiligne et curviligne d'un corps rigide. Impulsion. Conservation de la quantite de mouvement et du moment cinetique. Dynamique des corps rigides. Principe d'Alembert.

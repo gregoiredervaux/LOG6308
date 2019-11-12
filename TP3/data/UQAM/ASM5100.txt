@@ -1,0 +1,2 @@
+TitreCours: Projet I
+DescriptionCours: Ce cours vise a realiser une etude theorique d'un sujet relatif au domaine de l'adaptation scolaire. L'analyse critique d'ouvrages specifiques doit permettre a l'etudiant d'approfondir ses connaissances theoriques dans un domaine precis de l'adaptation scolaire. L'etudiant doit soumettre un plan de travail et determiner les objectifs, le contenu et les activites prevues. Le professeur joue un role d'encadrement aupres de l'etudiant.

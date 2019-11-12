@@ -1,0 +1,2 @@
+TitreCours: Production de spectacle II
+DescriptionCours: Coordination generale et gestion appliquee a la production des spectacles choregraphiques I et II. Realisation de la regie, de la sonorisation, des eclairages, des costumes; organisation de l'espace scenique. Pour les etudiants ayant une formation plus poussee (qui ont suivi les cours ETH3300, ETH3040, DAN5530), il leur sera possible de faire un travail de conception visuelle. Ce cours est suivi de travaux de laboratoire d'une duree de trois heures.

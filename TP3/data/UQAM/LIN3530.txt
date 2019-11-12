@@ -1,0 +1,2 @@
+TitreCours: Syntaxe
+DescriptionCours: Ce cours vise a developper la notion de theorie syntaxique comme moyen d'explication et de prediction des phenomenes syntaxiques. Il porte sur: un exemple de modele explicatif: le modele generatif modulaire; la theorie X-barre; la theorie du Cas; la theorie du liage; les operateurs et les variantes; la typologie des categories lexicales et des categories vides; les variations parametriques et les differences entre les langues.

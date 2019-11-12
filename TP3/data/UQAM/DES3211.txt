@@ -1,0 +1,2 @@
+TitreCours: Design graphique
+DescriptionCours: Experimentation de la surface bidimensionnelle. Creation de messages graphiques dans une forme abstraite. Transposition d'un contenu verbal en langage graphique. Étude de sigles: variantes et stylisations.

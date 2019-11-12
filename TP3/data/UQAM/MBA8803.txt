@@ -1,0 +1,2 @@
+TitreCours: Seminaire en gestion du transport
+DescriptionCours: Ce seminaire permettra une comprehension de l'impact du transport sur le produit touristique tout en cernant les particularites propres a sa gestion. La gestion des flux. Les principes et l'impact de la tarification. La reglementation et la dereglementation et leurs consequences. L'integration des systemes de transport. Les systemes de reservations. Les effets du leadership du transport sur l'offre touristique.

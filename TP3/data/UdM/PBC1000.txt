@@ -1,0 +1,2 @@
+TitreCours: Pathologie generale en pharmacie
+DescriptionCours: Mecanismes fondamentaux des processus pathologiques : lesions cellulaires, troubles hemodynamiques, inflammation, immunopathologie, genetique medicale, neoplasie, lesions tiss. agents physiques, vieillissement et synthese.

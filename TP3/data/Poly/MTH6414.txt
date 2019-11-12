@@ -1,0 +1,2 @@
+TitreCours: Outils et logiciels de rech. operat. en ing.
+DescriptionCours: Resolution de problemes en ingenierie a l'aide des techniques de la recherche operationnelle: programmation lineaire et non-lineaire, programmation lineaire en nombres entiers, flots dans les reseaux, methodes heuristiques et metaheuristiques. Langages de modelisation. Logiciels d'optimisation mathematique. Logiciels specialises en ingenierie et logistique. Systemes d'information geographique.

@@ -1,0 +1,2 @@
+TitreCours: Le Canada preindustriel
+DescriptionCours: Cours d'introduction a l'histoire du Canada des origines precolombiennes a 1850.

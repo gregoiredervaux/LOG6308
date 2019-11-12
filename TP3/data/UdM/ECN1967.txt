@@ -1,0 +1,2 @@
+TitreCours: Économie de l'Europe
+DescriptionCours: Indicateurs economiques. Structures industrielles. Sources et causes du developpement economique de l'Europe. Communaute economique europeenne et systeme monetaire europeen.

@@ -1,0 +1,2 @@
+TitreCours: Processus de fabrication mcanique
+DescriptionCours: Relation entre services industriels. Procds de fabrication. Contraintes d'antcdences. Positionnement isostatique. Oprations lmentaires. Cheminement critique. Outillages. Cotes de fabrication. Puissance des machines. Gammes de fabrication.

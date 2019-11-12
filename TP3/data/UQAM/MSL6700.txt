@@ -1,0 +1,2 @@
+TitreCours: Travaux diriges
+DescriptionCours: Les travaux diriges permettent aux etudiants de realiser divers projets specifiques lies a certains aspects des grandes fonctions museales. Ces travaux peuvent etre accomplis en collaboration avec l'une ou l'autre des institutions du reseau museologique: musees scientifiques et artistiques, centres d'expositions, musees historiques et ethnologiques, galeries, etc.

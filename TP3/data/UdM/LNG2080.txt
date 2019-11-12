@@ -1,0 +1,2 @@
+TitreCours: Semantique du francais
+DescriptionCours: Representations semantiques (reseaux semantiques), representations syntaxiques (arbres de dependance) et leur correspondance (regles semantiques) dans la description du francais.

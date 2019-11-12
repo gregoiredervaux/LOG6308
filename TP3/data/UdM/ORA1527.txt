@@ -1,0 +1,2 @@
+TitreCours: Neurologie de la communication humaine
+DescriptionCours: Ontogenese du systeme nerveux central et acquisition du langage. Fondements neurobiologiques de la communication. Pathologies du systeme nerveux affectant la communication.

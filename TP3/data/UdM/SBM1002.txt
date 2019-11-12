@@ -1,0 +1,2 @@
+TitreCours: Intro. a la communication scientifique
+DescriptionCours: Notions essentielles pour effectuer une recension informatisee des ecrits scientifiques.

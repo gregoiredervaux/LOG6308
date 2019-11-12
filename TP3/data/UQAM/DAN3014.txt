@@ -1,0 +1,2 @@
+TitreCours: Entrainement avance I
+DescriptionCours: Suite du cours DAN2016. Ce cours exige la presence de deux professeurs durant le trimestre. L'etudiant rencontrera les objectifs du cours a travers deux approches pedagogiques differentes.

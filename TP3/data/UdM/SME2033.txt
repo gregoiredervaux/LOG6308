@@ -1,0 +1,2 @@
+TitreCours: Sante mentale et travail
+DescriptionCours: Évolution de la problematique. Concepts, modeles et approches. Problematiques. Enjeux.

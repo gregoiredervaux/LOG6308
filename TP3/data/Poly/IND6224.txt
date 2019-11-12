@@ -1,0 +1,2 @@
+TitreCours: Distribution physique des biens et services
+DescriptionCours: Logistique, decisions logistiques. Modeles de localisation. Conception d'un systeme de distribution : reception, expedition, transport et selection d'equipements. Conception des entrepots : planification des espaces, gestion des casiers et selection d'equipements. Preparation des commandes. Analyse strategique de la distribution a l'aide de modeles d'approximation continue. Conception d'horaires de personnels. Tournees de vehicules.

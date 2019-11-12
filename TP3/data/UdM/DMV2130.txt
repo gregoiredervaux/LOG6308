@@ -1,0 +1,2 @@
+TitreCours: Stages veterinaires a la ferme
+DescriptionCours: Aspects pratiques des productions animales avec stages et (ou) visites aux fermes. Notions generales de regie de conduite d'elevage et de sante animale en contexte veterinaire.

@@ -1,0 +1,2 @@
+TitreCours: Analyse des donnees qualitatives
+DescriptionCours: Les grands types d'analyse de contenu discursifs seront exposes ainsi que l'usage approprie de logiciels informatiques compatibles avec ces types d'analyse (analyse thematique, analyse automatique du discours, analyse documentaire, etc.).

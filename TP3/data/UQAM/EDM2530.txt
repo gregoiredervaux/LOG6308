@@ -1,0 +1,2 @@
+TitreCours: Architecture de l
+DescriptionCours: Historique et connaissance des divers concepts afferents a la representation de l'information et son traitement. Differenciation entre donnees, information et connaissance. Comprehension des methodologies de structuration (hierarchisation; reseaux; intertextualite) et de traitement (recherche; classification; indexation; synthese; resume). Familiarisation aux approches de visualisation, de schematisation et autres formes de mediation.

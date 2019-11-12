@@ -1,0 +1,2 @@
+TitreCours: Projet de diffusion
+DescriptionCours: Definition et realisation, par l'etudiant, d'un projet personnel de diffusion, en rapport avec un organisme culturel.

@@ -1,0 +1,2 @@
+TitreCours: Methodes de sondage
+DescriptionCours: Methodologie specifique a l'enquete par questionnaire. Couvre les deux aspects principaux de cette methodologie : l'elaboration d'un questionnaire structure a partir d'une problematique de recherche et le choix du plan d'echantillonnage.

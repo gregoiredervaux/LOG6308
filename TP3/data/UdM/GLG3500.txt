@@ -1,0 +1,2 @@
+TitreCours: Projet de fin d'etudes
+DescriptionCours: Les credits de ce projet sont repartis comme suit : trois credits sont alloues pour le projet proprement dit et un credit equivaut a la partie redaction du rapport scientifique.

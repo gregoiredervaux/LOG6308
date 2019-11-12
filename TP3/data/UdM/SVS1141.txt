@@ -1,0 +1,2 @@
+TitreCours: Methodes de recherche
+DescriptionCours: Les etapes du processus de recherche scientifique et professionnelle : position du probleme, documentation, cadre de reference, devis quantitatifs et qualitatifs, cueillette des donnees, analyse et interpretation.

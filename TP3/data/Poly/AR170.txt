@@ -1,0 +1,2 @@
+TitreCours: Introduction  la gestion de la qualit
+DescriptionCours: Introduction  la gestion de la qualit. Historique et principes sur la qualit. Diffrents lments de la gestion de la qualit. Interrelation du service de gestion de la qualit avec les autres services. Planification et contrle de la qualit. volution de la gestion de la qualit  travers la qualit totale et l'amlioration continue de la qualit. Introduction  la traabilit, la mtrologie et leur importance. Suivis de la direction.

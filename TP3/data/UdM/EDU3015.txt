@@ -1,0 +1,2 @@
+TitreCours: Stage d'enseignement 1
+DescriptionCours: Stage d'enseignement d'une discipline avec accent sur la problematique de la gestion de classe; developpement d'habiletes a l'enseignement par l'intervention et la reflexion sur les pratiques supervisees.

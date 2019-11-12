@@ -1,0 +1,2 @@
+TitreCours: Introduction aux bases de donnees
+DescriptionCours: Principes des bases de donnees. Modeles de bases de donnees : hierarchique, reseau, relationnel. Presentation et exploitation des systemes couramment utilises.

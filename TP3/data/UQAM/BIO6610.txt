@@ -1,0 +1,2 @@
+TitreCours: Mammalogie
+DescriptionCours: Caracteres generaux, evolution, systematique et biogeographie des grands groupes de mammiferes, particulierement des ordres les mieux representes en Amerique. Étude des especes vivant au Quebec. Exercices taxonomiques. Initiation a des techniques utiles a l'etude des mammiferes. Familiarisation avec la litterature. Ce cours comprend des travaux pratiques.

@@ -1,0 +1,2 @@
+TitreCours: Activite speciale
+DescriptionCours: Cours, atelier, voyage d'etude, etc. sur un theme de recherche ou d'intervention.

@@ -1,0 +1,2 @@
+TitreCours: Dramaturgie I
+DescriptionCours: Lecture et analyse d'une douzaine de textes dramatiques representant differentes esthetiques theatrales et formes d'ecriture des origines au XIXe siecle.

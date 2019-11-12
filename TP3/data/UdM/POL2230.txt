@@ -1,0 +1,2 @@
+TitreCours: Politiques scientifiques
+DescriptionCours: La science et la technologie, comme phenomenes politiques. Le role de l'État dans le developpement des connaissances et l'innovation. Les instruments de politiques dans les pays industrialises.

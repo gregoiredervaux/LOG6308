@@ -1,0 +1,2 @@
+TitreCours: Science des aliments : travaux pratiques
+DescriptionCours: Étude de l'influence de la modification d'ingredients, de conditions et de manipulations sur la qualite des preparations alimentaires. Informations complementaires (varietes, origine, utilisations, cuisson, mets ethniques).

@@ -1,0 +1,2 @@
+TitreCours: Methodes et techniques en archeologie
+DescriptionCours: Étude des methodes de prospection, de datation et des techniques de fouille et d'enregistrement des donnees en archeologie. Histoire de la discipline, ses reussites, ses erreurs.

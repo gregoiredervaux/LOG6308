@@ -1,0 +1,2 @@
+TitreCours: Stage clinique 4
+DescriptionCours: Application des connaissances theoriques et pratiques des systemes musculo-squelettique, neurologique et cardiorespiratoire aupres de clienteles variees, du nouveau-ne a la personne agee.

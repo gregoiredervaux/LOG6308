@@ -1,0 +1,2 @@
+TitreCours: Conception de systemes de commande
+DescriptionCours: Formulation des probl""mes de commande et d'estimation optimales pour les syst""mes lin"|aires. Commande optimale lin"|aire quadratique : propri"|t"|s, r"|solution num"|rique, exemples d'application. Commande en temps minimum et "|nergie minimum. M"|thodes fr"|quentielles de synth""se pour les syst""mes multivariables. Commande optimale dans l'espace H¡Þ. Algorithmes de conception de syst""mes de commande. Exemples d'application.

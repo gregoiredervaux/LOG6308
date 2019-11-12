@@ -1,0 +1,2 @@
+TitreCours: Instrument principal VI
+DescriptionCours: Presentation en public d'un examen-concert d'une duree allant de quarante-cinq a soixante minutes. Le repertoire prepare dans le cours MUS530X et/ou utilise en MUS531X pourra servir. Lecons individuelles (quinze heures).

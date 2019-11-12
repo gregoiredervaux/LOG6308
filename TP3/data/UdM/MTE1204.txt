@@ -1,0 +1,2 @@
+TitreCours: Analyse du discours harmonique tonal
+DescriptionCours: Étude analytique des donnees fondamentales du systeme harmonique traditionnel tonal (Bach a Wagner). Verification d'une theorie des constantes de ce systeme.

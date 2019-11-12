@@ -1,0 +1,2 @@
+TitreCours: Stage d'enseignement 2
+DescriptionCours: Enseignement en milieu pluriethnique. Gestion de classe, intervention et reflexion sur les pratiques. Realisation de projets.

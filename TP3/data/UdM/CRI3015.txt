@@ -1,0 +1,2 @@
+TitreCours: Entrevues et interventions de groupe
+DescriptionCours: Adaptation des methodes d'entrevue en fonction des besoins des clienteles. Objectifs, interventions et dynamiques relationnelles de l'entrevue individuelle et de l'intervention de groupe. Effets de programmation. Indications et contre-indications.

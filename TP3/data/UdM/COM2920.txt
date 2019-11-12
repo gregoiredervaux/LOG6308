@@ -1,0 +1,2 @@
+TitreCours: Histoire des medias
+DescriptionCours: Developpement des techniques, des organisations, des produits et des services. Telecommunications, medias de masse et informatique. Liens avec l'histoire generale. Particularites du contexte quebecois.

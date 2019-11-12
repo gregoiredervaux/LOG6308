@@ -1,0 +1,2 @@
+TitreCours: Didactique de l'education physique/sante
+DescriptionCours: Étude des programmes en education physique/sante du prescolaire, du primaire et du secondaire : fondements, objectifs, contenus, methodes. Apports des technologies. Planification curriculaire.

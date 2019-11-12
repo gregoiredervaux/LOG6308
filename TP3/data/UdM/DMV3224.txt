@@ -1,0 +1,2 @@
+TitreCours: Gestion vet. du risque - production an.
+DescriptionCours: Programmes de securite alimentaire et protection du public dans l'approche de la ferme a la table. Modeles generiques. Approches du medecin veterinaire pour gerer la salubrite des aliments : ISO, HACCP, GMP et TQM.

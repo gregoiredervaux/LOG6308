@@ -1,0 +1,2 @@
+TitreCours: Geometrie euclidienne
+DescriptionCours: Geometrie euclidienne dans le plan : figures semblables, aires planes. Élements de geometrie dans l'espace : droites et plans, polyedres, corps ronds. Systemes d'axiomes et introduction aux geometries non euclidiennes.

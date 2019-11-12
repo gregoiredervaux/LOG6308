@@ -1,0 +1,2 @@
+TitreCours: Cours audiovisuel de polonais 2
+DescriptionCours: Cours intensif de langue. Niveau intermediaire.

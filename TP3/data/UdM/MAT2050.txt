@@ -1,0 +1,2 @@
+TitreCours: Analyse 2
+DescriptionCours: L'integrale de Riemann, le theoreme fondamental du calcul. Fonctions trigonometriques, exponentielles et leurs inverses. Suites et series de fonctions, series de Taylor, series de Fourier.

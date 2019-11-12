@@ -1,0 +1,2 @@
+TitreCours: Turbulence: theorie et pratique
+DescriptionCours: Moyennes d'ensemble des equations de Navier-Stokes. Équations de transport. Écoulement en conduite bidimensionnelle. Loi de la paroi. Écoulements non confines. Turbulence homogene. Classification algorithmique des modeles de turbulence et choix d'un algorithme numerique. Applications et comparaisons des predictions obtenues avec plusieurs modeles.

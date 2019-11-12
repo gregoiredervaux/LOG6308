@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Exposer les etudiants et les etudiantes aux methodes employees pour mesurer l'efficacite d'une campagne de publicite.

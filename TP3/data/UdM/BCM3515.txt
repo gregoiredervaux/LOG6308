@@ -1,0 +1,2 @@
+TitreCours: Éthique en biochimie
+DescriptionCours: Connaissance des principaux raisonnements menant a des decisions en ethique. Exemples de problemes ethiques lies a la biologie/biochimie. Analyse de debats actuels. Principes de bonne pratique en laboratoire et standards ethiques de la profession.

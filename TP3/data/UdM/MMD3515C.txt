@@ -1,0 +1,2 @@
+TitreCours: Stage : Pediatrie du developpement
+DescriptionCours: Stage clinique offrant une vue globale de la pediatrie en pediatrie du developpement.

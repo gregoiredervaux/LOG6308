@@ -1,0 +1,2 @@
+TitreCours: Gestion des medias publicitaires
+DescriptionCours: Approche de gestion des medias dans une perspective publicitaire. Caracteristiques et particularites de chaque categorie de medias. Calculs des auditoires et des coûts. Principes d'achat et liens avec les autres intervenants.

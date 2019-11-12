@@ -1,0 +1,2 @@
+TitreCours: Analyse financiere de la firme
+DescriptionCours: Ce cours vise a introduire l'etudiant a certains concepts avances touchant la gestion financiere de la firme. Le cours permet a l'etudiant d'acquerir les outils necessaires afin d'analyser l'information publique et de poser un diagnostic sur la sante financiere de la firme. Il permet aussi de comprendre et d'interpreter les decisions prises lors des differents stades de developpement de la firme.

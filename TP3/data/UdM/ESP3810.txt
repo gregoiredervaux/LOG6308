@@ -1,0 +1,2 @@
+TitreCours: Travail de recherche
+DescriptionCours: Travail personnel dirige par les professeurs (minimum de 25 pages).

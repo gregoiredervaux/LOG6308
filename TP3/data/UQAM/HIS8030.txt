@@ -1,0 +1,2 @@
+TitreCours: Projet de memoire
+DescriptionCours: Activite realisee avec le directeur du memoire, et visant a produire un texte definissant la nature du memoire. Ce texte, en plus du titre provisoire du memoire, doit comprendre la problematique generale, un survol historiographique, la bibliographie, un inventaire des sources, le plan du memoire et le programme de travail de l'etudiant.

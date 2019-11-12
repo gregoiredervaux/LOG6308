@@ -1,0 +1,2 @@
+TitreCours: Atelier triptyque
+DescriptionCours: Developpement de trois courts projets distincts et consecutifs. Approfondissement ou synthese des enjeux traites dans les autres ateliers thematiques. Cet atelier specialise porte sur plusieurs projets ayant des themes d'experimentation differents.

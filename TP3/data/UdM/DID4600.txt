@@ -1,0 +1,2 @@
+TitreCours: Enseignement du FLS par immersion
+DescriptionCours: Regimes pedagogiques de l'immersion. Planification de projets d'enseignement - apprentissage du francais oral et ecrit. Programmes d'etudes. Cheminement en contexte immersif par le biais de matieres scolaires.

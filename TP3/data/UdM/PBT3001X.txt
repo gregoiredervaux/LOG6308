@@ -1,0 +1,2 @@
+TitreCours: Publicite directe
+DescriptionCours: Techniques de communication creant ou exploitant une relation directe entre l'entreprise et un client potentiel ou deja acquis.

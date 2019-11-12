@@ -1,0 +1,2 @@
+TitreCours: Analysis Fixed-income Securities
+DescriptionCours: The course's objective is to introduce the students to the tools used in pricing fixed income securities. The following topics will be covered: NPV calculation, yield and total return calculcation, duration and convexity, the term-structure of interest rates, convertible and callable bonds, mortgage securitization.

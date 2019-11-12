@@ -1,0 +1,2 @@
+TitreCours: Atelier en service-conseil
+DescriptionCours: Atelier thematique sur une problematique specifique au service conseil.

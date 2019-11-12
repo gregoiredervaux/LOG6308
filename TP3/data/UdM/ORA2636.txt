@@ -1,0 +1,2 @@
+TitreCours: Troubles du systeme auditif
+DescriptionCours: Introduction a la physiologie et a la psycho-acoustique des troubles de l'audition peripherique et centrale.

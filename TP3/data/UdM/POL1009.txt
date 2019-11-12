@@ -1,0 +1,2 @@
+TitreCours: Politique comparee
+DescriptionCours: Introduction aux concepts et demarches de la politique comparee a partir d'une analyse empirique des processus de developpement, des forces politiques et des institutions.

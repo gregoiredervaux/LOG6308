@@ -1,0 +1,2 @@
+TitreCours: Pratiques de soins - Integration
+DescriptionCours: Stage d'integration et d'application choisi en fonction des ages de la vie et des situations de sante dans un domaine d'interet et dans deux milieux : naturel ou communautaire et hospitalier. Experience interdisciplinaire.

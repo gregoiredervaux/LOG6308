@@ -1,0 +1,2 @@
+TitreCours: Roman et theatre espagnols du XXe siecle
+DescriptionCours: Étude de textes romanesques et dramatiques contemporains.

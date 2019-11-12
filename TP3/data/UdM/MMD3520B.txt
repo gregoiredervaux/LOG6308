@@ -1,0 +1,2 @@
+TitreCours: Stage : Medecine nucleaire
+DescriptionCours: Stages d'initiation a la medecine nucleaire.

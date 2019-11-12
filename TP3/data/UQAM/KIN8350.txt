@@ -1,0 +1,2 @@
+TitreCours: Ergonomie
+DescriptionCours: Étude des diverses taxonomies et methodes d'analyse des taches motrices. Analyse des facteurs susceptibles d'optimiser le mouvement d'un operateur et de prevenir les accidents de travail. Étude de la formation de l'apprenti et de l'entrainement de l'operateur. Mesures des exigences d'une tache motrice humaine.

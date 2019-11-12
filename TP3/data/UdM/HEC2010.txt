@@ -1,0 +1,2 @@
+TitreCours: Entrepreneuriat
+DescriptionCours: Introduction a l'entrepreneuriat. Fondements sociaux, psychologiques et economiques de l'entrepreneuriat. Systeme d'activites et principales avenues entrepreneuriales. Creation et developpement d'un projet.

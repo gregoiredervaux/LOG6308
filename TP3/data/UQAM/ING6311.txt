@@ -1,0 +1,2 @@
+TitreCours: Projet II
+DescriptionCours: Cours synthese de conception en ingenierie, fondee sur les connaissances et les habiletes acquises dans les cours precedents. Il mene a la realisation d'un projet d'envergure sous la supervision d'un professeur et introduit les concepts du travail en equipe et la gestion de projet. Le projet doit faire l'integration des mathematiques, des sciences fondamentales, des sciences du genie et des etudes complementaires de facon a developper des composants, des systemes et des processus. Realisation et execution du projet.

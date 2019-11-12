@@ -1,0 +1,2 @@
+TitreCours: Didactique du francais au secondaire 2
+DescriptionCours: Critique des approches en didactique de la grammaire, de l'orthographe et de la communication orale. Contenus, demarches d'enseignement et formes d'evaluation. Analyse et production de scenarios d'apprentissage. Recherches.

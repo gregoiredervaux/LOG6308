@@ -1,0 +1,2 @@
+TitreCours: Projet personnalise d'integration
+DescriptionCours: Permettre a l'etudiant non francophone d'acquerir des outils de construction du discours. Il developpera autour d'un projet individuel une habilete a exprimer sa pensee en continu, a l'ecrit comme a l'oral, de maniere structuree et synthetique.

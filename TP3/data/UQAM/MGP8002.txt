@@ -1,0 +1,2 @@
+TitreCours: Logiciel de gestion de projet
+DescriptionCours: Ce cours a comme objectif general de maitriser l'utilisation d'un logiciel de gestion de projet et prendre conscience de ses possibilites comme outil de gestion de projet. Les principaux elements de contenu sont: presentation du logiciel, menus et commandes du logiciel, utilitaires et procedures communes, structure de fractionnement des travaux, planification par reseaux, affectation des ressources, estimation et coûts, suivi et controle.

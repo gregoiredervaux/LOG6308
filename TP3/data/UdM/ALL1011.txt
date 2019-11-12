@@ -1,0 +1,2 @@
+TitreCours: Cours pratique d'allemand 1
+DescriptionCours: Acquisition rapide d'une competence en allemand au moyen d'approches pedagogiques variees. Developpement simultane de l'expression et de la comprehension orale et ecrite.

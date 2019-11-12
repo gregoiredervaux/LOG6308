@@ -1,0 +1,2 @@
+TitreCours: Kinesiologie 2
+DescriptionCours: Kinesiologie et pathokinesiologie des mouvements du cou, du tronc et des membres. Étude de la posture, des activites locomotrices et de la prehension chez le sujet normal et pathologique.

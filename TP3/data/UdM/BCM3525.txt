@@ -1,0 +1,2 @@
+TitreCours: Genetique des organismes modeles
+DescriptionCours: Introduction aux organismes modeles et a leur importance en recherche biomedicale. Étude des caracteristiques physiologiques et metaboliques de la levure, du ver nematode, de la mouche drosophile, du poisson-zebre, et de la souris.

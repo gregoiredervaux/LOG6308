@@ -1,0 +1,2 @@
+TitreCours: Seminaire
+DescriptionCours: Ce cours a pour but de permettre aux etudiants de cycles superieurs de la faculte des arts, une reflexion critique sur des problematiques variees. Assister a des seminaires, des ateliers ou des laboratoires.

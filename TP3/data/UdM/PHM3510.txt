@@ -1,0 +1,2 @@
+TitreCours: Anticancereux et immunomodulateurs
+DescriptionCours: Structure, pharmacologie, pharmacocinetique, activite et toxicite des agents utilises dans la pharmacotherapie du cancer. Buts et principes de traitement du cancer avec emphase sur les choix medicamenteux et leur monitoring.

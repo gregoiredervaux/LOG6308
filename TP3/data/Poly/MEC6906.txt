@@ -1,0 +1,2 @@
+TitreCours: Stage industriel II
+DescriptionCours: L'etudiant est appele a faire un deuxieme stage de 15 semaines a temps complet en milieu industriel pour travailler de nouveau sur un projet de recherche et developpement afin de parfaire son apprentissage professionnel. Ce stage s'adresse exclusivement aux candidats inscrits au programme cooperatif de maitrise en ingenierie et se fera sous la supervision conjointe d'un professeur et d'un ingenieur de l'entreprise. Les participants devront remettre un rapport a la fin de leur stage.

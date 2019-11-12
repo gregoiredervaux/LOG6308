@@ -1,0 +1,2 @@
+TitreCours: Geometrie et combinatoire
+DescriptionCours: Geometries finies: treillis geometriques. Ensembles partiellement ordonnes, extensions lineaires; complexes simpliciaux associes. Proprietes de Sperner; theoremes de Dilworth et de Greene. Aspects combinatoires de la topologie algebrique. Configurations combinatoires; applications aux statistiques.

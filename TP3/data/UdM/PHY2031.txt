@@ -1,0 +1,2 @@
+TitreCours: Stage 1 en industrie
+DescriptionCours: Stage en milieu de travail en vue d'acquerir une experience professionnelle dans un laboratoire public ou prive.

@@ -1,0 +1,2 @@
+TitreCours: Pharmacocinetique et formulation 2
+DescriptionCours: Integration des notions de chimie-physique et organique, pharmacie galenique et pharmacocinetique appliquees a la conception des formes pharmaceutiques complexes. Bioequivalence et interaction.

@@ -1,0 +1,2 @@
+TitreCours: Chiffrier-bases de donnees: complements
+DescriptionCours: Concepts relatifs aux ensembles de donnees. Modelisation, validation de donnees et de bases de donnees. Requetes, calculs et presentation de resultats. Ces sujets seront vus en Excel et en Access.

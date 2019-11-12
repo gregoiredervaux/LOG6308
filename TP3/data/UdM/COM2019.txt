@@ -1,0 +1,2 @@
+TitreCours: Élements de publicite
+DescriptionCours: Fonctionnement de l'industrie de la publicite. Methodes de la publicite : definition des objectifs, creation des messages, choix des medias.

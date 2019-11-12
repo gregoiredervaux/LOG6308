@@ -1,0 +1,2 @@
+TitreCours: Activite de recherche
+DescriptionCours: L'etudiant choisit de poursuivre sa participation a un groupe de recherche travaillant sur une problematique determinee. Cette problematique est poursuivie avec continuite, annee apres annee, et s'inscrit a l'interieur d'un domaine de semiologie ou de semiotique generale, ou d'un domaine particulier (communication, arts visuels, cinema, theatre, litteratures, etc.). La contribution de l'etudiant est etablie avec le responsable du groupe, au debut de l'activite.

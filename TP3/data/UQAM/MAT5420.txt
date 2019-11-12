@@ -1,0 +1,2 @@
+TitreCours: Tarification I
+DescriptionCours: Introduire l'etudiant a la theorie et a la pratique de la tarification dans le domaine des assurances incendies, accidents et risques divers. Composantes de la prime. Methodes de tarification: prime pure, loss ratio. Cueillette, etude et correction des donnees servant a la tarification. Mise a jour des primes et projection des distributions, de la frequence et du coût moyen des sinistres.

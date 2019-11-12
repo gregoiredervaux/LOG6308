@@ -1,0 +1,2 @@
+TitreCours: Medias et societe
+DescriptionCours: Introduction aux principaux debats de societe lies au developpement des medias. La reflexion pourra ainsi porter sur les rapports entre modernite et phenomenes de massification-demassification, culture et pouvoir des medias, sur le role des medias dans la genese de la societe de consommation, les phenomenes de mondialisation, la revolution des technologies de l'information, etc.

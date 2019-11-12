@@ -1,0 +1,2 @@
+TitreCours: Solfege et dictee 1
+DescriptionCours: Mecanismes de base visant l'acquisition d'automatismes de lecture et d'audition du langage tonal. Initiation au langage atonal. Perspective analytique destinee a la perception de groupements et de constantes.

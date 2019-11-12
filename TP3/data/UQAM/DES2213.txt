@@ -1,0 +1,2 @@
+TitreCours: Design graphique
+DescriptionCours: Introduction au design graphique selon une sequence historique allant des debuts de l'imprimerie jusqu'a l'epoque actuelle. Étude des phenomenes apparus a chaque periode en tenant compte des technologies indispensables a la creation ainsi que des rapports createurs, commanditaires, publics.

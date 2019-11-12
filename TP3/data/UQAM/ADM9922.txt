@@ -1,0 +1,2 @@
+TitreCours: Seminaire sur la recherche en systemes d
+DescriptionCours: Ce seminaire permet d'etudier et de confronter les differents courants methodologiques dans le domaine. L'objectif est de permettre a l'etudiant d'ameliorer ses connaissances, ses aptitudes face aux exigences de la recherche.

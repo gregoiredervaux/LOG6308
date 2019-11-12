@@ -1,0 +1,2 @@
+TitreCours: Phonologie 3
+DescriptionCours: Ce seminaire porte sur les frontieres de la theorie phonologique: discussion critique des positions recentes sur la nature des representations et des processus phonologiques, le caractere parametrique de la phonologie.

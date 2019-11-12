@@ -1,0 +1,2 @@
+TitreCours: Systemes de telecommunications
+DescriptionCours: Étude pratique des principaux systemes de telecommunication analogiques et digitaux. Radio, television, telephone, transmission de donnees. Communications hertzienne, par cable, par satellite, par fibre optique. Principes et caracteristiques de ces systemes, limites et performances. Étude des sous-ensembles fonctionnels utilises en communication: modulateur, multiplexeur, demodulateur, circuits de synchronisation, detecteur, convertisseur. Introduction a l'etude des antennes.

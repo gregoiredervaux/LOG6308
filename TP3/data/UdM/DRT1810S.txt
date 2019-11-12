@@ -1,0 +1,2 @@
+TitreCours: Droit pour professionnels de la sante
+DescriptionCours: Élements de droit pour professionnels de la sante : contrat, obligations, responsabilite civile, assurances, organisation professionnelle, deontologie, droit disciplinaire, responsabilite penale, droit administratif de la sante.

@@ -1,0 +1,2 @@
+TitreCours: Recons. 3D a partir d'ima. med.(GBM6700)
+DescriptionCours: Systemes de vision active et de vision passive. Reconstruction 3D a partir de sequences d'images, de mouvement, d'ombrage et de texture. Applications a des structures anatomiques a partir d'images medicales.

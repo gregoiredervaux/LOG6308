@@ -1,0 +1,2 @@
+TitreCours: Spectroscopie appliquee
+DescriptionCours: Les objectifs du cours sont d'introduire des notions pratiques en spectroscopie; determiner les vibrations actives en infrarouge. Manipulation d'un spectrometre. Interpretation physique des experiences spectroscopiques. Spectroscopie electronique, spectroscopie IR des composes de coordination, symetrie, tables de caracteres. Experiences en laboratoire. Cours magistral et travaux pratiques.

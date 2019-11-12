@@ -1,0 +1,2 @@
+TitreCours: Representation politique
+DescriptionCours: Presentation et bilan des principales approches des diverses formes de representation politique dans les democraties liberales. Analyse des acteurs collectifs (partis politiques, mouvements, groupes), de leurs discours et pratiques.

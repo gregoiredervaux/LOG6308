@@ -1,0 +1,2 @@
+TitreCours: Commerce des valeurs mobilieres
+DescriptionCours: Ce cours, offert en collaboration avec l'ICVM, a pour but d'approfondir des connaissances pratiques en placement. Le cours s'adresse a une clientele etendue issue du milieu des affaires et du secteur financier. Les principaux themes couverts sont: les marches financiers, l'analyse et l'interpretation des etats financiers, l'economie canadienne, l'analyse et l'evaluation des differents titres financiers et de portefeuilles, la reglementation du secteur des valeurs mobilieres et la fiscalite des placements.

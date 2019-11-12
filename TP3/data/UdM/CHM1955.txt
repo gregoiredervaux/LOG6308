@@ -1,0 +1,2 @@
+TitreCours: Chimie et societe
+DescriptionCours: Ce cours, qui est destine a un auditoire non specialise, traite du role de la chimie dans differentes spheres de l'activite humaine, et de differents problemes sociaux dans la solution desquels la chimie est appelee a jouer un role important.

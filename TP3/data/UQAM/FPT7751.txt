@@ -1,0 +1,2 @@
+TitreCours: Curriculum de formation professionnelle
+DescriptionCours: Fondements politiques, axiologiques, philosophiques des curriculum developpes en formation professionnelle pour les ouvriers et les techniciens. Analyse critique des diverses formes de modeles de curriculum actuellement proposees, pour le developpement de programmes de formation professionnelle. Élaboration de grilles de developpement de programmes de formation professionnelle en institution ou en milieu de travail a l'intention des ouvriers et des techniciens.

@@ -1,0 +1,2 @@
+TitreCours: Grammaire avancee
+DescriptionCours: Ce cours s'adresse aux etudiants qui ont deja atteint un niveau superieur en espagnol. Il vise une connaissance approfondie de la grammaire de l'espagnol, et en particulier de la morpho-syntaxe.

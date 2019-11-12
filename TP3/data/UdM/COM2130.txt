@@ -1,0 +1,2 @@
+TitreCours: Communication dans les equipes
+DescriptionCours: Examen des theories et methodologies relatives au role de la communication dans la gestion des equipes. La structuration des equipes, la resolution de probleme et la prise de decisions.

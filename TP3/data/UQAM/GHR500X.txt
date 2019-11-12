@@ -1,0 +1,2 @@
+TitreCours: Cours hors Quebec en gestion hoteliere et de restauration
+DescriptionCours: Ce cours s'adresse aux etudiants des programmes de gestion effectuant un sejour d'etudes hors Quebec (au Canada ou a l'etranger). Il vise a leur permettre de s'inscrire a des activites academiques (cours magistraux ou seminaires) dans le domaine de la gestion hoteliere et de restauration qui n'ont pas d'equivalent dans le programme.

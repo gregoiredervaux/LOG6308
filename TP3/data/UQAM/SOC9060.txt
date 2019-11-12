@@ -1,0 +1,2 @@
+TitreCours: Projet de these
+DescriptionCours: Le projet comprend la problematique, le cadre theorique, une recension des principales theories reliees au champ de la these, la demarche methodologique. L'etudiant doit faire la preuve de la connaissance approfondie specialisee et large necessaire a sa these. Le projet est soutenu devant un jury.

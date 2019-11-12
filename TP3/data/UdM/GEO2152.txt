@@ -1,0 +1,2 @@
+TitreCours: Hydrologie
+DescriptionCours: Bassin-versant. Caracteristiques climatiques : precipitations, temperatures. Mesure et calcul hydrometriques. Les debits; crue, etiage. Bilan hydrologique.

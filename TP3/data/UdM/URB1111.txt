@@ -1,0 +1,2 @@
+TitreCours: Le Quebec urbain
+DescriptionCours: Hierarchie et reseaux de villes au Quebec. Phenomenes d'agglomeration : du village a la metropole. Suburbanisation et villes-centres. La relation ville-hinterland. Typologies et enjeux.

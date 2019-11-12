@@ -1,0 +1,2 @@
+TitreCours: Theatre et nouvelles technologies
+DescriptionCours: Presentation et analyse de l'interactivite du theatre avec les innovations technologiques, leurs consequences ethiques et esthetiques. Perspective futuriste sur tous les supports performatifs: scenarisation graphique et textuelle, simulation de scenographie et de mise en scene par ordinateur, notation graphique du jeu, alteration acoustique, transmission de donnees, jeux interactifs a plusieurs partenaires, gestion, etc.

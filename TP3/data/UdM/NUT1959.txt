@@ -1,0 +1,2 @@
+TitreCours: Nutrition et sante
+DescriptionCours: Relation nutrition-sante. Nutriments : roles, sources alimentaires. Besoins nutritionnels en fonction de l'age, du sexe et de conditions physiologiques. Notions de base en nutrition clinique.

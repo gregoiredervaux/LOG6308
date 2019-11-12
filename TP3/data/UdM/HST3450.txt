@@ -1,0 +1,2 @@
+TitreCours: Histoire economique nord-americaine
+DescriptionCours: Analyse historique des grandes transformations economiques des societes nord-americaines, des decouvertes a nos jours.

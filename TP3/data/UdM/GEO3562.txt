@@ -1,0 +1,2 @@
+TitreCours: Initiation a la demarche scientifique
+DescriptionCours: Étapes propres a la demarche scientifique en geographie. Courants de pensee et approches dans la recherche en geographie. Particularites de l'espace geographique. Contribution de la geographie a l'etude de problemes environnementaux.

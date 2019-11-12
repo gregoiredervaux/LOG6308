@@ -1,0 +1,2 @@
+TitreCours: Intervention psychogeriatrique
+DescriptionCours: Psychopathologies et notions de pharmacologie. Intervention aupres de la personne agee. Ressources et services specifiques.

@@ -1,0 +1,2 @@
+TitreCours: Communication orale. Niveau 4
+DescriptionCours: Permettre a l'etudiant ayant une bonne connaissance du francais de developper sa communication orale dans des echanges assez complexes et de mieux s'integrer au milieu francophone.

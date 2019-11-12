@@ -1,0 +1,2 @@
+TitreCours: Modeles de prevention et d'intervention
+DescriptionCours: Bases theoriques sous-jacentes aux programmes de prevention et de reeducation. Illustration a l'aide de programmes existants.

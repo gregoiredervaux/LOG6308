@@ -1,0 +1,2 @@
+TitreCours: Illustration scientifique
+DescriptionCours: Exploration des divers moyens de representation, d'interpretation et de schematisation de donnees scientifiques par l'illustration.

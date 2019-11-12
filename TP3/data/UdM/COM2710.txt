@@ -1,0 +1,2 @@
+TitreCours: Innovation et mediation sociotechnique
+DescriptionCours: Élements d'analyse des pratiques de mediation pour une comprehension globale de l'evolution des systemes de communication. Cadres conceptuels de l'analyse des reseaux techniques et humains de la circulation de l'information.

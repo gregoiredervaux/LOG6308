@@ -1,0 +1,2 @@
+TitreCours: Biomecanique et therapeutique occlusales
+DescriptionCours: Trente lecons sur les notions fondamentales d'anatomie de l'appareil masticateur; sur les notions cliniques reliees aux traitements et a la prevention des anomalies des systemes associes a l'occlusion.

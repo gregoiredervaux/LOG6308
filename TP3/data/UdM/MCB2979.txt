@@ -1,0 +1,2 @@
+TitreCours: Bacteriologie generale 1
+DescriptionCours: Notions de physiologie bacterienne. Structure, organisation et composition de la cellule bacterienne; metabolisme bacterien; regulation de l'expression genique; regulation globale; methodes d'analyse.

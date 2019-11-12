@@ -1,0 +1,2 @@
+TitreCours: Industrie du medicament
+DescriptionCours: Évolution de l'industrie pharmaceutique. Brevets, licences. Nouveaux produits. Études precliniques et cliniques. Mise en marche. Administration.

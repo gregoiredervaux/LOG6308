@@ -1,0 +1,2 @@
+TitreCours: Laboratoire des energies nouvelles
+DescriptionCours: Étude de certaines applications de l'energie solaire et de l'energie eolienne ainsi que des techniques d'isolation et de stockage d'energie, soit par des manipulations, soit par des etudes de dossiers et la realisation d'applications au niveau de la maison individuelle.

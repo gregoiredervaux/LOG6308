@@ -1,0 +1,2 @@
+TitreCours: Linguistique et psychologie
+DescriptionCours: Introduction aux questions communes a la linguistique et a la psychologie. Production et perception. Analyse fonctionnelle et mesure en temps reel. Modeles fonctionnels et modeles proceduraux. Exemples d&rsquo;applications dans des domaines pertinents.

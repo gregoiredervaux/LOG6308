@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de formation professionnelle
+DescriptionCours: Suivi d'un eleve en difficulte sur deux trimestres: analyse des probleme presentes par l'eleve, objectifs a atteindre et mise a l'essai d'interventions adaptees. Collaboration avec les agents d'education de cet eleve.

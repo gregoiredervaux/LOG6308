@@ -1,0 +1,2 @@
+TitreCours: Le chinois : synchronie et diachronie
+DescriptionCours: Analyse synchronique du chinois : phonologie, morphologie, syntaxe, lexique. Aspects de son evolution. Rapport de la langue a l'ecriture.

@@ -1,0 +1,2 @@
+TitreCours: Modelisation pour la prise de decision
+DescriptionCours: Classification des modeles. Methodes de formulation, de conception, de construction et d'evaluation des modeles. Techniques de simulation et d'optimisation. Dynamique industrielle. Utilite et limitations des modeles pour l'aide a la comprehension, l'analyse-conception, la planification-evaluation d'alternatives et le controle. Exemples d'application aux organisations, aux reseaux, a la repartition des systemes d'information, etc.

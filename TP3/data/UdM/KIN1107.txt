@@ -1,0 +1,2 @@
+TitreCours: Activites de plein air 2
+DescriptionCours: Planification et gestion d'activites dans des environnements naturels. Raquette, ski de fond, patin, luge, survie et construction d&rsquo;abris, appreciation des sites propres a des sorties de plein air.

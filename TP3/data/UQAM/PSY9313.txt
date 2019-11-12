@@ -1,0 +1,2 @@
+TitreCours: Cognition et traitement de l
+DescriptionCours: Étude de la cognition dans la perspective des theories du traitement de l'information. Parallele entre le fonctionnement d'un ordinateur et la cognition. Notions de «plan», de memoire a court terme, de reseau semantique, de traitement de l'information sequentiel et parallele, etc. Applications au raisonnement humain.

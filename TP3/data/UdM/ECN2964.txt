@@ -1,0 +1,2 @@
+TitreCours: Économie et finances publiques
+DescriptionCours: Introduction a la theorie des choix publics et des finances publiques. Application aux decisions d'allocation des biens et des services publics. Interaction entre le secteur prive et le secteur public. Gestion budgetaire.

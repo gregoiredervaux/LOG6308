@@ -1,0 +1,2 @@
+TitreCours: Stage d
+DescriptionCours: Cette activite a comme objectif d'entrainer les etudiants a aider leurs eleves a apprendre et pour ce faire, enseigner sous la surveillance d'un maitre-associe du collegial: preparation d'un stage d'enseignement, objectifs, strategies d'enseignement, activites d'apprentissage, evaluation; enseignement effectif sous la surveillance d'un maitre-associe; preparation, prestation de cours, evaluation des eleves; participation a la vie administrative, syndicale et sociale du college; redaction d'un rapport de stage.

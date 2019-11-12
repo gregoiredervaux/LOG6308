@@ -1,0 +1,2 @@
+TitreCours: Methodes de planification avancee
+DescriptionCours: Methodes avancees de pilotage des systemes de production. Ordonnancement de la production, algorithmes dedies et methodes specifiques. Methodes meta-heuristiques et programmation par contraintes appliquees a l'ordonnancement detaille et a la planification avancee. Utilisation de systeme avance de planification (APS) en contexte industriel. Methodes avancees de gestion des stocks. Modeles de double approvisionnement et de transbordement. Modele general de l'approvisionnement mono-periode.

@@ -1,0 +1,2 @@
+TitreCours: Projet de recherche
+DescriptionCours: Cette activite comprend surtout des rencontres individuelles entre l'etudiant et le directeur de recherche. Ces rencontres ont pour but de soutenir l'etudiant dans l'identification de la problematique, la definition et la presentation de son projet. L'etudiant prepare un document complet exposant la problematique du sujet choisi, la revue de litterature scientifique sur le sujet, les hypotheses de recherche, la methodologie, le plan et l'echeancier.

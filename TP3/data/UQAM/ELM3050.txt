@@ -1,0 +1,2 @@
+TitreCours: Élaboration de projet
+DescriptionCours: Acquisition des outils essentiels a l'elaboration d'un projet: ensemble de lectures concernant le genre, la forme, les enquetes, la documentation. L'insistance sera mise sur la recherche prealable a l'ecriture. Conception de projet. Realisation d'un projet elabore dans la premiere partie du cours. (Cours annuel donne par tutorat).

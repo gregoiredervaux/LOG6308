@@ -1,0 +1,2 @@
+TitreCours: Logiciels de gestion et de communication
+DescriptionCours: Ce cours presente les logiciels de gestion et de communication dont la connaissance est indispensable a des etudes plus poussees. Apres un survol de l'utilisation de l'ordinateur et du systeme d'exploitation Windows, il donne un apercu des logiciels de traitement de texte, des tableurs et des bases de donnees. On y presente egalement le fonctionnement et les possibilites du reseau Internet. L'etudiant est invite a acheter le materiel informatique et pedagogique avant le debut du cours a la Coop HEC..

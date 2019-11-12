@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese II
+DescriptionCours: L'objectif poursuivi est de permettre a l'etudiant de proceder a l'approndissement d'une question relevant de son champ de specialisation. Cet exercice doit s'appuyer sur une synthese de lecture ou la redaction d'un essai.

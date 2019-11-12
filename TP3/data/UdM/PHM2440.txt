@@ -1,0 +1,2 @@
+TitreCours: Antibiotiques et anticancereux
+DescriptionCours: Élements de structures chimiques liees a une action biologique des medicaments anti-infectieux, anticancereux et modulateurs de l'immunite. Choix de la therapie et monitoring.

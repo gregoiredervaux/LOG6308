@@ -1,0 +1,2 @@
+TitreCours: Intervention educative aupres d'adultes
+DescriptionCours: Besoins educatifs des adultes dans une perspective developpementale. Application de principes andragogiques dans la conception et la mise a l'essai d'une intervention educative aupres d'adultes.

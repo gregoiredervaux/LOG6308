@@ -1,0 +1,2 @@
+TitreCours: Reseaux d'infrastructure urbaine
+DescriptionCours: Les reseaux et la ville. Conception et fonctionnement des reseaux. Planification des reseaux d'infrastructure (transport, egout, aqueduc). Implantation et gestion des systemes et reseaux de transport, gestion de la demande.

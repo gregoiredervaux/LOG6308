@@ -1,0 +1,2 @@
+TitreCours: Pedagogie de la cooperation
+DescriptionCours: Modeles de gestion d'un groupe-classe. Strategies d'enseignement cooperatif. Apprentissage des habiletes sociales et du travail en equipe. Role des interactions sociales dans l'acquisition des connaissances.

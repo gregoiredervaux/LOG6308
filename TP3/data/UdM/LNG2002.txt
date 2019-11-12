@@ -1,0 +1,2 @@
+TitreCours: Acquisition et linguistique
+DescriptionCours: Acquisition de la langue maternelle d'un point de vue linguistique. Apercu de l'evolution linguistique de l'enfant d'age prescolaire du point de vue de la syntaxe, de la phonologie et de la semantique formelle.

@@ -1,0 +1,2 @@
+TitreCours: Pathologie generale en optometrie
+DescriptionCours: Lesions cellulaires.Troubles hemodynamiques, lesions tiss. agents physiques, lesions tiss. agents chimiques. Inflammation. Immunite. Neoplasie. Maladies hereditaires. Vieillissement.

@@ -1,0 +1,2 @@
+TitreCours: Gestion de projets en ingenierie des systemes
+DescriptionCours: Problematique liee au volet technique des projets d'ingenierie et autres projets technologiques. Description du processus de l'ingenierie systemique, des livrables et du cycle de vie des systemes. Integration des disciplines de l'ingenierie (fiabilite, maintenabilite, sûrete, support logistique integre...) dans le processus. Planification et gestion de la qualite. Élements de la planification, techniques et outils de conception et de qualite. Organisation des responsabilites techniques.

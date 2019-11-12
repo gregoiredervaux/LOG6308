@@ -1,0 +1,2 @@
+TitreCours: Produits derives et gestion de risque
+DescriptionCours: Contrats a terme, a livrer, d'echange, gestion de risque, options, arbres binomiaux, formule de Black-Scholes, couverture en delta, options exotiques, lemme d'Ito, modeles des taux d'interet. Ce cours contribue a la preparation des SOA MF et MFE.

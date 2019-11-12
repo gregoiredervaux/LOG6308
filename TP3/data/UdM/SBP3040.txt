@@ -1,0 +1,2 @@
+TitreCours: Developpement du medicament 4
+DescriptionCours: Conception et elaboration d'un devis de Phase 4. Bioethique. Pharmacovigilance. Integration des donnees : cliniques, innocuite, pharmacoeconomie. Reglementation

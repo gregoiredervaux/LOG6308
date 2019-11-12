@@ -1,0 +1,2 @@
+TitreCours: Modelisation 3D avancee en DI
+DescriptionCours: Approfondissement des techniques de representation. Applications de la CAO et de la DAQ. La production d'images de synthese et d'animations.

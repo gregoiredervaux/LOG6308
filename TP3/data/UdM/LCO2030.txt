@@ -1,0 +1,2 @@
+TitreCours: Litterature, technologies et medias
+DescriptionCours: Analyse des interactions entre la litterature (institution, production, textualite), les medias et les technologies (hypertexte, film, video).

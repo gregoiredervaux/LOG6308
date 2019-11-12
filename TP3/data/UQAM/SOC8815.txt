@@ -1,0 +1,2 @@
+TitreCours: Sociologie de la sante
+DescriptionCours: Approches theoriques permettant de comprendre la structuration et le developpement du monde de la sante. Plusieurs themes pourront etre abordes: les fondements cognitifs du domaine (ex.: les representations du corps, de la maladie et de la sante, le developpement des sciences medicales), les relations professionnelles, les modes de prise en charge (public/prive), la repartition des ressources, les questions ethiques, les inegalites sociales devant la sante et la maladie, les enjeux lies a la prevention.

@@ -1,0 +1,2 @@
+TitreCours: Gites Metalliferes
+DescriptionCours: Reconnaissance des divers types de gites mineraux. Utilisation des methodes de prospection et prevision de leur localisation. Le cours passe en revue les principales caracteristiques des gites mineraux en insistant sur les ressources metalliques: gites magmatiques, volcanogenes, volcano-sedimentaires, sedimentaires, diagenetiques, metamorphises et metamorphiques. Mineraux strategiques. Étude megascopique des minerais et des roches encaissantes. Laboratoire (3 heures).

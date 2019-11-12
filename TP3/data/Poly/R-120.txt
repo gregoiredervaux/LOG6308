@@ -1,0 +1,2 @@
+TitreCours: Mecanique et controle du vol
+DescriptionCours: Forces aerodynamiques. Courbes moteurs. Mecanique du vol stationnaire. Performances en montee. Decollage. Atterrissage. Autonomie. Distance franchissable. Manoeuvres. Enveloppe de vol. Helicopteres. Stabilite statique et dynamique.

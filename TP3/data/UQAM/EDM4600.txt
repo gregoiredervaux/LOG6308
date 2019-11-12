@@ -1,0 +1,2 @@
+TitreCours: Algorithmie de base et interactivite
+DescriptionCours: Atelier axe sur l'appropriation du concept d'interaction dans le contexte des communications mediatiques. Étude et application de techniques algorithmiques de base appliquees a la realisation d'une production media interactive: les structures conditionnelles, aleatoires et stochastiques, l'iterativite, la recursivite, les structures de donnees, la gestion des evenements, le controle des elements audiovisuels.

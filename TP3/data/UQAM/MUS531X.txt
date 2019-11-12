@@ -1,0 +1,2 @@
+TitreCours: Instrument principal V b
+DescriptionCours: Presentation en public d'un examen-concert d'une duree d'environ trente minutes. Ce cours est la suite de MUS530X Instrument principal Va. Lecons individuelles (quinze heures).

@@ -1,0 +1,2 @@
+TitreCours: Dynamique des fluides
+DescriptionCours: Notions sur les fluides et milieux continus. Fluides au repos. Cinematique, potentiel de vitesse, fonction de courant, ecoulements potentiels, equation de continuite. Dynamique des fluides, equations d'Euler et de Navier-Stokes, equation d'energie. Analyse dimensionnelle. Écoulements en conduites et notions de turbulence. Couche limite laminaire et turbulente, trainee. Écoulements compressibles isentropiques, ondes de choc, friction.

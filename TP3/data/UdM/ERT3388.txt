@@ -1,0 +1,2 @@
+TitreCours: Ergotherapie et accidents cerebraux
+DescriptionCours: Épidemiologie, processus de recuperation des deficits, bases neurophysiologiques des approches de readaptation, methodes evaluatives et de traitements, aspects neuropsychologiques et psychosociaux.

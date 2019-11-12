@@ -1,0 +1,2 @@
+TitreCours: Meteorologie instrumentale et climatologie descriptive
+DescriptionCours: Introduction a l'instrumentation usuelle employee en meteorologie. Mesure de la temperature, humidite, pression, precipitations, evaporation, visibilite, hauteur des nuages, vents, radiation. Introduction a la climatologie et aux methodes climatologiques. Effets a long terme de la radiation, temperature, pression atmospherique et vents. Classifications climatiques. Climats locaux et microclimatologie. Changements climatiques. Climat nord-americain.

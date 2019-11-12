@@ -1,0 +1,2 @@
+TitreCours: Medecine de pop. de bovins de boucherie
+DescriptionCours: Approche et regie en production de veaux de lait et de grain ainsi que les productions vaches-veaux et parcs d'engraissement.

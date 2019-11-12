@@ -1,0 +1,2 @@
+TitreCours: Conferences clinico-restauratrices
+DescriptionCours: Comprehension des plans de traitements par l'integration des notions de base acquises dans les diverses disciplines cliniques. Reconnaissance et comprehension des problemes presentes, sequence etablie pour leur resolution.

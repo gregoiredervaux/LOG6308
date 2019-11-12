@@ -1,0 +1,2 @@
+TitreCours: Histoire d'un medium
+DescriptionCours: Étude du developpement historique et technique d&rsquo;un medium choisi parmi les exemples suivants : dessin, gravure, peinture, sculpture.

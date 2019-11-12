@@ -1,0 +1,2 @@
+TitreCours: Enseignement clinique en orthophonie
+DescriptionCours: Sensibilisation aux problemes d'enfants et d'adultes presentant des troubles de la parole et du langage par l'observation et la participation dans un milieu de pratique. Familiarisation avec les methodes d'intervention utilisees par l'orthophoniste.

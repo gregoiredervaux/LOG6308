@@ -1,0 +1,2 @@
+TitreCours: Projet de design II
+DescriptionCours: Atelier de production ayant pour objectif d'initier les etudiants aux etapes de developpement d'un projet de design. Approches des techniques de dessin et de maquette comme outils constitutifs des modes de pensee et d'expression propres au projet. Exercices visant l'elaboration de petits projets d'habitations a partir des notions de site, d'usages et de precedents.

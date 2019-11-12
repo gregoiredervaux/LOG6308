@@ -1,0 +1,2 @@
+TitreCours: Communication et aide aux employes
+DescriptionCours: A l'aide d'etudes de cas, analyse de situations impliquant des questions d'information avec les employes, d'expressions des employes, de traitement de plaintes et d'aide aux employes (alcool, drogue, equilibre travail-famille, sante...).

@@ -1,0 +1,2 @@
+TitreCours: Mthode des lments finis
+DescriptionCours: Introduction  la mthode des lments finis (MEF) et  la conception assiste par ordinateur (CAO). Modlisation d'un problme par la MEF. quations d'quilibre et formulation de la MEF. Calcul et assemblage des matrices lmentaires. Conditions aux frontires. Maillages, convergence et prcision. Rsolution numrique des quations linaires. Interprtation et exploitation des rsultats. Utilisation de logiciels spcialiss. Applications  la mcanique des solides, aux transferts de chaleur,  la mcanique des fluides et  la gotechnique.

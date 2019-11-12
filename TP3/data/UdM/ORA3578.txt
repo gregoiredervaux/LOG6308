@@ -1,0 +1,2 @@
+TitreCours: Orthophonie - enfant 1
+DescriptionCours: L'evaluation et la reeducation de l'enfant vivant un developpement atypique du langage; des methodes et approches orthophoniques principales qui en decoulent; des instruments formels d'evaluation.

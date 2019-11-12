@@ -1,0 +1,2 @@
+TitreCours: Infographie 1
+DescriptionCours: Initiation aux techniques informatiques de dessin et de representation formelle. Introduction au dessin 2D de type raster et de type vectoriel et a la modelisation 3D. Controle des courbes NURBS. Operations booleennes.

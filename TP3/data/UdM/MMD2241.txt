@@ -1,0 +1,2 @@
+TitreCours: Épidemiologie clinique
+DescriptionCours: L'epidemiologie et ses principales applications : surveillance, histoire naturelle de la maladie, evaluation de tests diagnostiques et de depistage, recherche des causes et facteurs pronostiques et evaluation de nouveaux traitements.

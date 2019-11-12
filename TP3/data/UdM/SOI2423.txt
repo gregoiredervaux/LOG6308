@@ -1,0 +1,2 @@
+TitreCours: Soins en situation d'urgence 3
+DescriptionCours: Situations de sante a l'urgence chez des personnes de tous ages : gastro, urinaire, et autres. Sciences biologiques et pharmacologiques. Plan therapeutique infirmier et jugement clinique : surveillance, monitorage, prise de decision.

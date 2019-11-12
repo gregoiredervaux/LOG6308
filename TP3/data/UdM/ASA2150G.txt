@@ -1,0 +1,2 @@
+TitreCours: Information de gestion
+DescriptionCours: Role des donnees quantitatives en gestion. Identification, analyse, utilisation des donnees pertinentes concernant les ressources humaines, materielles et financieres en lien avec les besoins de la clientele. Tableau de bord. Suivi des resulats.

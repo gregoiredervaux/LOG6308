@@ -1,0 +1,2 @@
+TitreCours: Theorie des nombres
+DescriptionCours: Divisibilite. Nombres premiers. Congruences. Loi de reciprocite quadratique. Residus quadratiques. Initiation aux equations diophantiennes.

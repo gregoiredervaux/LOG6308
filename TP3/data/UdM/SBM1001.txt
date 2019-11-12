@@ -1,0 +1,2 @@
+TitreCours: Morphologie fonctionnelle
+DescriptionCours: Notions essentielles d'anatomie et d'histologie humaines. Principes physiologiques fondamentaux regissant les divers systemes de l'organisme. Travaux pratiques d'histologie.

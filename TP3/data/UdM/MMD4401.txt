@@ -1,0 +1,2 @@
+TitreCours: Medecine - Complement de formation
+DescriptionCours: Periode de travail personnel complementaire au stage de medecine MMD 3301 permettant une evaluation normative des connaissances en medecine d'un etudiant terminant le doctorat en medecine (M.D.).

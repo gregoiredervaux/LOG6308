@@ -1,0 +1,2 @@
+TitreCours: Philologie 2 : ancien et moyen francais
+DescriptionCours: Étude et commentaires de textes d'ancien et (ou) de moyen francais selon les besoins des etudiants inscrits : morphologie, syntaxe, semantique. Élements de critique textuelle.

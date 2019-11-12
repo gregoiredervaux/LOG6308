@@ -1,0 +1,2 @@
+TitreCours: Stage : Cardiologie pediatrique
+DescriptionCours: Stage aupres de patients d'age pediatrique en cardiologie pediatrique.

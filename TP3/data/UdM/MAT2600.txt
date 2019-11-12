@@ -1,0 +1,2 @@
+TitreCours: Algebre 1
+DescriptionCours: Exemples de groupes : groupe symetrique, groupes lineaires. Sous-groupes et theoreme de Lagrange. Groupe quotient et theoremes d'isomorphisme. Actions et actions lineaires. Theoreme de Sylow.

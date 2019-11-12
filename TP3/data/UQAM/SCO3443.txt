@@ -1,0 +1,2 @@
+TitreCours: Comptabilite de management I
+DescriptionCours: Ce cours vise a permettre a l'etudiant de situer la comptabilite de gestion dans un contexte organisationnel et de comprendre les systemes de coût de revient. Fonctions de la comptabilite de management. Les modes de fabrication sur commande et uniforme. Analyses de soumissions. Les methodes du coût de revient rationnel et du coût de revient standard. Le budget flexible et l'analyse des ecarts. Travaux en laboratoire d'information et seances d'exercices.

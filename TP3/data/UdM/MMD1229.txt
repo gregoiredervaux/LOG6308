@@ -1,0 +1,2 @@
+TitreCours: Pathologie et immunologie generales
+DescriptionCours: Lesions cellulaires et lesions d'origine ischemique. Inflammation et regeneration des plaies. Pathologie de la proliferation cellulaire. Reponse immunitaire : composantes tissulaires, cellulaires et moleculaires. Dereglements de l'immunite.

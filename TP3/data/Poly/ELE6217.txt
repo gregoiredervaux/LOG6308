@@ -1,0 +1,2 @@
+TitreCours: Systemes a evenements discrets
+DescriptionCours: Structure d'un systeme de commande. Controleurs de deuxieme niveau. Applications des systemes a evenements discrets : commande de deuxieme niveau d'usines de fabrication, de vehicules autonomes, de centrales nucleaires. Theorie de la commande pour systemes a evenements discrets. Notions de commandabilite et d'observabilite. Synthese de supervision modulaire, repartie et hierarchique. Commande en temps reel. Logiciels pour l'analyse et la synthese.

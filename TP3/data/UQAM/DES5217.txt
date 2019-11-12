@@ -1,0 +1,2 @@
+TitreCours: Design
+DescriptionCours: Survol des tendances actuelles en design par une serie d'exposes.

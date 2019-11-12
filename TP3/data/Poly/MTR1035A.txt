@@ -1,0 +1,2 @@
+TitreCours: Materiaux
+DescriptionCours: Introduction a la science des materiaux. Mise en evidence des relations entre les proprietes macroscopiques (en particulier mecaniques) et la structure des materiaux metalliques et celle des ceramiques. Rigidite et liaisons atomiques. Architecture atomique. Comportement mecanique (traction, tenacite, transition ductile - fragile, fluage, fatigue). Principes de modification des proprietes. Degradation. Proprietes physiques. Cours reserve aux etudiants inscrits au programme de genie industriel.

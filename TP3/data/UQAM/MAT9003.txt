@@ -1,0 +1,2 @@
+TitreCours: 
+DescriptionCours: Graphes, chemins, flots, arbres; algorithmes sur les graphes. Structures de base en combinatoire: permutations, partitions, arbres binaires, partages d'entiers, tableaux de Young, etc. Especes de structures, series generatrices. Inversion de Möbius, methode de l'Involution. Theorie de Polya. Cette activite est evaluee selon la notation Succes-Échec.

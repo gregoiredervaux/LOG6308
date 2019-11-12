@@ -1,0 +1,2 @@
+TitreCours: Stage : Chirurgie cardio-thoracique
+DescriptionCours: Stage clinique aupres de malades ambulants ou hospitalises en chirurgie cardio-thoracique.

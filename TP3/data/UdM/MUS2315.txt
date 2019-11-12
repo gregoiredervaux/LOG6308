@@ -1,0 +1,2 @@
+TitreCours: Musique et mediatique 2
+DescriptionCours: Poursuite de l'etude des principales theories et pratiques d'effets speciaux en video numerique. Nouvelles technologies de la performance video en temps reel et elements de langage qui soutiennent un discours audiovisuel coherent.

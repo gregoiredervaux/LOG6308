@@ -1,0 +1,2 @@
+TitreCours: Toxicologie agroalimentaire vet.
+DescriptionCours: Techniques de productions animales et innocuite des viandes en medecine veterinaire reglementee. Additifs et conservateurs alimentaires. Reglementation pertinente au domaine et les intervenants.

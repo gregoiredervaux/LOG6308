@@ -1,0 +1,2 @@
+TitreCours: Travail personnel dirige
+DescriptionCours: Traduction de trois textes d'environ 3000 mots chacun, choisis par l'etudiant en accord avec le professeur, dans les categories litteraire, journalistique, economique/technique.

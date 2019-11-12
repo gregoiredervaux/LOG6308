@@ -1,0 +1,2 @@
+TitreCours: Histoire sociale de la pharmacie
+DescriptionCours: Pharmacie et medecine depuis l'Antiquite jusqu'a nos jours. Évolution de la profession de pharmacien a travers les ages, des developpements scientifiques en medecine et en pharmacie, des pratiques de sante et de l'utilisation des medicaments.

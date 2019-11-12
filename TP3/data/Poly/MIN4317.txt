@@ -1,0 +1,2 @@
+TitreCours: Ventilation miniere et hygiene du travail
+DescriptionCours: Hygiene du travail: gaz, poussieres, bruits, astreintes thermiques. Legislation sur la sante et securite dans les mines. Description des composantes d'un systeme de ventilation. Ventilations naturelle et mecanique. Principes de mesure des ecoulements de l'air dans les reseaux de ventilation. Techniques de calcul des pertes de charges dans un circuit. Choix des composantes pour assurer et regulariser les ecoulements. Modelisation numerique des ecoulements. Chauffage de l'air. Aspects economiques.

@@ -1,0 +1,2 @@
+TitreCours: Chimie physique generale II
+DescriptionCours: Solutions, applications aux equilibres chimiques et aux proprietes colligatives. Solutions electrolytiques, piles electrochimiques et equilibres ioniques. Notions de phenomenes de surface. Ce cours s'adresse particulierement aux etudiants de biochimie.

@@ -1,0 +1,2 @@
+TitreCours: Projet de conception de produits polymeriques
+DescriptionCours: Revue des proprietes mecaniques, chimiques et physiques des produits polymeriques, plastiques de commodite, materiaux thermodurcissables et elastomeres. Problematiques environnementales, de biocompatibilite et de degradation. Criteres de conception de produits polymeriques, methodologie, analyse de cycle de vie, estimation des coûts, gestion, procedes et temps de cycle, approche 6 sigma. Projets de conception.

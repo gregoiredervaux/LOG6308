@@ -1,0 +1,2 @@
+TitreCours: Gestion de la qualite des soins
+DescriptionCours: Notions d'environnement de la qualite des soins infirmiers (QSI), ses concepts et ses methodes. L'accent portera sur les facteurs qui influent sur la QSI, sur les concepts d'evaluation de la QSI et sur ses methodes.

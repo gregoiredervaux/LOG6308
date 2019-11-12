@@ -1,0 +1,2 @@
+TitreCours: Analyse des donnees quantitatives et qualitatives en evaluation de programmes
+DescriptionCours: Approfondissement des modeles d'analyse des donnees quantitatives et qualitatives ainsi que des modalites pour presenter les resultats obtenus afin que l'information soit accessible aux clients de l'evaluation et qu'elle soutienne la prise de decision.

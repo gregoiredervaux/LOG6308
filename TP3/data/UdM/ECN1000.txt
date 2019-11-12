@@ -1,0 +1,2 @@
+TitreCours: Principes d'economie
+DescriptionCours: Presentation des outils de base de l'analyse economique : coût d'opportunite, offre, demande et prix; choix des consommateurs; choix de production des firmes; marches concurrentiels; monopole; efficacite; commerce international.

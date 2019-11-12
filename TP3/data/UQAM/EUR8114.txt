@@ -1,0 +1,2 @@
+TitreCours: Methodes d
+DescriptionCours: Initiation aux methodes d'evaluation de projets urbains, tant qualitatives que quantitatives, et tant unidimensionnelles que multidimensionnelles. La place des methodes d'evaluation dans le processus de prise de decision. Les approches qualitatives. Les etudes d'impact. La methode des indicateurs. L'approche multicritere. Le calcul de rentabilite. Le calcul de rentabilite fiscale. L'analyse avantages-coûts. L'analyse des effets multiplicateurs.

@@ -1,0 +1,2 @@
+TitreCours: Theorie litteraire
+DescriptionCours: Ce seminaire a contenu variable constitue un lieu d'echanges et de discussions dans l'un ou l'autre des champs de la recherche litteraire contemporaine.

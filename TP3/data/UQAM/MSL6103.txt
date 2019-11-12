@@ -1,0 +1,2 @@
+TitreCours: Organisation et gestion des musees
+DescriptionCours: Cours relevant de l'Universite de Montreal Structure administrative, gestion materielle et financiere (budget, personnel, batiments et terrains) des institutions museales. Cadre juridique. Sources de financement (gouvernementales, publiques et privees). Relations publiques.

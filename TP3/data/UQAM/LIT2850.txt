@@ -1,0 +1,2 @@
+TitreCours: Visionnement et analyse de scenarios
+DescriptionCours: A partir du visionnement d'un corpus de films, analyse des rapports existant entre les scenarios et leur realisation filmique. Identification des mecanismes d'ecriture d'un scenario tels qu'ils apparaissent dans le film (structure dramatique, organisation des personnages, expectation, suspense, dialogues) et comparaison avec l'interpretation du realisateur.

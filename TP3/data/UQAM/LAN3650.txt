@@ -1,0 +1,2 @@
+TitreCours: Francais langue seconde
+DescriptionCours: Systematisation des connaissances en francais avec un accent particulier sur le fonctionnement de la langue et des caracteristiques des divers styles oraux et ecrits. A la fin de ce cours, l'etudiant devrait etre en mesure de fonctionner adequatement dans un milieu francophone.

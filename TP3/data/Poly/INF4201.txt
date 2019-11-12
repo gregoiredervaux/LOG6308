@@ -1,0 +1,2 @@
+TitreCours: Les systemes experts: concepts et realisation
+DescriptionCours: Systemes experts : definition, role, composants de base. Representation des connaissances : reseaux semantiques, objets, regles de production, etc. Moteur d'inference : principe de fonctionnement, cycle de base, strategies de controle. Modes d'inference : chainage arriere, chainage avant. Informations incertaines : coefficient de certitude, mesure de croyance, logique floue. Exemples de systemes experts. Outils logiciels pour les systemes experts.

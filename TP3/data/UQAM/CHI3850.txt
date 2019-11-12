@@ -1,0 +1,2 @@
+TitreCours: Purification de l
+DescriptionCours: Étude detaillee des procedes unitaires utilises en purification de l'eau. Floculateurs. Theorie de la decantation. Decanteurs. Theorie de la filtration. Filtration lente et rapide. Étude des milieux filtrants. Filtres monocouches et multicouches. Ozoneurs, traitement de l'air, bassins de contact. Enlevement de l'ozone. Desinfection par le chlore et ses derives. Traitements speciaux. Cours theorique.

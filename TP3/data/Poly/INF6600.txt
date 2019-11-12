@@ -1,0 +1,2 @@
+TitreCours: Conception et analyse des systemes temps reel
+DescriptionCours: Architecture d'un systeme temps reel. Modelisation d'un systeme temps reel. Specification temporelle. Langages de specification et de programmation pour le temps reel. Analyse et prediction de performance. Files d'attente. Ordonnancement des taches. Outils d'analyse et de conception pour systemes temps reel. Fiabilite et tolerance aux pannes. Communication en temps reel. Implementation. Systemes d'exploitation temps reel. Tests et verification. Cas types industriels.

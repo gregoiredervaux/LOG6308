@@ -1,0 +1,2 @@
+TitreCours: Principes de communications I
+DescriptionCours: Structure generale d'un systeme de communication; criteres de performance; bande passante et rapport signal/bruit. Representation mathematique du bruit. Les differents systemes a modulation d'amplitude. Les systemes a modulation de frequence et de phase; rapport signal/bruit; effet de seuil. Modulation impulsionnelle; rapport signal/bruit. Systemes impulsionnels codes. Multiplexage. Exercices diriges et travaux pratiques en laboratoire (3 heures/semaine).

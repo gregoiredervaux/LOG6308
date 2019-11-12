@@ -1,0 +1,2 @@
+TitreCours: Traduction allemand-francais
+DescriptionCours: Initiation a l'analyse et a la traduction de l'allemand vers le francais de textes generaux et de textes litteraires. Étude systematique des problemes courants de transposition.

@@ -1,0 +1,2 @@
+TitreCours: Financement et budgetisation de projets
+DescriptionCours: Internationalisation des projets. Élements d'analyse financiere: methodes d'evaluation des projets; interface avec les modalites de financement; effets de l'interet, de l'inflation, des taux de change et du coût du capital. Financement: sources; relations coût, risque et controle; financements temporaire et permanent; etude d'un projet technologique majeur. Budgetisation: elements de base en budgetisation; types de budgets; controle des coûts; analyse des ecarts; production integree de rapports.

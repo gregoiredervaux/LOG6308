@@ -1,0 +1,2 @@
+TitreCours: Connaissance du milieu
+DescriptionCours: Exploration d'un milieu geographique : caracteristiques, services, ressources, dynamique economique. Identification des problemes et besoins. Analyse des rapports entre les groupes sociaux.

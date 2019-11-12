@@ -1,0 +1,2 @@
+TitreCours: Actuariat et informatique
+DescriptionCours: Ce cours permet aux etudiants d'approfondir l'aspect algorithmique des calculs actuariels et de comprendre les mecanismes de la simulation dans les modeles actuariels. Construction de modeles actuariels a l'aide de l'informatique. Introduction a la simulation. Generation de variables aleatoires discretes et continues. Analyse statistique des modeles. Introduction a l'utilisation de logiciels actuariels. Ce cours comporte une seance d'exercices de 2 heures par semaine.

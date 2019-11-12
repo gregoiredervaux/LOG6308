@@ -1,0 +1,2 @@
+TitreCours: Statistiques et prise de decision
+DescriptionCours: Ce cours a comme objectif d'offrir a l'etudiant des methodes de solution de problemes de gestion. Il donne aux etudiants cadres les outils necessaires pour la prise de decision et prepare les participants aux autres cours du MBA. On prepare la personne cadre a prendre des decisions a partir de l'information venant des statistiques, de la finance, et des autres fonctions de l'entreprise. On utilise des outils pour l'aide a la prise de decisions.

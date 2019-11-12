@@ -1,0 +1,2 @@
+TitreCours: Physique mesoscopique
+DescriptionCours: Transport electronique dans les systemes mesoscopiques. Confinement quantique et coherence de phase electronique. Formalisme de Boltzmann. Formalisme de Kubo et Greenwood. Formalisme de Landauer et Buttiker. Phenomene de relaxation. Interactions et excitations collectives. Magnetotransport. Spintronique. Fils quantiques. Boites quantiques.

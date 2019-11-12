@@ -1,0 +1,2 @@
+TitreCours: Grammaire du francais et linguistique
+DescriptionCours: Categories grammaticales, fonctions et principales structures de la phrase francaise a la lumiere des acquis de la linguistique.

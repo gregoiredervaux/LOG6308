@@ -1,0 +1,2 @@
+TitreCours: Sujets speciaux d'economie mathematique
+DescriptionCours: Cours consacre a divers themes d'economie mathematique dont l'optimisation statique, l'optimisation dynamique et la theorie des jeux.

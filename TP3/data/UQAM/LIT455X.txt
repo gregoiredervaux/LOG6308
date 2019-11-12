@@ -1,0 +1,2 @@
+TitreCours: Corpus de cinema III
+DescriptionCours: Étude d'un corpus filmique singulier (national, thematique, esthetique, narratif, etc.) determine en fonction des besoins ponctuels du programme et de la disponibilite des specialistes. Visionnement de films en dehors de heures-contact avec le professeur.

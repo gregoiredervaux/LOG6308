@@ -1,0 +1,2 @@
+TitreCours: Projet de memoire
+DescriptionCours: Le cours a pour objectif d'encadrer l'elaboration du projet de memoire de recherche de l'etudiant qui a choisi de faire la maitrise avec memoire. Le projet de memoire comprend une definition precise du sujet, une revue de litterature, la problematique, le cadre theorique, ainsi que les hypotheses, la methodologie, les techniques d'analyse, une biographie et l'echeancier envisage.

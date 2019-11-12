@@ -1,0 +1,2 @@
+TitreCours: Qualite
+DescriptionCours: Ce cours vise a identifier les enjeux de l'implantation de la gestion de la qualite et familiariser les etudiants a l'audit du systeme de qualite; les former aux principes de l'assurance de la qualite et notamment aux processus et modalites de certifications ISO. Les concepts d'assurance de la qualite - Les normes de qualite - Le qualimetre - Le manuel de qualite - Les normes ISO 9000 et leurs exigences - La norme QS-9000 (TFE, QI, QS) - Les tendances pour les entreprises de service - La certification - L'audit-qualite.

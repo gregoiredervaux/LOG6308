@@ -1,0 +1,2 @@
+TitreCours: Procedes chimiques industriels
+DescriptionCours: Ce cours, donne par des specialistes actifs dans l'industrie chimique, porte sur les caracteristiques fondamentales des procedes de transformation employes dans l'industrie. Production et controle de la qualite de procedes industriels locaux. Controle statistique de la production, brevets et aspects financiers; role de l'industrie chimique dans l'economie.

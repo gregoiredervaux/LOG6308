@@ -1,0 +1,2 @@
+TitreCours: Projet d
+DescriptionCours: Le projet d'intervention en classe donne lieu a une pratique reflexive de certaines connaissances acquises pendant la formation. L'etudiant produit un rapport de recherche qui temoigne de sa demarche theorique et pratique, de son intervention, de son analyse de l'intervention, des resultats et des conclusions qui s'en degagent.

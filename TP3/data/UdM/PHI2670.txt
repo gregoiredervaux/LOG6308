@@ -1,0 +1,2 @@
+TitreCours: L'empirisme moderne
+DescriptionCours: Analyse des principales oeuvres de la tradition empiriste en particulier chez Locke, Berkeley et Hume.

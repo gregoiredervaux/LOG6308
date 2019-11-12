@@ -1,0 +1,2 @@
+TitreCours: Évaluation et entrainement 2
+DescriptionCours: Principes et methodes d'evaluation des adultes dans le cadre d'une demarche clinique (counseling evaluation, prescription, suivi, reevaluation).

@@ -1,0 +1,2 @@
+TitreCours: Methodologie de resolution de problemes
+DescriptionCours: Description des methodologies de resolution de problemes. Étude de la demarche systemique. Analyse des outils et methodes de diagnostics. Analyse des outils et methodes de prise de decisions. Analyse des methodes d'execution de l'action. Analyse des methodes d'evaluation des resultats. Analyse des methodes de retroaction. Études de cas. Description des methodologies de detection des pannes. Laboratoires de detection de pannes. Description de la methodologie de recherche et developpement.

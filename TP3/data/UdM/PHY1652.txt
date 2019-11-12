@@ -1,0 +1,2 @@
+TitreCours: Relativite 1
+DescriptionCours: Referentiels non inertiels. Postulats de relativite. Dilatation du temps. Contractions des longueurs. Transformations de Lorentz. Effet Doppler. Cinematique relativiste. Quadrivecteurs.

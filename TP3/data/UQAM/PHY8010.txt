@@ -1,0 +1,2 @@
+TitreCours: Problemes speciaux
+DescriptionCours: Fournir a l'etudiant le complement de formation necessaire a l'atteinte des objectifs generaux du programme de maitrise en physique, en fonction du profil de formation du candidat. Cette activite est faite sous la direction d'un professeur qui evalue le travail de l'etudiant. Le travail peut etre de nature fondamentale ou appliquee et avoir un caractere exploratoire ou experimental.

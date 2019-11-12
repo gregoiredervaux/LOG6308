@@ -1,0 +1,2 @@
+TitreCours: Actuariat et finance II
+DescriptionCours: Mesures et modeles macro-economiques, inflation, monnaie, politiques, monetaires et fiscales, deficits, productivite et croissance a long terme. Gestion des titres a revenus fixes: structure temporelle des taux d'interet, volatilite des prix, taux d'interet stochastiques, immunisation et allocation des actifs. États financiers, ratios financiers, pro forma, analyse du seuil de rentabilite, coût du capital et gestion de la croissance.

@@ -1,0 +1,2 @@
+TitreCours: Theorie avancee du traitement de l
+DescriptionCours: Ce cours vise a habiliter l'etudiant a utiliser les variables de la theorie du traitement de l'information dans ces contextes de transmission d'informations et a analyser des programmes dans cette meme perspective. Approfondissement des cadres conceptuels, la mesure des variables de l'environnement. Relations entre capacites du traitement de l'information, intelligence, aptitude et orientation congruente. Analyse critique des modeles actuels et leurs limites. Voies de recherche.

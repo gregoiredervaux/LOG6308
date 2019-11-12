@@ -1,0 +1,2 @@
+TitreCours: Environnement chromatique
+DescriptionCours: Ce cours de specialisation entend examiner les diverses influences de la couleur sur le milieu physique. Approche des differentes theories de la couleur et des materiaux employes. Travaux pratiques relies a des projets concrets de design.

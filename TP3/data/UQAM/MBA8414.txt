@@ -1,0 +1,2 @@
+TitreCours: Information comptable
+DescriptionCours: Ce cours donne a l'etudiant des connaissances lui permettant de comprendre l'information comptable et son utilisation a des fins de gestion. Il vise l'apprentissage et l'utilisation par l'etudiant de principes de comptabilite utiles a la prise de decision et a l'evaluation d'entreprises. On y aborde egalement la fiscalite des entreprises. A la fin du cours, l'etudiant devra etre capable d'analyser efficacement des etats financiers externes.

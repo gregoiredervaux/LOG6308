@@ -1,0 +1,2 @@
+TitreCours: Microbiologie generale
+DescriptionCours: Étude generale des micro-organismes et de leurs activites. Structure, reproduction, physiologie et metabolisme. Identification. Distribution dans la nature. Relations avec les autres vivants : symbiose, pathogenicite, mecanismes de defense des hotes. Destruction et controle. Applications biotechnologiques. Ce cours comprend des travaux pratiques.

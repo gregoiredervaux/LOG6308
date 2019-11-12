@@ -1,0 +1,2 @@
+TitreCours: Stage
+DescriptionCours: Stage d'observation de 20 jours dans une organisation publique ou privee. Redaction d'un rapport de stage. Travail evalue par le coordonnateur des stages sous la supervision des professeurs du Departement.

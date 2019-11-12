@@ -1,0 +1,2 @@
+TitreCours: Laboratoire d
+DescriptionCours: Developpement d'habiletes a l'animation, a la participation et a l'observation dans un groupe de travail. Conditions pour un travail de groupe efficace: definition d'objectifs, choix des methodes de travail, modes d'intervention de l'animateur au niveau du contenu. Examen des phenomenes propres aux groupes de tache, les roles, la prise de decision, le consensus, le leadership, l'evaluation.

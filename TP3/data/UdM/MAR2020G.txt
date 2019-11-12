@@ -1,0 +1,2 @@
+TitreCours: Infections, tumeurs du syst. resp.
+DescriptionCours: Infections respiratoires et mecanismes de defense naturels. Asepsie et prevention de l'infection. Antibiotherapie. Tumeurs de la tete, du cou et du poumon. Radiotherapie et chimiotherapie. Maladie thromboembolique et FKP.

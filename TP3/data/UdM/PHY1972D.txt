@@ -1,0 +1,2 @@
+TitreCours: Initiation a l'astronomie
+DescriptionCours: Les premiers temps de l'univers. La naissance, la vie et la mort des etoiles. Les planetes. Le cosmos et l'etre humain. La complexite.

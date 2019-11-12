@@ -1,0 +1,2 @@
+TitreCours: Sante mentale et traitement en toxico
+DescriptionCours: Problemes de sante mentale relies a la toxicomanie. Analyse des interactions associees au phenomene de la comorbidite. Exploration des meilleures pratiques de traitement.

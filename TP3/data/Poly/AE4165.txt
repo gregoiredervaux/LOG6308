@@ -1,0 +1,2 @@
+TitreCours: Structure aronautique II
+DescriptionCours: Chargement statique et par fatigue, discrtisation pour modle d'lments finis, mthode de superposition, effets dynamiques. Notions avances d'analyse de la structure primaire : panneaux raidis en tension diagonale, chapes et ferrures, interruptions de lisse, affaissement de caisson en flexion, renforts de trous. Synthse des connaissances au moyen de travaux dirigs.

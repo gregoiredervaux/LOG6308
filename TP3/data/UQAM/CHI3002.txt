@@ -1,0 +1,2 @@
+TitreCours: Projet de fin d
+DescriptionCours: Initier l'etudiant a un travail de recherches. Ce projet peut etre un travail bibliographique et/ou de laboratoire. Les projets seront couronnes par une presentation orale publique ainsi que par un rapport ecrit soumis au responsable du cours; ces deux activites faisant partie de l'evaluation des etudiants.

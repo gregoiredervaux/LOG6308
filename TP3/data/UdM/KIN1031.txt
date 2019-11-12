@@ -1,0 +1,2 @@
+TitreCours: Apprentissage et controle du mouvement
+DescriptionCours: Principales theories de l'apprentissage et du controle du mouvement humain. Conditions de pratique favorisant l'apprentissage. Traitement de l'information et etude de l'apprentissage du mouvement humain.

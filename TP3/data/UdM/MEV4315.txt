@@ -1,0 +1,2 @@
+TitreCours: Anesthesiologie des animaux de compagnie
+DescriptionCours: Études cliniques des protocoles anesthesiques et analgesiques lors de conditions pathologiques serieuses. Gestion de la douleur, rappels pharmacologiques.

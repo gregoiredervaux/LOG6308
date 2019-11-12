@@ -1,0 +1,2 @@
+TitreCours: Penologie
+DescriptionCours: Theories de la peine. Les politiques et les pratiques penales a l'egard des delinquants adultes. Efficacite des peines.

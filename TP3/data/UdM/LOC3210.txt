@@ -1,0 +1,2 @@
+TitreCours: Problematiques des outils langagiers
+DescriptionCours: Presentation des outils informatiques dans l'industrie langagiere. Fonctionnement, support et mise a niveau des outils d'aide a la traduction : memoires de traduction, logiciels de localisation, etc. Cas pratiques. Resolution de problemes.

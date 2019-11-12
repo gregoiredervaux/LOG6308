@@ -1,0 +1,2 @@
+TitreCours: Didactique de la geometrie
+DescriptionCours: Étude de travaux de recherche portant sur la notion de preuve en geometrie (points de vue mathematiques, epistemologiques et didactiques); theories du developpement des concepts geometriques du point de vue d'un apprenant (Piaget, Van Hiele...); operations intellectuelles impliquees dans le developpement de competences spatiales et geometriques; utilisation de logiciels pour l'apprentissage de concepts geometriques.

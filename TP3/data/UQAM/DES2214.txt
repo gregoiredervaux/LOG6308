@@ -1,0 +1,2 @@
+TitreCours: Typographie
+DescriptionCours: Termes et vocabulaire de la typographie. Familles de caracteres. Calculs de base. Preparation et notation de manuscrits, analyse et dessins de la lettre.

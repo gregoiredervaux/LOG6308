@@ -1,0 +1,2 @@
+TitreCours: Traduction scientifique et technique
+DescriptionCours: Analyse et traduction de textes portant sur des sujets scientifiques et techniques tels qu'ecologie, electricite, informatique et mecanique.

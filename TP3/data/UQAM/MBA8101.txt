@@ -1,0 +1,2 @@
+TitreCours: Seminaire de methodologie de recherche
+DescriptionCours: Étude des diverses methodes de recherche utilisees en sciences de la gestion (experimentation, etudes de cas, analyse qualitative, methodes quantitatives, etc.) et des principales etapes que comporte normalement toute recherche scientifique. Ce cours prepare l'etudiant a la definition de son projet de memoire qu'il devra presenter au trimestre suivant. Methode pedagogique : cours magistraux, travaux pratiques.

@@ -1,0 +1,2 @@
+TitreCours: Actualite du patrimoine moderne
+DescriptionCours: Ce seminaire est axe sur l'exploration des problemes et des enjeux lies a la sauvegarde de l'architecture moderne. Il peut prendre la forme d'une etude de cas liee a l'actualite du patrimoine et s'orienter vers l'evaluation, la conservation et/ou la mise en valeur d'un batiment ou d'un ensemble urbain moderne ou, encore, il peut etre centre sur l'exploration d'une question theorique ou sur l'examen de problemes pratiques.

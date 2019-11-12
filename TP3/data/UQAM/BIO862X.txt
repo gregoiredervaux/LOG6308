@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique en toxicologie
+DescriptionCours: Cours a contenu variable portant sur la toxicologie. Ce cours permettra aux etudiants de faire le point sur un aspect particulier du domaine vise.

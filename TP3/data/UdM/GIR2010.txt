@@ -1,0 +1,2 @@
+TitreCours: Regime de la CSST
+DescriptionCours: Aspects juridiques et financiers du regime de la CSST applicables a l'invalidite et a la readaptation. Pratiques de gestion des dossiers par les agents d'indemnisation et de readaptation ainsi que par des intervenants en milieu de travail.

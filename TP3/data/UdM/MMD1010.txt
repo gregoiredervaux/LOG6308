@@ -1,0 +1,2 @@
+TitreCours: Microbiologie et virologie
+DescriptionCours: Élements de microbiologie. Genetique bacterienne. Eucaryotes. Mesures de biosecurite. Application de la biologie moleculaire au diagnostic.

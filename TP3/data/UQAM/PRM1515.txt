@@ -1,0 +1,2 @@
+TitreCours: Atelier de redaction technique
+DescriptionCours: Base sur un diagnostic individuel, cette activite se propose d'instrumenter les etudiants pour leur permettre d'ameliorer leurs connaissances du francais technique utilise dans leur secteur d'enseignement de la formation professionnelle et technique, de combler leurs principales lacunes sur le plan orthographique et sur le plan grammatical, de pratiquer leur francais ecrit dans les genres qu'ils utilisent le plus souvent et qu'ils seront amenes a enseigner: lettres, notes de service, etc.

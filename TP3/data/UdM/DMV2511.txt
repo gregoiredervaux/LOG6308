@@ -1,0 +1,2 @@
+TitreCours: Principes de dentisterie veterinaire
+DescriptionCours: Introduction a la dentisterie veterinaire de base. Selon l'espece animale, les notions porteront sur l'evaluation de la dentition, l'approche diagnostique et therapeutique de pathologies buccales et la prophylaxie dentaire.

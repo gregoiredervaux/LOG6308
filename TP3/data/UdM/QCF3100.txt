@@ -1,0 +1,2 @@
+TitreCours: Travail dirige sur le Quebec
+DescriptionCours: Ce cours vise a approfondir la connaissance sur le Quebec et integrer le savoir acquis en realisant un travail de recherche personnel sur un aspect particulier de la societe quebecoise.

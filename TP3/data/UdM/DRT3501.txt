@@ -1,0 +1,2 @@
+TitreCours: Droit municipal
+DescriptionCours: L'organisation municipale : municipalite, conseil, elections, fonctionnaires. L'activite municipale et son controle : reglementation, gestion des services et contrat municipal. Responsabilite extracontractuelle.

@@ -1,0 +1,2 @@
+TitreCours: Sites Web avances avec Frontpage
+DescriptionCours: Creation de sites web avances avec Frontpage. Mise en place de contenus dynamiques dans les sites Web. Connexion a une base de donnees. Gestion de formulaires.

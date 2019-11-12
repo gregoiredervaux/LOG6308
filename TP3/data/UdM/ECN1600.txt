@@ -1,0 +1,2 @@
+TitreCours: Histoire de la pensee economique
+DescriptionCours: Analyse des moments qui, dans l'histoire de la pensee economique, se sont averes les plus significatifs pour l'intelligence des concepts et des problematiques caracteristiques des diverses tendances de l'economie actuelle.

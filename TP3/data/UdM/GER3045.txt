@@ -1,0 +1,2 @@
+TitreCours: Problematique liee au vieillissement
+DescriptionCours: Activite educative explorant une question d'actualite en gerontologie et utilisant une formule pedagogique particuliere.

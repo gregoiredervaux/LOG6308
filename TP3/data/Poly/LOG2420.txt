@@ -1,0 +1,2 @@
+TitreCours: Anal. et conc. des interfaces utilisateurs
+DescriptionCours: Analyse et specification des besoins des utilisateurs. Ergonomie cognitive. Principes et regles de conception d'interface. Tests utilisateurs. Évaluation heuristique et inspection d'interface. Boites a outils. Systeme de fenetrage. Architecture logicielle et modele de programmation evenementielle. Communication entre objets. Adaptation du processus de developpement logiciel. Aide et assistance. Analyses coûts-benefices. Manuel : Notes de cours du professeur.

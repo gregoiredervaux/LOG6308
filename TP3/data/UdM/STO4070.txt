@@ -1,0 +1,2 @@
+TitreCours: Chirurgie
+DescriptionCours: Traitements de chirurgie buccale par l'omnipraticien et le specialiste. Notions d'anesthesiologie generale, pre, per et postanesthesie. Implantologie, anesthesie regionale, traumatologie, chirurgie preprothetique et chirurgie orthognathique.

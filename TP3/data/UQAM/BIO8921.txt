@@ -1,0 +1,2 @@
+TitreCours: Manipulations genetiques
+DescriptionCours: Étude et pratique des diverses techniques utilisees en biologie moleculaire. Purification d'ADN, clonage, selection de transformants, preparation de plasmides, cartographie de sites de restriction. Analyse de genes par transfert de Southern, sonde et hybridation moleculaires. Sequencage d'ADN par les methodes enzymatique et chimique. Cours intensif sous forme de travaux pratiques.

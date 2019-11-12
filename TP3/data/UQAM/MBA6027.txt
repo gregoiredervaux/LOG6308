@@ -1,0 +1,2 @@
+TitreCours: Microbiologie de l
+DescriptionCours: Cours relevant de l'I.N.R.S. Applications de la microbiologie pour le traitement des sols et des effluents pollues. Ce cours traitera des techniques de bioremediation sous l'angle plus specifique de leurs aspects microbiologiques. Les aspects de biologie moleculaire, de fermentation, d'engineering, des normes environnementales et des techniques d'analyses seront developpees. Études de cas. Lecons.

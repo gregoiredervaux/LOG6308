@@ -1,0 +1,2 @@
+TitreCours: Études specialisees en marketing I
+DescriptionCours: Ce seminaire porte sur le comportement du consommateur. Le contenu du cours concerne les sujets suivants: les processus cognitifs de reception et d'acquisition de l'information; les processus de formation des attitudes; les processus de changements des attitudes; les effets de l'affect et des emotions en publicite; le role des variables environnementales dans le lieu de service: musique, lumiere, couleurs; le temps et les services: duree percue de l'attente, orientation temporelle des consommateurs.

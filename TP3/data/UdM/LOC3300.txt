@@ -1,0 +1,2 @@
+TitreCours: Gestion de projets en localisation
+DescriptionCours: Preparation d'un devis en reponse a un appel d'offres. Analyse du kit de localisation. Budget, controle de depenses. Élaboration d'un echeancier. Relations client-fournisseur. Resolution de problemes. Utilisation d'un logiciel de gestion de projets.

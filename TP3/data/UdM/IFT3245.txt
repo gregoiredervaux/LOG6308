@@ -1,0 +1,2 @@
+TitreCours: Simulation et modeles
+DescriptionCours: Modeles de simulation. Simulations continue et a evenements discrets. Modelisation stochastique. Validation et realisme. Analyse des resultats. Technique de reduction de la variance. Generation de valeurs pseudoaleatoires.

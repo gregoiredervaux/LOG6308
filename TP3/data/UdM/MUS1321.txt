@@ -1,0 +1,2 @@
+TitreCours: Analyse, synthese et traitement des sons
+DescriptionCours: Introduction aux principales techniques d'analyse, synthese et traitement des sons. Conversion analogique-numerique (echantillonnage, quantification). Analyse de Fourier. Codage perceptuel (MP3). Synthese vocale. Effets (distorsion, filtrage, etc.).

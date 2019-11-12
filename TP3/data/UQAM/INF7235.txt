@@ -1,0 +1,2 @@
+TitreCours: Programmation parallele haute performance
+DescriptionCours: Modeles d'architectures a haute performance. Paradigmes de programmation parallele et strategies de conception de programmes paralleles. Metriques de performances et principales sources des surcoûts. Langages et librairies de programmation parallele. Problemes typiques en programmation scientifique haute performance: calculs de grilles, de particules, de matrices.

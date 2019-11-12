@@ -1,0 +1,2 @@
+TitreCours: Projet de maitrise en ingenierie III
+DescriptionCours: Projet de maitrise en ingenierie accompli sous la direction d'un directeur de projet et comprenant une etude de niveau superieur sur un probleme de genie ainsi que la redaction d'un rapport de projet. Le travail comprend au moins 36 heures par semaine consacrees au projet pendant un trimestre ou l'equivalent.

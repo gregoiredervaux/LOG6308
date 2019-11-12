@@ -1,0 +1,2 @@
+TitreCours: Phenomenes d'echanges avances
+DescriptionCours: Phenomenes d'echanges a l'echelle macroscopique (hydrodynamique classique), mesoscopique (fluides avec une structure interne) et microscopique (simulations moleculaires). Exemples et applications : ecoulement de fluides complexes, suspensions, fluidisation, vorticite et turbulence, ecoulements subsonique et supersonique, ondes de choc, diffusion membranaire.

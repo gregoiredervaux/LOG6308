@@ -1,0 +1,2 @@
+TitreCours: Surfaces, interfaces et colloides
+DescriptionCours: Chimie des surfaces, interfaces et colloides. Adsorption moleculaire. Couches monomoleculaires. Les proprietes physiques des systemes colloidaux. Polymeres aux interfaces. Imagerie et profilage de surfaces. Tribologie. Nanotechnologie.

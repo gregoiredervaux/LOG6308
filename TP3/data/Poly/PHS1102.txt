@@ -1,0 +1,2 @@
+TitreCours: Champs electromagnetiques
+DescriptionCours: Électrostatique, magnetostatique et champs dynamiques. Lois de Coulomb, de Biot-Savart, de Lenz et de Faraday. Theoremes de Gauss et d'Ampere, equations de Poisson et de Laplace. Milieux dielectriques, conducteurs et magnetiques, conditions aux frontieres. Équations de Maxwell et ondes electromagnetiques dans un milieu dielectrique. Applications modernes en ingenierie.

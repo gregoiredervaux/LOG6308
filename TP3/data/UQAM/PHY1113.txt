@@ -1,0 +1,2 @@
+TitreCours: Mecanique classique I
+DescriptionCours: Cours d'introduction aux concepts fondamentaux de la physique. Mecanique de Newton et de Lagrange. Derivation et application des equations de la mecanique formulees selon Newton (Bilan des forces) selon Lagrange (Bilan des energies). Les notions developpees dans ce cours sont utilisees dans les autres cours de physique fondamentale et appliquee.

@@ -1,0 +1,2 @@
+TitreCours: Stage de recherche appliquee
+DescriptionCours: Cette activite a pour objectif de permettre a l'etudiant d'acquerir une experience pratique de la recherche au sein d'un organisme public ou prive Le projet de stage doit recevoir l'approbation prealable du sous-comite d'admission et d'evaluation.

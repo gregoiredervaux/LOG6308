@@ -1,0 +1,2 @@
+TitreCours: Éducation et developpement de la pensee
+DescriptionCours: Analyse de la pensee de l'enfant et de l'adolescent sous un angle plus proprement epistemologique: memoire, perception, intelligence, emotion, raisonnement, comprehension et jugement moral.

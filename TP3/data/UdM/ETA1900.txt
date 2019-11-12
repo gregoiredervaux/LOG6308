@@ -1,0 +1,2 @@
+TitreCours: Systeme educ. et profession enseignante
+DescriptionCours: Initiation aux institutions scolaires du Quebec et, au premier chef, a l'ecole. Initiation aux roles professionnels des enseignants. Perspectives historique et contemporaine.

@@ -1,0 +1,2 @@
+TitreCours: Analyse longitudinale
+DescriptionCours: Methodes d'analyse longitudinale : application a la mortalite, fecondite, nuptialite, migration. Construction de tables demographiques. Histoire d'une promotion de mariages.

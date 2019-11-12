@@ -1,0 +1,2 @@
+TitreCours: Difficultes en francais L1 ou L2
+DescriptionCours: Observation et analyse des difficultes des eleves dans l'apprentissage du francais (langue maternelle ou seconde) oral et ecrit. Éleves allophones en milieu scolaire. Adaptation de l'enseignement. Outils diagnostiques.

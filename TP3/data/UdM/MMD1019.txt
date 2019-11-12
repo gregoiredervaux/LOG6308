@@ -1,0 +1,2 @@
+TitreCours: Nutrition et metabolisme
+DescriptionCours: Concepts de base en alimentation et en nutrition. Structure et metabolisme des glucides, des lipides et des acides amines. Integration metabolique : situation postprandiale, situation post-absorption.

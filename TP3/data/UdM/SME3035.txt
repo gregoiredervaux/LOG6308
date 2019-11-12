@@ -1,0 +1,2 @@
+TitreCours: Atelier en sante mentale 2
+DescriptionCours: Activites pedagogiques consacrees a l'approfondissement de themes contextuels en sante mentale et a l'acquisition de strategies d'intervention relatives aux themes abordes.

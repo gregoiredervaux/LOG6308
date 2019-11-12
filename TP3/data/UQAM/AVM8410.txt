@@ -1,0 +1,2 @@
+TitreCours: Seminaire de lecture
+DescriptionCours: Cette activite, donnee sous la responsabilite du directeur de recherche, permet a l'etudiant d'approfondir ses connaissances en education artistique et d'enrichir les fondements theoriques et methodologiques de sa recherche. Un programme de lecture est etabli en fonction des interets de recherche de l'etudiant et de la problematique generale de son projet de memoire. Des comptes rendus critiques sont exiges et peuvent faire l'objet d'une publication ou d'une presentation dans un colloque.

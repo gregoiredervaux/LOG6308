@@ -1,0 +1,2 @@
+TitreCours: Resistance des materiaux I
+DescriptionCours: Concepts et principes fondamentaux. Notions de contrainte et de deformation, representation matricielle. Forces et moments internes. Proprietes de base du materiau. Contraintes et deformations induites dans les membrures droites soumises aux chargements fondamentaux: chargement axial, flexion, torsion. Principe de superposition des etats de chargement. Étude des etats plans de contraintes et de deformations dans un corps continu. Comportement d'un solide elastique lineaire isotrope. Resistance et mode de defaillance.

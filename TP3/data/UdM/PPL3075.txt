@@ -1,0 +1,2 @@
+TitreCours: Atelier thematique
+DescriptionCours: Cours destine a l'etude d'une thematique et a l'acquisition de competences propres a la cooperation internationale et au developpement.

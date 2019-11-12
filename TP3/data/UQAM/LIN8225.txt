@@ -1,0 +1,2 @@
+TitreCours: Acquisition des langues secondes
+DescriptionCours: Ce cours vise l'approfondissement des connaissances du domaine de l'acquisition des langues secondes. Il portera sur les hypotheses, les theories et les modeles proposes pour expliquer les differents facteurs qui entrent en jeu dans le processus d'appropriation d'une langue seconde (les facteurs linguistiques, cognitifs, sociopsychologiques, etc.) tant en milieu naturel qu'en milieu formel.

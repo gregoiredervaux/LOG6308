@@ -1,0 +1,2 @@
+TitreCours: Lectures dirigees
+DescriptionCours: Analyse de textes choisis par l'etudiant apres entente avec le professeur. Ces lectures et entrevues permettront d'explorer tout aspect et domaine que les cours ne pourront approfondir suffisamment.

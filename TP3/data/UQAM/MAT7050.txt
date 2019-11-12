@@ -1,0 +1,2 @@
+TitreCours: Indecidabilite
+DescriptionCours: Notions generales sur les fonctions recursives. Methode generale de demonstration de l'indecidabilite des theories. Automates, machines sequentielles.

@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de chimie organique
+DescriptionCours: Étude experimentale des reactions organiques et de l'identification de produits. Reactions a l'echelle semi-micro. Identification d'inconnus en melanges. Syntheses en plusieurs etapes. Utilisation intensive de spectroscopies de R.M.N., I.R., U.V., et spectrometrie de masse.

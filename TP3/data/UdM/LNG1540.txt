@@ -1,0 +1,2 @@
+TitreCours: Notions de syntaxe
+DescriptionCours: Principaux concepts et methodes d'analyse en grammaire generative transformationnelle. Applications a la structure syntaxique de la phrase francaise. Description et analyse de differentes constructions de base et derivees.

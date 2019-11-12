@@ -1,0 +1,2 @@
+TitreCours: Introduction a la volcanologie
+DescriptionCours: Magmas; mecanismes eruptifs et eruptions; laves et pyroclastiques; gaz et systemes hydrothermaux. Rapports entre les roches volcaniques anciennes et recentes.

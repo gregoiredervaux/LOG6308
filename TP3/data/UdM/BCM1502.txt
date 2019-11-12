@@ -1,0 +1,2 @@
+TitreCours: Metabolisme 1
+DescriptionCours: Enzymologie. Digestion. Transport membranaire. Composition du sang. Glycolyse. Bioenergetique. Cycle du citrate et du glyoxylate. Degradation du glycogene, acides gras et acides amines. Cycle de l'uree. Metabolisme de l'heme. Biochimie du foie.

@@ -1,0 +1,2 @@
+TitreCours: Analyse appliquee
+DescriptionCours: Fonctions d'une variable complexe. Fonctions analytiques. Formule de Cauchy. Series de Laurent. Transformee en z. Calcul des residus. Distribution de Dirac. Theoreme d'echantillonnage. Series de Fourier. Coefficients d'Euler. Conditions de Dirichlet. Transformees de Fourier. Identite de Parseval. Convolution. Inversion de la transformee de Laplace.

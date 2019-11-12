@@ -1,0 +1,2 @@
+TitreCours: Normes de bonnes pratiques dans les bio
+DescriptionCours: Cours relevant de l'I.N.R.S. Introduction aux bonnes pratiques de fabrication, de meme que la description des locaux, de l'equipement et du personnel requis ainsi que les mesures essentielles d'hygiene. Les implications des services de l'assurance qualite et du controle de la qualite dans la fabrication. Generalites et particularites applicables aux industries pharmaceutiques, biologiques, de produits diagnostiques, cosmetiques, alimentaires et sanitaires.

@@ -1,0 +1,2 @@
+TitreCours: Histoire de l'architecture au Quebec
+DescriptionCours: Étude des sources et du caractere de l'architecture quebecoise depuis la periode amerindienne jusqu'a nos jours.

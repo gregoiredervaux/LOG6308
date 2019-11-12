@@ -1,0 +1,2 @@
+TitreCours: Atelier de composition electro. 1
+DescriptionCours: Travail de creation dirigee. Apprentissage d'outils de creation et de techniques d'ecriture electroacoustique.

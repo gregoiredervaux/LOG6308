@@ -1,0 +1,2 @@
+TitreCours: Dysfonctions neuropsychologiques
+DescriptionCours: L'objectif de ce cours est la sensibilisation aux principaux syndromes de la neurologie du comportement. Étude des dysfonctions motrices, perceptives et cognitives a l'aide de modeles tels ceux de Geschwind et Luria. Les consequences psychopathologiques de quelques perturbations neurologiques (tumeurs, epilepsies, accidents cerebro-vasculaires, demences, traumatismes).

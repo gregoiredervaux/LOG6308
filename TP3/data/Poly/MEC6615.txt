@@ -1,0 +1,2 @@
+TitreCours: Theorie avancee de turbomoteurs
+DescriptionCours: Principaux elements de la theorie des turbines a gaz : aerodynamique des compresseurs et turbines, combustion, contraintes mecaniques, cycles de propulsion, turbopropulseurs, composantes turboreactees, turbosoufflantes, conditions d'equilibre. Propulsion parametrique et configuration optimale du turbomoteur. Application de la theorie a la conception d'un turbomoteur considerant des techniques industrielles.

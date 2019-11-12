@@ -1,0 +1,2 @@
+TitreCours: Histoire generale de la musique 1
+DescriptionCours: Sources de la musique occidentale. De l'Antiquite a Monteverdi.

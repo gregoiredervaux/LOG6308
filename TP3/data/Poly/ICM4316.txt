@@ -1,0 +1,2 @@
+TitreCours: Integration des equipements
+DescriptionCours: Alimentation des auxiliaires, batteries et chargeurs. Air conditionne et ventilation (HVAC). Systemes d'intercirculation. Équipements annexes : habillage, garniture. Organisation de la sous-traitance par les constructeurs.

@@ -1,0 +1,2 @@
+TitreCours: Mathematiques de l'assurance-vie 1
+DescriptionCours: Mesure de mortalite, rentes viageres, assurance-vie et primes, reserves, theorie de populations, esperance de vie, fonctions a decroissances multiples. Ce cours contribue a la preparation des examens SOA MLC et CAS 3.

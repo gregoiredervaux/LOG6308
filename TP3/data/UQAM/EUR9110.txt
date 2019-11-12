@@ -1,0 +1,2 @@
+TitreCours: Seminaire pluridisciplinaire sur la ville
+DescriptionCours: Ce cours prend la forme d'un seminaire de lectures et d'echanges entre les etudiants et le professeur responsable, dont l'objectif est de preparer l'etudiant a la question generale de l'examen de synthese. Il est organise autour d'un programme de lectures obligatoires qui fait une large place a l'approche historique et a l'approche comparative, en ce qu'elles favorisent une demarche de synthese et d'appreciation critique des concepts invoques par ceux qui s'interessent a la ville.

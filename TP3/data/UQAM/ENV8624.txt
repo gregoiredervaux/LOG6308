@@ -1,0 +1,2 @@
+TitreCours: Memoire
+DescriptionCours: Sous la direction d'un directeur de recherche, l'etudiant doit entreprendre et mener a bien le projet de memoire defini lors de l'activite «Élaboration du projet de memoire». Cette recherche doit montrer l'aptitude a la recherche interdisciplinaire sur une problematique environnementale. Le memoire est presente sous une forme ecrite (traditionnelle ou par articles) et sous une forme orale lors d'un seminaire en presence du jury d'evaluation.

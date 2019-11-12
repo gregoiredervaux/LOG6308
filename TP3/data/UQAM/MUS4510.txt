@@ -1,0 +1,2 @@
+TitreCours: Competences cliniques I
+DescriptionCours: Ce cours vise a developper les habiletes de base necessaires a la planification, a la prestation et a l'evaluation des seances de musicotherapie dans un milieu institutionnel. L'etudiant apprend a evaluer le fonctionnement des clients et a rediger un bilan preliminaire. Il formule les objectifs en fonction des besoins et redige un plan d'intervention. Il observe et evalue le processus therapeutique, et redige des notes d'evolution et des rapports finaux.

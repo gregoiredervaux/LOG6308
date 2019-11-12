@@ -1,0 +1,2 @@
+TitreCours: Lecture du texte de theatre
+DescriptionCours: Initiation a la lecture de textes de theatre : theorie, methodes et techniques du commentaire.

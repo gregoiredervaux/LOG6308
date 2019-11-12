@@ -1,0 +1,2 @@
+TitreCours: Activite d'etape
+DescriptionCours: Ateliers d'etude de cas et de resolution de problemes; exploitation des donnees factuelles, experimentation des grilles d'analyse et application des notions traitees dans le cadre des cours obligatoires.

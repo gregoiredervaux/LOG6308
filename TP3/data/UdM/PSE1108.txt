@@ -1,0 +1,2 @@
+TitreCours: Analyses statistiques 1
+DescriptionCours: Statistiques descriptives et inferentielles. Analyses parametriques et non parametriques; univariees et bivariees. Comparaisons de groupes, correlations et regression lineaire. Initiation aux bases de donnees et au traitement informatique.

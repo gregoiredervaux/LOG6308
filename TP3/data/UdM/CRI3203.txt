@@ -1,0 +1,2 @@
+TitreCours: Instruments et classification
+DescriptionCours: Principes de construction, d'utilisation et d'interpretation des instruments cliniques en criminologie. Les problemes de classification et de predication.

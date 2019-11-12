@@ -1,0 +1,2 @@
+TitreCours: Grammaire 2 : revision grammaticale
+DescriptionCours: Principes generaux de redaction. Revision grammaticale fondee sur les difficultes liees a la construction des phrases, au choix des modes et des temps, a la conjugaison, aux accords et a la ponctuation. Le bon usage des ouvrages de reference.

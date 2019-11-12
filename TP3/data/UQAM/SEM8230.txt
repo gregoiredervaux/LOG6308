@@ -1,0 +1,2 @@
+TitreCours: Semiotiques regionales
+DescriptionCours: Ce cours a pour objet l'approfondissement d'une semiotique particuliere appliquee a des champs bien definis: codes musicaux et olfactifs, communication visuelle, communication tactile, kinesique et proxemique, semiotique medicale, paralinguistique, narratologie et linguistique textuelle, esthetique, rhetorique, langage formel, zoosemiotique, etc.

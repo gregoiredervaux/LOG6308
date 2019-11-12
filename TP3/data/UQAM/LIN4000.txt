@@ -1,0 +1,2 @@
+TitreCours: Les langues du monde
+DescriptionCours: Ce cours vise a developper les connaissances generales sur les langues du monde. Il apparaitra que les langues ont des proprietes communes, malgre leurs differences apparentes. L'etude des familles de langues et de leurs relations, de la typologie des langues et de l'evolution linguistique. L'etude de quelques universaux du langage et de quelques differences entre des langues typologiquement distinctes.

@@ -1,0 +1,2 @@
+TitreCours: Évaluation du risque
+DescriptionCours: Les professionnels maitriseront les theories, les concepts et les modeles d'analyse utilises dans l'evaluation des risques lies au systeme d'affaires. Principaux themes couverts: le risque du marche: le risque lie a la demande de biens economiques; le risque concurrentiel: l'environnement competitif; processus de transformation et de creation de valeur: risque operationnel, risque financier, risque de gestion et le risque environnemental.

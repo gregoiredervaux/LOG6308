@@ -1,0 +1,2 @@
+TitreCours: Encadrement de recherche ou d
+DescriptionCours: Ce cours, donne sous forme de tutorat par le directeur de recherche, vise a l'elaboration du sujet, et le cas echeant du projet de production, avant depot pour approbation par le Sous-comite d'admission et d'evaluation. Dans le cas d'un memoire de creation, il consiste egalement dans le travail d'exploration en vue des repetitions de la creation. Dans le cas d'un memoire de recherche, il consiste dans la redaction du plan du memoire et dans les premieres ebauches d'ecriture. Tutorat individualise.

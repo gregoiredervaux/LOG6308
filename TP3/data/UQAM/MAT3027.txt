@@ -1,0 +1,2 @@
+TitreCours: Enseignement correctif des mathematiques
+DescriptionCours: Construction de situations d'apprentissage mathematiques correctives elaborees a partir de l'analyse des erreurs et des principales theories d'apprentissage des mathematiques. Construction de materiel. Experimentation et evaluation.

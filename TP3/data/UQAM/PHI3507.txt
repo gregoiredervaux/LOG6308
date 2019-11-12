@@ -1,0 +1,2 @@
+TitreCours: Critiques de la metaphysique
+DescriptionCours: Reflexion sur diverses formes de la critique de la metaphysique, telle qu'elle s'est developpee depuis Kant. Trois lignes principales sont privilegiees: la critique d'inspiration logique et epistemologique, la critique d'inspiration existentielle et la critique d'inspiration phenomenologique.

@@ -1,0 +1,2 @@
+TitreCours: Themes lies a la sante communautaire
+DescriptionCours: Activite educative destinee a l'approfondissement de themes relatifs a la sante communautaire et a l'acquisition de strategies d'intervention portant sur les themes abordes.

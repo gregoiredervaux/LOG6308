@@ -1,0 +1,2 @@
+TitreCours: Interaction infirmiere-client
+DescriptionCours: Élements de la relation infirmiere-client. Attitudes et habiletes de base. Analyse de l'interaction infirmiere-client.

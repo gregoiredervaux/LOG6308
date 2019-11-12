@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: La fonction de l'art et le role de l'artiste dans les differentes societes. L'art et les besoins quotidiens. L'art comme moyen d'embellissement, l'art et la vie en societe.

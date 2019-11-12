@@ -1,0 +1,2 @@
+TitreCours: Projet en sciences humaines et arts
+DescriptionCours: Realisation, en vue de la pratique professionnelle, d'activites integratrices d'enseignement et d'apprentissage en sciences humaines, arts et autres disciplines. Approfondissement des didactiques choisies.

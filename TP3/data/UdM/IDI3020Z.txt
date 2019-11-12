@@ -1,0 +1,2 @@
+TitreCours: Vieillissement et DI
+DescriptionCours: Particularites du processus de vieillissement biopsychosocial et cognitif. Besoins : retraite, deuil, abus, etc. Role de l'intervenant : prevention, depistage, soins, integration communautaire, soutien au milieu residentiel.

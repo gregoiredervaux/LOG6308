@@ -1,0 +1,2 @@
+TitreCours: Analyse sequentielle
+DescriptionCours: Test du rapport de Wald et ses generalisations pour l'analyse sequentielle. Tests avec hypotheses composees; procedures sequentielles non parametriques; estimation sequentielle ponctuelle et par intervalle de confiance. Procedures sequentielles, bayesiennes, approximation stochastique. Regles d'arret optimales, theoremes limite. Applications dans l'industrie.

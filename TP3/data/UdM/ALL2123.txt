@@ -1,0 +1,2 @@
+TitreCours: Redaction
+DescriptionCours: Approfondissement de l'expression ecrite et approche des differents genres textuels.

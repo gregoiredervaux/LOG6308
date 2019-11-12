@@ -1,0 +1,2 @@
+TitreCours: Stage professionnel 1
+DescriptionCours: Cette activite d'une duree de trois mois minimum vise a mettre l'etudiant en contact avec la realite du milieu du travail et a l'amener a verifier l'atteinte d'objectifs personnels. L'etudiant doit realiser un mandat specifique pour lequel il se definit lui-meme certains objectifs a caractere professionnel. A la suite du stage, il doit produire un bilan de stage, dans lequel apparaissent une mise en contexte du stage et une autoanalyse critique de l'atteinte des objectifs.

@@ -1,0 +1,2 @@
+TitreCours: Compl. de formation aux stages cliniques
+DescriptionCours: Periode de travail personnel et complementaire aux stages cliniques permettant une evaluation normative des connaissances cliniques d'un etudiant terminant le doctorat en medecine (M.D.)

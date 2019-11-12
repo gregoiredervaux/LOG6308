@@ -1,0 +1,2 @@
+TitreCours: Did. de la geometrie, adapt. scol. sec.
+DescriptionCours: Étude des concepts, procedures, attitudes et raisonnement en geometrie. Identification de relations entre mesures (perimetre, aire, volume). Situations didactiques adaptees aux eleves en difficulte, ingenieries et evaluation.

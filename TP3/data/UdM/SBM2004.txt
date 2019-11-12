@@ -1,0 +1,2 @@
+TitreCours: Endocrinologie et reproduction
+DescriptionCours: Anatomie, physiologie, pathologie et pharmacologie des glandes endocrines, de l'axe hypothalamo-hypophysaire et du systeme reproducteur. Distribution, synthese, secretion, inactivations, mode d'action et effets physiologiques des hormones.

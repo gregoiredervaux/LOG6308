@@ -1,0 +1,2 @@
+TitreCours: Structures et calculs moleculaires
+DescriptionCours: Introduction aux calculs moleculaires et aux principales methodes d'approximation. Theories de la liaison, les systemes conjugues, methodes d'approximation, regles de selection pour molecules polyatomiques, transitions electroniques des molecules polyatomiques, regles de Woodward-Hoffman.

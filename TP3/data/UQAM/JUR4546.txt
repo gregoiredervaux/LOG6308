@@ -1,0 +1,2 @@
+TitreCours: Concours de plaidoirie interuniversitaire
+DescriptionCours: Preparation d'un memoire d'appel et plaidoirie du memoire devant un tribunal-ecole dans le cadre de competitions regroupant plusieurs universites tels le Tribunal-ecole Pierre-Basile Riguault ou autres concours de meme nature agrees par la direction du programme et ce, sous la supervision d'un professeur.

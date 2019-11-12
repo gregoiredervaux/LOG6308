@@ -1,0 +1,2 @@
+TitreCours: Assurance de la qualite
+DescriptionCours: Definition et promotion de la qualite. Controle de la qualite de l'interface usager et de la fonctionnalite des produits localises. Analyse des metriques. Normes et methodes : tests, revue, inspection. Cas pratiques. Resolution de problemes.

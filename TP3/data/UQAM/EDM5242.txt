@@ -1,0 +1,2 @@
+TitreCours: Initiation au video
+DescriptionCours: Ce cours vise a rendre l'etudiant apte a maitriser les differents aspects de la production de documents videographiques a teneur journalistique. Deux volets de formation sont abordes. L'aspect technique, sous forme d'ateliers, initie aux notions de prise de vue, prise de son, eclairage, montage numerique visuel et sonore ainsi que mixage. L'aspect theorique aborde le langage de l'image et du son, la grammaire visuelle, la recherche documentaire et le contenu journalistique applique a ce media electronique.

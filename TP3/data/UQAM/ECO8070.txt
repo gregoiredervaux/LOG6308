@@ -1,0 +1,2 @@
+TitreCours: Cours de lectures dirigees
+DescriptionCours: Permettre d'approfondir certains aspects particuliers des champs d'interet prevus au programme. L'etudiant devra faire la preuve que le sujet propose n'est pas couvert dans l'un ou l'autre des cours du programme.

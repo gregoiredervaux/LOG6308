@@ -1,0 +1,2 @@
+TitreCours: Stage : Obstetrique generale
+DescriptionCours: Stages cliniques concernant l'obstetrique generale.

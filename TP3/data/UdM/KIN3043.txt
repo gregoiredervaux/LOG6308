@@ -1,0 +1,2 @@
+TitreCours: Promotion de l'A.P. en milieu scolaire
+DescriptionCours: Theories et modeles en promotion de la sante appliquees au domaine de l'activite physique en milieu scolaire. Analyse critique de divers programmes de promotion de l'activite physique en milieu scolaire.

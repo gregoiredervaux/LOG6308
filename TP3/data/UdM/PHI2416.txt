@@ -1,0 +1,2 @@
+TitreCours: Éthique des affaires
+DescriptionCours: Introduction a l&rsquo;evaluation des comportements, pratiques et institutions dans le monde des affaires.

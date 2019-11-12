@@ -1,0 +1,2 @@
+TitreCours: Atelier de creation en education
+DescriptionCours: Recherche et creation en arts visuels et mediatiques. Presentation et realisation d'une oeuvre reliee au projet de recherche de l'etudiant, dans une ou plusieurs disciplines de son choix. Analyse de sa pratique artistique et mise en perspective des composantes de son processus de creation en rapport avec la transdisciplinarite dans la pensee educative et artistique contemporaine (lien avec le projet de recherche ou d'intervention en education).

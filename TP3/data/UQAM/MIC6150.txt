@@ -1,0 +1,2 @@
+TitreCours: Conception des systemes microelectronique
+DescriptionCours: Methodes de conception des systemes microelectroniques: architecture, materiel et logiciel. Decomposition des systemes au niveau materiel et logiciel. Methodes de conception pour la synthese des circuits ITGE. Description comportementale; synthese des circuits au niveau logique et architectural. Methodes de synthese pour la testabilite des circuits ITGE. Travaux pratiques en laboratoire (3 heures/semaine).

@@ -1,0 +1,2 @@
+TitreCours: Problemes pharmaceutiques 3
+DescriptionCours: Travaux choisis et executes sous la surveillance immediate d'un professeur dans le but de donner aux etudiants l'experience des problemes pratiques qui peuvent etre rencontres dans differents secteurs de la pharmacie.

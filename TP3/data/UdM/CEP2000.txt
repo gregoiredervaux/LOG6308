@@ -1,0 +1,2 @@
+TitreCours: Theories de la communication politique
+DescriptionCours: Analyse de la communication politique dans le contexte des campagnes electorales.

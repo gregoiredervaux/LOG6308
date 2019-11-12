@@ -1,0 +1,2 @@
+TitreCours: Évaluation des actifs
+DescriptionCours: L'objectif general est de maitriser les techniques utilisees par les courtiers et les gestionnaires de portefeuille pour prevoir les prix des titres. Analyse approfondie des principaux indicateurs de l`analyse technique. L'analyse industrielle et l'evaluation des actifs. L'analyse des etats financiers des compagnies et l'evaluation des actifs. Techniques de l'octroi du credit commercial. Étude de cas.

@@ -1,0 +1,2 @@
+TitreCours: Analyse numerique 1
+DescriptionCours: Propagation d'erreurs. Solution numerique d'equations non lineaires. Interpolation et approximation polynomiale. Derivation et integration numeriques. Algebre lineaire : methodes directes et iteratives. Approximation discrete par moindres carres.

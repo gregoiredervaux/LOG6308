@@ -1,0 +1,2 @@
+TitreCours: Bases neurophysiologiques du mouvement
+DescriptionCours: Mecanismes neurophysiologiques de la planification et de la realisation des mouvements. Structures, signalisation et comportements.

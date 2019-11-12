@@ -1,0 +1,2 @@
+TitreCours: Initiation au graphisme par ordinateur
+DescriptionCours: Manipulation d'objets graphiques. Agencement. Dessin et modelage. Traitement de texte et texte artistique. Addition de symboles. Transformations. Effets speciaux.

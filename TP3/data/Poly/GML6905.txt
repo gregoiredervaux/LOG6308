@@ -1,0 +1,2 @@
+TitreCours: Seminaires
+DescriptionCours: Expose et discussions de sujets choisis en rapport avec les cours ou les travaux de recherches du departement : hydrogeologie, geologie de l'ingenieur, geophysique appliquee, metallogenie, geostatistique et evaluation miniere, optimisation des operations minieres, automatisation et informatique minieres.

@@ -1,0 +1,2 @@
+TitreCours: Recherche individuelle dirigee
+DescriptionCours: Activite permettant a des etudiants de mener a bien une recherche individuelle de leur choix, sous la direction d'un professeur. L'objectif est de preparer l'etudiant a la recherche historique a travers une experience de recherche (toutes etapes), originale et portant sur un sujet limite. L'activite est l'occasion d'appliquer a la fois la formation theorique et methodologique et les connaissances historiques acquises a l'etude d'un probleme ou d'une question particuliere.

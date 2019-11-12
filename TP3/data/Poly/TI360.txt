@@ -1,0 +1,2 @@
+TitreCours: Installations fixes d'extinction
+DescriptionCours: Étude avancee des installations fixes d'extinction. Reglementation et normes. Caracteristiques, avantages, inconvenients, criteres de conception, d'applications et d'entretien des systemes d'extinction (autres que ceux de type gicleur): eau pulverisee, CO2, poudre chimique, mousse et autres systemes fixes. Normes d'essai et d'inspection.

@@ -1,0 +1,2 @@
+TitreCours: Soins ambulatoires
+DescriptionCours: Stage permettant a l'etudiant d'acquerir les connaissances et les habiletes necessaires face a diverses problematiques medicales et chirurgicales couramment observees en mode ambulatoire.

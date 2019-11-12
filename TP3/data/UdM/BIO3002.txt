@@ -1,0 +1,2 @@
+TitreCours: Bioethique
+DescriptionCours: Fondements de l'ethique. La vie, la nature et l'humain. Portee morale de la science et de la technologie. Implications ethiques des activites des biologistes. Experimentation, biotechnologie, genie genetique, amenagement et conservation.

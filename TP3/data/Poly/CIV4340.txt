@@ -1,0 +1,2 @@
+TitreCours: Hydraulique des cours d'eau
+DescriptionCours: Caractristiques et rgimes des coulements  surface libre. coulements uniformes, quation de rsistance. quation de l'nergie : profondeur critique, nombre de Froude, contrles hydrauliques. quation de conservation de la quantit de mouvement. coulements graduellement varis, mthodes de calcul des profils et localisation des points de contrle. Ouvrages de contrle: dversoirs, vannes, transitions. Introduction aux coulements transitoires.

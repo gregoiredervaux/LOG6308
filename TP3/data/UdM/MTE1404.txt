@@ -1,0 +1,2 @@
+TitreCours: Techniques modernes de composition 2
+DescriptionCours: Techniques compositionnelles du XXe siecle et leur application a de courtes compositions : modes rythmiques, polyrythmie, polymetrie, forme continue, iterative et a sections.

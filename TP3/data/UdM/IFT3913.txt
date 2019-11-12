@@ -1,0 +1,2 @@
+TitreCours: Qualite du logiciel et metriques
+DescriptionCours: Definition et promotion de la qualite. Assurance qualite. Plan de qualite. Amelioration et controle de qualite (tests, revue, inspections). Normes et cadres de qualite. Theorie de la mesure. Metriques de produit et de processus. Metriques de qualite.

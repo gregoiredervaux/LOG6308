@@ -1,0 +1,2 @@
+TitreCours: Formes et courants litteraires
+DescriptionCours: Étude des formes litteraires, de leur evolution, a travers les grandes epoques historiques et les mouvements litteraires les plus connus (classicisme, romantisme, realisme, naturalisme, symbolisme, surrealisme, nouveau roman, etc.). Étude des contraintes formelles, reflexion sur le sens et la fonction de celles-ci, a travers les principaux genres litteraires qui traversent les siecles: roman, poesie, theatre, essai. Le corpus se limite a un choix d'oeuvres parmi les litteratures francophones.

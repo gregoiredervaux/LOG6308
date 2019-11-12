@@ -1,0 +1,2 @@
+TitreCours: Économie du developpement
+DescriptionCours: Ce cours vise a familiariser l'etudiant avec les problemes et les perspectives economiques des pays en voie de developpement. Principales caracteristiques de ces pays: mesures du developpement et structure du sous-developpement. Expose critique des principales theories. Apercu des principaux problemes de politique economique.

@@ -1,0 +1,2 @@
+TitreCours: Activites dirigees veterinaires
+DescriptionCours: Études de problemes cliniques.

@@ -1,0 +1,2 @@
+TitreCours: Philosophie anglo-americaine
+DescriptionCours: Étude d'une problematique ou d'un auteur importants dans la tradition philosophique anglo-americaine : realisme et verite, nature des universaux, causalite, etc., Quine, Putnam, Wittgenstein.

@@ -1,0 +1,2 @@
+TitreCours: Audit
+DescriptionCours: Étude des concepts de risque, d'importance relative et de jugement professionnel et impacts sur le processus d'audit et le rapport du verificateur. Influence de l'environnement sur le travail d'audit. Comparaison des concepts theoriques d'audit avec leurs applications dans la pratique.

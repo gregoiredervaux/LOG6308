@@ -1,0 +1,2 @@
+TitreCours: Francais langue seconde
+DescriptionCours: Initier l'etudiant non francophone a l'ecriture de textes dotes d'enchainements logiques. L'amener a corriger les erreurs grammaticales et stylistiques par des travaux de reecriture. Developper son sens de la qualite du francais ecrit.

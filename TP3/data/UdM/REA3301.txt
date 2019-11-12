@@ -1,0 +1,2 @@
+TitreCours: Syst.de sante, gestion, entrepreneurship
+DescriptionCours: Systeme de sante, tendances actuelles. Cadre legislatif des services au Quebec. Organisation, fonctionnement, financement des etablissements. Principes de gestion, bases d'entrepreneurship. Clinique privee.

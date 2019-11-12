@@ -1,0 +1,2 @@
+TitreCours: Sûretes
+DescriptionCours: Étude des sûretes regies par le Code civil : cautionnement, priorites, hypotheque et reserves de propriete. Étude des principales sûretes regies par des lois particulieres, notamment celles prevues dans la Loi sur les banques.

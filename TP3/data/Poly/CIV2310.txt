@@ -1,0 +1,2 @@
+TitreCours: Mcanique des fluides
+DescriptionCours: Principes thermodynamiques et proprits des fluides. Pression. quilibre. Cinmatique des coulements. Fluide idal et coulements potentiels; potentiels complexes et transformations conformes. Conservation de la masse. Dynamique des fluides visqueux et non visqueux. Apports et pertes nergtiques. Production hydrolectrique. Rendements hydrolectriques. Interactions fluide - objet: trane et portance, turbulence, couche limite, effet de forme, sillage et vibrations induites.

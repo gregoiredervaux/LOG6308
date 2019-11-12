@@ -1,0 +1,2 @@
+TitreCours: Hydraulique urbaine
+DescriptionCours: Étude detaillee des reseaux de distribution de l'eau et de collecte des eaux usees et pluviales. Besoins en eau des agglomerations. Systemes d'aqueducs. Balancement et conception de reseaux d'aqueducs : methodes manuelles et informatiques. Reseaux d'egout domestique. Ruissellement en milieu urbain. Conception de reseaux pluviaux et unitaires : methodes manuelles et informatiques.Évaluation de reseaux. Le cours est axe sur l'utilisation de l'informatique.

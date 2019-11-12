@@ -1,0 +1,2 @@
+TitreCours: Seminaires
+DescriptionCours: Exposes et discussions de sujets choisis en rapport avec les cours ou les travaux de recherches du departement. Discussion de publications recentes. Automatique. Communications. Électronique. Électrotechnique. Hyperfrequences. Informatique appliquee. Micro-ondes. Électronique de puissance. Instrumentation. Microelectronique.

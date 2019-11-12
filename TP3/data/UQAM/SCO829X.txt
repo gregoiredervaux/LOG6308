@@ -1,0 +1,2 @@
+TitreCours: Cours a themes variables
+DescriptionCours: Ce cours, a contenu variable, a comme objectif l'approfondissement des theories, problematiques et orientations de la recherche fondamentale ou appliquee portant sur un theme particulier relatif a la comptabilite, au controle, a l'audit ou a tout autre champ connexe. Le contenu exact de ce cours est precise au trimestre ou il se donne et il doit etre approuve par le comite de programme.

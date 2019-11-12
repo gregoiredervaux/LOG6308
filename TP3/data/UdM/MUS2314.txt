@@ -1,0 +1,2 @@
+TitreCours: Musique et mediatique 1
+DescriptionCours: Étude et application des principaux concepts regissant la production et la composition musicale sur l'image en mouvement. Synchronisation. Synchrese et elements de langage audiovisuel.

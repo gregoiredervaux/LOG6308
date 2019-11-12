@@ -1,0 +1,2 @@
+TitreCours: Projet relie a une activite professionnelle
+DescriptionCours: Realisation d'un projet de synthese ayant comme objet l'etude de problemes concrets, relies a l'activite professionnelle de l'etudiant. Approche thematique. Projet d'ordre technique ou pedagogique, realise sous la direction d'un professeur ou d'une personne ressource du milieu. Projet personnel ou de groupe.

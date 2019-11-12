@@ -1,0 +1,2 @@
+TitreCours: Biotechnologie de l
+DescriptionCours: Étude des concepts et des aspects techniques des traitements biologiques des eaux usees et des boues. Principes des bioreacteurs: modeles de croissance des microorganismes; determination des constantes. Procedes de traitement: epuration secondaire et tertiaire; digestions aerobie et anaerobie. Valorisation des dechets. Étude experimentale des principaux procedes.

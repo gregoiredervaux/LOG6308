@@ -1,0 +1,2 @@
+TitreCours: Metrologie acoustique
+DescriptionCours: Initiation a la metrologie acoustique servant a la pratique audiologique : etalonnage; sonometrie; dosimetrie; performance acoustique des salles. Technologie en readaptation audiologique : aides de suppleance.

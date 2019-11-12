@@ -1,0 +1,2 @@
+TitreCours: Économie manageriale
+DescriptionCours: Ce cours veut initier l'etudiant aux fondements de l'analyse micro-economique et mettre en evidence les principales contributions a la formation d'un gestionnaire. Il porte essentiellement sur le fonctionnement de marches et l'analyse de la concurrence. Tout au long du cours, nous retrouvons en toile de fond la prise de decision, l'elaboration d'un plan d'affaires et l'appreciation de situations concurrentielles dans une optique de strategie d'entreprise.

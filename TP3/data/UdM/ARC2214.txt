@@ -1,0 +1,2 @@
+TitreCours: Conception assistee par ordinateur (CAO)
+DescriptionCours: Initiation aux caracteristiques des logiciels de CAO. Comprehension des regles d'utilisation et apprentissage d'un ou plusieurs logiciels 3D en architecture. Realisation d'un projet en utilisant le CAO comme outil de conception et de visualisation.

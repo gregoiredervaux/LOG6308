@@ -1,0 +1,2 @@
+TitreCours: Theriogenologie equine
+DescriptionCours: Deux semaines de stage dans le service de theriogenologie equine.

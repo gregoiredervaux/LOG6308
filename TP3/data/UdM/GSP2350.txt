@@ -1,0 +1,2 @@
+TitreCours: Gestion du rendement en sec. int.
+DescriptionCours: Cerner les concepts, approches et pratiques. Signifier des attentes a son personnel. Suivre et evaluer le rendement. Effectuer la retroaction. Reagir aux constats d'ecart dans le rendement. Guider le developpement du personnel.

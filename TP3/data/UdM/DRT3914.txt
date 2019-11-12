@@ -1,0 +1,2 @@
+TitreCours: Clinique juridique
+DescriptionCours: Entrevues avec des clients de la Clinique de la Faculte. Identification des elements juridiques pertinents. Recherche. Redaction d'avis juridiques.

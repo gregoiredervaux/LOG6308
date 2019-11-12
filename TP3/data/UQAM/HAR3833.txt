@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Étude des principaux developpements de l'art quebecois depuis 1968 et analyse de la situation actuelle des arts plastiques. Analyse de productions et de manifestations recentes: environnements, installations, performances, art d'intervention, art video, etc.

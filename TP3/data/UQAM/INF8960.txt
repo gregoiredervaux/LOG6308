@@ -1,0 +1,2 @@
+TitreCours: Architecture de logiciels
+DescriptionCours: Structures architecturales et vues: modules, composants et connecteurs, allocation. Attributs de qualite et choix architecturaux. Styles architecturaux (couches, filtres, reposoirs, client-serveur). Évaluation de l'architecture. Documentation des interfaces et du comportement. Langages de description architecturale. Conception de ligne de produits. Genie vs. architecture.

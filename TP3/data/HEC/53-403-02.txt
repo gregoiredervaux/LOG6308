@@ -1,0 +1,2 @@
+TitreCours: Conception et design des organisations
+DescriptionCours: Le cours vise un double objectif.&nbsp; D'un cote, il s'agit de se donner un cadre d'analyse des organisations et, de l'autre, il faut mettre a l'epreuve ce cadre en le confrontant a la litterature pratique et professionnelle en matiere de design des organisations. A l'aide de la methode des cas, nous explorerons les differents design d'entreprises de maniere a bien mettre en evidence leurs forces et leurs faiblesses.

@@ -1,0 +1,2 @@
+TitreCours: Thematiques liees a l'ecosante
+DescriptionCours: Activites pedagogiques consacrees a l'approfondissement de themes ou de problematiques specifiques liees a l'ecosante.

@@ -1,0 +1,2 @@
+TitreCours: Formation avancee en recherche juridique et multidisciplinaire informatisee
+DescriptionCours: Cette activite vise l'approfondissement des diverses methodes de recherche juridiques ou multidisciplinaires liees a la micro-informatique, la telematique et les banques de donnees en ligne. Formation aux principes de recherche dans les banques de donnees tant juridiques que socioeconomiques, canadiennes et internationales. Initiation aux approches methodologiques appropriees, formation aux modes de citation et developpement de strategies de recherche.

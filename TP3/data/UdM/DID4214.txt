@@ -1,0 +1,2 @@
+TitreCours: Didactique du francais en accueil 2
+DescriptionCours: Contenus et demarches en didactique du francais L2 au primaire en classe d'accueil et autres services d'aide a la francisation. Integration des TIC. Éleves a besoins particuliers. Conception de projets d'enseignement. Programmes d'etudes.

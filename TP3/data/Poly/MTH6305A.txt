@@ -1,0 +1,2 @@
+TitreCours: Reconn. de formes: approches statistiques
+DescriptionCours: Application de la theorie de la decision statistique au probleme de la reconnaissance des formes. Methodes de classification basees sur l'estimation des fonctions de densite. Classifications lineaires. Selection et extraction des caracteristiques. Introduction a l'intelligence artificielle et aux reseaux de neurones. Perceptrons multicouches. Algorithme de retro-propagation. Estimation des probabilites d'erreur.

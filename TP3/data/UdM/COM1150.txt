@@ -1,0 +1,2 @@
+TitreCours: Redaction en communication 1
+DescriptionCours: Les ecrits de type administratif comme le communique, la lettre et le compte rendu. Pratique et reflexion du communicateur.

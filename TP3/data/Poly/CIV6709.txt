@@ -1,0 +1,2 @@
+TitreCours: Capacits des lments routiers
+DescriptionCours: Caractristiques de la circulation. Capacit et niveaux de service. Congestion, circulation fluide. Facteurs affectant la capacit et le dbit de service. Capacit des autoroutes : section courante, section d'entrecroisements, bretelles, voies d'acclration et de dclration, changeurs. Routes  voies multiples, routes  2 voies. Capacit des carrefours : carrefours sans feux, carrefours avec feux. Capacit des artres urbaines. Capacit des amnagements pitonniers et amnagements pour bicyclettes. Incidents et travaux routiers.

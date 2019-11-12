@@ -1,0 +1,2 @@
+TitreCours: Pediatrie - Complement de formation
+DescriptionCours: Periode de travail personnel complementaire au stage de pediatrie MMD 3303 permettant une evaluation normative des connaissances en pediatrie d'un etudiant terminant le doctorat en medecine (M.D.).

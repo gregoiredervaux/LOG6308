@@ -1,0 +1,2 @@
+TitreCours: Embryologie
+DescriptionCours: Étude generale et comparee de l'ontogenese animale. Analyse du developpement dans une perspective phylogenetique. Gametogenese. Fecondation. Segmentation. Morphogenese primordiale, secondaire et definitive. Annexes embryonnaires. Organogenese. Aspects moleculaires et cellulaires du developpement animal: differenciation cellulaire.

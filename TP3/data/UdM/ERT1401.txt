@@ -1,0 +1,2 @@
+TitreCours: Approches theoriques en ergotherapie
+DescriptionCours: Modeles, theories et paradigme en ergotherapie. Composantes de la demarche ergotherapique et processus de changement. Raisonnement clinique.

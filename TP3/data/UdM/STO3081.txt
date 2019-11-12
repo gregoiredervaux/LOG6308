@@ -1,0 +1,2 @@
+TitreCours: Diagnostic clinique
+DescriptionCours: Examen des patients, etablissement de diagnostics, notions de plans de traitement. Inscriptions aux dossiers.

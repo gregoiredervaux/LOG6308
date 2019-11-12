@@ -1,0 +1,2 @@
+TitreCours: Jeu III
+DescriptionCours: Apprentissage des techniques d'interpretation d'un texte issu des nouvelles formes dramatiques. Choix d'une oeuvre en fonction des possibilites de l'etudiant. Analyse du texte. Les diverses phases de l'interpretation. Ce cours est suivi d'un atelier de trois heures pour fins d'exercices, de repetition, etc.

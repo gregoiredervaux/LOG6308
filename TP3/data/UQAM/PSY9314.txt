@@ -1,0 +1,2 @@
+TitreCours: Problemes avances en psychologie du developpement
+DescriptionCours: Étude de certaines problematiques avancees en psychologie du developpement.

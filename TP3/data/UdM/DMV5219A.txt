@@ -1,0 +1,2 @@
+TitreCours: Chirurgie des animaux de compagnie
+DescriptionCours: Deux semaines de travaux en chirurgie des canins et felins dont une semaine en soins intensifs.

@@ -1,0 +1,2 @@
+TitreCours: Mecanique des roches et controle des terrains
+DescriptionCours: Rappel sur les proprietes des roches et des massifs rocheux. Contraintes naturelles et induites autour des excavations minieres. Instabilites structurales. Instabilites par exces de contraintes. Soutenement artificiel. Soutenement naturel. Coups de terrain. Auscultation et suivi.

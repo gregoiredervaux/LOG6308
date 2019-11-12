@@ -1,0 +1,2 @@
+TitreCours: Statistiques pour sciences physiques
+DescriptionCours: Statistiques descriptives. Notions de probabilites, lois usuelles. Estimation et tests d'hypotheses sur des proportions et des moyennes. Quelques methodes non parametriques. Tables de contingence et test du X<+>2<+>. Regression simple et multiple. Series chronologiques. Applications aux sciences physiques.

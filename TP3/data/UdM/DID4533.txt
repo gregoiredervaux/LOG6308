@@ -1,0 +1,2 @@
+TitreCours: Theme specif en did des math au primaire
+DescriptionCours: Ce cours donne la possibilite de choisir, avec l'autorisation du responsable du programme, un theme specifique de didactique des mathematiques pour etude approfondie.

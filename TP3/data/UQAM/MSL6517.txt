@@ -1,0 +1,2 @@
+TitreCours: Inventaires et traitement des donnees
+DescriptionCours: Cours relevant de l'Universite de Montreal Les besoins des musees en informatique: inventaires, index, systemes de classification et d'indexation. Application de l'informatique documentaire et du traitement des donnees dans les musees. Banques de donnees specialisees. Reperage d'information. Milieu et usager. Étude de cas.

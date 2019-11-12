@@ -1,0 +1,2 @@
+TitreCours: Gitologie
+DescriptionCours: Processus physicochimiques de concentration des metaux en milieu geologique. Source et migration des metaux. Analyses des mineralisations metalliferes. Les regions metallogeniques et l'evolution tectonique de la croûte.

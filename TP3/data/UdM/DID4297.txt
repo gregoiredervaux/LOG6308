@@ -1,0 +1,2 @@
+TitreCours: Labo de didactique : univers social
+DescriptionCours: Conception d'un module d'enseignement. Analyse critique.

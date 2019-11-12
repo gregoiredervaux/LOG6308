@@ -1,0 +1,2 @@
+TitreCours: Didactique des mathematiques
+DescriptionCours: Resolution de problemes. Raisonnement et preuve. Modelisation et simulation. Probabilite. Situations didactiques.

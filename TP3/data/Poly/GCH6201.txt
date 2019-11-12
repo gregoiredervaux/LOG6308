@@ -1,0 +1,2 @@
+TitreCours: Catalyse et cinetique appliquees
+DescriptionCours: Principes et importance de la catalyse heterogene. Adsorption sur les surfaces solides. Isothermes d'adsorption. Structure et activite des differents types de catalyseurs. Proprietes physiques des catalyseurs. Mise en oeuvre des catalyseurs. Cinetique de reactions catalytiques gaz-solide. Expressions pour la vitesse de reaction. Recherche de modeles cinetiques. Applications a des procedes industriels particulierement a ceux de l'industrie du petrole.

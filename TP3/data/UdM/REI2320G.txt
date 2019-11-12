@@ -1,0 +1,2 @@
+TitreCours: Rapports collectifs du travail
+DescriptionCours: Étude des regles juridiques s'appliquant aux rapports collectifs du travail : le Code du travail du Quebec. Les regimes particuliers : les secteurs publics et parapublics, la construction et les decrets de convention collective.

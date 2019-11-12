@@ -1,0 +1,2 @@
+TitreCours: Francais langue des affaires
+DescriptionCours: Permettre a l'etudiant de s'approprier la terminologie et les structures linguistiques propres au monde de l'entreprise, de developper les competences essentielles aux communications des affaires et de comprendre la realite quebecoise de ce milieu.

@@ -1,0 +1,2 @@
+TitreCours: Activites d'auto-apprentissage 3
+DescriptionCours: Perfectionnement des apprentissages par l'utilisation du portfolio et integration de l'ensemble des competences et savoirs.

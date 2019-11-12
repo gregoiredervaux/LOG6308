@@ -1,0 +1,2 @@
+TitreCours: Projet de matrise IV
+DescriptionCours: Projet de matrise accompli sous la direction d'un directeur de projet et comprenant une tude de niveau suprieur sur un problme de gnie ainsi que la rdaction d'un rapport de projet. Le travail comprend l'quivalent de 45 heures par semaine consacres au projet pendant un trimestre.

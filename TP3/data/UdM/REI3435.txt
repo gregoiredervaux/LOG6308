@@ -1,0 +1,2 @@
+TitreCours: Diversite de la main-d'oeuvre
+DescriptionCours: Analyse de la composition diversifiee de la main-d'oeuvre au Quebec. Impact de la diversite sur la gestion de la main-d'oeuvre. Politiques de l'État s'adressant a cette diversite.

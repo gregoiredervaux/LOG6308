@@ -1,0 +1,2 @@
+TitreCours: Projet d
+DescriptionCours: Ce cours vise a permettre a l'etudiant de formuler et d'experimenter un projet d'intervention en animation culturelle, tout en lui fournissant l'encadrement theorique et pratique necessaire.

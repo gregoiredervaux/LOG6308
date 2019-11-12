@@ -1,0 +1,2 @@
+TitreCours: Lectures dirigees II
+DescriptionCours: Ce cours vise a permettre a un etudiant de travailler de maniere specialisee et approfondie sur un probleme, un theme ou un auteur. Programme de lecture personnalise elabore par l'etudiant et supervise par un professeur. Atelier (encadrement individuel).

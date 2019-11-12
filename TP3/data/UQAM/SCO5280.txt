@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese en sciences comptables
+DescriptionCours: Initier de facon pratique l'etudiant a la tache de comptable ou d'administrateur par la mise en place et la realisation d'un projet.

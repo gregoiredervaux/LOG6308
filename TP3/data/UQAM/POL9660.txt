@@ -1,0 +1,2 @@
+TitreCours: Études thematiques I
+DescriptionCours: Ce seminaire a contenu variable portera sur un theme choisi en fonction des recherches en cours menees par un (ou des) professeurs(s) ou par un professeur invite et n'etant pas couvert par les autres seminaires.

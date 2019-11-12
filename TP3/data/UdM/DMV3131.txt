@@ -1,0 +1,2 @@
+TitreCours: Medecine de population animale
+DescriptionCours: Concepts gen. de med. de population en med. vet. Morbidite, mortalite, objectifs de production et niveaux d'interference. Utilisation des tests diagnostiques, gestion informatisee des donnees, theorie de la decision, notions de systemes, biosecurite.

@@ -1,0 +1,2 @@
+TitreCours: Comp. transversales : developpement
+DescriptionCours: Competences transversales et milieux de travail. Organisation, evaluation et developpement. Connaissances associees. Bases documentaires et contextes de developpement. Competences transversales et deploiement des competences specifiques.

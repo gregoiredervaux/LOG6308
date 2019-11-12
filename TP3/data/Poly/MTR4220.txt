@@ -1,0 +1,2 @@
+TitreCours: Phenomenes de cinetique
+DescriptionCours: Rappel des equations d'echange. Diffusion a l'etat solide, liquide et gazeux. Reactions aux interfaces. Transfert d'energie et de matiere entre phases applique aux procedes metallurgiques. Phenomenes de transfert couple. Rayonnement. Degradation des metaux, alliages, verres et ceramiques.

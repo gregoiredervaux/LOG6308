@@ -1,0 +1,2 @@
+TitreCours: Methodes de la bioarcheologie
+DescriptionCours: Étude des populations anciennes (etat de sante, activites, identite biologique et culturelle, evolution, histoire) sous quatre aspects : paleodemographie, paleopathologie, etude de la morphologie, archeologie funeraire.

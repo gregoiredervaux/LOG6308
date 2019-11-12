@@ -1,0 +1,2 @@
+TitreCours: Construction de materiel didactique
+DescriptionCours: Étude des principales etapes de la realisation d'un materiel didactique: analyse du concept vise, recherche d'activites d'apprentissage appropriees a des enfants en difficultes, construction, experimentation et evaluation du materiel. L'etudiant devra construire un materiel didactique, l'experimenter et l'evaluer.

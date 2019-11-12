@@ -1,0 +1,2 @@
+TitreCours: Marche obligataire et taux d
+DescriptionCours: Taux d'interet et equilibre des marches financiers, echeances et structure des taux d'interet. Duree du credit et echeance: protection contre le risque de fluctuations des taux d'interets. Clauses de rachat. Analyse du risque d'insolvabilite. Impots et autres influences gouvernementales sur l'allocation des ressources financieres. Analyse des titres convertibles. Gestion de portefeuilles d'obligations; strategies de gestion. Caracteristiques et evaluation des options.

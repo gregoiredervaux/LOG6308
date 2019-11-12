@@ -1,0 +1,2 @@
+TitreCours: Atelier d'integration
+DescriptionCours: A partir d'une problematique communicationnelle d'un client annonceur, approuvee par le responsable de programme, planifier, concevoir et realiser une campagne de communication publicitaire integree.

@@ -1,0 +1,2 @@
+TitreCours: NTIC et enseignement
+DescriptionCours: Approches technologiques et psychopedagogiques de l'integration des NTIC en classe. Scenarios d'integration pedagogique des NTIC. Évaluation de logiciels educatifs. Initiation aux logiciels-outils.

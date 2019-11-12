@@ -1,0 +1,2 @@
+TitreCours: Phonologie synchronique
+DescriptionCours: Les principes synchroniques de la phonologie structurale et generative.

@@ -1,0 +1,2 @@
+TitreCours: Physiotherapie du systeme locomoteur 1
+DescriptionCours: Phenomene inflammatoire et douleur. Generalites sur les atteintes des diverses regions de l'appareil locomoteur : congenitales, traumatiques, rhumatismales, articulaires et extra-articulaires. Fondements de l'evaluation et du plan de traitement.

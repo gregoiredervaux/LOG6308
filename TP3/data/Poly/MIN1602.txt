@@ -1,0 +1,2 @@
+TitreCours: Arpentage de mines
+DescriptionCours: Role de l'arpenteur de mines. Techniques et instruments de mesure des niveaux, des angles et des distances. Transfert du meridien et arpentage de puits, de chantiers, de galeries ou de monteries. Traitement informatise des donnees et mise en plan. Techniques de surveillance des ouvrages par mesure des deformations et des deplacements. Theorie et applications du GPS (Global Positioning System). Travaux pratiques realises en laboratoires et sur le terrain.

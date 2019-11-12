@@ -1,0 +1,2 @@
+TitreCours: Les enjeux de l'intervention en DI
+DescriptionCours: Synthese des donnees d'evaluation et choix d'intervention. Gestion de l'ambiguite. Adaptation continue a de nouveaux contextes, organisation du travail, initiative, creativite et risque.

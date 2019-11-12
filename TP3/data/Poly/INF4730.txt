@@ -1,0 +1,2 @@
+TitreCours: Systemes paralleles
+DescriptionCours: Taxonomie et organisation des machines paralleles. Architecture des multiprocesseurs. Controles implicite et explicite du parallelisme. Parallelisme par fils multiples d'execution. Hierarchie de memoires, protocoles de coherence des antememoires. Applications paralleles en memoire partagee. Grappes de calcul et echange de messages entre les noeuds. Techniques d'equilibrage de charge. Applications paralleles en memoire repartie.

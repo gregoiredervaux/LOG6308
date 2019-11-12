@@ -1,0 +1,2 @@
+TitreCours: État solide
+DescriptionCours: Structure cristalline, constantes elastiques et ondes elastiques, phonons et vibrations d'un reseau. Proprietes thermiques d'isolants, gaz de Fermi, bande d'energie, cristaux semi-conducteurs, superconductivite. Proprietes dielectriques. Proprietes magnetiques.

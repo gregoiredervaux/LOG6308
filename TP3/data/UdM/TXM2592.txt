@@ -1,0 +1,2 @@
+TitreCours: L'IGT pour adultes
+DescriptionCours: Initiation a l'evaluation de l'indice de gravite d'une toxicomanie a partir de l'instrument IGT, version quebecoise de l'Addiction Severity Index.

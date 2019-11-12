@@ -1,0 +1,2 @@
+TitreCours: Phonologie du francais
+DescriptionCours: Analyse du systeme des sons du francais dans le cadre de la phonologie structurale et generative.

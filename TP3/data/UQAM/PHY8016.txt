@@ -1,0 +1,2 @@
+TitreCours: Dielectriques
+DescriptionCours: Élements d'electrostatique, theorie fondamentale de la molecule, methodes experimentales, theorie quantique des systemes simples, moment electrique du liquide et du solide. Liquides polaires et solutions, cristaux ioniques et moleculaires, phenomene de la relaxation et de la resonance, ferroelectriques, claquage dielectrique.

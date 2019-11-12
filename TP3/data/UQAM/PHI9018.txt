@@ -1,0 +1,2 @@
+TitreCours: Seminaire de recherche en philosophie de la culture
+DescriptionCours: Recherches relatives a un secteur ou un probleme particulier de la philosophie de la culture. Ce secteur ou ce probleme, qui sera determine par le professeur, peut concerner soit le phenomene general de la culture comme ensemble d'activites symboliques, soit un de ses aspects particuliers comme l'art, la science, la technique ou la religion, soit encore la problematique de la rencontre des cultures.

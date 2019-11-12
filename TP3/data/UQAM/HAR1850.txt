@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Introduction a l'histoire de l'architecture au XIXe siecle, historicisme et eclectisme. Influence des nouvelles technologies et de nouveaux materiaux sur l'evolution des formes architecturales. Étude des theories architecturales qui determinent les pratiques de cet art au XIXe siecle et dans le mouvement moderne du XXe siecle.

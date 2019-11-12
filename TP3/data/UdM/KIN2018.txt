@@ -1,0 +1,2 @@
+TitreCours: Biomecanique des activites physiques
+DescriptionCours: Principes mecaniques appliques aux gestes humains. Concepts de performance et de securite. Systemes de mesures cinematographiques et dynamometriques. Analyse critique de gestes sportifs et exercices physiques.

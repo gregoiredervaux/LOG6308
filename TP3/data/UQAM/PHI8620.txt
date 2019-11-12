@@ -1,0 +1,2 @@
+TitreCours: Problemes de philosophie I
+DescriptionCours: Étude de problemes specifiques non approfondis par les autres cours du programme. Le contenu du cours sera determine par le comite du programme a chacune de ses occurrences.

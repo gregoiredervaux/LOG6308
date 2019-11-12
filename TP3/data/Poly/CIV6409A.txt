@@ -1,0 +1,2 @@
+TitreCours: Digues et barrages en remblai
+DescriptionCours: Types d'ouvrage : facteurs de choix de la section type et de la mthode d'tanchisation des fondations. Analyses de stabilit et coefficient de scurit : fin de construction, rgime permanent, vidange rapide, tremblements de terre. Proprits physiques et mcaniques des matriaux. Contrle de qualit de la construction. Techniques spciales. Comportement durant et aprs la construction : instrumentation, interprtation. Exemples pratiques. Application  un cas rel.

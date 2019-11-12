@@ -1,0 +1,2 @@
+TitreCours: Pratique pharmaceutique communautaire 1
+DescriptionCours: Stage d&rsquo;initiation a la prestation des soins pharmaceutiques ainsi qu&rsquo;a la gestion de la pratique et des operations en pharmacie communautaire.

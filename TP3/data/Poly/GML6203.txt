@@ -1,0 +1,2 @@
+TitreCours: Meth. magnetiques et gravimetriques en geoph.
+DescriptionCours: Methodes de traitement des donnees magnetiques et gravimetriques : utilisation de l'analyse spectrale et de l'analyse statistique. Methodes d'interpretation par modelisation 2D et 3D. Interpretation par inverse generalisee (Marquardt, SVD).

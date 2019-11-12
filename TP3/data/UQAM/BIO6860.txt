@@ -1,0 +1,2 @@
+TitreCours: Ornithologie
+DescriptionCours: Étude de la biologie et de l'ecologie des oiseaux. Bref apercu de l'anatomie fonctionnelle et de la physiologie. Étude du cycle annuel. Migration de printemps, cantonnement (notion de territoire), reproduction, elevage des jeunes, mue, preparation a la migration d'automne, hivernage. Écologie : techniques de denombrement des oiseaux, etude des niches (habitat optimum, stratification de l'avifaune, etc). Notions de dynamique des populations. Les travaux sur le terrain sont effectues en equipes.

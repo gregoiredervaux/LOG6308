@@ -1,0 +1,2 @@
+TitreCours: Sante : determinants environnementaux
+DescriptionCours: La relation sante - environnement et l'approche de sante publique en environnement. Methodes epidemiologiques. Methodes de prevention et d'intervention. Étude des milieux. Les agresseurs physiques.

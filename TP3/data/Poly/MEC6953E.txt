@@ -1,0 +1,2 @@
+TitreCours: C. Spec.: Tribologie
+DescriptionCours: Topographie des surfaces (rugosite microscopique et moleculaire). Frottement sec, statique, dynamique, phenomene de broutage (stick-slip), source d'usure. Usure des materiaux metalliques, polymeres, composites, ceramiques. Lubrifiants (gazeux, liquides, pateux, solides). Regimes de lubrification hydrodynamique, elastohydrodynamique (roulements, traction), onctueux, solide, traitement des surfaces.

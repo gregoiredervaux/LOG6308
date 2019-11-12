@@ -1,0 +1,2 @@
+TitreCours: T.P. de biologie moleculaire : projet
+DescriptionCours: Familiarisation avec la preparation de l'ADN, l'utilisation d'enzymes de restriction, l'electrophorese, le sequencage, l'amplification par PCR, l'extraction de l'ARN, le transfert de l'ADN et de l'ARN et la detection a l'aide d'une sonde radioactive.

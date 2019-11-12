@@ -1,0 +1,2 @@
+TitreCours: Approche theorique-soins a l'enfant
+DescriptionCours: Étude de notions theoriques et de concepts inherents aux experiences de sante chez les enfants.

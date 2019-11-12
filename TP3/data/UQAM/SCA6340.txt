@@ -1,0 +1,2 @@
+TitreCours: Oceanographie physique
+DescriptionCours: Proprietes physiques de l'eau de mer. Interaction air-mer. Circulation. Courants oceaniques. Marees. Vagues en eau profonde, en eau peu profonde, brisants. Glace: proprietes, formation. Instrumentation.

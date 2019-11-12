@@ -1,0 +1,2 @@
+TitreCours: Didactique des sciences biologiques
+DescriptionCours: Contenus, conceptions et obstacles a la comprehension entourant l'enseignement de la biologie au secondaire. Protocoles d'experiences, explicitation des connaissances; savoirs scientifiques, sens commun en regard des phenomenes biologiques.

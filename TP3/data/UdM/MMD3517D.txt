@@ -1,0 +1,2 @@
+TitreCours: Stage: Medecine du sport
+DescriptionCours: Stage clinique offrant une vue globale de la medecine du sport.

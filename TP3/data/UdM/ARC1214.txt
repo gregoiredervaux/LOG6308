@@ -1,0 +1,2 @@
+TitreCours: Atelier d'expression
+DescriptionCours: L'atelier d'expression vise a developper chez l'etudiant la capacite de representation des idees a travers des figures et des formes en 2 et 3 dimensions.

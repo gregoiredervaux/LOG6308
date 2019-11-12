@@ -1,0 +1,2 @@
+TitreCours: Élements de thermodynamique
+DescriptionCours: Loi des gaz parfaits, poussee d'Archimede et applications. Substances pures, diagrammes de phases, tables thermodynamiques et applications. Chaleur et types de transferts, travail et puissance. Premiere loi pour un systeme ferme et pour un systeme ouvert, applications. Seconde loi de la thermodynamique. Sources et puits, machines thermiques, rendements. Cycle de Carnot. Cycle de refrigeration a compression de vapeur. Thermopompe. Applications en aeronautique et en mecanique du batiment.

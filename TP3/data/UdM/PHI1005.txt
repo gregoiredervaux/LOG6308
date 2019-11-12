@@ -1,0 +1,2 @@
+TitreCours: Logique 1
+DescriptionCours: Logique des connecteurs et logique des quantificateurs.

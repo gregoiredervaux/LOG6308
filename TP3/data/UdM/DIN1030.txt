@@ -1,0 +1,2 @@
+TitreCours: Atelier preparatoire
+DescriptionCours: Introduction au dessin et a la representation graphique du projet; le dessin comme outil d&rsquo;exploration et de representation des idees; acquisition des bases theoriques et pratiques des techniques de representation utilisees en design industriel.

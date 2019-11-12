@@ -1,0 +1,2 @@
+TitreCours: Didactique de l'algebre et des fonctions
+DescriptionCours: Difficultes specifiques liees a l'enseignement - apprentissage de l'algebre. Raisonnements arithmetiques et algebriques, structures des problemes, geometrie analytique, fonctions. Sens de l'algebre. Raffinement du cadre de reference.

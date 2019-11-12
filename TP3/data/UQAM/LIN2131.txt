@@ -1,0 +1,2 @@
+TitreCours: Communication Technologies in the Teaching of ESL
+DescriptionCours: In this course students will get hands-on experience in using computer-assisted language learning (CALL) technologies to enhance various classroom activities, including project work, individualized instruction, remediation, and assessment. Students will learn how to analyze and evaluate different types of technology, and how to use technology with learners of different ages and abilities in conformity with MELS requirements.

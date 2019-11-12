@@ -1,0 +1,2 @@
+TitreCours: Introduction aux maladies du travail
+DescriptionCours: Problematique de la maladie professionnelle. Description des principales maladies causees par des facteurs chimiques, physiques, biologiques ou psychosociaux. Notions de prevention des maladies du travail.

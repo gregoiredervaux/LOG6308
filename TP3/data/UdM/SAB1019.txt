@@ -1,0 +1,2 @@
+TitreCours: Dentisterie preventive clinique
+DescriptionCours: Travaux cliniques pour integrer l'ensemble des principes et techniques de dentisterie preventive au sein d'un programme global de prevention dispense aupres d'un patient.

@@ -1,0 +1,2 @@
+TitreCours: Tech. de caracterisation des materiaux II
+DescriptionCours: Approfondissement des principes et des applications des techniques de caracterisation des materiaux. Modes d'observation et d'analyse en microscopie electronique en transmission analytique, theories du contraste, diffraction en illumination parallele et convergente, technique du faisceau faible et interpretation quantitative des signaux (spectrometries des rayons X et des pertes d'energie des electrons transmis). Imagerie en contraste Z. Imagerie a haute resolution.

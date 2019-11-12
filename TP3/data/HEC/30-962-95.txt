@@ -1,0 +1,2 @@
+TitreCours: Élements de controle interne
+DescriptionCours: Controles administratifs et financiers, du point de vue du gestionnaire. Environnement et procedures de controle manuel et informatique applique aux fonctions vente, achat, stock, remuneration. Role de l'expert-comptable externe.

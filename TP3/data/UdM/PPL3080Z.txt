@@ -1,0 +1,2 @@
+TitreCours: Quest. actuelles en sante en coop. int.
+DescriptionCours: État et prospectives. Analyse faite en tenant compte de divers determinants et consequences (politique, socio-economique, rapport homme-femme, etc.).

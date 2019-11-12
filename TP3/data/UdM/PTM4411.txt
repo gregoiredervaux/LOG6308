@@ -1,0 +1,2 @@
+TitreCours: Veterinaire, faune et environnement
+DescriptionCours: Les roles actuels et potentiels du veterinaire pour analyser et resoudre les problemes de sante animale (domestique et faunique) relies aux changements environnementaux. Justification de ces roles.

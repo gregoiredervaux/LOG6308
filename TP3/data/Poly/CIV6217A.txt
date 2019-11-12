@@ -1,0 +1,2 @@
+TitreCours: Microbiologie environnementale
+DescriptionCours: Notions de microbiologie environnementale: classification, mtabolisme, mesures de densit et d'activit bactrienne. Microbiologie des eaux potables: traitement biologique, dsinfection et distribution des eaux potables. volution des normes de qualit microbiologique. Microbiologie des eaux uses: boues actives, filtres biologiques, dphosphatation biologique, digestion et stabilisation des boues, dsinfection des eaux uses. Microbiologie des sols et biorestauration. Mesures en microbiologie environnementale.

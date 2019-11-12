@@ -1,0 +1,2 @@
+TitreCours: Sociologie et population
+DescriptionCours: Role de la sociologie en demographie. Organisation sociale et demographie : famille, stratification sociale, groupes minoritaires, urbanisation, religion, etc. Essai de theorie du comportement et du changement demographique.

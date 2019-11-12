@@ -1,0 +1,2 @@
+TitreCours: Seminaire de mathematiques appliquees
+DescriptionCours: Notions pour donner un bon expose et principales composantes d'un bon expose. Analyse et critique d'un expose. Presence active a au moins trois seminaires portant sur des sujets mathematiques. Élaboration et presentation de deux exposes scientifiques. Redaction de comptes rendus de communications scientifiques.

@@ -1,0 +1,2 @@
+TitreCours: Transmission numrique
+DescriptionCours: Transmission numrique en bande de base. Dtection optimale en prsence de bruit, rcepteur  corrlation et  filtre adapt. Modulations PCM, DPCM, DELTA, rponse partielle. Interfrences entre symboles. Codage de ligne. Techniques de modulations numriques avec onde porteuse, performances en prsence de bruit des rcepteurs cohrents et non cohrents. lments de synchronisation. Notions de capacit.

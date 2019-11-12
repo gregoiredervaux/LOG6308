@@ -1,0 +1,2 @@
+TitreCours: Introduction aux relations de travail
+DescriptionCours: Le systeme de relations industrielles; fondements theoriques; structures et fonctions des organisations syndicales et patronales, contexte legislatif; principaux mecanismes : negociation collective, arbitrage, mediation; la convention collective.

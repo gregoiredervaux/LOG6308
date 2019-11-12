@@ -1,0 +1,2 @@
+TitreCours: Questions speciales en th. systematique
+DescriptionCours: Étude d'un theme theologique.

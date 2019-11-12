@@ -1,0 +1,2 @@
+TitreCours: Nutrition humaine
+DescriptionCours: Cours d'interet general ouvert a un large public. Étude des besoins alimentaires chez l'homme. Effets des deficiences et des surplus (vitamines, lipides, proteines, etc.). Dietes populaires, alimentation naturelle et resultats recents des travaux de recherche en nutrition humaine.

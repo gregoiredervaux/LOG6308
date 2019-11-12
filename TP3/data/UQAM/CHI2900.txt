@@ -1,0 +1,2 @@
+TitreCours: Controle de la qualite
+DescriptionCours: Buts du controle de la qualite, etablissement d'un programme. Methodes d'echantillonnage et representativite. Controle de la qualite au laboratoire : accreditation, methodes normalisees, tests inter-laboratoires. Controle de la qualite dans l'industrie : organisation, production, echantillonnage, automatisation.

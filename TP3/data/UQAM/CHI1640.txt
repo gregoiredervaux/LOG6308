@@ -1,0 +1,2 @@
+TitreCours: Introduction a la chimie quantique et a la spectroscopie moleculaire
+DescriptionCours: Initiation a la mecanique quantique des atomes et a la spectroscopie des molecules. Modele quantique de l'atome, les termes spectroscopiques, les regles de selection, la spectroscopie atomique, la theorie des groupes, la rotation et les vibrations moleculaires, la spectroscopie infrarouge, Raman et ultraviolet.

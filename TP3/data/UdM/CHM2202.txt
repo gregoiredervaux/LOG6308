@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de chimie inorganique
+DescriptionCours: Synthese de composes inorganiques et organometalliques. Caracterisation des produits synthetises au moyen de methodes chimiques et de techniques instrumentales.

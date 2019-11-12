@@ -1,0 +1,2 @@
+TitreCours: Économie des organisations
+DescriptionCours: Organisation interne de la firme quant a ses limites, structures et politiques en reponse aux nombreux problemes d'incitation et de coordination qui l'animent.

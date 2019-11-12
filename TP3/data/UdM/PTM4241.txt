@@ -1,0 +1,2 @@
+TitreCours: Ichtyopathologie veterinaire
+DescriptionCours: Approches diagnostiques et therapeutiques veterinaires des maladies des poissons d'eau douce en pisciculture et en milieu naturel.

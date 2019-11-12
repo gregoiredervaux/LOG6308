@@ -1,0 +1,2 @@
+TitreCours: Sminaires
+DescriptionCours: Exposs et discussions de sujets choisis en rapport avec les cours ou les travaux de recherches du dpartement. Discussion de publications rcentes.

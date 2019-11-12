@@ -1,0 +1,2 @@
+TitreCours: Seminaires thematiques II
+DescriptionCours: Ce cours poursuit la logique du cours «Seminaires thematiques I». Les etudiants participant a des echanges avec d'autres universites doivent obligatoirement s'inscrire aux deux seminaires: DES755X et DES756X.

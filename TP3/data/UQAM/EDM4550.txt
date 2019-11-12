@@ -1,0 +1,2 @@
+TitreCours: Multimedia et societe
+DescriptionCours: Acquisition d'une meilleure comprehension des possibilites et des enjeux lies au developpement accelere des nouvelles technologies de l'information et de la communication. Certaines etudes de cas dans le domaine de l'informatique, des telecommunications, de l'audiovideo numerique, des realites virtuelles ou de l'intelligence artificielle, nous permettront d'en degager les applications pratiques et d'en evaluer l'impact sur l'evolution de la culture et de la democratie dans nos societes.

@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese
+DescriptionCours: Activite modulaire permettant a un ou plusieurs etudiants de realiser un projet individuel ou collectif au sein duquel chacun pourra appliquer les connaissances theoriques et pratiques acquises durant ses etudes. Utilisation pratique d'outils informatiques.

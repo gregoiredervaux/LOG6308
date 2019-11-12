@@ -1,0 +1,2 @@
+TitreCours: Algorithmie avancee et interactivite
+DescriptionCours: Atelier axe sur les problematiques specifiques aux integrations complexes (les systemes distribues) incluant les mondes immersifs et les contenus dynamiques. Étude et application de techniques algorithmiques avancees et leur application: theories des jeux, modeles mathematiques, generateurs linguistiques, synthese audiovisuelle dynamique, vie artificielle, reseaux neuronaux, systemes experts, bases de donnees relationnelles, etc.

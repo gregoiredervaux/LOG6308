@@ -1,0 +1,2 @@
+TitreCours: Krigeage en CAO et FAO
+DescriptionCours: Definition du krigeage. Équations generales. Formulation duale. Erreur de mesure (effet de pepite). Lien avec les moindres carres. Distance d'influence. Krigeage parametrique des courbes, surfaces et solides. Équivalence avec les fonctions splines. Krigeage des derivees et des gradients. Lien avec les courbes de Bezier et les elements finis. Modelisation de surfaces et solides complexes par krigeage. Compression de donnees. Krigeage sous contrainte.

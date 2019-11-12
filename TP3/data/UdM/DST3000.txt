@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de techn. et de robotique
+DescriptionCours: Initiation a la technologie (mecanique, electricite, electronique), controle de processus physiques, regulation. Conception et construction de capteurs et d'effecteurs pour les sciences experimentales.

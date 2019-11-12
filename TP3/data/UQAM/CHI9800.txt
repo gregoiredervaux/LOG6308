@@ -1,0 +1,2 @@
+TitreCours: Modelisation des eaux de surface
+DescriptionCours: Application des concepts generaux de la modelisation au cas particulier des eaux de surface, dans un but de protection de l'environnement. Aspects hydrauliques: ecoulement a surface libre, regime permanent, regime transitoire. Aspects qualite de l'eau: l'equation d'advection-diffusion. Évolution des parametres de qualite de l'eau dans le temps et dans l'espace. Applications a l'eutrophisation, a la pollution par des effluents urbains, agricoles, etc.

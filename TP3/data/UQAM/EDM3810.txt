@@ -1,0 +1,2 @@
+TitreCours: Techniques d
+DescriptionCours: Techniques de developpement d'une idee, depuis la conception de cette idee jusqu'a l'etape du texte final en fonction d'une problematique du medium television. Insistance sur la fonction son et image. Apprentissage des techniques de recherche sur un sujet donne.

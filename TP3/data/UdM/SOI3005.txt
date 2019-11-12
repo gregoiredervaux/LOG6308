@@ -1,0 +1,2 @@
+TitreCours: Soins et experiences de sante mentale
+DescriptionCours: Étude d'experiences de sante relatives aux problemes psychiatriques. Analyse de situations cliniques et identification d'approches specifiques de soins aupres de personnes de tout age, de familles et de groupes.

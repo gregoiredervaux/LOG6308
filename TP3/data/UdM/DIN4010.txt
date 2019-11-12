@@ -1,0 +1,2 @@
+TitreCours: Atelier de design 6
+DescriptionCours: Trois ateliers thematiques bses sur: (1) la formulation d'une problematique coherente; (2) l&rsquo;inspiration de la nature pour trouver des solutions techniques viables et (3) la confrontation des hypotheses formelles aux modeles existants en design.

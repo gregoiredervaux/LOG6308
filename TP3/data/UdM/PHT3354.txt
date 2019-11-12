@@ -1,0 +1,2 @@
+TitreCours: Stage clinique 3
+DescriptionCours: Application clinique des connaissances theoriques et pratiques acquises relatives aux systemes neuro-musculo-squelettique et vasculaire.

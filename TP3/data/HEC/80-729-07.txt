@@ -1,0 +1,2 @@
+TitreCours: Critical Analysis of Information Systems Research
+DescriptionCours: The objective of the seminar is to familiarize the students with information systems research that is based in different reference disciplines and to enable them to identify the advantages and drawbacks inherent in utilizing research models borrowed from these other domains. The seminar focuses on a few key research themes to be covered in four or five modules, with each module being taught and evaluated by a different faculty member.

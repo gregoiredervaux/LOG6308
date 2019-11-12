@@ -1,0 +1,2 @@
+TitreCours: Latin medieval 1
+DescriptionCours: Introduction generale au latin medieval : histoire, phonetique et graphie, lexique de base, elements de morphologie.

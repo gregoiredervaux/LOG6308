@@ -1,0 +1,2 @@
+TitreCours: Fabrication pieces plastiques par injection
+DescriptionCours: Conception et fabrication assistees par ordinateur (CFAO) de pieces plastiques et de leur moule. Analyse de l'ecoulement du polymere dans le moule, analyses mecanique et thermique des moules. Influence des parametres de mise en oeuvre sur les proprietes des pieces moulees. Étude de cas et utilisation de logiciels de simulation pour la conception.

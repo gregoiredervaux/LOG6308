@@ -1,0 +1,2 @@
+TitreCours: Services educatifs pour handicapes physiques
+DescriptionCours: Inventaire critique des services qui peuvent contribuer au developpement intellectuel, affectif et social de personnes handicapees physiques. Recherche de mesures pouvant contribuer au developpement maximal de ces personnes et a leur integration dans la societe.

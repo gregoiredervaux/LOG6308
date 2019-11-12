@@ -1,0 +1,2 @@
+TitreCours: Projet II
+DescriptionCours: Cette activite est la suite de l'activite LIM5212 avec poursuite des memes objectifs et doit etre obligatoirement suivie a l'interieur de la meme annee universitaire que l'activite LIM5212. Le cours porte sur: l'organisation d'un colloque ou seront presentees les communications; la redaction de la version ecrite de ces communications; la critique des articles de collegues en tant que lecteurs.

@@ -1,0 +1,2 @@
+TitreCours: Theorie des jeux appliquee
+DescriptionCours: Generalites. Notion de strategie. Determination des strategies optimales. Jeux differentiels. Application aux problemes financiers.

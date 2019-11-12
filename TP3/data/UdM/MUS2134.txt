@@ -1,0 +1,2 @@
+TitreCours: Le metier du musicien
+DescriptionCours: Étude des differents aspects theoriques et pratiques de la carriere de musicien au Quebec : interpretes, compositeurs, musicologues.

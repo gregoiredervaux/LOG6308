@@ -1,0 +1,2 @@
+TitreCours: Processus stochastiques
+DescriptionCours: Rappels de probabilites. Proprietes des processus stochastiques. Processus gaussiens. Chaines de Markov a temps discret et a temps continu. Processus de naissance et de mort. Mouvement brownien. Processus de diffusion. Processus de Poisson. Processus de Poisson non homogenes et autres generalisations. Processus de renouvellement. Files d'attente avec un seul et avec plusieurs serveurs.

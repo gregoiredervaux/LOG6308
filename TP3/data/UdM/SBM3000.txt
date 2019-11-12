@@ -1,0 +1,2 @@
+TitreCours: Stage de recherche en sc. biomedicales
+DescriptionCours: Realisation d'un projet de recherche en milieu universitaire ou hospitalier, ou stages techniques en milieu clinique ou industriel.

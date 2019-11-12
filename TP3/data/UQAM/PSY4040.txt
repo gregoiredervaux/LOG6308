@@ -1,0 +1,2 @@
+TitreCours: Bases psychobiologiques du comportement
+DescriptionCours: Notions de base en neurobiologie permettant une meilleure comprehension des mecanismes physiologiques et genetiques et une meilleure connaissance des structures anatomiques sous-jacentes aux processus mentaux et comportementaux. Ces notions s'inscrivent a l'interieur d'une formation hierarchisee et comme prealables a plusieurs autres cours specialises en neuropsychologie, psychopharmacologie, psychologie de la perception, psychologie des emotions et de la motivation.

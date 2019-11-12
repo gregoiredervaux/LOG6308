@@ -1,0 +1,2 @@
+TitreCours: Rehabilitation implanto-portee 2
+DescriptionCours: Notions theoriques reliees a la restauration implanto-portee : osteo-integration, anatomie, diagnostic, facteurs de risque, planification de cas, guides, techniques et complications.

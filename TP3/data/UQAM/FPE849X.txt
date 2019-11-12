@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique en mesure et evaluation
+DescriptionCours: Lectures, communications et echanges sur des defis nouveaux ou des tendances actuelles en mesure et evaluation et sur les effets de particularites de disciplines sur les methodes de mesure et evaluation. Les themes etudies sont retenus en fonction des interets des etudiants inscrits.

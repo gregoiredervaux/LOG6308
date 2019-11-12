@@ -1,0 +1,2 @@
+TitreCours: Preparation des aliments
+DescriptionCours: Connaissance des aliments, des techniques de preparation et de cuisson des aliments. Termes culinaires utiles.

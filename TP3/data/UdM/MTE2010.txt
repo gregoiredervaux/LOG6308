@@ -1,0 +1,2 @@
+TitreCours: Écriture et analyse 3
+DescriptionCours: Initiation a l'ecriture motivique et a l'harmonisation de chants donnes. Analyse combinant divers parametres (harmonie, melodie, rythme, texture), appliques au theme et variations, lied, rondo, forme sonate. Repertoire des XVIIIe et XIXe siecles.

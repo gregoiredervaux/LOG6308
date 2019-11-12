@@ -1,0 +1,2 @@
+TitreCours: Structures de donnees
+DescriptionCours: Resultats avances et recents en structures de donnees. Analyse amortie et bornes inferieures. Structures de donnees augmentees. Persistance des structures. Étude et comparaison d'algorithmes avances pour les arbres et les graphes. Applications.

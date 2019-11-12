@@ -1,0 +1,2 @@
+TitreCours: Stage de terrain en archeologie
+DescriptionCours: Acquisition d'habiletes pratiques sur le deroulement d'une fouille, d'une prospection ou la realisation d'un projet archeologique. Participation a un stage de terrain, avec apprentissage par la pratique des diverses etapes d'une fouille ou reconnaissance, des donnees stratigraphiques et des strategies adoptees en fonction des hypotheses a verifier. Le stage en laboratoire pourra s'appliquer a divers projets, comme une analyse de collection, la conservation ou la mise en valeur d'un site.

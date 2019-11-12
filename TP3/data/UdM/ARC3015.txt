@@ -1,0 +1,2 @@
+TitreCours: Atelier formes et contexte
+DescriptionCours: Developpement d'un projet d'architecture a partir de l'etude du contexte et du potentiel structurant de la forme architecturale sur un environnement construit ou un paysage donne.

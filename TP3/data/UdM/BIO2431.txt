@@ -1,0 +1,2 @@
+TitreCours: Invertebres sauf insectes
+DescriptionCours: Principes d'organisation des invertebres examines a la lumiere de l'augmentation de l'efficacite et de la complexite. Structures et fonctions homologues et analogues: caracteres generaux, bases morphologiques de la classification.

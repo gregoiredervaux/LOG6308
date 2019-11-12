@@ -1,0 +1,2 @@
+TitreCours: Gestion de l
+DescriptionCours: Au coeur de l'infrastructure de l'industrie touristique, l'hebergement et la villegiature font l'objet de ce cours qui analysera les principaux problemes et les strategies requises pour gerer les entreprises de ce secteur. Presente sous forme de seminaire, ce cours passera en revue les grandes fonctions de gestion tout en soulignant les particularites propres au secteur de l'hebergement et de la villegiature.

@@ -1,0 +1,2 @@
+TitreCours: Activite d
+DescriptionCours: Cette activite vise a amener l'etudiant a effectuer un bilan de sa demarche a mi-chemin du programme. Elle permet une reflexion sur les besoins de formation et, si necessaire, des ajustements du cheminement pedagogique. Elle permet egalement a l'etudiant de reflechir sur les competences requises d'un educateur professionnel, de developper une conscience professionnelle ainsi qu'une vision ethique de son role.

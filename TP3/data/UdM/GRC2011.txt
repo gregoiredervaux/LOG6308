@@ -1,0 +1,2 @@
+TitreCours: Grec intermediaire
+DescriptionCours: Par l'etude d'une ou de plusieurs oeuvres classiques, on revisera le mecanisme de la langue et on se familiarisera avec les tours encore inabordes de la syntaxe. Themes et travaux pratiques.

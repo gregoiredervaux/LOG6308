@@ -1,0 +1,2 @@
+TitreCours: Stage: radiologie interventionnelle
+DescriptionCours: Stage d'initiation a la radiologie interventionnelle (angioradiologie).

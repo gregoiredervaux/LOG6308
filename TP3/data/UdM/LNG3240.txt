@@ -1,0 +1,2 @@
+TitreCours: Philologie romane
+DescriptionCours: Fragmentation linguistique de la Romania. Étude comparative de l'evolution de diverses langues romanes a l'aide de textes choisis.

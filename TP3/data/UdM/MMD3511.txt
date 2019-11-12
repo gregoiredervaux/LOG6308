@@ -1,0 +1,2 @@
+TitreCours: Stage : Specialites medicales
+DescriptionCours: Stages cliniques, aupres des malades ambulants ou hospitalises dans differentes specialites medicales.

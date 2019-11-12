@@ -1,0 +1,2 @@
+TitreCours: Finance corporative
+DescriptionCours: Sources et coût du capital; instruments financiers; politique de dividendes; fiscalite; multiplicateur financier; projets d'investissement.

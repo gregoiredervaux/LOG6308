@@ -1,0 +1,2 @@
+TitreCours: Chimie organique
+DescriptionCours: Liaisons et structures electroniques des molecules organiques. Introduction a la stereochimie et aux mecanismes de reaction. Étude des fonctions suivantes : alcanes, cycloalcanes, alcenes, alcynes, composes aromatiques, alcools, ethers.

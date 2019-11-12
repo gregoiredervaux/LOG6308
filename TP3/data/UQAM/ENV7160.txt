@@ -1,0 +1,2 @@
+TitreCours: Traitement de donnees en environnement
+DescriptionCours: Developper la capacite a recueillir, traiter et analyser des donnees en environnement Importance du choix d'une demarche methodologique. Élaboration de questionnaires et autres formes de cueillette de donnees. Caracteristiques des outils de mesure (sensibilite, fiabilite, reproductibilite). Plan et echelles d'echantillonnage. Saisie et validation des donnees. Choix des estimateurs. Statistiques bi- et multivariees. Exemples tires des sciences de l'environnement.

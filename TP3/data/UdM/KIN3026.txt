@@ -1,0 +1,2 @@
+TitreCours: Entrainement des systemes energetiques
+DescriptionCours: Principes generaux de l'entrainement et principes specifiques au developpement des systemes aerobie et anaerobie (puissance et capacite). Methodes et prescription d'entrainement.

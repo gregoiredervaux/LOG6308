@@ -1,0 +1,2 @@
+TitreCours: Alimentation clinique : chiens - chats
+DescriptionCours: Pathophysiologie des maladies en regard de l'alimentation. Principaux facteurs nutritifs impliques dans les maladies. Role des dietes comme traitements primaires ou complementaires.

@@ -1,0 +1,2 @@
+TitreCours: Jugement clinique
+DescriptionCours: Application de la theorie a la pratique, incluant des seances d'observations et l'interpretation de cas cliniques.

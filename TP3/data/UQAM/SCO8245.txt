@@ -1,0 +1,2 @@
+TitreCours: Comptabilite et finances multinationales
+DescriptionCours: Application des concepts et outils de la finance d'entreprise aux decisions des firmes ayant des activites commerciales, financieres ou des investissements a l'etranger. Environnement financier international, risques de change et leur gestion par la firme, mouvements de fonds et financements internationaux et analyse financiere des projets d'investissement a l'etranger. Modalites : Études de cas.

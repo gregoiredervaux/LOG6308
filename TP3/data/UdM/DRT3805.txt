@@ -1,0 +1,2 @@
+TitreCours: Dr. de l'information et de la comm.
+DescriptionCours: Reglementation relative aux medias, environnements electroniques et messages. Liberte d'expression, vie privee et responsabilite reliee a la transmission de l'information.

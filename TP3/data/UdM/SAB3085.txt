@@ -1,0 +1,2 @@
+TitreCours: Parodontie theorique
+DescriptionCours: Suite du cours SAB 2084. Plan de traitement, pronostic et traitement des maladies parodontales.

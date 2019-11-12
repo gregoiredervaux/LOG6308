@@ -1,0 +1,2 @@
+TitreCours: Systmes de transport
+DescriptionCours: Place des transports en gnie civil et organisation institutionnelle des transports dans une rgion urbaine. Planification des transports. Prvision de la demande de transport  l'aide de modles classiques (gnration, distribution, rpartition modale et affectation). Notions de rseau de transport, calcul de chemin et rsolution de problmes de distribution. Demande et offre de transport. Mthodes d'enqutes en transport et analyse des donnes. Dynamiques de la circulation. Travaux pratiques informatiques.

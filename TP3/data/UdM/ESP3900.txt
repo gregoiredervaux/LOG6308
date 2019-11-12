@@ -1,0 +1,2 @@
+TitreCours: Travail dirige en traduction
+DescriptionCours: Travail personnel de traduction vers le francais ou l'espagnol d'un texte choisi en accord avec un professeur.

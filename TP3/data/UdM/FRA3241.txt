@@ -1,0 +1,2 @@
+TitreCours: Auteur francophone
+DescriptionCours: Recherches sur une ou plusieurs &oelig;uvres d'un auteur de la francophonie.

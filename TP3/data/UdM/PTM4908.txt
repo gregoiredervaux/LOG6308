@@ -1,0 +1,2 @@
+TitreCours: Vet. et l'analyse en controle qualite
+DescriptionCours: Introduction aux outils permettant de reperer, d'evaluer et de choisir des methodes d'analyse et d'echantillonnage appropriees aux besoins des intervenants vet., afin d'assurer l'innocuite des produits fabriques et d'en developper de nouveaux.

@@ -1,0 +1,2 @@
+TitreCours: Roman d
+DescriptionCours: Histoire d'un genre et de son lectorat depuis sa naissance au dix-huitieme siecle jusqu'a son autonomisation dans la culture. Lecture des principaux auteurs.

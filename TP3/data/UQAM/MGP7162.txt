@@ -1,0 +1,2 @@
+TitreCours: Habiletes de management
+DescriptionCours: Ce cours vise a permettre aux etudiants de developper certaines habiletes de management particulierement importantes pour le gestionnaire de projet. Les principaux themes couverts dans ce cours seront la negociation et la resolution de problemes. Ce cours a une duree de 15 heures.

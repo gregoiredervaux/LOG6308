@@ -1,0 +1,2 @@
+TitreCours: Analyse de la communication scientifique
+DescriptionCours: Analyse critique des ecrits scientifiques. Utilisation du support informatique pour des presentations scientifiques. Presentation orale et ecrite.

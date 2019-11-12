@@ -1,0 +1,2 @@
+TitreCours: Calcul II
+DescriptionCours: Integrales multiples. Systemes de coordonnees. Changements de variables. Courbes et surfaces parametrees. Integrales curvilignes : travail et circulation. Champs vectoriels, gradients et champs conservatifs. Theoreme de Green. Integrales de surface et de flux pour les cylindres, spheres et surfaces parametrees. Divergence et theoreme de divergence. Rotationnel et theoreme de Stokes.

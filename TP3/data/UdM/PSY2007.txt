@@ -1,0 +1,2 @@
+TitreCours: Laboratoire 1
+DescriptionCours: Application des notions fondamentales de la methodologie scientifique par la realisation d'une recherche dans un domaine particulier. Revue de documentation. Experimentation. Seminaire de recherche et redaction d'un rapport.

@@ -1,0 +1,2 @@
+TitreCours: Principes d'evolution
+DescriptionCours: Theorie de la selection naturelle. Differenciation des populations. Modeles de speciation. Processus micro et macroevolutionnaires. Évolution moleculaire. Paleontologie. Analyse phylogenetique. Apprentissage par problemes.

@@ -1,0 +1,2 @@
+TitreCours: Seminaire sur les recherches en comportement organisationnel
+DescriptionCours: Activite de meme type que ADM9922.

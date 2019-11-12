@@ -1,0 +1,2 @@
+TitreCours: Theorie des organisations et administration publique
+DescriptionCours: Les grands courants de la theorie des organisations et leur resonance en administration publique. Initiation aux principaux concepts de l'analyse organisationnelle. Analyse des principes qui guident la mise en place des structures, le fonctionnement et les actions dans le secteur public.

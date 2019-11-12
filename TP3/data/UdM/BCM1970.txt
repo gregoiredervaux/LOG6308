@@ -1,0 +1,2 @@
+TitreCours: Biochimie 1
+DescriptionCours: Notions de biochimie cellulaire et de chimie organique. Structure, organisation et fonction des principaux constituants chimiques de la matiere vivante. Bioenergetique. Enzymologie.

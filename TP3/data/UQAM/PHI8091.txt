@@ -1,0 +1,2 @@
+TitreCours: Philosophie des sciences humaines et des sciences sociales
+DescriptionCours: Étude des problemes philosophiques et, plus particulierement, epistemologiques souleves par les sciences de l'homme, de la societe et de la culture. La perspective pourra etre historique ou systematique. Les themes traites seront relatifs aux presupposes, aux difficultes conceptuelles propres, a la specificite methodologique et aux dimensions ethiques et politiques de ces disciplines.

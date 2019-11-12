@@ -1,0 +1,2 @@
+TitreCours: Composition jazz 1
+DescriptionCours: Étude theorique et pratique des techniques compositionnelles du jazz en vue de leur application a de courtes compositions : systemes harmoniques jazz, ecriture melodique, analyse des differents styles de composition.

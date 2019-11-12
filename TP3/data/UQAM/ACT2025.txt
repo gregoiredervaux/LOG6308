@@ -1,0 +1,2 @@
+TitreCours: Mathematiques financieres I
+DescriptionCours: Ce cours vise a familiariser l'etudiant avec les principaux concepts des mathematiques financieres et lui fournir les outils et techniques necessaires pour resoudre les problemes financiers requerant la connaissance des mathematiques financieres. Étude des diverses mesures d'interet. Notions de valeurs presentes et accumulees. Rentes certaines. Amortissement progressif et fonds d'amortissement. Taux de rendement. Instruments financiers et leur evaluation. Depreciation et capitalisation.

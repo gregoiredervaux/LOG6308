@@ -1,0 +1,2 @@
+TitreCours: Geochimie isotopique
+DescriptionCours: Étude des elements, des systemes isotopiques, radiogeniques et stables. Évolution de la Terre, de l'hydrosphere et de l'interaction fluide/roche.

@@ -1,0 +1,2 @@
+TitreCours: Theorie des graphes et des reseaux
+DescriptionCours: Étude des algorithmes pour certains problemes de graphes: arbre minimum, arborescence, postier chinois, localisation, plus court chemin et couplage. Developpement des notions de flots dans les reseaux, modelisation et algorithmes pour flot max, a coût minimum, avec gains, multiflots, problemes de transport et d'affectation.

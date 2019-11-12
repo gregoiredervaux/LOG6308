@@ -1,0 +1,2 @@
+TitreCours: Grammar for ESL Teachers
+DescriptionCours: This course introduces future ESL teachers to the grammar of English with a view to preparing them to apply their knowledge to the teaching of ESL. Students will look at the morphology and syntax of the verb phrase (tense, aspect, mood, voice, adverbs) and of the noun phrase (number, gender, adjectives, pronouns). Students will also learn about technological resources that can facilitate the study and teaching of grammar (concordancers and parsers).

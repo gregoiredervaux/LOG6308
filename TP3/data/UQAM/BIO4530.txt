@@ -1,0 +1,2 @@
+TitreCours: Étude experimentale du metabolisme microbien
+DescriptionCours: Travaux sur le metabolisme des bacteries, levures et champignons a mycelium. Étude en laboratoire des variations du metabolisme a la suite de modifications soit du genome soit du milieu environnant. Approche experimentale integrant les techniques courantes employees en genetique, microbiologie et biochimie. Ce cours comprend des travaux pratiques.

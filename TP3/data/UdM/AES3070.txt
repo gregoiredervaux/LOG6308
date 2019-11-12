@@ -1,0 +1,2 @@
+TitreCours: Asie de l'Est : medecine et colonisation
+DescriptionCours: Ce cours a l'approche pluridisciplinaire explore les aspects historiques, anthropologiques et sociologiques du processus de medicalisation de l'Asie de l'Est.

@@ -1,0 +1,2 @@
+TitreCours: Atelier d'architecture 1
+DescriptionCours: Perception et representation. Premier ensemble d'exercices et de projets portant sur la notation graphique, le langage architectural, la resolution de problemes d'intervention architecturale, accent mis sur les notions de lieu, d'espace et d'echelle.

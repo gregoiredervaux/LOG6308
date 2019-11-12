@@ -1,0 +1,2 @@
+TitreCours: Atelier
+DescriptionCours: L'atelier a pour but de permettre aux etudiants de realiser en groupe des projets informatiques assez importants. La planification de la programmation et de la documentation sera plus approfondie et le travail de groupe permettra un apprentissage «preprofessionnel». L'atelier peut contribuer par ailleurs a relier les cours entre eux et developpe des applications de concepts etudies aux cours. L'acceptation d'un projet d'atelier ainsi que son evaluation relevent de la regie interne du programme.

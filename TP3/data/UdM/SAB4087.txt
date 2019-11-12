@@ -1,0 +1,2 @@
+TitreCours: Parodontie preclinique
+DescriptionCours: Trois types d'interventions chirurgicales parodontales que l'etudiant execute sur machoires de porc. Entrainement prerequis a la clinique de quatrieme annee ou on y traite chirurgicalement des patients.

@@ -1,0 +1,2 @@
+TitreCours: La musique, enseignement en cours prive
+DescriptionCours: Cours pratique visant a faire de l'enseignement de la musique un acte createur. Developpement d'une approche pedagogique aupres d'une clientele de tous ages. Gestion de l'organisation materielle.

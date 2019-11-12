@@ -1,0 +1,2 @@
+TitreCours: Design graphique
+DescriptionCours: Ce cours vise a permettre a l'etudiant un plus grand controle des techniques propres aux divers procedes de mise en forme et de diffusion de l'information. Il a pour objectif de developper simultanement le metier, l'expression et la personnalite de l'etudiant dans un style qui se traduise clairement dans toutes ses representations.

@@ -1,0 +1,2 @@
+TitreCours: Langage 2
+DescriptionCours: Acquerir une comprehension de la phonologie et de la syntaxe.

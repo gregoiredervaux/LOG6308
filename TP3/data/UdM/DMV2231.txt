@@ -1,0 +1,2 @@
+TitreCours: Stage preclinique veterinaire 2
+DescriptionCours: Examen physique des differentes especes d'animaux domestiques. Prelevements d'echantillon et administration de medicaments. Stages au Refuge.

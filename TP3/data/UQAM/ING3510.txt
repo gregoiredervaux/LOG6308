@@ -1,0 +1,2 @@
+TitreCours: Resistance des materiaux
+DescriptionCours: Notions de contraintes et de deformations. Chargement axial. Chargements complexes: calcul des efforts internes, dimensionnement, cercle de Mohr. Tension et compression. Torsion des barres cylindriques. Flexion des poutres: efforts internes et tranchant, moments flechissants, fleche. Superposition des contraintes. Relations contraintes-deformations-temperature. Defaillance. Flambage. Cylindres sous pression. Exercices diriges et travaux pratiques en laboratoire (3 heures/semaine).

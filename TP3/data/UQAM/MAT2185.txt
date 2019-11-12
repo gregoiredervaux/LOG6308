@@ -1,0 +1,2 @@
+TitreCours: Correlation et regression
+DescriptionCours: Ce cours aborde les notions liees principalement aux analyses des relations entre deux variables quantitatives, en particulier les analyses de correlation et regression avec emphase sur leur application dans les sciences de la vie. Principe des moindres carres, coefficients de correlation et de determination, transformations de variables, tests sur les parametres. Une partie de ce cours se donnera en laboratoire d'informatique. Ce cours necessite l'utilisation d'un logiciel specialise (JMP).

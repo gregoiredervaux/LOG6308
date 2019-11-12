@@ -1,0 +1,2 @@
+TitreCours: Traitements thermiques et soudage
+DescriptionCours: Traitements thermiques des aciers: transformations au chauffage et au refroidissement; trempabilite; cycles de traitements thermiques; trempe superficielle; traitements physico-chimiques et controle des atmospheres. Traitements thermiques des alliages non ferreux. Metallurgie du soudage: zone de fusion et de transformation; proprietes des joints soudes. Dans le cadre des travaux pratiques, les etudiants sont appeles a faire un projet de traitement thermique.

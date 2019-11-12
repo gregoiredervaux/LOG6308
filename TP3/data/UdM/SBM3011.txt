@@ -1,0 +1,2 @@
+TitreCours: Stage de recherche physiologie integree
+DescriptionCours: Realisation d'un projet de recherche en physiologie dans un milieu approuve par le responsable de l'orientation.

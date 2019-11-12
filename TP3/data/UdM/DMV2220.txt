@@ -1,0 +1,2 @@
+TitreCours: Pathologie systemique
+DescriptionCours: Étude des lesions fondamentales des differents systemes citant certaines conditions affectant les especes d'interet veterinaire comme exemple.

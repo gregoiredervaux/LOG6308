@@ -1,0 +1,2 @@
+TitreCours: Projet de memoire I
+DescriptionCours: Activites de recherche individuelles, realisees sous la direction du comite de memoire. Ces activites ont un caractere exploratoire; elles visent a identifier et a examiner les sources disponibles et doivent permettre de definir le sujet du memoire. Le rapport d'activites fait etat des demarches entreprises et de leur resultat.

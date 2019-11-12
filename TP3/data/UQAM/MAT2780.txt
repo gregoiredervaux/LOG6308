@@ -1,0 +1,2 @@
+TitreCours: Probabilites et statistiques
+DescriptionCours: Introduction aux techniques essentielles et aux principes methodologiques de la statistique. Statistiques descriptives: le cas d'une variable. Statistiques descriptives: le cas de deux variables. Introduction au progiciel SAS. Probabilites. Variables aleatoires discretes. Variables continues. Distributions classiques. Distributions echantillonnales. Tests et intervalles de confiance. Tests sur les proportions. Test bases sur la distribution du X2. Tests et intervalles pour les variances.

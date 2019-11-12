@@ -1,0 +1,2 @@
+TitreCours: Didactique de l'arithmetique 1
+DescriptionCours: Étude de concepts, procedures, attitudes et raisonnement en arithmetique (premiers apprentissages). Reperes historiques, epistemologiques et didactiques. Situations didactiques, ingenieries et evaluation.

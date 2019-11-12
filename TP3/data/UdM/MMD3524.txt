@@ -1,0 +1,2 @@
+TitreCours: Stage : Biochimie medicale
+DescriptionCours: Au sein du laboratoire de biochimie d'un hopital, initiation aux methodes utilisees en biochimie medicale.

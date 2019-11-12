@@ -1,0 +1,2 @@
+TitreCours: Stage: Neuroradiol. interventionnelle
+DescriptionCours: Stage d'initiation a la neuroradiologie interventionnelle.

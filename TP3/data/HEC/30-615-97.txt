@@ -1,0 +1,2 @@
+TitreCours: Methodes quantitatives et micro-informatique
+DescriptionCours: Ce cours presente deux composantes parmi les plus utilisees des methodes quantitatives de gestion, soient : la statistique descriptive et l'optimisation. Ces sujets sont traites en s'appuyant sur les fonctionnalites des tableurs electroniques. Les concepts theoriques presentes en classe sont toujours relies a leur application a l'aide d'un tableur. C'est un cours ideal pour tout gestionnaire qui desire se familiariser avec un logiciel de traitement de donnees.

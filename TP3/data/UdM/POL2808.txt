@@ -1,0 +1,2 @@
+TitreCours: Theories politiques empiriques
+DescriptionCours: Analyse de notions couramment employees dans l'observation empirique : evaluation de leurs qualites heuristiques et pratiques.

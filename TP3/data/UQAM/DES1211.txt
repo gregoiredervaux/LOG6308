@@ -1,0 +1,2 @@
+TitreCours: Design graphique
+DescriptionCours: Initiation a la communication visuelle. Étude de la composition a partir d'une approche geometrique. Analyse de la forme et de la couleur. Étude du systeme de grilles et de ses variations.

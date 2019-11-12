@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de biologie molecul. et cellul.
+DescriptionCours: Mise en oeuvre de bonnes techniques experimentales en genie tissulaire et cellulaire : asepsie, culture de bacteries et de cellules mammiferes, transfection, proteines recombinantes, amplification selective (PCR), carte de restriction. Encapsulation de cellules, dosage des genes et macromolecules proteiques, histochimie, immunohistochimie, tenue du cahier de laboratoire et bonnes pratiques de laboratoire.

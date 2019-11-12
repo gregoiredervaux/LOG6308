@@ -1,0 +1,2 @@
+TitreCours: Actuariat et gestion des actifs et des passifs
+DescriptionCours: Outils et techniques de gestion de l'actif et du passif, conception generale, tarification et evaluation des produits. Objectifs des investisseurs institutionnels, controle et equilibrage d'un portefeuille, courbes de rendement des risques de defauts d'actifs. Options, modeles d'options, analyse des ecarts ajustes des options, contrats a termes, conventions d'echange de taux d'interets, taux d'interet stochastiques et gestion de portefeuille.

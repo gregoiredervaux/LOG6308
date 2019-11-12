@@ -1,0 +1,2 @@
+TitreCours: Stage d'enseignement 1
+DescriptionCours: Enseignement d'une discipline complementaire et gestion de classe; intervention et reflexion sur les pratiques; realisation de projets didactiques et psychopedagogiques; effet de strategies d'intervention.

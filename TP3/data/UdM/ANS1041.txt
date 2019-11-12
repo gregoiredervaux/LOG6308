@@ -1,0 +1,2 @@
+TitreCours: Office English
+DescriptionCours: Permettre a l'etudiant de developper sa competence orale et ecrite dans le monde de l'entreprise. Redaction et verification de correspondance et de comptes rendus; renseignements au telephone, discussions. Simulations d'entrevues.

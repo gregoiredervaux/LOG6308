@@ -1,0 +1,2 @@
+TitreCours: Imagerie medicale veterinaire
+DescriptionCours: Deux semaines de travaux en radiologie et en echographie.

@@ -1,0 +1,2 @@
+TitreCours: Structures aronautiques
+DescriptionCours: Torsion des poutres. lasticit de base. Cercle de Mohr. Principe de Saint-Venant. Marge de scurit. Flexion et flambement des poutres. Flexion et voilement des plaques minces. Joints structuraux. Fatigue. Thermo-lasticit. Introduction  la mthode des lments finis. Analyse structurale des moteurs d'avions.

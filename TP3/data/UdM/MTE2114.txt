@@ -1,0 +1,2 @@
+TitreCours: Orchestration 1
+DescriptionCours: Les instruments a cordes. Technique et ecriture, isolement et en groupe. Quatuor. Orchestre a cordes. Transcription. La harpe.

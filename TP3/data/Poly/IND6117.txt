@@ -1,0 +1,2 @@
+TitreCours: Gestion de l'innovation
+DescriptionCours: Fondements theoriques en gestion de l'innovation : changement technologique et croissance economique, approches evolutive et institutionnelle. Flux de connaissance. Facteurs d'influence de l'activite innovante. Diffusion de l'innovation. Strategies et politiques d'innovation. Protection et gestion de la propriete intellectuelle. Reseaux et standards : reseaux d'innovation, standards technologiques. Systemes d'innovation : nationaux et regionaux, grappes industrielles.

@@ -1,0 +1,2 @@
+TitreCours: Virtuose Workshop
+DescriptionCours: The Virtuose Workshop allows new students to learn about their environment and about technological resources offered at the school. During this workshop, you will learn more about Zone Cours, will discover all the possibilities of the intranet "HEC en ligne" and find out about the electronic calendar and more!

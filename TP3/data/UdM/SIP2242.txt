@@ -1,0 +1,2 @@
+TitreCours: Gestion de crises et plan d'urgence
+DescriptionCours: La nature de la crise. Aggravation et escalade. Perte de controle. Cellule de crise. Plan d'urgence. Études de cas.

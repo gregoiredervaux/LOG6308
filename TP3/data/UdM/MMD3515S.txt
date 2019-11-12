@@ -1,0 +1,2 @@
+TitreCours: Stage : Neurologie pediatrique
+DescriptionCours: Stage aupres de patients d'age pediatrique en neurologie pediatrique.

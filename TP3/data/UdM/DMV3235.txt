@@ -1,0 +1,2 @@
+TitreCours: Organisation d'une pratique veterinaire
+DescriptionCours: Base d'une entreprise de service. Organisation financiere. Étude de marche. Recrutement et gestion de personnel. Assurances professionnelles, emprunts et placements. Lois, reglement et deontologie.

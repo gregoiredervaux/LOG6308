@@ -1,0 +1,2 @@
+TitreCours: Psychologie de la sante
+DescriptionCours: Influence des facteurs psychologiques sur la sante physique. Comportements touchant la sante (p.ex. tabagisme, activite physique). Conceptions du stress et vulnerabilite. Role du psychologue dans la maladie.

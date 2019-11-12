@@ -1,0 +1,2 @@
+TitreCours: Fondements et notions generales de la biologie pour l
+DescriptionCours: Dans ce cours l'etudiant explorera la nature du vivant. Il verra les conditions et les ressources necessaires a la vie, l'acquisition de ces ressources, la croissance et la reproduction du vivant. La vie sera examinee par rapport aux processus moleculaires, cellulaires, physiologiques et ecologiques. Une approche pedagogique centree sur l'analyse de problemes concrets sera employee pour favoriser l'integration des concepts a l'etude. Ce cours comprend des travaux pratiques

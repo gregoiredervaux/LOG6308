@@ -1,0 +1,2 @@
+TitreCours: Atelier de recherche II
+DescriptionCours: Participation a l'experimentation et a l'analyse d'une recherche en cours, sous la supervision d'un professeur-chercheur. Redaction d'un rapport de recherche incluant la problematique, une revue de litterature, la methodologie, la presentation et la discussion des resultats. L'etudiant choisit la recherche a laquelle il veut participer et doit etre accepte par le professeur-chercheur.

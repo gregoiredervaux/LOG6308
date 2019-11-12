@@ -1,0 +1,2 @@
+TitreCours: Communication ecrite 1
+DescriptionCours: Permettre a l'etudiant de developper des strategies de comprehension de textes simples. Acquerir des connaissances de base en ecriture afin de produire de courts textes lies aux principales fonctions langagieres du cours concomitant FRS1105C.

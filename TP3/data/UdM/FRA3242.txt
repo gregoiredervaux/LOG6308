@@ -1,0 +1,2 @@
+TitreCours: Questions de litterature francophone
+DescriptionCours: Problematiques des litteratures francophones: genres, courants litteraires, theorie, ecriture des femmes, heritage de la tradition orale, etc.

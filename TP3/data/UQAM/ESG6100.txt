@@ -1,0 +1,2 @@
+TitreCours: Competences en gestion II
+DescriptionCours: Suite du cours ESG5100 Competences en gestion I

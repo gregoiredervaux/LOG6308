@@ -1,0 +1,2 @@
+TitreCours: Processus d'apprentissage en musique
+DescriptionCours: Ce cours propose aux musiciens-interpretes des outils de base afin d'ameliorer leurs strategies cognitives et metacognitives dans le but d'atteindre un niveau superieur.

@@ -1,0 +1,2 @@
+TitreCours: Seminaire d
+DescriptionCours: Cette activite se veut, pour chacun des etudiants, la poursuite de la demarche d'integration et de synthese en mettant l'emphase sur l'application des concepts a des cas reels qui pourraient etre ceux vecus au cours des deux stages.

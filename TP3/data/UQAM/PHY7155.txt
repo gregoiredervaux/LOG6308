@@ -1,0 +1,2 @@
+TitreCours: Mecanique des fluides
+DescriptionCours: Étude de la physique du mouvement des masses fluides. Lois de conservation dans les fluides parfaits: equation de continuite (masse), equation d'Euler et Navier-Stokes (inertie), equation de Bernouilli (energie). Flux d'energie. Flux d'impulsion. Fluides incompressibles. Fluides visqueux et turbulence. Thermoconduction. Diffusion moleculaire et turbulente. Applications a l'hydrologie et a la meteorologie.

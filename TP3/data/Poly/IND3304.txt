@@ -1,0 +1,2 @@
+TitreCours: Simulation de systemes de production
+DescriptionCours: Introduction et objectifs de la simulation. Simulation stochastique et simulation deterministe. Simulation a evenements discrets. Simulation pratique de systemes de production de biens et de services. Identification des donnees d'entree. Generation des nombres aleatoires et lien avec les variables aleatoires. Analyse des resultats et de differents scenarios. Interface avec des bases de donnees. Étude approfondie d'un logiciel de simulation.

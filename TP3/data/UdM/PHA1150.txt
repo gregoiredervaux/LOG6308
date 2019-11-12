@@ -1,0 +1,2 @@
+TitreCours: LADMER 1 - Medicament en dose unique
+DescriptionCours: Interaction medicament-corps humain. Notions de Liberation, Absorption, Distribution, Metabolisme, Élimination et Reponse d&rsquo;une dose unique d&rsquo;un medicament, integrant la chimie medicinale, physicochimie, galenique, pharmacocinetique, pharmacodynamie.

@@ -1,0 +1,2 @@
+TitreCours: Francais langue seconde
+DescriptionCours: L'objectif de ce cours est d'amener l'etudiant a la correction phonetique du francais: les realisations articulatoires des phonemes, la coarticulation (liaisons et enchainements), la prosodie (rythme, accentuation et intonation). Description et systematisation des elements sonores caracteristiques du francais, discrimination auditive. Analyse des erreurs dues au transfert et exercices de correction individuelle.

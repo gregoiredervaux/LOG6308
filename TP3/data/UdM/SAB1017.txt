@@ -1,0 +1,2 @@
+TitreCours: Dentisterie preventive preclinique
+DescriptionCours: Illustrations pratiques des principes et methodes de la dentisterie preventive a travers des cours theoriques et des travaux de laboratoire et clinique.

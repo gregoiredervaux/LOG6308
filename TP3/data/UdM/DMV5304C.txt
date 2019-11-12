@@ -1,0 +1,2 @@
+TitreCours: Medecine veterinaire reglementee
+DescriptionCours: Deux semaines de travaux en medecine reglementee.

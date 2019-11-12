@@ -1,0 +1,2 @@
+TitreCours: Veterinaire et sante des ecosystemes
+DescriptionCours: Deux semaines de travaux en evaluation de la sante des ecosystemes agricoles et naturels. Les modeles etudies sont essentiellement des problematiques quebecoises.

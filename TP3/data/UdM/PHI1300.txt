@@ -1,0 +1,2 @@
+TitreCours: Philosophie de la connaissance
+DescriptionCours: Introduction a des problematiques fondamentales de la philosophie de la connaissance: la nature de la connaissance, les sources de la connaissance, les types de connaissance, les limites de la connaissance, etc.

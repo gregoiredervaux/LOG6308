@@ -1,0 +1,2 @@
+TitreCours: Enseignement 1 (primaire ou secondaire)
+DescriptionCours: Enseignement de l'education physique au primaire ou au secondaire. Gestion de classe; intervention et reflexion sur les pratiques.

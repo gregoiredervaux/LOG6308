@@ -1,0 +1,2 @@
+TitreCours: Ergonomie des sites web
+DescriptionCours: Historique, developpement et caracteristiques de l'Internet. Types de sites Web et caracteristiques de leurs interfaces. Langage HTML et technologies de mise en page et d'interactivite. Analyse des besoins prealable a la conception. Methodologie de conception centree sur l'utilisateur, normes et accessibilite. Prototypage d'interfaces. Architecture et navigation. Modes de dialogue. Conception des pages-ecrans. Comportements et performance humaine lies aux sites Web. Utilisabilite des interfaces.

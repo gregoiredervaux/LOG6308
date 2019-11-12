@@ -1,0 +1,2 @@
+TitreCours: Projet d'intervention dans la communaute
+DescriptionCours: L'etudiant elabore, valide ou realise un projet d'intervention relatif a un probleme specifique d'une clientele precise.

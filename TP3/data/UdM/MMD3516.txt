@@ -1,0 +1,2 @@
+TitreCours: Stage : Psychiatrie
+DescriptionCours: Stages cliniques dans les principaux champs de la pratique psychiatrique.

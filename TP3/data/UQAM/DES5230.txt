@@ -1,0 +1,2 @@
+TitreCours: Environnement lumineux
+DescriptionCours: Ce cours de specialisation entend examiner les diverses influences de la lumiere naturelle et artificielle sur le milieu physique. Influence sur la psychologie du comportement. Donnees techniques reliees a l'observation et l'experimentation.

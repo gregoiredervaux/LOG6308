@@ -1,0 +1,2 @@
+TitreCours: Tutorat
+DescriptionCours: Ce cours a comme objectif de donner a l'etudiant acces a une personne d'experience et au reseau de l'activite conseil. L'etudiant rencontre une fois par mois une personne d'experience, membre du secteur conseil en management de l'Ordre des administrateurs agrees Adm. A., CMC, pour parler de ses apprentissages, de ses interrogations relativement au role de conseiller ou par rapport a toute autre question pertinente au domaine. Cette activite est evaluee selon la notation succes-echec.

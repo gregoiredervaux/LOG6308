@@ -1,0 +1,2 @@
+TitreCours: Theorie de l'information
+DescriptionCours: Mesure de l'information, entropie, information mutuelle. Interpretations et proprietes. Notions sur le codage de sources discretes; code dechiffrable, code irreductible, code a prefixe, inegalites de Kraft et McMillan. Theoreme de Shannon et codes de Huffman. Voies discretes et capacite d'une voie de transmission. Bornes limites sur les probabilites d'erreurs et theoreme de Shannon. Introduction au codage bloc et convolutionnel. Decodage de seuil et decodeur de Viterbi.

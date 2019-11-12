@@ -1,0 +1,2 @@
+TitreCours: Mathematiques financieres
+DescriptionCours: Mesures de l'interet, valeurs presentes et accumulees, annuites certaines, cedules d'amortissement et d'accumulation de capital, obligations et autres titres. Ce cours contribue a la preparation des examens SOA MF et CAS 2.

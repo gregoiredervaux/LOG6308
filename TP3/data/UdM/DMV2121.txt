@@ -1,0 +1,2 @@
+TitreCours: Immunologie veterinaire
+DescriptionCours: Antigenes et antigenicite. Ontogenese et particularites du systeme et de la reponse immunitaire chez l'animal. Mecanismes de resistance. Vaccinologie vet. Hypersensibilite et dysfonctionnements. Diagnostic immunologique. Problematiques veterinaires.

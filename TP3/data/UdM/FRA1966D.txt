@@ -1,0 +1,2 @@
+TitreCours: La ponctuation
+DescriptionCours: Regles d'emploi des signes de ponctuation. La ponctuation dans divers types d'ecrits : textes administratifs, references bibliographiques. Ponctuation et typographie.

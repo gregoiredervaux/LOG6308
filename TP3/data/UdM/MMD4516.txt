@@ -1,0 +1,2 @@
+TitreCours: Pharmacotherapie 1
+DescriptionCours: Cours de pharmacologie et therapeutique destine aux externes permettant de revoir les generalites de la pharmacologie, les classes de medicaments, leur utilisation, les effets indesirables et les interactions medicamenteuses.

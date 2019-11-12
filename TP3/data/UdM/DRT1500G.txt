@@ -1,0 +1,2 @@
+TitreCours: Droit penal general 1
+DescriptionCours: Sources et fondements du droit penal. Impact du droit constitutionnel. Élements fondamentaux de la procedure et de la preuve (federal et provincial). Principes fondamentaux gouvernant l'imposition de la peine.

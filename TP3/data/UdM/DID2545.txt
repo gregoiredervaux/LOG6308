@@ -1,0 +1,2 @@
+TitreCours: Difficultes d'appr. en mathematiques 1
+DescriptionCours: Diagnostic general et specifique : epreuves, tests, entrevues cliniques. Methodes de reeducation globales et specifiques (eleves de 5 a 12 ans).

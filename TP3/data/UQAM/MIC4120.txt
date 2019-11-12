@@ -1,0 +1,2 @@
+TitreCours: Microelectronique I
+DescriptionCours: Jonctions pn et pnp. Diode, transistor bipolaire, transistors a effet de champ et MOS: modeles statiques et dynamiques, polarisation, comportement aux basses et aux hautes frequences et limites fondamentales. Circuits a plusieurs transistors. Amplificateurs operationnels: caracteristiques ideales et reelles; differents types de contrereaction. Reponse en frequence et stabilite. Exercices diriges et travaux pratiques en laboratoire (3 heures/semaine).

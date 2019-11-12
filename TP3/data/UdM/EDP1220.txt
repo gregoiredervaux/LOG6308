@@ -1,0 +1,2 @@
+TitreCours: Communication orale. Niveau 2
+DescriptionCours: Permettre a l'etudiant ayant une connaissance elementaire du francais de developper sa competence de communication orale dans des echanges previsibles et d'acquerir les notions syntaxiques, phonetiques et lexicales de base.

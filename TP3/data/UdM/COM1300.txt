@@ -1,0 +1,2 @@
+TitreCours: Theories de la communication
+DescriptionCours: Revue des principaux modeles de communication (Shannon, Watzlavick) et des differents champs d'etudes. Mise en relation des theories et de leurs implications sur la recherche et les applications.

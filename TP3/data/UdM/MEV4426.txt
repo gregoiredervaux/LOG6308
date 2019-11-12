@@ -1,0 +1,2 @@
+TitreCours: Medecine des troupeaux laitiers 2
+DescriptionCours: La zootechnie au service de la sante medicale veterinaire des bovins laitiers.

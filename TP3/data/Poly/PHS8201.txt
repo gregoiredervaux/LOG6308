@@ -1,0 +1,2 @@
+TitreCours: Optoelectronique
+DescriptionCours: Propagation dans les guides optiques : guidage, attenuation, dispersion. Processus optiques dans les semi-conducteurs. Sources electroluminescentes : diodes electroluminescentes et lasers a semi-conducteurs. Photodetecteurs : photodiodes P-i-N et photodiodes a avalanche. Conception des systemes : emetteurs, recepteurs et liaisons optiques.

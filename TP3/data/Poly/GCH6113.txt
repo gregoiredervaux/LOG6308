@@ -1,0 +1,2 @@
+TitreCours: Identification de syst. et comm. adaptative
+DescriptionCours: Identification parametrique. Systemes lineaires. Algorithme du gradient. Algorithme des moindres carres. Persistance d'excitation. Analyse de convergence. Filtrage. Domaines d'incertitude. Matrices d'information. Extension aux systemes non lineaires. Commande adaptative. Commande par modele de reference. Schemas avec erreur sur l'entree. Schemas avec erreur sur la sortie. Commandes adaptatives directe et indirecte.

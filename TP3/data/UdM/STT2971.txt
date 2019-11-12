@@ -1,0 +1,2 @@
+TitreCours: Statistique pour economistes
+DescriptionCours: Probabilites. Variable aleatoire. Fonctions de repartition et de densite. Quelques lois. Esperance mathematique et moments. Methode des moindres carres, estimation, tests d'hypotheses, regression, correlation, echantillonnage, simulation.

@@ -1,0 +1,2 @@
+TitreCours: Calcul stochastique applique
+DescriptionCours: Introduction aux equations differentielles stochastiques. Solutions numeriques. Mouvement brownien. Processus d'Ornstein-Uhlenbeck. Formule de Feynman-Kac. Arbitrage, equation de Black-Scholes. Applications aux problemes financiers.

@@ -1,0 +1,2 @@
+TitreCours: Extincteurs automatiques a eau
+DescriptionCours: Étude avancee des installations d'extincteurs automatiques. Disposition des tetes dans diverses situations particulieres. Utilisation de tetes speciales. Systemes speciaux. Conception de systemes. Calculs d'hydraulique. Il est souhaitable, mais non essentiel, que les participants soient familiers avec le fonctionnement elementaire d'un micro-ordinateur.

@@ -1,0 +1,2 @@
+TitreCours: Illustration
+DescriptionCours: Exploration de diverses solutions a un probleme pose. Étude des multiples techniques de l'illustration bi ou tridimensionnelles dans des applications variees.

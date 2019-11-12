@@ -1,0 +1,2 @@
+TitreCours: Difficultes d'appr. en mathematiques 2
+DescriptionCours: Analyse et interpretation didactiques des principales difficultes notamment en algebre. Intervention didactique et ingenieries. (Éleves de 12 ans et plus).

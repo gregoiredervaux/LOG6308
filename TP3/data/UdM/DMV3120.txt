@@ -1,0 +1,2 @@
+TitreCours: Principes d'epidemiologie veterinaire
+DescriptionCours: Mesures de frequence ; description selon individu, temps, espace, maladies infectieuses animales, etudes d'observation, mesures d'association, sensibilite, specificite et valeur predictive. Études en contexte veterinaire.

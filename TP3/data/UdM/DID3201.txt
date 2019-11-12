@@ -1,0 +1,2 @@
+TitreCours: Didactique du francais 2
+DescriptionCours: Preconceptions, attitudes du scripteur. Processus d'ecriture. Connaissances sur la langue. Approches et methodes d'ens. Communication orale. Oral-ecrit, oral et autres matieres. Difficultes d'appr. et didactique differenciee. Évaluation.

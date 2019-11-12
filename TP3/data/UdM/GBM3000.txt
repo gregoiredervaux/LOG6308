@@ -1,0 +1,2 @@
+TitreCours: Physiologie, systemes et technologies
+DescriptionCours: Aspects quantitatifs de la physiologie lies aux modeles et technologies diagnostiques et therapeutiques. Le contenu cible : les grands systemes, cardiovasculaire, respiratoire, neuromusculaire, sensoriel (audition, vision) et renal.

@@ -1,0 +1,2 @@
+TitreCours: Analyse transversale
+DescriptionCours: Methodes d'analyse transversale : application a la mortalite, fecondite, nuptialite, migration. Construction de tables de mortalite. Structure et renouvellement des populations. Modeles et elements de perspectives de population.

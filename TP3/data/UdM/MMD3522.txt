@@ -1,0 +1,2 @@
+TitreCours: Stage : Nutrition
+DescriptionCours: Clinique des problemes nutritionnels frequemment rencontres chez des populations-cibles. Initiation aux techniques utilisees en dietetique.

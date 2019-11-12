@@ -1,0 +1,2 @@
+TitreCours: Travail dirige en tourisme
+DescriptionCours: A partir de lectures dirigees et de rencontres avec le professeur, l'etudiant produira un texte permettant d'approfondir et de faire la synthese d'un probleme ou d'un theme relie aux champs d'etudes du programme.

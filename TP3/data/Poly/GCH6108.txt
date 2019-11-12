@@ -1,0 +1,2 @@
+TitreCours: Systemes polymeres multiphases
+DescriptionCours: Melanges polymeres miscibles et immiscibles : thermodynamique, separation des phases, morphologie, phenomenes a l'interface, rheologie et proprietes physiques (resistance mecanique, cristallisation) des melanges polymeres. Relation : mise en forme, morphologie, proprietes dans les melanges polymeres. Procedes reactifs.

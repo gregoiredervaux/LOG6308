@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'optique guidee
+DescriptionCours: Approche geometrique et ondulatoire des guides d'ondes optiques. Resolution des equations de Maxwell dans les guides plans uniformes. Approximation scalaire. Modes lineairement polarises des fibres optiques. Équations couplees. Applications aux composants : coupleurs, filtres, reseaux a courts et a longs pas. Modelisation numerique du comportement des dispositifs d'optique guidee.

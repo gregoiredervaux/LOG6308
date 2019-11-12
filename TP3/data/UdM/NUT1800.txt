@@ -1,0 +1,2 @@
+TitreCours: Nutrition appliquee
+DescriptionCours: Appreciation de diverses methodes d'evaluation de l'alimentation avec application au contexte dentaire.

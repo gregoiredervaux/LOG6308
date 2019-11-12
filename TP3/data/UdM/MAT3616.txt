@@ -1,0 +1,2 @@
+TitreCours: Theorie des graphes
+DescriptionCours: Graphes et diagraphes. Graphes euleriens, hamiltoniens, n-connexes. Extensions de type fini. Cycles d'un graphe, tournois. Arbres finis et infinis, applications. Graphes planaires, theoreme des quatre couleurs. Jeux sur un graphe.

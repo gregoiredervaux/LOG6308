@@ -1,0 +1,2 @@
+TitreCours: Études de cas en aerospatiale II
+DescriptionCours: Cours de synthese et de methodologie a partir d'etudes de cas de problemes rencontres dans l'industrie aerospatiale. Revision des normes industrielles. Analyse du risque. Outils analytiques et numeriques utilises pour modeliser le systeme.

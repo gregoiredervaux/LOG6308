@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de chimie analytique
+DescriptionCours: Principales methodes de separation et d'analyse spectrophotometriques. Chromatographie gazeuse; chromatographie liquide; electrophorese capillaire; spectroscopie atomique et moleculaire. Resoudre un probleme analytique sous forme d'un projet.

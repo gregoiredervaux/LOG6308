@@ -1,0 +1,2 @@
+TitreCours: Activite de recherche en Antiquite
+DescriptionCours: Cette activite de recherche donne aux etudiants les outils methodologiques indispensables a la poursuite d'une recherche universitaire dans le domaine de l'Antiquite. Elle donne des notions de base pour une meilleure comprehension des etudes anciennes (etudes philologiques, litteraires, historiques, archeologiques, avec les disciplines corollaires comme la numismatique ou l'epigraphie). Elle donne egalement une connaissance pratique des outils de travail essentiels a l'etude du monde antique.

@@ -1,0 +1,2 @@
+TitreCours: Bases de donnees de l
+DescriptionCours: Ce cours vise a familiariser l'etudiant avec l'utilisation, la conception et la gestion des bases de donnees informatisees. A la fin du cours l'etudiant sera capable de :   determiner le contenu des bases de donnees pour satisfaire les besoins en information a court et a long terme de l'organisation;  communiquer ses besoins aux specialistes en informatique;  effectuer des extractions complexes des bases de donnees existantes;  concevoir ses propres bases de donnees.

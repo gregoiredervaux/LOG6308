@@ -1,0 +1,2 @@
+TitreCours: Demarche pharmaceutique 2
+DescriptionCours: Resolution de problemes en pharmacie. Integration des elements (humains, scientifiques et economiques) necessaires a la prevention et a la resolution de problemes lies a l'utilisation des medicaments.

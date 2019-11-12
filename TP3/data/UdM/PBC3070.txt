@@ -1,0 +1,2 @@
+TitreCours: Neurophysiologie et neurogenetique
+DescriptionCours: Introduction a differentes techniques electrophysiologiques et genetiques en lien avec les neurosciences. Experiences en laboratoire sur des invertebres.

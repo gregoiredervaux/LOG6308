@@ -1,0 +1,2 @@
+TitreCours: Geologie sedimentaire
+DescriptionCours: Petrographie megascopique et petrologie des roches sedimentaires. Élements de stratigraphie.

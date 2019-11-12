@@ -1,0 +1,2 @@
+TitreCours: Politiques sociales
+DescriptionCours: Analyse comparee des politiques de protection contre les grands risques sociaux (chomage, pauvrete, maladie, vieillesse), la redistribution du revenu et les services sociaux.

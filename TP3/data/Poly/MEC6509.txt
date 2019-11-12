@@ -1,0 +1,2 @@
+TitreCours: Analyse des systemes de production flexible
+DescriptionCours: Systemes de production classique et flexible, mesure de performances, structure de pilotage des systemes de production flexible, techniques de modelisation, formulation du probleme de la conduites des systemes de production flexible; presentation des techniques de pilotage sous-optimales et optimales. Maintenances preventive et corrective. Étude de cas.

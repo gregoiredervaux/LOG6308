@@ -1,0 +1,2 @@
+TitreCours: Analyse fonctionnelle du developpement pendant la prime enfance
+DescriptionCours: Étude des recherches de pointe sur l'analyse fonctionnelle du comportement chez le tres jeune enfant. Modeles recents, demarches methodologiques et/ou des procedures analytiques pour examiner les differentes formes d'interaction entre la maturation biologique et les contraintes de l'environnement qui orientent le developpement pendant la prime enfance.

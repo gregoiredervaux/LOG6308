@@ -1,0 +1,2 @@
+TitreCours: Dynamique des systemes
+DescriptionCours: Bilans de matiere en regime transitoire pour systemes avec et sans reaction. Systemes lineaires et non lineaires, linearisation. Transformation de Laplace. Systemes de premier ordre. Representation entrees-sorties. Systemes de second ordre. Systemes d'ordre superieur. Systemes avec retard. Representation en espace d'etat. Points d'equilibre. Cycles limites. Chaos. Stabilite. Introduction au logiciel Matlab. Applications aux procedes chimiques et biochimiques.

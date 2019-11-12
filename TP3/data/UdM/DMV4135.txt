@@ -1,0 +1,2 @@
+TitreCours: Stage preclinique veterinaire 4
+DescriptionCours: Stage d'immersion au CHUV. Travaux pratiques d'anesthesie, de chirurgie, d'imagerie et de bandages sur differentes especes animales.

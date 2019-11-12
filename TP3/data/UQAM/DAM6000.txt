@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese
+DescriptionCours: L'etudiant, sous la supervision d'un tuteur, realise un projet personnel de synthese. Le travail peut etre collectif ou individuel et recouvrir plusieurs champs d'activites ou un seul. Il permet d'appliquer les connaissances theoriques et pratiques acquises en cours de formation dans les champs suivants: creation et interpretation, enseignement de la danse, histoire, theorie de la danse, integration multi-disciplinaire.

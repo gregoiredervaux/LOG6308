@@ -1,0 +1,2 @@
+TitreCours: Épistemologie sociologique
+DescriptionCours: Analyse de la demarche d'explication en sociologie, des moments theorique et methodologique de cette demarche dont l'articulation definit la valeur d'objectivite de l'explication recherchee.

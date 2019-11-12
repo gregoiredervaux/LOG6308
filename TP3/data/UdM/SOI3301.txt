@@ -1,0 +1,2 @@
+TitreCours: Soins infirmiers en psychiatrie 1
+DescriptionCours: Élements de psychopathologie et concepts pertinents au nursing psychiatrique. Étude des modes d'intervention de l'infirmiere face a diverses manifestations et comportements observes chez la clientele.

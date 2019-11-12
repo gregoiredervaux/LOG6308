@@ -1,0 +1,2 @@
+TitreCours: Fiabilite des reseaux d'energie electrique
+DescriptionCours: Rappel de notions de probabilite et analyse des principales lois de distributions statistiques (binomiale, Poisson, normale) et processus stochastiques (chaines de Markov). Concepts de la fiabilite de systemes. Études de differents modeles utilises dans l'evaluation de la fiabilite : taux d'indisponibilite, frequence et duree. Applications a l'etude de la fiabilite de la production, des reseaux de transport, des reseaux de distribution et des reseaux integres.

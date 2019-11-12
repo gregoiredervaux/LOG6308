@@ -1,0 +1,2 @@
+TitreCours: Geologie generale
+DescriptionCours: Les materiaux, processus et histoire geologique devoiles dans l'etude de l'interaction des deux grands systemes energetiques globaux (hydrologique et tectonique des plaques).

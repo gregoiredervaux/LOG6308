@@ -1,0 +1,2 @@
+TitreCours: Ergonomie et securite
+DescriptionCours: Fiabilite, erreur humaine et prevention. Conception des systemes a l'epreuve de l'erreur humaine. Methodes de modelisation des systemes. Problemes d'evaluation de la fiabilite humaine. Representation des accidents et des risques par des arbres logiques. Étude d'un cas. Mesure des risques. Techniques d'analyse par les arbres de defaillance : generation, fusion, coupes et coupes minimales de tels arbres. Allocation optimale des ressources. Utilisation des techniques de l'intelligence artificielle.

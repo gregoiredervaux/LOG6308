@@ -1,0 +1,2 @@
+TitreCours: Étude prat. du francais oral, ecrit 4
+DescriptionCours: Permettre a l'etudiant ayant une bonne connaissance du francais de revoir, d'approfondir les connaissances linguistiques et socioculturelles indispensables a la communication orale et ecrite dans des echanges assez complexes.

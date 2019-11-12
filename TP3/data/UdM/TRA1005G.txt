@@ -1,0 +1,2 @@
+TitreCours: Difficultes du francais ecrit
+DescriptionCours: Revision et approfondissement des connaissances en francais ecrit; revision systematique de la grammaire francaise, enrichissement du vocabulaire, correction de la structure de phrase et amelioration du style; norme et usage.

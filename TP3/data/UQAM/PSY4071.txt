@@ -1,0 +1,2 @@
+TitreCours: Processus cognitifs
+DescriptionCours: Introduction aux processus de traitement cognitif de l'information chez l'humain. Phenomenes pertinents lies a la categorisation perceptuelle ou reconnaissance, les formes d'attention, la memorisation et la structure de la memoire, la programmation du comportement, la solution de problemes et le raisonnement. Codes langagier et visuo-spatial de traitement cognitif. Cognition animale.

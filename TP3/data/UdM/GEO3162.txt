@@ -1,0 +1,2 @@
+TitreCours: Bassins versants
+DescriptionCours: Familiarisation avec la dynamique des bassins-versants. Cycle de la matiere, effet des perturbations environnementales et gestion des bassins versants.

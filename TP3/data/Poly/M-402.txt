@@ -1,0 +1,2 @@
+TitreCours: Élements de combustion
+DescriptionCours: Principales lois : masse, energie, gaz parfaits. Analyse stoechio-metrique: air en exces, analyse des gaz brûles (Orsat et chromatographie). Bilan d'energie: pouvoir calorifique, temperature de fin de combustion adiabatique, dissociation. Parametre des flammes: jaunes, bleues, vitesse de propagation de flammes, composition chimique et proprietes des combustibles, brûleurs. Dispositifs de securite.

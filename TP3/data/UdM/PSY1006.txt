@@ -1,0 +1,2 @@
+TitreCours: Methodologie scientifique 1
+DescriptionCours: Methodes de recherche. Problematique, hypothese, variables et controle. Principes ethiques. Plans de recherche. Cueillette des donnees. Analyse et interpretation. Analyse d'articles.

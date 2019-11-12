@@ -1,0 +1,2 @@
+TitreCours: Stage et rapport de stage de recherche
+DescriptionCours: Activites de formation pratique en recherche, realisee en milieu de travail, et conduisant a un rapport de stage. Le rapport de stage devrait consister en un document d'une cinquantaine de pages qui comprendrait, d'une part, le dossier de recherche produit dans le cadre du stage et un court texte d'evaluation de ce stage en recherche. Le professeur responsable de l'activite evalue l'etudiant en collaboration avec le repondant de l'organisme d'accueil.

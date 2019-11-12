@@ -1,0 +1,2 @@
+TitreCours: Mesures penales communautaires
+DescriptionCours: L'analyse des mesures communautaires et novatrices compte tenu du portrait des populations penales et des limites des mesures traditionnelles.

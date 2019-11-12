@@ -1,0 +1,2 @@
+TitreCours: Medecine zoologique
+DescriptionCours: Une semaine complementaire aux stages MEV 4506 et MEV 4606. Stage d'ete hors programme entre la 4e et la 5e annee.

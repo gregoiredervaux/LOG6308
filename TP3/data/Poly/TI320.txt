@@ -1,0 +1,2 @@
+TitreCours: Projet en prevention
+DescriptionCours: Realisation d'un projet ayant pour but de permettre a l'etudiant d'operer une synthese de ses connaissances en prevention incendie. Le cours presente une methode de travail basee sur l'approche systeme et permet de faire l'apprentissage d'une technique de redaction permettant d'integrer les donnees theoriques et pratiques. Un rapport technique complet sera redige par l'etudiant et il devra effectuer une presentation orale au professeur.

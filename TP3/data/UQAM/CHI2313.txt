@@ -1,0 +1,2 @@
+TitreCours: Travaux pratiques en synthese organique
+DescriptionCours: Étude experimentale des reactions organiques complexes et caracterisation de produits. Reactions a l'echelle semi-micro. Identification d'inconnus. Syntheses en plusieurs etapes en atmosphere controlee. Chromatographie radiale et en phase gazeuse. Polarimetrie. Utilisation intensive de spectroscopies de R.M.N. ( 1H, 13C, deux dimensions), I.R., U.V. et spectrometrie de masse. Recherches bibliographiques informatisees. Cours de travaux pratiques.

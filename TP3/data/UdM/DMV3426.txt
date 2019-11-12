@@ -1,0 +1,2 @@
+TitreCours: Imagerie specialisee des anim. de comp.
+DescriptionCours: Enseignement complementaire de l'utilisation de l'imagerie medicale chez les animaux de compagnie.

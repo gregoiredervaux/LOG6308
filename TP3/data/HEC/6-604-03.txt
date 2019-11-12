@@ -1,0 +1,2 @@
+TitreCours: Analyse des donnees de questionnaires
+DescriptionCours: L'analyse de donnees de questionnaire fait partie de plusieurs projets de memoire de maitrise ou de these de doctorat. Ce cours a pour objectif de presenter les etapes importantes pour mener a bien l'analyse de ces donnees et l'interpretation des resultats. Ces etapes seront illustrees a partir de donnees de questionnaire qui ont fait l'objet de projets de recherche recents. Le cours se veut un melange de presentations des outils d'analyses statistiques et d'exemples tres pratiques avec le logiciel SPSS.

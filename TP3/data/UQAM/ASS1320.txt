@@ -1,0 +1,2 @@
+TitreCours: Soutenir le developpement du langage de l
+DescriptionCours: État des connaissances relatives au developpement du langage. Pratiques qui visent a soutenir de facon informelle l'apprentissage d'un vocabulaire riche de meme qu'a favoriser le contact avec diverses formes de langage utilisees dans la communication et dans les livres.

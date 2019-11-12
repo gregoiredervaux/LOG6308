@@ -1,0 +1,2 @@
+TitreCours: Les evenements benefices
+DescriptionCours: Positionnement strategique. Clienteles cibles. Planification, identification des ressources et mise en oeuvre de l'evenement. Recherche de commandites. Analyse d'efficacite. Conception et elaboration d'un evenement.

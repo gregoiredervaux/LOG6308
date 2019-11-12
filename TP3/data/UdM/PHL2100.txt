@@ -1,0 +1,2 @@
+TitreCours: Principes de pharmacologie
+DescriptionCours: Introduction aux principes de pharmacodynamie, de pharmacologie moleculaire, de toxicologie, de metabolisme, de pharmacocinetique, de therapeutique et de recherche experimentale en pharmacologie.

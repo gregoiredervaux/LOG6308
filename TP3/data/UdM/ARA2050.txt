@@ -1,0 +1,2 @@
+TitreCours: Litterature arabe
+DescriptionCours: Panorama de la litterature arabe classique et moderne (en traduction). Choix adapte aux besoins et interets des etudiants, analyse detaillee de themes choisis.

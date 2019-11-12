@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese 2
+DescriptionCours: Suite du cours SOM3500 Activite de synthese 1

@@ -1,0 +1,2 @@
+TitreCours: Notions de mathematiques au primaire
+DescriptionCours: Retour sur des notions mathematiques de base afin de questionner et d'expliciter leur fonctionnement : numeration positionnelle, operations, fractions, rapports et proportions, geometrie plane, statistique descriptive.

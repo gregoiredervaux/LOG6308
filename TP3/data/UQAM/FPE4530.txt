@@ -1,0 +1,2 @@
+TitreCours: Évaluation des apprentissages
+DescriptionCours: Élaboration et realisation pratiques d'un plan d'evaluation des apprentissages. Partant d'une unite d'enseignement/apprentissage au choix de l'etudiant: objectifs generaux, contenu, banque d'objectifs-items, mise au point d'un instrument de mesure et/ou d'evaluation, experimentation interpretation criteriee et/ou normative, evaluation formative ou sommative.

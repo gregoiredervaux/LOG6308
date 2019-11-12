@@ -1,0 +1,2 @@
+TitreCours: Design horizon I
+DescriptionCours: Survol des tendances actuelles en design par une serie d'exposes.

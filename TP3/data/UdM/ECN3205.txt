@@ -1,0 +1,2 @@
+TitreCours: Theorie monetaire
+DescriptionCours: Marche de la monnaie, des obligations, du travail et des biens et services. Interdependance de ces marches et determination du niveau du revenu, de l'emploi, des prix et des taux d'interet dans ces marches.

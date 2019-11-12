@@ -1,0 +1,2 @@
+TitreCours: Espagnol elementaire et intermediaire
+DescriptionCours: Communiquer dans des situations variees. Acquisition du vocabulaire et de la grammaire de base. Perfectionnement de l'expression orale et ecrite. Lecture d'un livre de difficulte moyenne. Familiarisation avec des aspects de la culture hispanique.

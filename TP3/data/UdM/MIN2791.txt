@@ -1,0 +1,2 @@
+TitreCours: Harmonie jazz au clavier 3
+DescriptionCours: Realisation au clavier des differents renversements des accords de l'harmonie jazz.

@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de chimie pour biochimistes
+DescriptionCours: Initiation aux travaux pratiques integres de chimie analytique, inorganique, organique et physique. Complement de chimie analytique.

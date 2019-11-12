@@ -1,0 +1,2 @@
+TitreCours: Statique
+DescriptionCours: Concepts fondamentaux : forces, couples, moments et systemes equivalents. Équilibre des corps rigides en deux et trois dimensions. Analyses des mecanismes et des structures en deux dimensions. Forces reparties. Centre de gravite et centroide. Frottement sec entre solides. Second moment de surface et moments d'inertie de masse. Moments d'inertie principaux, cercle de Mohr.

@@ -1,0 +1,2 @@
+TitreCours: Stage en cliniques specialisees 3.1
+DescriptionCours: Stages en rotation dans les differents modules specialises de la Clinique universitaire de la vision.

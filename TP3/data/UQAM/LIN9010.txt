@@ -1,0 +1,2 @@
+TitreCours: Syntaxe 2
+DescriptionCours: Ce cours poursuit l'etude de la theorie syntaxique. On y etudiera les developpements theoriques recents presentes dans divers articles fondamentaux portant sur des constructions syntaxiques variees. On examinera egalement les relations entre la syntaxe et les differentes composantes de la grammaire que sont le lexique, la morphologie et la semantique. L'accent sera mis sur l'explication en syntaxe, l'argumentation et la justification des analyses syntaxiques.

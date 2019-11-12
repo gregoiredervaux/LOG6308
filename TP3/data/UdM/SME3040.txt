@@ -1,0 +1,2 @@
+TitreCours: Discussion de cas cliniques
+DescriptionCours: Discussion de cas cliniques et de strategies d'intervention selon l'approche systemique. Activites de codeveloppement.

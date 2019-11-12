@@ -1,0 +1,2 @@
+TitreCours: Calcul differentiel et integral 1
+DescriptionCours: Fonctions d'une variable; fonctions algebriques, fonctions trigonometriques. Limites, variation et derivees. Regles de derivation. Applications geometriques, problemes d'optimisation. Theoreme des accroissements finis. Regle de L'Hospital.

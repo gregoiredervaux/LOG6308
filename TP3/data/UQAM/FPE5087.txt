@@ -1,0 +1,2 @@
+TitreCours: Le developpement des apprentissages chez les personnes du troisieme age
+DescriptionCours: Determinants comportementaux et motivationnels de l'apprentissage au troisieme age. Examen des relations qui existent entre l'apprentissage et le vieillissement. Identification des modes privilegies d'apprentissage propres a cet age: autodetermination, coapprentissage, autoactualisation, etc. Acquisition d'habiletes d'apprentissage et conditions de leur utilisation. Étude de la metacognition chez les personnes agees. Theories de Jones, Bromley, Bolton, Belbin et autres.

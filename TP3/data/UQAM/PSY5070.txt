@@ -1,0 +1,2 @@
+TitreCours: Methodes projectives
+DescriptionCours: Notion de projection. Notion de test projectif. Quelques exemples de tests projectifs: leurs buts, leur administration et leur interpretation. Utilisation des tests projectifs comme instrument d'evaluation en clinique et comme technique en recherche.

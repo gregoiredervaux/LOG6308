@@ -1,0 +1,2 @@
+TitreCours: Introduction aux travaux de terrain
+DescriptionCours: Une semaine d'excursions sur le terrain a la fin du second trimestre : prelevement d'echantillons, observations de phenomenes geologiques simples.

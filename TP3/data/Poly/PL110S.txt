@@ -1,0 +1,2 @@
+TitreCours: Stage en entreprise
+DescriptionCours: Stage en entreprise de 4 mois. Voir la description du cours PL110.

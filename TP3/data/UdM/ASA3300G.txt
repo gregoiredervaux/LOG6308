@@ -1,0 +1,2 @@
+TitreCours: Planification strategique
+DescriptionCours: Cadre theorique pour la definition des grandes orientations des etablissements et organismes du reseau et operationnalisation de ces orientations.

@@ -1,0 +1,2 @@
+TitreCours: Techniques de conservation
+DescriptionCours: Cours relevant de l'Universite de Montreal Principes fondamentaux relatifs a la conservation preventive des objets museaux. Illustration de diverses methodes de conservation selon la structure materielle et l'origine des objets. Conditions climatiques et eclairage. Entretien des collections exposees et entreposees. Informations sur les grands organismes de restauration et leurs procedures.

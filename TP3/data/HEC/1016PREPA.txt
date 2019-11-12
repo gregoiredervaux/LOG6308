@@ -1,0 +1,2 @@
+TitreCours: Algebre vectorielle et lineaire avec applications en gestion
+DescriptionCours: L'algebre lineaire regroupe des notions mathematiques tres importantes puisqu'elles interviennent dans l'analyse et la resolution de differents problemes qui peuvent relever de la physique ou de la biologie, mais aussi de nombreuses autres disciplines telles que les sciences economiques, la gestion, etc.  Le but de ce cours est de decouvrir les concepts de base de l'algebre lineaire et de mesurer l'importance de ces notions en les appliquant a des problemes concrets.

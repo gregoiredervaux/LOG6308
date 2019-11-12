@@ -1,0 +1,2 @@
+TitreCours: Projet et informatique
+DescriptionCours: Ce laboratoire a pour objectif de permettre aux etudiants d'etablir des relations generatrices entre les moyens informatiques et la structure formelle d'un projet de design. Realisation de rendus et d'animation infographiques du projet developpe dans le cadre des ateliers de fin d'etudes.

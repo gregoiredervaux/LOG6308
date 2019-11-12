@@ -1,0 +1,2 @@
+TitreCours: Documentation et terminologie 2
+DescriptionCours: Approfondissement des methodes de travail en documentation et terminologie et realisation de divers types de travaux en terminologie.

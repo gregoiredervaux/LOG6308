@@ -1,0 +1,2 @@
+TitreCours: Methode de recherche en sc. hum. et soc.
+DescriptionCours: Les fonctions de la recherche en sciences humaines et sociales. La logique de l'analyse scientifique et les etapes d'un processus de recherche. Les methodes de cueillette des donnees, l'analyse, l'interpretation et l'utilisation des donnees.

@@ -1,0 +1,2 @@
+TitreCours: Sociologie du Quebec : themes choisis
+DescriptionCours: Cours-seminaires portant sur un aspect particulier du Quebec, et relie a des recherches recentes.

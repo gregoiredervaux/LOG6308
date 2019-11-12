@@ -1,0 +1,2 @@
+TitreCours: Navigation arienne
+DescriptionCours: Types de systmes de navigation. quations de navigation. Mouvement sur une sphre. Effets dus  la rotation de la terre. Estimation : matrice de covariance. Quaternions, plate-forme tri-axiale  cardans, filtre de Wiener, chantillonnage, modlisation algorithmes. Navigation inertielle avec ou sans plate-forme stabilise. Systme de positionnement global.

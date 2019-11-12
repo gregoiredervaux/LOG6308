@@ -1,0 +1,2 @@
+TitreCours: Équations aux derivees partielles
+DescriptionCours: Developper les habiletes d'application des equations aux derivees partielles a des situations en physique. Équations differentielles exactes, equations de Plaff. Équations aux derivees partielles et probleme de Cauchy. Équations paraboliques, elliptiques et hyperboliques. Distribution de Dirac.

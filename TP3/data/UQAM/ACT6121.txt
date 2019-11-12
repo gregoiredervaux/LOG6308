@@ -1,0 +1,2 @@
+TitreCours: Actuariat III
+DescriptionCours: Ce cours prepare a l'examen M de la Society of Actuaries et a l'examen 3 de la Casualty Actuarial Society. Les objectifs de formation sont atteints par la revision des concepts et la solution de problemes actuariels. Les sujets suivants sont couverts: Assurances-vie, rentes, primes et reserves. Modeles a vie et decroissances multiples. Modeles de frequences et de coût des accidents, Chaines de Markov, modeles composes et leurs applications. Ce cours comporte une seance d'exercices de 2 heures par semaine.

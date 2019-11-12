@@ -1,0 +1,2 @@
+TitreCours: Activites dirigees
+DescriptionCours: Sur proposition du directeur de memoire, l'etudiant devra opter pour une activite correspondant a son orientation de recherche et pourra notamment choisir l'une de ces activites: un cours complementaire, des lectures dirigees, des travaux sur le terrain.

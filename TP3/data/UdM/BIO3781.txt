@@ -1,0 +1,2 @@
+TitreCours: Phytopathologie et phytoprotection
+DescriptionCours: Maladies des plantes : causes et consequences. Sensibilite, resistance et tolerance. Exemples de maladies abiotiques et biotiques. Prophylaxie et therapie. Methodes de lutte chimique, biologique et integree.

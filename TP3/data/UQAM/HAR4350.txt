@@ -1,0 +1,2 @@
+TitreCours: Corpus de cinema quebecois
+DescriptionCours: Analyse critique de films ou de sequences exemplaires par leur importance historique ou leur influence sur des tendances du cinema quebecois depuis 1960. Visionnement de films en dehors des heures-contact avec le professeur.

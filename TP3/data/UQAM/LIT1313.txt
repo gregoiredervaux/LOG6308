@@ -1,0 +1,2 @@
+TitreCours: Stylistique du francais scientifique et technique
+DescriptionCours: Communication ecrite (et orale) dans la recherche scientifique, l'industrie, l'ingenierie, etc. Preparation, redaction et presentation des differents types d'ecrits scientifiques (rapports, comptes rendus, theses, memoires, communications, etc.) et techniques (notices, fiches techniques, modes operatoires, etc.). Structure de la phrase et du paragraphe. Precision du vocabulaire et qualite stylistique.

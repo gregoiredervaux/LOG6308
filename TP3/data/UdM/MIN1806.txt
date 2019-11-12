@@ -1,0 +1,2 @@
+TitreCours: Danse baroque
+DescriptionCours: Apprentissage des mouvements de base de differentes danses des XVIIe et XVIIIe siecles (menuet, bourree, sarabande, etc.). Mise en relation entre les danses et leur forme musicale.

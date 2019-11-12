@@ -1,0 +1,2 @@
+TitreCours: Psychologie et medecine dentaire 1
+DescriptionCours: Definition, historique et fondements de la psychologie. Principes de base, acquisition de conduites, apprentissage, personnalite. Applications a la medecine dentaire.

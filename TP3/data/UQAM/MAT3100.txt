@@ -1,0 +1,2 @@
+TitreCours: Algebre lineaire III
+DescriptionCours: Modules de type fini sur un anneau principal; modules de torsion; structure des modules de type fini, application aux groupes abeliens. Groupes des transformations lineaires. Formes canoniques. Formes sesquilineaires.

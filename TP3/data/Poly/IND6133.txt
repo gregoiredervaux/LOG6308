@@ -1,0 +1,2 @@
+TitreCours: Acquisition de ressources et processus cont.
+DescriptionCours: Strategie d'acquisition et de partenariat. Évaluation des projets technologiques sur le plan contractuel. Cadre juridique du processus. Definition d'un contrat et des obligations contractuelles. Types de marches. Processus contractuel (selection des intervenants, preparation d'appel d'offres, negociation et octroi des contrats), outils et methodes de gestion du processus. Documents contractuels. Particularites des projets technologiques d'un point de vue contractuel (complexite, internationalisation).

@@ -1,0 +1,2 @@
+TitreCours: Introduction aux methodes quantitatives
+DescriptionCours: Statistiques descriptives. Distributions. Échantillonnage. Estimations ponctuelles et par intervalle. Test de t et analyse de variance. Regression et correlation. Analyse de donnees categorielles.

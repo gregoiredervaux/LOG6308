@@ -1,0 +1,2 @@
+TitreCours: Business Writing 1
+DescriptionCours: Permettre a l'etudiant ayant une bonne connaissance de l'anglais de rediger des lettres et des notes de service et, le cas echeant, des rapports. Le sensibiliser aux strategies reliees a l'elaboration d'un texte : ideation, structuration et revision.

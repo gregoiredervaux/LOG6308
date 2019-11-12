@@ -1,0 +1,2 @@
+TitreCours: Didactique du francais au secondaire 1
+DescriptionCours: Problematique de l'ens. du francais. Fondements et approches en did. de la lecture/ecriture des textes litteraires et courants. Programmes. Contenus, demarches d'ens., formes d'evaluation. Scenarios d'app. Recherches.

@@ -1,0 +1,2 @@
+TitreCours: Pathologie clinique veterinaire
+DescriptionCours: Utilisation des epreuves de laboratoire (hematologie, urologie, cytologie et biochimie clinique) dans le diagnostic des maladies des animaux.

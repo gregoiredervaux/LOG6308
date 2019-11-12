@@ -1,0 +1,2 @@
+TitreCours: Communication ecrite 2
+DescriptionCours: Developper des strategies de comprehension de textes plus elaborees qu'au cours precedent, approfondir ses connaissances de base en ecriture, produire de courts textes lies aux fonctions langagieres du cours concomitant FRS1205C.

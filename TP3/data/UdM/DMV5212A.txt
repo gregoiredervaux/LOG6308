@@ -1,0 +1,2 @@
+TitreCours: Medecine des animaux de laboratoire
+DescriptionCours: Deux semaines de travaux en medecine des animaux de laboratoire.

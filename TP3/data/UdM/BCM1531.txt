@@ -1,0 +1,2 @@
+TitreCours: Introduction a la biochimie
+DescriptionCours: Biochimie descriptive et metabolisme intermediaire des glucides, lipides, protides et acides nucleiques. Enzymes et coenzymes. Bioenergetique, photosynthese. Regulation du metabolisme intermediaire.

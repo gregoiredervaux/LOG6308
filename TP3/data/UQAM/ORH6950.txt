@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Initier l'etudiant a la dynamique et aux concepts fondamentaux de l'entrevue. Lui permettre d'identifier et de comparer differentes formes d'entrevue: solution de problemes professionnels, analyse de tache, selection, notation, depart. Permettre a l'etudiant de mettre en pratique l'entrevue dans le cadre de la solution de problemes, lui donner ainsi l'occasion de s'autoevaluer dans differents types de situations.

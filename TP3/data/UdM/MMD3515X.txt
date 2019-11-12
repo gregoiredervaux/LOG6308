@@ -1,0 +1,2 @@
+TitreCours: Stage : Pediatrie sociale
+DescriptionCours: Au cours de ce stage, l'etudiant aura un apercu de la problematique, de l'evaluation et de la prise en charge des enfants et adolescents victimes de maltraitance ou vivant dans des conditions sociales et economiques difficiles.

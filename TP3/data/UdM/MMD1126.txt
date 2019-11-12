@@ -1,0 +1,2 @@
+TitreCours: Notions generales de medecine
+DescriptionCours: Donnees de base medicales necessaires pour situer les principales questions bioethiques. Concepts divers : sante, maladie, mort, phase terminale, curatif, palliatif, preventif, symptome, chronicite, dependance, etc. Modele medical.

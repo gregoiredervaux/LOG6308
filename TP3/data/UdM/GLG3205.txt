@@ -1,0 +1,2 @@
+TitreCours: Geologie du petrole
+DescriptionCours: Proprietes physiques et chimiques des petroles. Origine. Le reservoir naturel; les pieges. Migration du petrole. Description geologique des principales regions petroliferes dans le monde.

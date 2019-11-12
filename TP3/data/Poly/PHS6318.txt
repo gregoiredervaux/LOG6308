@@ -1,0 +1,2 @@
+TitreCours: Caract. avanc.surf.interfaces couches minces
+DescriptionCours: Description detaillee des principes physiques a la base des principales techniques de caracterisation des surfaces, des interfaces et des couches minces. Selection de techniques pour repondre a des problematiques specifiques. Caracterisation thermique, caracterisation structurale, analyse vibrationnelle, spectroscopie moleculaire, mesures electroniques, microscopie a sonde balayee, spectrometrie de masse, techniques de faisceaux d'ions.

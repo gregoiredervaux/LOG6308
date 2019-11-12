@@ -1,0 +1,2 @@
+TitreCours: Gestion des ressources humaines
+DescriptionCours: Role, defis et fonctions de la gestion des ressources humaines des organisations publiques. Integration, communication, responsabilisation, reconnaissance, evaluation, developpement, aide aux employes. Gestion strategique des ressources humaines.

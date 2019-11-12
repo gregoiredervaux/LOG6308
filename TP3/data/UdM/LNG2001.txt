@@ -1,0 +1,2 @@
+TitreCours: Atelier de programmation linguistique
+DescriptionCours: Introduction a la programmation symbolique appliquee au traitement des donnees linguistiques.

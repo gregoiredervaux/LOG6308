@@ -1,0 +1,2 @@
+TitreCours: Introduction a la recherche
+DescriptionCours: Initiation aux methodologies de recherche. Revue de litterature. Preparation d'un protocole de recherche en vue d'une realisation dans le cadre du cours OPM 4114.

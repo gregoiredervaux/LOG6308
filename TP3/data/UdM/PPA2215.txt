@@ -1,0 +1,2 @@
+TitreCours: Conduite de la classe au primaire
+DescriptionCours: Gestion du temps et de l'espace. Élaboration des reglements. Instauration d'un climat de classe favorisant l'apprentissage des eleves dans une classe a effectif reduit ou ordinaire. Attitudes vis-a-vis de l'autorite.

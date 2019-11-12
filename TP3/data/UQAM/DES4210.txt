@@ -1,0 +1,2 @@
+TitreCours: Design et ordinateur
+DescriptionCours: Introduction aux ressources multiples de l'informatique. Dialogue de base avec l'ordinateur. Creation graphique au moyen de l'informatique.

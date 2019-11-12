@@ -1,0 +1,2 @@
+TitreCours: Projet de fin d'etudes
+DescriptionCours: Projet trimestriel de recherche dans un des domaines d'activites du Departement.

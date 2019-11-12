@@ -1,0 +1,2 @@
+TitreCours: Geophysique appliquee
+DescriptionCours: Principes et applications. Methodes d'exploration geophysique. Traitement de donnees. Propagation des ondes sismiques (reflection sismique, refraction sismique). Methodes du potentiel (gravite, magnetique, electrique). Methodes electromagnetiques (vlf, input, magnetotellurique). Methodes de polarisation induite et spontanee. Laboratoire (2 heures). Sorties sur le terrain.

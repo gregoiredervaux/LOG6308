@@ -1,0 +1,2 @@
+TitreCours: Analyse et modelidation des systemes neurophysiologiques
+DescriptionCours: Étude des principaux modeles mathematiques proposes pour caracteriser l'organisation et le fonctionnement des systemes neurophysiologiques impliques dans le comportement animal ou humain (interactions spatiales et temporelles entre les cellules nerveuses, changements synaptiques dans le contexte de l'apprentissage, etc). Analyse critique des modeles.

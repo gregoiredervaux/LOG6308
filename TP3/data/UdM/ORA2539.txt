@@ -1,0 +1,2 @@
+TitreCours: Vieillissement et troubles du langage
+DescriptionCours: Connaissances des differents troubles du langage associes au vieillissement, des aphasies, des troubles du langage associes aux lesions diffuses ou degeneratives en lien avec leur impact sur la communication interpersonnelle.

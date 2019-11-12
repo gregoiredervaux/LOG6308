@@ -1,0 +1,2 @@
+TitreCours: Stage et activites professionnelles
+DescriptionCours: Stage dans des archives, des musees, etc. ou travail de recherche a caractere historique aupres d'un organisme.

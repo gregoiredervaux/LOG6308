@@ -1,0 +1,2 @@
+TitreCours: Physiologie de la communication humaine
+DescriptionCours: Introduction au fonctionnement physiologique des parties du corps impliquees dans la production de la parole et de l'audition.

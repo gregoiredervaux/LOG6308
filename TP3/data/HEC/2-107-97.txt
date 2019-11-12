@@ -1,0 +1,2 @@
+TitreCours: Comportement du consommateur
+DescriptionCours: Ce cours vise a familiariser l'etudiant avec les principaux concepts et theories elabores pour comprendre le comportement du consommateur et de l'acheteur industriel. Il amene l'etudiant a saisir les applications directes de ces concepts dans la definition et l'implantation de la strategie de marketing de l'entreprise.&nbsp;&nbsp;

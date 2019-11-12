@@ -1,0 +1,2 @@
+TitreCours: Analyse du texte et du discours I
+DescriptionCours: Ce cours a pour objet l'analyse de la coherence de textes ecrits et oraux, de types monologique et dialogique. Les aspects syntaxique, semantique, thematique et pragmatique de la coherence textuelle seront etudies. Plus particulierement, les problemes abordes seront: la typologie des textes, la coherence referentielle et coreferentielle (anaphores, contiguite, semantique, connecteurs...). La coherence dialogique sera abordee par l'analyse structurelle et la modelisation des conversations.

@@ -1,0 +1,2 @@
+TitreCours: Physiotherapie musc.squel. 3, quad. sup.
+DescriptionCours: Évaluation et traitement physiotherapiques des affections inflammatoires, degeneratives et traumatiques des regions cervicale et dorsale. Mobilisations analytiques (ther.man.1) du quadrant superieur. Troubles posturaux. Raisonnement clinique.

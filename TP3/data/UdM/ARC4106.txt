@@ -1,0 +1,2 @@
+TitreCours: Circulation et orientation
+DescriptionCours: Circulation et orientation spatiale dans la composition architecturale. Approche a la communication architecturale et graphique basee sur les comportements spatio-cognitifs des utilisateurs.

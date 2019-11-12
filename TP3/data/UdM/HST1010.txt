@@ -1,0 +1,2 @@
+TitreCours: Histoire : fondements et methodes
+DescriptionCours: Initiation aux methodes de travail en histoire : recherche bibliographique, definition d'une problematique, analyse de documents, presentation d'un travail.

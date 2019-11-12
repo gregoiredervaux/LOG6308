@@ -1,0 +1,2 @@
+TitreCours: These
+DescriptionCours: L'etudiant au doctorat en sciences de l'environnement doit rediger une these qui temoigne d'une aptitude a mener a bien une recherche originale en sciences de l'environnement. La these sera soutenue devant jury.

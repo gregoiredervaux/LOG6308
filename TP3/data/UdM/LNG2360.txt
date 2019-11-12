@@ -1,0 +1,2 @@
+TitreCours: Morphologie du francais
+DescriptionCours: Presentation critique du systeme morphologique du francais : classes, accord, formation des mots (flexion, derivation, composition), mots outils. La morphologie dans une grammaire formelle du francais.

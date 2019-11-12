@@ -1,0 +1,2 @@
+TitreCours: Rhetorique
+DescriptionCours: Histoire de la rhetorique de l&rsquo;Antiquite a aujourd&rsquo;hui. Theorie de l&rsquo;argumentation, problematologie, analyse de discours.

@@ -1,0 +1,2 @@
+TitreCours: Initiation a la medecine de readaptation
+DescriptionCours: Le but de ce cours est de montrer les deux faces de la readaptation : le cote evaluation et le traitement tel que donne par les divers intervenants (y incluant tous les moyens physiques de therapie : hydrotherapie, thermotherapie, electrotherapie).

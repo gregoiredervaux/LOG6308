@@ -1,0 +1,2 @@
+TitreCours: Laboratoire d
+DescriptionCours: Introduction aux elements de circuits electriques. Analyse de circuits en courant continu et en courant alternatif. Lois de Kirchoff, theoremes de superposition, de Thevenin, de Norton. Notion d'impedance. Circuits RC, RL. Circuits resonants. Élements de calcul analogique. L'amplificateur operationnel. La reaction operationnelle. La diode: theorie et utilisation dans les circuits de mise en forme et les blocs d'alimentation. Theorie et utilisation de l'instrumentation electronique. Cours et travaux pratiques.

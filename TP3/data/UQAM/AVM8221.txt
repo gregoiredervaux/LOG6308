@@ -1,0 +1,2 @@
+TitreCours: Travaux diriges I
+DescriptionCours: Cette activite de recherche, sous la responsabilite du directeur de recherche, comporte des travaux d'atelier complementaires a la realisation de l'oeuvre ou a l'intervention artistique.

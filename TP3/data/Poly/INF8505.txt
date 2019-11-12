@@ -1,0 +1,2 @@
+TitreCours: Processeurs embarques configurables
+DescriptionCours: Revue des microprocesseurs. Flot de conception d'un processeur embarque. Langages de description architecturale. Compilateurs polyvalents : principes et approches. Configuration automatisee d'un processeur embarque : profilage de code et synthese de jeu d'instructions, generation de coprocesseurs, synthese du chemin de donnees. Metriques de performance et de complexite. Configuration de processeurs embarques pour reseaux prediffuses programmables (FPGA).

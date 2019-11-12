@@ -1,0 +1,2 @@
+TitreCours: Stage en education au prescolaire
+DescriptionCours: Developpement d'habiletes d'intervention et d'organisation d'un environnement educatif aupres d'un groupe d'eleves au prescolaire.

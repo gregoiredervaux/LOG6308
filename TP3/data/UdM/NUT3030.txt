@@ -1,0 +1,2 @@
+TitreCours: Nutrition et metabolisme
+DescriptionCours: Relation entre les differents nutriments dans les grandes voies metaboliques. Interrelations des divers besoins nutritionnels : energie, proteines, mineraux et vitamines. Role des nutriments dans les systemes enzymatiques.

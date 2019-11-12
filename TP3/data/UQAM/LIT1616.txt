@@ -1,0 +1,2 @@
+TitreCours: Litterature francaise
+DescriptionCours: Initiation a l'etude de la litterature francaise. Étude des oeuvres marquantes du corpus litteraire francais. Presentation des differents courants litteraires de la litterature francaise. Definition des principaux modeles esthetiques, du Moyen Age a nos jours.

@@ -1,0 +1,2 @@
+TitreCours: Sociologie de la musique
+DescriptionCours: Étude des approches sociologiques appliquees a la musique.

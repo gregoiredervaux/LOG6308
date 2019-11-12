@@ -1,0 +1,2 @@
+TitreCours: Spectroscopie moleculaire
+DescriptionCours: Spectroscopie rotationnelle et vibrationnelle des molecules polyatomiques. Symetrie, configurations, etats electroniques et spectroscopies electroniques et vibroniques des molecules et des complexes.

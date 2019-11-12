@@ -1,0 +1,2 @@
+TitreCours: Methodes et recherche 2
+DescriptionCours: Initiation aux statistiques parametriques et non parametriques. Introduction a la science de la mesure en orthophonie et en audiologie.

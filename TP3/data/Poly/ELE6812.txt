@@ -1,0 +1,2 @@
+TitreCours: Traitement et analyse d'images
+DescriptionCours: Caracterisation des images et perception. Numerisation, representation et manipulation des images. Amelioration d'images dans le domaine spatial et dans le domaine frequentiel. Restauration d'images. Reconstruction tomographique. Codage et compression d'images. Segmentation d'images et detection de contours. Reconnaissance de formes.

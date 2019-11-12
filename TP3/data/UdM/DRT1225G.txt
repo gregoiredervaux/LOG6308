@@ -1,0 +1,2 @@
+TitreCours: Biens
+DescriptionCours: Classification. Patrimoines public et prive. Division et affectation de patrimoines. Possession et detention. Droit de propriete : etendue, restrictions, protection, modalites, demembrements et modes d'acquisition.

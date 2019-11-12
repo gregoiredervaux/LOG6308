@@ -1,0 +1,2 @@
+TitreCours: Physicochimie generale 1
+DescriptionCours: Physicochimie pour biochimistes. Thermodynamique. Équilibres chimiques. Transport ionique. Cinetique chimique. Mecanique statistique des biomolecules.

@@ -1,0 +1,2 @@
+TitreCours: Architecture et enseignement
+DescriptionCours: Dessin technique: details d'amenagement et de construction. Architecture: devis descriptif, amenagement interieur, amenagement exterieur. Normes et construction. Fondations, charpente, etc. Atelier de 30 heures: projet d'architecture a l'aide de materiel concret.

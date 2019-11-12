@@ -1,0 +1,2 @@
+TitreCours: Musique d
+DescriptionCours: Participation active a un des ensembles suivants. Grand ensemble: chorale, harmonie de concert, orchestre. Petit ensemble: musique de chambre, trio, quatuor, quintette, etc. Cours atelier de 60 heures.

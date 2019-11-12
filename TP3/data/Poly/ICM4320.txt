@@ -1,0 +1,2 @@
+TitreCours: Projet d'entreprise
+DescriptionCours: Projet realise dans l'une des entreprises participantes, sous la supervision directe d'un professeur de l'ICAM et d'un ingenieur senior de l'entreprise. Les sujets, adaptes au besoin industriel du moment, couvrent divers aspects du genie ferroviaire : dynamique des trains et suspension, propulsion, informatique embarquee, integration de systemes,... A l'issue du projet, l'etudiant redige un rapport et effectue une presentation orale devant jury, reprise et discutee a son retour au Canada.

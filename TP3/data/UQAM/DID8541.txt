@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Historique et analyse de la reforme du curriculum de l'ecole secondaire. L'approche par competences. Les concepts de competence, competence disciplinaire, competence transversale et domaine general de formation. Application de ces concepts dans l'enseignement de la science et de la technologie integrees. Diverses approches d'integration dans l'enseignement de la science et de la technologie. Les demarches scientifiques et technologiques.

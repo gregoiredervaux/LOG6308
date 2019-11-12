@@ -1,0 +1,2 @@
+TitreCours: Personnalite 2
+DescriptionCours: Étude approfondie des principales theories de la personnalite. Applications a la comprehension des comportements.

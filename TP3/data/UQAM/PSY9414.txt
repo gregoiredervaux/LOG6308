@@ -1,0 +1,2 @@
+TitreCours: Freud
+DescriptionCours: Seminaire avance de discussion sur des textes cliniques de Freud. Identification de concepts fondateurs de la theorie freudienne a partir de ces textes.

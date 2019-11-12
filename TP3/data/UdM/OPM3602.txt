@@ -1,0 +1,2 @@
+TitreCours: Optometrie geriatrique
+DescriptionCours: Effet du vieillissement sur les structures oculaires et les fonctions visuelles. Aspects psychosociaux du vieillissement. Épidemiologie. Examen clinique et approche multidisciplinaire.

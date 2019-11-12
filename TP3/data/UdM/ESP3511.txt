@@ -1,0 +1,2 @@
+TitreCours: Phonologie et phonetique de l'espagnol
+DescriptionCours: Introduction a l'etude de la phonologie et de la phonetique de l'espagnol avec une revision de notions linguistiques liees a cette etude. Exercices de transcription.

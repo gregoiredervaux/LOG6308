@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'histoire des sciences
+DescriptionCours: Survol de l'objet de l'histoire des sciences de l'Antiquite au XXe siecle. Attention particuliere aux approches et methodologies employees par les historiens de la generation actuelle.

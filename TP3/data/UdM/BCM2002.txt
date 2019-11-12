@@ -1,0 +1,2 @@
+TitreCours: T.P. de biologie moleculaire
+DescriptionCours: Techniques de manipulations des micro-organismes, purification de proteines et d'ADN, cinetique enzymatique, methodes d'analyse de l'ADN recombinant.

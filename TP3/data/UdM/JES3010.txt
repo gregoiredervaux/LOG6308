@@ -1,0 +1,2 @@
+TitreCours: Activites de synthese
+DescriptionCours: Cours visant la synthese des connaissances, habiletes et attitudes acquises en cours de formation. Évaluation du niveau d'atteinte des objectifs de formation du programme. Perspectives de developpement professionnel.

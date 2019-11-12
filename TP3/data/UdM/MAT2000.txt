@@ -1,0 +1,2 @@
+TitreCours: Stage 1
+DescriptionCours: Stage supervise faisant appel a des competences actuarielles, mathematiques ou statistiques.

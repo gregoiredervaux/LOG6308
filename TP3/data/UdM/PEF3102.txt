@@ -1,0 +1,2 @@
+TitreCours: Atelier thematique 2
+DescriptionCours: Activite destinee a l'etude ou a l'approfondissement d'une thematique, a l'examen d'une nouvelle problematique ou encore a l'acquisition de competences particulieres. Cours permettant des experiences pedagogiques en lien avec les milieux.

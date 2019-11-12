@@ -1,0 +1,2 @@
+TitreCours: Statistique et probabilites en economie
+DescriptionCours: Espace de probabilite; fonctions de distribution et de densite; principales distributions; fonction generatrice; fonction caracteristique; vecteurs aleatoires; loi multinormale; theoreme de limite centrale.

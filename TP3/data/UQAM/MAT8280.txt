@@ -1,0 +1,2 @@
+TitreCours: Inference dans les processus stochastiques
+DescriptionCours: Problemes d'estimation dans les chaines de Markov, dans les processus de ramification, dans les processus de Poisson, de naissance, de naissance et de mort. Applications aux phenomenes d'attente.

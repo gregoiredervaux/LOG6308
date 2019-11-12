@@ -1,0 +1,2 @@
+TitreCours: Environnement et sante
+DescriptionCours: Notions d'epidemiologie. Environnement et sante communautaire : l'eau, l'air, les aliments, l'habitation, le bruit, l'energie rayonnante. Legislation.

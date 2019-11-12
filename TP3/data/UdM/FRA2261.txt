@@ -1,0 +1,2 @@
+TitreCours: Dramaturgie d'Ancien Regime
+DescriptionCours: Étude de textes de theatre axee sur un courant, un genre ou un auteur, du Moyen Age au XVIIIe siecle.

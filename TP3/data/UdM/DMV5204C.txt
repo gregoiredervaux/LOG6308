@@ -1,0 +1,2 @@
+TitreCours: Medecine et chirurgie bovines
+DescriptionCours: Deux semaines de travaux en pratique des animaux de consommation.

@@ -1,0 +1,2 @@
+TitreCours: Histoire sociale et culturelle du monde greco
+DescriptionCours: Ce cours permet de poser les valeurs religieuses, politiques, sociales et culturelles qui sous-tendent l'organisation sociale et intellectuelle du monde grec et/ou romain. L'objectif est de comprendre comment le citoyen grec et le citoyen romain se situent dans le monde, comment ils concoivent leur milieu (rapport a la famille, la cite, l'etranger, le monde explore), et comment ils concoivent l'univers (l'univers physique, l'ensemble des etres vivants et le monde divin).

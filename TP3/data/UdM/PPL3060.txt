@@ -1,0 +1,2 @@
+TitreCours: Activite d'integration
+DescriptionCours: Activites pedagogiques pouvant prendre la forme d'une activite d'integration ou d'un stage realise dans un milieu dedie a la cooperation internationale et au developpement.

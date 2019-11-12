@@ -1,0 +1,2 @@
+TitreCours: Physicochimie generale 1A
+DescriptionCours: Thermodynamique pour biochimistes. Gaz et liquides. Énergies moleculaires. Équilibres chimiques.

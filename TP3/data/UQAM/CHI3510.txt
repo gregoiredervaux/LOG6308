@@ -1,0 +1,2 @@
+TitreCours: Techniques biochimiques I
+DescriptionCours: Experiences sur la caracterisation des principales substances biologiques : glucides, lipides, protides, acides nucleiques, etc. Techniques d'analyse de chromatographie et de spectroscopie appliquees a la biochimie. Roles des enzymes.

@@ -1,0 +1,2 @@
+TitreCours: Analyse des valeurs mobilieres I
+DescriptionCours: Principes et modeles d'analyse. Analyse de la rentabilite. Benefice economique et comptable. Analyse de l'industrie. Techniques de prevision. Analyse du risque. La nature et la mesure du risque. Principes de gestion de portefeuilles. Risque et prime de risque. Analyse technique, efficience des marches financiers.

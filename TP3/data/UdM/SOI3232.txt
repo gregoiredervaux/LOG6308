@@ -1,0 +1,2 @@
+TitreCours: Soins en situation critique (urgence) 1
+DescriptionCours: Notions de sciences biologiques appliquees aux sciences infirmieres en situation d'urgence cardiorespiratoire et acquisition d'habiletes specifiques de soins.

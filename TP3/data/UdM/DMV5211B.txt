@@ -1,0 +1,2 @@
+TitreCours: Medecine de population bovine
+DescriptionCours: Deux semaines de travaux en medecine de population chez les bovins.

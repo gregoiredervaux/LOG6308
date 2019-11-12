@@ -1,0 +1,2 @@
+TitreCours: Reseau des services a la jeunesse
+DescriptionCours: Étude critique des lois regissant les services sociaux a l'enfance et a l'adolescence. Notions de protection et de justice. Analyse des institutions responsables de l'application de ces lois.

@@ -1,0 +1,2 @@
+TitreCours: Problemes de la societe russe
+DescriptionCours: Étude de problemes auxquels est confrontee la Russie postsovietique : politique, economique, ecologique, demographique, culturel, etc.

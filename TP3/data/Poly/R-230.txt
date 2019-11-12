@@ -1,0 +1,2 @@
+TitreCours: Introduction aux essais non destructifs
+DescriptionCours: Selection des materiaux. Procedes de fabrication. Évaluation des defauts physiques des materiaux. Definition des essais non destructifs. Controle par: ressuage, magnetoscopie, radiographie, ultrasons, courants de Foucault. Procedes speciaux. Selection des methodes de controle.

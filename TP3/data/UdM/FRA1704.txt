@@ -1,0 +1,2 @@
+TitreCours: Creation litteraire
+DescriptionCours: Cours exploratoire de diverses formes d&rsquo;ecriture ; analyse en seance des textes produits par les etudiants.

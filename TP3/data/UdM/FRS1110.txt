@@ -1,0 +1,2 @@
+TitreCours: Phonetique corrective
+DescriptionCours: Permettre a l'etudiant de s'approprier progressivement le rythme, l'intonation et les sons du francais. Exercices d'entrainement a l'utilisation du rythme et de l'intonation du francais. Attention particuliere aux correspondances sons et graphies.

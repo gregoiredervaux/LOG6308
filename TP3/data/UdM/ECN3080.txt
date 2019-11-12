@@ -1,0 +1,2 @@
+TitreCours: Sujets speciaux de politique economique
+DescriptionCours: Ce cours porte sur divers problemes de decision en politique economique.

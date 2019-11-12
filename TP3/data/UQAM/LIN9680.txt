@@ -1,0 +1,2 @@
+TitreCours: Linguistique informatique 2
+DescriptionCours: Le but de ce seminaire est d'examiner les problemes lies a la representation de la connaissance linguistique et leur traitement par ordinateur a la lumiere de developpements recents en linguistique informatique. Des modeles computationnels seront discutes et evalues.

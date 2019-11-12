@@ -1,0 +1,2 @@
+TitreCours: Pratique du francais oral et ecrit 5
+DescriptionCours: Permettre a l'etudiant ayant une bonne connaissance du francais de consolider et d'approfondir les strategies discursives indispensables a la communication orale et ecrite de niveau complexe.

@@ -1,0 +1,2 @@
+TitreCours: Insertion socioprof. des eleves HDAA
+DescriptionCours: Modeles de service offerts aux eleves HDAA du secondaire. Interventions visant l'insertion socioprofessionnelle de ces eleves. Roles et fonctions de l'enseignant en adaptation scolaire dans ce contexte.

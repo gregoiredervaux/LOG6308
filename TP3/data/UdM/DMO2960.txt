@@ -1,0 +1,2 @@
+TitreCours: Demographie et actuariat
+DescriptionCours: Élements d'analyse longitudinale et transversale. Theories de la mortalite et de la morbidite. Table de mortalite et indicateurs de l'etat de sante a partir des statistiques officielles. Implications sur les travaux en actuariat.

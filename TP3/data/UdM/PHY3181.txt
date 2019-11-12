@@ -1,0 +1,2 @@
+TitreCours: Methodes geometriques en physique
+DescriptionCours: Notions de geometrie differentielle. Actions de groupes sur un espace. Applications a la physique.

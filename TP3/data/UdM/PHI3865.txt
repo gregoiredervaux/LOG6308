@@ -1,0 +1,2 @@
+TitreCours: Textes philosophiques : tradition latine
+DescriptionCours: Étude de textes antiques, medievaux et modernes avec reference au texte original latin et examen, sur un theme particulier, des ruptures et continuites entre les debats philosophiques menes a ces epoques.

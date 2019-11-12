@@ -1,0 +1,2 @@
+TitreCours: Audiovisuel
+DescriptionCours: Initiation a la conception de systemes de presentation audiovisuels. Étude des nouvelles technologies de l'image audiovisuelles et experimentation de leur potentiel pour la communication graphique.

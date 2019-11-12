@@ -1,0 +1,2 @@
+TitreCours: Études de cas en aerospatiale II
+DescriptionCours: Cours de synthese et de methodologie a partir d'etudes de cas de problemes rencontres dans l'industrie aerospatiale. Ce cours est donne en collaboration avec les entreprises de la region a l'une des universites montrealaises participant au programme de genie aerospatial.

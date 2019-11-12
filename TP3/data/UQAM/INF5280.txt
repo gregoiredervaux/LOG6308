@@ -1,0 +1,2 @@
+TitreCours: Bases de donnees avancees
+DescriptionCours: Étudier les paradigmes plus avances des systemes de gestion de bases de donnees. Bases de donnees orientees objets: modelisation des objets, langage de requete oriente objets, optimisation des requetes, transactions. Bases de donnees deductives: logique, DATALOG et extentions, requetes deductives, evaluation des regles recursives. Bases de donnees multimedia.

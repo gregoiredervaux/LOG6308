@@ -1,0 +1,2 @@
+TitreCours: Activite d'etape
+DescriptionCours: Effectuer un bilan de sa demarche a mi-parcours, une reflexion sur les connaissances et les competences acquises quant aux besoins et aux objectifs; proceder a des ajustements au cheminement pedagogique et partager ses reflexions.

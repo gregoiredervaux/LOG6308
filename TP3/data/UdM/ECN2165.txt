@@ -1,0 +1,2 @@
+TitreCours: Comptabilite 1
+DescriptionCours: Le modele comptable : fondements theoriques et fonctionnement pratique, adaptation aux formes juridiques d'entreprises. Concept economique de la valeur et du profit vs theories classiques de la comptabilite. Introduction a la comptabilite nationale.

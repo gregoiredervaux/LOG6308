@@ -1,0 +1,2 @@
+TitreCours: Techniques d
+DescriptionCours: Ce seminaire porte sur les techniques d'analyse linguistique appliquees a une langue donnee. L'objectif du seminaire est de rendre les etudiants aptes a eliciter des donnees aupres de locuteurs natifs de la langue choisie et a produire des analyses basees sur ces donnees.

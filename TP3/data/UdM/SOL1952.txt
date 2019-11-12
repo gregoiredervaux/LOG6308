@@ -1,0 +1,2 @@
+TitreCours: Introduction aux concepts sociologiques
+DescriptionCours: Les concepts fondamentaux et leurs modes d'utilisation dans l'analyse sociologique concrete.

@@ -1,0 +1,2 @@
+TitreCours: Donnees categorielles
+DescriptionCours: Tableaux de contingence. Mesures d'association. Risque relatif. Tests exacts et asymptotiques. Modeles loglineaires, probit et logit. Regression logistique et de Poisson. Applications.

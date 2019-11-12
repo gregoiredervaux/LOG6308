@@ -1,0 +1,2 @@
+TitreCours: Statistique bayesienne et bayesienne empirique
+DescriptionCours: Theorie et methodologie bayesiennes et bayesiennes empiriques avec des applications aux autres domaines de recherche.

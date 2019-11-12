@@ -1,0 +1,2 @@
+TitreCours: Inter. biol. et anal. biomol. (GBM8601)
+DescriptionCours: Reponse immunitaire, anticorps, inflammation, biomat. Degradables et non degradables. Interactions biomoleculaires, thermodynamique, cinetique, biophysiques. Applications. Reponse biologique a l'utilisation de biomateriaux.

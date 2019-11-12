@@ -1,0 +1,2 @@
+TitreCours: Techniques modernes de composition 1
+DescriptionCours: Techniques compositionnelles du XXe siecle et leur application a de courtes compositions : modes melodiques, series, microtons, heterophonie, micropolyphonie.

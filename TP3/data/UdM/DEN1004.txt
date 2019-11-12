@@ -1,0 +1,2 @@
+TitreCours: Introduction a la clinique
+DescriptionCours: Familiarisation avec les disciplines de la medecine dentaire et certains protocoles cliniques. Introduction aux principes fondamentaux du travail clinique.

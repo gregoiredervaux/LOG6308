@@ -1,0 +1,2 @@
+TitreCours: Économie du travail
+DescriptionCours: Ce cours veut fournir aux etudiants les connaissances necessaires a une meilleure comprehension des problemes et des politiques economiques.&nbsp; Une attention speciale est apportee au marche du travail. Les outils traditionnels de la microeconomie et certains elements de macroeconomie seront utilises ce qui permettra de traiter de sujets d'actualite (hausse ou baisse de salaire, delocalisation,&nbsp; taxes,&nbsp; subventions, equite salariale, etc .). &nbsp;

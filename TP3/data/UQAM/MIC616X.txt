@@ -1,0 +1,2 @@
+TitreCours: Sujets speciaux en microelectronique
+DescriptionCours: Le contenu de ce cours sera adapte aux sujets qui seront abordes. Exemples de sujet possibles: Interconnexion et encapsulation des circuits microelectroniques. Optoelectronique. Reseaux neuroniques et systemes a logique floue. Circuits microelectroniques pour les radio-frequences. La programmation de ce cours pourra se faire, sur demande, sous reserve d'un nombre suffisant d'etudiants interesses. Travaux pratiques en laboratoire (3 heures/semaine).

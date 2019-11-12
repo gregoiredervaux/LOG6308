@@ -1,0 +1,2 @@
+TitreCours: Chimie physique 4
+DescriptionCours: Élements de mecanique statistique et application a la cinetique. Spectroscopie IR et Raman de molecules diatomiques, spectroscopie electronique et fluorescence des molecules polyatomiques. LASER. RMN aux etats liquide et solide.

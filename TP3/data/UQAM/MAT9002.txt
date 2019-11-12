@@ -1,0 +1,2 @@
+TitreCours: 
+DescriptionCours: Algebre: Monoides, groupes. Anneaux, ideaux, modules. Structures produit et quotient. Corps commutatifs. Espaces vectoriels, matrices, determinants; formes canoniques. Notions de theorie des categories. Analyse: Proprietes des nombres reels. Calcul differentiel et integral a une variable. Espaces metriques. Notions elementaires de theorie de la mesure et de l'integration. Cette activite est evaluee selon la notation Succes-Échec.

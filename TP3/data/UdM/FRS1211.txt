@@ -1,0 +1,2 @@
+TitreCours: Étude pratique du francais oral 1
+DescriptionCours: Permettre a l'etudiant ayant une connaissance minimale du francais de revoir et d'acquerir les notions syntaxiques, phonetiques et lexicales indispensables a la communication orale de base.

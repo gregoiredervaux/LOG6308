@@ -1,0 +1,2 @@
+TitreCours: Les indicateurs de performance en evaluation de programmes
+DescriptionCours: Ce cours vise a presenter et distinguer l'approche des indicateurs de performance de l'evaluation de programme. Il offre une definition des indicateurs ainsi que des criteres lies au modele logique. Finalement, le cours propose une demarche rigoureuse permettant d'identifier et de valider les indicateurs de performance requis pour assurer un suivi adequat d'un programme.

@@ -1,0 +1,2 @@
+TitreCours: Principes de chirurgie veterinaire 2
+DescriptionCours: Principes chirurgicaux concernant les cavites abdominales et thoraciques et les differents systemes. Principales chirurgies communes a toutes les especes animales d'importance veterinaire.

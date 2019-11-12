@@ -1,0 +1,2 @@
+TitreCours: Grammaire avancee 2
+DescriptionCours: Approfondissement des phenomenes grammaticaux complexes : subjonctif, discours indirect, subordonnees. Exercices de revision. Étude comparative des grammaires italienne et francaise.

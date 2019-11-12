@@ -1,0 +1,2 @@
+TitreCours: Histoire de la pensee economique
+DescriptionCours: Étude approfondie de certaines oeuvres marquantes dans l'histoire de la pensee economique, representatives de divers courants qui s'y sont manifestes: mercantilisme, physiocratie, economie politique classique, theories marxiste, neo-classique, keynesienne et neo-ricardienne.

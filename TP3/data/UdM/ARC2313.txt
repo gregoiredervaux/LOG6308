@@ -1,0 +1,2 @@
+TitreCours: Architecture et construction 3
+DescriptionCours: Connaissance des principes de construction d'un batiment a ossature de bois, de lamelle-colle, de beton et d'acier. Techniques de mises en &oelig;uvres adaptees au milieu physique local dans une perspective de developpement durable.

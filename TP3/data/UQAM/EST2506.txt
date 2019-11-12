@@ -1,0 +1,2 @@
+TitreCours: Jeu II
+DescriptionCours: Interpretation d'un texte dramatique du repertoire classique. Analyse du texte et de son contexte historique. Travail de scene en fonction de l'etudiant. Le personnage et l'enjeu dramatique. Ce cours est suivi d'un atelier de trois heures pour fins d'exercices, de repetition, etc.

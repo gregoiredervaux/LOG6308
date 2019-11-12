@@ -1,0 +1,2 @@
+TitreCours: Stage 2
+DescriptionCours: Connaissance des problemes et situations concretes propres au milieu. Étude des methodes et techniques en usage. Participation a la planification et a l'application des methodes d'intervention sous la supervision d'un professeur et d'un specialiste du milieu choisi. Rencontres d'encadrement et d'evaluation avec un professeur du departement. Presentation d'un rapport de stage demontrant une reflexion sur l'experience acquise.

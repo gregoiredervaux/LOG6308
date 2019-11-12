@@ -1,0 +1,2 @@
+TitreCours: La technologie, outil d'appr. : ExAO
+DescriptionCours: Experimentation assistee par ordinateur en sciences experimentales, utilisation et integration a des fins d'enseignement en physique, chimie, biologie et technologie.

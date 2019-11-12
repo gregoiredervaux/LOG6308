@@ -1,0 +1,2 @@
+TitreCours: Anatomie de l'appareil locomoteur
+DescriptionCours: Notions de base d'osteologie, d'arthrologie et de myologie. Unites fonctionnelles du dos, du membre superieur et du membre inferieur.

@@ -1,0 +1,2 @@
+TitreCours: Programmation d'applications en VB
+DescriptionCours: Élements de base de la programmation. Programmation d'applications interactives en utilisant le langage Visual Basic. Utilisation d'applications externes comme Excel ou Access.

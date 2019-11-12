@@ -1,0 +1,2 @@
+TitreCours: Systemes d'information en G.R.H.
+DescriptionCours: A l'aide d'etudes de cas, analyse de situations relatives aux systemes d'information en R.H. ainsi qu'a leur utilisation. Autres utilisations de l'ordinateur en G.R.H. (formation, gestion des carrieres, aide a la decision, etc.).

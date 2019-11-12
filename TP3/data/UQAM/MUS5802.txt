@@ -1,0 +1,2 @@
+TitreCours: Musique et neurosciences
+DescriptionCours: Ce cours rend l'etudiant apte a comprendre le phenomene de l'apprentissage musical a partir de la connaissance multifactorielle du developpement de l'enfant et de l'adolescent pour mieux diagnostiquer les problemes d'apprentissage et les troubles de comportements afin d'y remedier adequatement. Il vise a rendre l'etudiant capable de concilier les points de vue de diverses approches d'education musicale avec ceux des grands mouvements consacres au developpement de l'enfant et de l'adolescent.

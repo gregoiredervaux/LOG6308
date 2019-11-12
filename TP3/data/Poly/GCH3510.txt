@@ -1,0 +1,2 @@
+TitreCours: Phenomenes d'echanges
+DescriptionCours: Definition et analogie des lois fondamentales de transfert de quantite de mouvement, de transfert de chaleur et de masse. Bilans differentiels et solutions de problemes simple en regime laminaire. Developpement et applications des equations d'echanges dans les trois domaines de transfert. Turbulence, facteur de frottement, analyse dimensionnelle. Bilans macroscopiques de masse, de quantite de mouvement et d'energie.

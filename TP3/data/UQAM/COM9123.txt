@@ -1,0 +1,2 @@
+TitreCours: Discours et representation
+DescriptionCours: Analyse du discours en tant que systeme de representation. La structuration des connaissances et de l'identite a travers les signes. Des approches tant cognitives et psychologiques que sociales et culturelles pourront etre abordees.

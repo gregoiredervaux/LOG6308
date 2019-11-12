@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de meteorologie II
+DescriptionCours: Apprentissage des methodes pratiques d'analyse des phenomenes meteorologiques. Tephigrammes et vents thermiques. Analyse frontologique avancee. Étude des nuages par photo-satellite. Analyse des cas synoptiques.

@@ -1,0 +1,2 @@
+TitreCours: Caractristiques des aronefs
+DescriptionCours: Introduction  l'aronautique. Historique de l'aronautique, arodynamique des aronefs, spcificits des hlicoptres, structure, performances, poste de pilotage et instrumentation, propulsion, systmes lectriques, systmes mcaniques, fiabilit et maintenabilit, configuration et support client, conception et homologation. Observation de gouvernes et de systmes sur avions et hlicoptres.

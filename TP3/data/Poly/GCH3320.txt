@@ -1,0 +1,2 @@
+TitreCours: Procedes d'extrusion
+DescriptionCours: Optimisation des differents procedes d'extrusion des polymeres. Parametres d'operation d'une ligne de production. Écoulement des polymeres fondus, rheologie et transfert thermique. Procede d'extrusion monovis et bivis. Conception des vis d'extrusion. Soufflage de gaines : parametres d'operation et problemes de stabilite. Conception de filieres de profile. Filieres pour plaques, feuilles et films. Gainage de cables.

@@ -1,0 +1,2 @@
+TitreCours: Infographie
+DescriptionCours: Introduction au dessin assiste par ordinateur. Creation d'un dessin vectoriel. Logiciel utilise: Adobe Illustrator.

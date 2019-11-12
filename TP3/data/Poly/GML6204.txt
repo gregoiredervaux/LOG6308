@@ -1,0 +1,2 @@
+TitreCours: Meth. electriques et electrom. en geophysique
+DescriptionCours: Methode electrique : resistivite, polarisation provoquee : etude des phenomenes et des principes de cette methode; methodes de traitement et d'interpretation des donnees. Methodes electromagnetiques : etude des principes des techniques electromagnetiques frequentielles et transitoires; methodes de traitement et d'interpretation des donnees. Applications de ces methodes aux domaines d'exploration, de recherche de l'eau, de genie et d'environnement.

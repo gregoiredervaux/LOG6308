@@ -1,0 +1,2 @@
+TitreCours: Lecture en allemand 1
+DescriptionCours: Saisir le sens d'un texte de difficulte moyenne. Lecture de textes varies presentant des specificites linguistiques. Acquisition du vocabulaire approprie et des structures de base. Apprentissage de differents types de lecture. Lecture personnelle.

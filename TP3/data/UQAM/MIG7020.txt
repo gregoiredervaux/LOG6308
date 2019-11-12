@@ -1,0 +1,2 @@
+TitreCours: Évaluation de systemes pour les P
+DescriptionCours: Étude des P.M.E. et de leurs principales caracteristiques. Étude de certains profils de P.M.E., de leurs systemes d'information et de leurs besoins specifiques dans le domaine. Étude des differentes strategies des systemes d'information. Modeles descriptifs courants. Modeles normatifs des grandes organisations et analyse critique de leur applicabilite a la P.M.E. Évaluation des equipements, des progiciels. Gestion de la fonction «systeme d'information».

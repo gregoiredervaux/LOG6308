@@ -1,0 +1,2 @@
+TitreCours: Actualisation d'un prog. de prevention
+DescriptionCours: Planification d'une campagne de prevention en toxicomanie. Mise en pratique des habiletes d'animation, de communication et d'organisation. Resolution des problemes inherents a la mise en oeuvre.

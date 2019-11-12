@@ -1,0 +1,2 @@
+TitreCours: Detect. de rayonnement et imagerie medicale
+DescriptionCours: Rayonnements ionisants. Interaction rayonnement-matiere. Detecteurs a gaz, a scintillateurs, a semi-conducteurs. Instrumentation : amplificateur de charge, filtrage, numerisation. Imagerie : formation d'images, contraste, bruit. Radiographie : tube radiogene, attenuation, ecran, film, camera. Tomographie : transformee de Radon, theoreme de la tranche centrale. Camera Anger : substances radio-pharmacologiques, resolution intrinseque.

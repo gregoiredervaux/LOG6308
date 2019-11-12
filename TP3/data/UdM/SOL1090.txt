@@ -1,0 +1,2 @@
+TitreCours: Construction des donnees qualitatives
+DescriptionCours: Bref historique et definition des caracteristiques generales de cette methodologie. Initiation a la methodologie qualitative par le travail de terrain : apprentissage pratique des methodes de recherche documentaire, d'observation et d'entrevue.

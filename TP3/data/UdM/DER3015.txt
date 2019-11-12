@@ -1,0 +1,2 @@
+TitreCours: Prothese partielle amovible preclinique
+DescriptionCours: Travaux de laboratoire: conception et realisation de PPA; coulees de modeles; analyses sur paralleliseur; porte-empreintes individuels; preparation des dents sur modeles; empreintes finales; montages de dents en P/P et C/P.

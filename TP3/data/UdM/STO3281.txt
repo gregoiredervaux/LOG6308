@@ -1,0 +1,2 @@
+TitreCours: Conferences clinico-pathologiques
+DescriptionCours: Étude orientee vers le diagnostic differentiel des lesions primaires et secondaires de la sante buccale. Correlation entre les sciences fondamentales et cliniques.

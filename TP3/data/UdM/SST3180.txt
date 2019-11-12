@@ -1,0 +1,2 @@
+TitreCours: Les tribunaux administratifs en SST
+DescriptionCours: S'inspirant de l'idee du tribunal-ecole. Ce cours traite des composantes theoriques et pratiques de la representation devant les tribunaux administratifs specialises en SST.

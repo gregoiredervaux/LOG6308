@@ -1,0 +1,2 @@
+TitreCours: Semantique : theorie et description
+DescriptionCours: Semantique lexicale : decomposition et primitifs semantiques. Étude des collocations. Structure communicative des enonces.

@@ -1,0 +1,2 @@
+TitreCours: Taxonomie des plantes vasculaires
+DescriptionCours: Introduction a la systematique contemporaine. Phylogenie et taxonomie des groupes de plantes terrestres vasculaires, incluant les fossiles. Origine, evolution et mecanismes evolutifs.

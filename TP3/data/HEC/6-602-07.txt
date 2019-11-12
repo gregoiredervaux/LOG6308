@@ -1,0 +1,2 @@
+TitreCours: Analyse multidimensionnelle appliquee
+DescriptionCours: 

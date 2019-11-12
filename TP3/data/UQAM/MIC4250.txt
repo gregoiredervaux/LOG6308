@@ -1,0 +1,2 @@
+TitreCours: Communication entre ordinateurs
+DescriptionCours: Principes de base regissant la communication entre ordinateurs. Codage et transmission de l'information dans un canal. Modulation. Multiplexage. Techniques de commutation. Topologie et architecture des reseaux. Protocoles de communication et d'acces aux reseaux locaux. Theorie de la file d'attente. Congestion et temps de reponse. Algorithmes d'acheminement. Étude des reseaux. Exercices diriges et travaux pratiques en laboratoire (3 heures/semaine).

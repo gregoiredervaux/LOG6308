@@ -1,0 +1,2 @@
+TitreCours: Exigences et specifications du logiciel
+DescriptionCours: Introduction a l'analyse des besoins et a leurs specifications dans le contexte du cycle de vie du logiciel. Ingenierie des exigences : analyse, modeles des systemes et prototypage. Theorie et methodes de specification et de verification des systemes. Illustrations par une serie d'exemples (interfaces utilisateur, systemes de telecommunications, systemes en temps reel) et a l'aide d'un outil informatique.

@@ -1,0 +1,2 @@
+TitreCours: Économie du monde arabe
+DescriptionCours: Vue globale des structures et des perspectives economiques arabes. Analyse de politiques economiques nationales. Examen de politiques de cartellisation et d'integration poursuivies par les economies arabes.

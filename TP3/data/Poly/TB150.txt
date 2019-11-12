@@ -1,0 +1,2 @@
+TitreCours: Technol. de l'inform. dans le reseau sante
+DescriptionCours: Differentes utilisations des TIC et orientations dans le reseau de la sante. Technologies, serveurs, reseaux locaux (LAN), reseaux etendus (WAN), reseaux sans fil, telephonie. Interfaces avec l'equipement medical. Notions de securite des reseaux.

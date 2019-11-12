@@ -1,0 +1,2 @@
+TitreCours: Climat et environnement physique
+DescriptionCours: Analyse critique des approches classiques utilisees dans les etudes climatiques, avec emphase sur l'approche moderne utilisant des modeles meteorologiques de la circulation generale de l'atmosphere. Le formalisme mathematique sera maintenu au minimum requis pour permettre une description adequate du sujet.

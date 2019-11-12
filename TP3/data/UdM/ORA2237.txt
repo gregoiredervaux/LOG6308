@@ -1,0 +1,2 @@
+TitreCours: Methodes d'intervention en audiologie
+DescriptionCours: Methodes d'observation et d'evaluation des comportements auditifs peripheriques et centraux (enfants et adultes). Introduction a la readaptation et a la prevention.

@@ -1,0 +1,2 @@
+TitreCours: Gotechnique
+DescriptionCours: Ouvrages de soutnement : rideaux de palplanches, excavations blindes, parois moules, renforcement par inclusions. Remblais sur sols compressibles : reconnaissance, tassements et stabilit, amlioration des sols en place, instrumentation et suivi. Talus naturels et dblais : calculs de stabilit, effet de l'eau, mthodes de confortement. Utilisation de logiciels d'analyse.

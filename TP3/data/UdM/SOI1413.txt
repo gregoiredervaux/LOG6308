@@ -1,0 +1,2 @@
+TitreCours: Analyse de themes lies a l'intervention
+DescriptionCours: Exploration d'un theme specifique lie soit a l'analyse d'une problematique de soins, soit a l'intervention infirmiere dans la communaute. Le theme varie selon l'interet et l'experience des etudiants en milieu communautaire.

@@ -1,0 +1,2 @@
+TitreCours: Science
+DescriptionCours: Comprendre la genese et l'histoire du genre. En explorer les mutations et les tendances actuelles. Étude des principaux jalons de la constitution de la science-fiction comme genre distinct. Analyse d'un certain nombre d'oeuvres litteraires marquantes mettant en lumiere la relation du genre avec les discours scientifiques et sociaux ainsi que ses caracteristiques formelles.

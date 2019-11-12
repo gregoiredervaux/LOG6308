@@ -1,0 +1,2 @@
+TitreCours: Terrain en environnement humain 2
+DescriptionCours: Terrain en environnement humain. Genese de l'espace metropolitaine. Mosaique d'espaces. Lecture de paysages. Role des acteurs et problemes metropolitains.

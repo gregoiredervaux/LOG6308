@@ -1,0 +1,2 @@
+TitreCours: Aspects algorithmiques de la microelectronique
+DescriptionCours: Algorithmes relies aux outils CAO pour la conception de circuits integres a tres grande echelle (ITGE) et de systemes microelectroniques. Dessins de masques, synthese logique, simulation, analyse, verification, test, generation automatique, description. Modeles associes aux dispositifs semi-conducteurs.

@@ -1,0 +1,2 @@
+TitreCours: Analyse statistique multivariee
+DescriptionCours: Étude des distributions echantillonnales classiques: T2 de Hotelling; loi de Wishart; distribution des valeurs et des vecteurs propres; distribution des coefficients de correlation. Analyse de variance multivariee. Test d'independance de plusieurs sous-vecteurs. Test de l'egalite de matrices de covariance. Sujets speciaux.

@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Étude de l'influence de l'age et de l'activite physique sur certains parametres physiologiques, moteurs et psychologiques. Analyse critique du bilan biomoteur de la senescence. Demographie et conception socioculturelle du vieillissement. Attitudes et motivation a l'egard de la pratique de l'activite physique. Principes de programmation et analyse critique des programmes existants. Preceptes andragogiques et leardership des intervenants. Cours theoriques et etudes de cas.

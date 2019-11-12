@@ -1,0 +1,2 @@
+TitreCours: Analyse du discours en linguistique
+DescriptionCours: Postulats pour une grammaire du texte. Contribution de la linguistique a l'analyse du discours. Problemes poses par les relations entre phrases. Organisation de l'information dans le texte. Possibilite d'applications.

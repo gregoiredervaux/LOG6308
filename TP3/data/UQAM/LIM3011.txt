@@ -1,0 +1,2 @@
+TitreCours: Activite d
+DescriptionCours: Activite de groupe visant a faciliter l'integration au programme. Identification des attentes et des objectifs de formation des etudiants, description de leurs experiences en alphabetisation. Presentation des objectifs et de la demarche du programme; place de l'autoformation. Methodes de travail intellectuel et ressources universitaires.

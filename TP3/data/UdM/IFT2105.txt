@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'informatique theorique
+DescriptionCours: Automates finis et expressions regulieres. Grammaires hors-contexte et automates a piles. Calculabilite et decidabilite. Classes de complexite.

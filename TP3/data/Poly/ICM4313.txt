@@ -1,0 +1,2 @@
+TitreCours: Info embarquee et gestion de l'information
+DescriptionCours: Rappels : Systemes asservis, Électroniques analogiques et numeriques, Traitement du signal. Intelligence artificielle. Capteurs. Mecatronique. Informatique temps reel. Compatibilite electromagnetique. Traitement du signal en communication. Reseaux de communication. Transmission de l'information (interne a la rame, train-sol). Traitement de la signalisation. Architecture des systemes electroniques embarques. Controle et commande.

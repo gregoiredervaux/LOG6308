@@ -1,0 +1,2 @@
+TitreCours: Mecanique analytique
+DescriptionCours: Revue de formulation newtonienne. Revue de formulation lagrangienne: principe de travail virtuel, principe d'Alembert, equation de Lagrange. Principes d'Hamilton. Transformations canoniques. Theorie de Hamilton-Jacobi. Formulation lagrangienne et hamiltonienne pour des systemes continus et des champs.

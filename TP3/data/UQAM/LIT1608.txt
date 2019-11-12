@@ -1,0 +1,2 @@
+TitreCours: Corpus quebecois
+DescriptionCours: S'initier a l'etude de la litterature quebecoise par la lecture et l'analyse d'un choix d'oeuvres marquantes de divers genres, epoques et tendances. Principaux jalons du developpement de la litterature quebecoise, depuis les ecrits de la Nouvelle-France jusqu'aux productions contemporaines. Histoire de la litterature par les oeuvres marquantes de ce corpus.

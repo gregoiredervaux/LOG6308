@@ -1,0 +1,2 @@
+TitreCours: Laboratoire d
+DescriptionCours: Definition et description de comportements observables. Categories de comportement. Construction d'une grille de comportements et d'echelles (rating scale) d'evaluation du comportement. Problemes de fidelite et validite de l'observation. Les divers instruments d'observation et de mesure du comportement.

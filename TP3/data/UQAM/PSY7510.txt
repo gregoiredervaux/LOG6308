@@ -1,0 +1,2 @@
+TitreCours: Stage d
+DescriptionCours: Application sous supervision de differentes interventions comportementales ou developpementales. Mesure et evaluation des effets de ces interventions. Rapports et retour critique sur les interventions.

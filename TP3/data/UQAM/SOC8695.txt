@@ -1,0 +1,2 @@
+TitreCours: Problemes et questions methodologiques de la recherche
+DescriptionCours: Diverses methodologies, approches ou questionnement methodologiques lies a des problematiques specifiques de recherche.

@@ -1,0 +1,2 @@
+TitreCours: Travaux de recherche individuels
+DescriptionCours: Le cours vise a consolider la motivation et l'interet de l'etudiant et lui permettre de s'integrer davantage dans un projet de recherche.

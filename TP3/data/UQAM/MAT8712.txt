@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique sur l
+DescriptionCours: Exploration d'un theme correspondant a une problematique actuelle de recherche en didactique des mathematiques. Analyse de recherches reliees au theme et implication des recherches sur l'enseignement des mathematiques au primaire.

@@ -1,0 +1,2 @@
+TitreCours: Activite de recherche
+DescriptionCours: L'activite de recherche, pour un memoire theorique est place sous la responsabilite du directeur de recherche de l'etudiant. Redaction d'un chapitre du memoire, evaluation des besoins en ressources.

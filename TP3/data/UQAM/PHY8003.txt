@@ -1,0 +1,2 @@
+TitreCours: Physique statistique avancee
+DescriptionCours: Activite relevant de l'Universite du Quebec a Trois-Rivieres. Ensembles de statistique physique. Fluctuations. Statistiques des particules independantes. Gaz ideal monoatomique. Cristaux monoatomiques. Gaz ideal diatomique. Gaz ideal polyatomique. Statistique de reseau. Gaz imparfait, theories approximatives d'etat liquide. Fonction de distribution. Statistiques quantiques.

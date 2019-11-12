@@ -1,0 +1,2 @@
+TitreCours: Philosophie du langage
+DescriptionCours: Études des theories de la signification du point de vue des questions de sens et de reference. Études de themes comme la representation, la formalisation de la signification, la denotation, les composantes pragmatiques de la signification. Ces questions pourront etre traitees selon differentes approches: formelles, analytiques, semiologiques, cognitivistes, hermeneutiques.

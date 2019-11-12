@@ -1,0 +1,2 @@
+TitreCours: Seminaire de stage de 4e annee
+DescriptionCours: Analyse reflexive des pratiques d'enseignement dans une perspective d'insertion professionnelle.

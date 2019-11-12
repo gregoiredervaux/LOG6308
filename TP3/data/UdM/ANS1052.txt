@@ -1,0 +1,2 @@
+TitreCours: Business Writing 2
+DescriptionCours: Permettre a l'etudiant ayant une tres bonne connaissance de l'anglais de developper ses habiletes en redaction (lettres, notes de service, rapports). Le sensibiliser aux strategies d'elaboration d'un texte : ideation, structuration et revision.

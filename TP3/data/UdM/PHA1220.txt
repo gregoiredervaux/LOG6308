@@ -1,0 +1,2 @@
+TitreCours: Le pharmacien et le patient
+DescriptionCours: Determinant de l&rsquo;usage des medicaments; comportements des patients et observance; consultation pharmaceutique.

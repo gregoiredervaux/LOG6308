@@ -1,0 +1,2 @@
+TitreCours: Seminaire I
+DescriptionCours: Participation aux seminaires hebdomadaires et presentation d'un seminaire portant sur une activite dirigee ou sur un projet de recherche.

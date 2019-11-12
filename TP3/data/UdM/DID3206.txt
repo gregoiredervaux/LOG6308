@@ -1,0 +1,2 @@
+TitreCours: Didactique du francais en accueil 1
+DescriptionCours: Contenus et demarches en didactique de l'oral et de l'ecrit au secondaire en classe d'accueil et autres formules de services d'aide a la francisation. Conception d'activites et de sequences d'apprentissage. Programmes d'etudes.

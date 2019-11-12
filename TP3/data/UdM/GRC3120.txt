@@ -1,0 +1,2 @@
+TitreCours: Homere et les poetes epiques
+DescriptionCours: Étude et commentaire de textes epiques (d'Homere a Quintus de Smyrne et Nonnos de Panopolis en passant par Apollonios de Rhodes) permettant de definir les caracteristiques de toute epopee, ancienne ou moderne.

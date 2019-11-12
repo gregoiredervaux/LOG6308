@@ -1,0 +1,2 @@
+TitreCours: Optique quantique
+DescriptionCours: Quantification du champ electromagnetique. Interaction rayonnement-matiere. Équations de Bloch optiques. Le laser: principes, proprietes, applications. Élements d'optique non-lineaire.

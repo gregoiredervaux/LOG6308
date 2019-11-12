@@ -1,0 +1,2 @@
+TitreCours: Didactique de l'histoire 1
+DescriptionCours: Problematique de l'education civique et citoyenne en lien avec l'apprentissage de l'histoire. Programmes, documents officiels et materiel didactique. Production de scenarios d'enseignement.

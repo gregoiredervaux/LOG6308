@@ -1,0 +1,2 @@
+TitreCours: Production avicole specialisee
+DescriptionCours: Notions avancees necessaires au suivi zootechnique des elevages de volailles.

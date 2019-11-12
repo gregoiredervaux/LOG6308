@@ -1,0 +1,2 @@
+TitreCours: Circuits micro-ondes non lineaires
+DescriptionCours: Circuits non-lineaires: concepts, modelisation quasi-statique, analyse et simulation. Caracterisation et modelisation grand signal de transistors micro-ondes: mesures «loadpull» a la fondamentale et aux harmoniques, techiques d'extraction des modeles non-lineaires de transistors a effet de champ et de transistors bipolaires. Conception de circuits (technologies MIC MHMIC et MMIC): amplificateurs de puissance, multiplicateurs de frequence, melangeurs et oscillateurs.

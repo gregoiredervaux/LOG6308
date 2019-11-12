@@ -1,0 +1,2 @@
+TitreCours: Projet de memoire II
+DescriptionCours: Ayant reussi le projet de memoire I, l'etudiant presente un document complet identifiant la problematique de son memoire et une analyse justifiant les methodes et techniques de recherche qui seront utilisees. Cette partie de la recherche est faite sous le controle du directeur de memoire.

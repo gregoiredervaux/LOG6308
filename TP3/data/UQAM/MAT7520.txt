@@ -1,0 +1,2 @@
+TitreCours: Theorie du controle appliquee
+DescriptionCours: Revue des differentes methodes d'optimisation, de controle et leur implantation numerique. Theorie de la decision. Application aux problemes financiers.

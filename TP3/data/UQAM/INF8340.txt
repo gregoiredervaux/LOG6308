@@ -1,0 +1,2 @@
+TitreCours: Semantique des langages de programmation
+DescriptionCours: Grammaires attribuees et algorithmes d'evaluation. Principaux modeles semantiques: operatoire, denotationnel et axiomatique. Applications a l'automatisation, la recuperation d'erreur et la preuve de programmes.

@@ -1,0 +1,2 @@
+TitreCours: Gestion durable des ressources
+DescriptionCours: Ressources, modeles de gestion, biens et services ecologiques, ressources forestieres, hydriques et energetiques : generalites, distribution, strategies, acteurs, etat, geopolitique, gestion publique.

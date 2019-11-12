@@ -1,0 +1,2 @@
+TitreCours: Atelier en economie appliquee
+DescriptionCours: Le but du cours est d'analyser des questions specifiques d'economie relatives aux problemes d'actualite, selon les besoins.

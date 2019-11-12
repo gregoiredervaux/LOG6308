@@ -1,0 +1,2 @@
+TitreCours: Travail theatral II
+DescriptionCours: Connaissance pratique et exploration d'une approche nouvelle du theatre. Exercice public experimental en fonction d'une recherche sur le lieu scenique, sur les rapports entre auteur-acteur, personnage-acteur, public-acteur. Ce cours est suivi d'un atelier de trois heures pour fins d'exercices, de repetition, etc.

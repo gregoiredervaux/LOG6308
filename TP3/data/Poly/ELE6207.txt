@@ -1,0 +1,2 @@
+TitreCours: Commande des systmes robotiques
+DescriptionCours: Elments et concepts fondamentaux dans la modlisation et la commande des manipulateurs robotiques. Application de la thorie des systmes non linaires  la commande des manipulateurs et  la planification de chemin. Application de la thorie de la commande adaptative et de la technique des contrleurs avec modes de glissement  la commande des manipulateurs. Planification des dplacements. Modlisation cintique et dynamique d'un manipulateur flexible. Planification des tches. Langages de programmation.

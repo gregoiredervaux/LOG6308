@@ -1,0 +1,2 @@
+TitreCours: Le Canada
+DescriptionCours: Les problemes de decoupage regional a l'echelle du Canada tout entier. A travers une analyse de l'organisation spatiale du Canada, l'etudiant sera amene a voir la structuration et l'evolution de l'espace canadien.

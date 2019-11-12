@@ -1,0 +1,2 @@
+TitreCours: Sc. de la vision 4 Neurophysiologie
+DescriptionCours: Neurophysiologie de la vision. Voies et centres visuels. Champs recepteurs. Mecanismes nerveux de la perception de la forme, de la couleur et du mouvement. Stereopsie. Developpement postnatal, plasticite et influence de l'experience visuelle.

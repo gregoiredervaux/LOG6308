@@ -1,0 +1,2 @@
+TitreCours: Robotique industrielle
+DescriptionCours: Topologie et geometrie des systemes mecaniques robotiques. Notions de chaine cinematique serie, arborescente, parallele et hybride. Cinematique des manipulateurs robotiques: probleme geometrique direct et inverse. Methode de Denavit-Hartenberg et methode polynomiale. Matrice jacobienne et resolution de la redondance. Dynamique des manipulateurs : methode recursive de Newton-Euler. Projets de programmation hors-ligne de manipulateurs.

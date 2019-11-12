@@ -1,0 +1,2 @@
+TitreCours: Fonctions specialisees du syst. nerveux
+DescriptionCours: Études des principaux systemes sensoriels, moteurs et vegetatifs. Bases anatomiques et physiologiques des fonctions cerebrales superieures. Notions de neuropathologie.

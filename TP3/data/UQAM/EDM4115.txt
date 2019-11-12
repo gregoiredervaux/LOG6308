@@ -1,0 +1,2 @@
+TitreCours: Production video
+DescriptionCours: Familiarisation avec les techniques de la video. Realisation d'un essai. Decoupage, tournage et montage d'un court metrage de dix minutes. Visionnements critiques. Donnees theoriques sur le decoupage, l'eclairage, la prise de son, etc.

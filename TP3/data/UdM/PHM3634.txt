@@ -1,0 +1,2 @@
+TitreCours: Demarche pharmaceutique 4
+DescriptionCours: Resolution de problemes complexes en pharmacie. Resolution en temps reel. Integration de tous les elements necessaires a la prevention et a la resolution de problemes lies a l'utilisation des medicaments.

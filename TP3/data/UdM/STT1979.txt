@@ -1,0 +1,2 @@
+TitreCours: Statistique : concepts et applications
+DescriptionCours: Distributions experimentales a un et a deux caracteres. Distributions theoriques probabilistes. Variables aleatoires Z, T, X 2 et F. Estimation; echantillonnage; correlation; regression lineaire; analyse de la variance.

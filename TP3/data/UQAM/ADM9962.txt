@@ -1,0 +1,2 @@
+TitreCours: Seminaire sur la recherche en marketing
+DescriptionCours: Activite de meme type que ADM9922.

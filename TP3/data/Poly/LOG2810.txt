@@ -1,0 +1,2 @@
+TitreCours: Structures discretes
+DescriptionCours: Role des structures discretes en genie logiciel et genie informatique. Relations d'equivalence, partitions, ordres partiels. Fonctions injectives, bijectives et surjectives, composition de fonctions, notation asymptotique. Recursivite. Arbres et graphes. Relations de recurrence. Theorie des ensembles et logique de base. Techniques de preuves. Regles d'inference et de deduction. Élements de combinatoire : enumeration, permutations et combinaisons. Machines a etats finis, expressions regulieres et grammaires.

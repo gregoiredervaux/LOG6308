@@ -1,0 +1,2 @@
+TitreCours: Actualites allemandes 2
+DescriptionCours: Étude de l'actualite allemande a travers diverses sources d'information (presse, radio, television, Internet).

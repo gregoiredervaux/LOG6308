@@ -1,0 +1,2 @@
+TitreCours: Problemes et politiques economiques
+DescriptionCours: Ce cours traite d'un theme economique dont l'identite est etablie au debut de chaque annee academique (exemples : inflation et indexation, investissements etrangers, AGÉTAC, debat constitutionnel, etc.).

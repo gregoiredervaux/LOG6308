@@ -1,0 +1,2 @@
+TitreCours: Systemes graphiques informatises
+DescriptionCours: Étude et approfondissement de divers logiciels graphiques. Apprendre a voir le graphisme a travers les moyens de l'informatique.

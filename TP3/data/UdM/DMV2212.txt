@@ -1,0 +1,2 @@
+TitreCours: Pharmacologie veterinaire
+DescriptionCours: Pharmacocinetique, pharmacodynamie et toxicologie des medicaments d'usage veterinaire. Pharmacologie des medicaments agissant sur les divers systemes. Chimiotherapie. Differences entre especes animales en pharmacologie veterinaire.

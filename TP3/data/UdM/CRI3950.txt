@@ -1,0 +1,2 @@
+TitreCours: Criminalite informatique
+DescriptionCours: Presentation des principales formes de criminalite informatique. Usages problematiques et criminels d'Internet. Legislation et intervention policiere dans le cyberespace. Impacts des nouvelles technologies sur le milieu criminel.

@@ -1,0 +1,2 @@
+TitreCours: Jeu et domaines d'eveil a la maternelle
+DescriptionCours: Pedagogie en contexte ludique : exploration des domaines d'eveil aux connaissances et integration du jeu. Analyse et developpement de materiel. Animation de situations d'apprentissage. Construction d'instruments d'observation.

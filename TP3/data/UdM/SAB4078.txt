@@ -1,0 +1,2 @@
+TitreCours: Dentisterie pediatrique clinique 2
+DescriptionCours: Prise en charge globale de l'enfant centree sur l'education et la prevention. Suivi des enfants a la Faculte et des enfants malades et handicapes a l'Hopital Ste-Justine.

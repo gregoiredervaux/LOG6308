@@ -1,0 +1,2 @@
+TitreCours: L'adulte en difficulte d'apprentissage
+DescriptionCours: Caracteristiques de l'apprenant adulte en difficulte d'apprentissage. Strategies d'intervention dans un contexte d'alphabetisation.

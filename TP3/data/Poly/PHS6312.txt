@@ -1,0 +1,2 @@
+TitreCours: Interaction laser-materiaux
+DescriptionCours: Rappel sur les lasers. Interaction des faisceaux lasers avec les atomes et les molecules. Proprietes et dynamique des plasmas induits par laser. Principes de l'interaction des faisceaux lasers avec les materiaux. Theorie et applications de l'ablation des materiaux par laser. Procedes par laser ultrarapide. Simulation de procedes par laser. Application de la microingenierie et de la nanoingenierie des materiaux par laser a la microelectronique, la photonique et le biomedical.

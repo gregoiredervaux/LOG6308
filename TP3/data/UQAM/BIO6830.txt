@@ -1,0 +1,2 @@
+TitreCours: Ichtyologie
+DescriptionCours: Étude de la biologie des poissons. Échantillonnage des poissons et cueillette des donnees. Anatomie de base des poissons. Identification des poissons. Cycle vital des principaux representants des differentes familles de poissons du Quebec. Marquages, densite de peuplement et notions generales sur les populations de poissons. Age, croissance et facteur de condition. Nourriture. Reproduction. Mortalite. Migrations. Pathologie. Exigences des poissons face a la qualite physicochimique de l'eau. Ce cours comprend des travaux pratiques.

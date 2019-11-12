@@ -1,0 +1,2 @@
+TitreCours: Enseignement a la clientele
+DescriptionCours: Principes, methodes et habiletes de l'infirmiere relies aux besoins d'apprentissage des individus et des groupes en matiere de sante.

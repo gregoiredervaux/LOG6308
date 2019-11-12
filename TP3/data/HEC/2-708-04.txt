@@ -1,0 +1,2 @@
+TitreCours: Information Technologies in Organizations
+DescriptionCours: Cours offert en anglais. Voir la description du cours 2-700-04 Technologies de l'information en gestion

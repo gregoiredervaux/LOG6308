@@ -1,0 +1,2 @@
+TitreCours: Gestion des ressources humaines
+DescriptionCours: La fonction « personnel » dans l'entreprise. Cours d'introduction.

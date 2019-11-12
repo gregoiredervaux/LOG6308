@@ -1,0 +1,2 @@
+TitreCours: Analyse fonctionnelle et harmonique
+DescriptionCours: Definition et proprietes elementaires des espaces de Banach et de Hilbert. Applications lineaires bornees. Theoreme de Hahn-Banach. Theoreme de Banach-Steinhaus. Convexites. Operateurs compacts. Algebre de Banach. Theorie de Gelfand. Analyse harmonique sur les groupes commutatifs localement compacts.

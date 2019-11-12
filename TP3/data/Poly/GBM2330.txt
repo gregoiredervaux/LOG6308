@@ -1,0 +1,2 @@
+TitreCours: Instrumentation et mesures biomedicales
+DescriptionCours: Structure type d'un instrument biomedical, metrologie, fonction de transfert, securite et normes. Circuits electroniques pour le conditionnement du signal : amplification, filtrage, detection. Approches pour diminuer l'interference et le bruit. Principes de fonctionnement et circuits de base pour divers types de capteurs : electrode, force, debit, pression, ultrason, rayonnement, biochimique. Applications : electrocardiographie, systeme respiratoire.

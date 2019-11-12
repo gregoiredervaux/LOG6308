@@ -1,0 +1,2 @@
+TitreCours: Problemes en ethique
+DescriptionCours: Analyse des principales notions (droit, obligation, bien-etre, egalite...) et des principaux problemes (euthanasie, inegalite sociale, environnement...) de l'ethique philosophique contemporaine.

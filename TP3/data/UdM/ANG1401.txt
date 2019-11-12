@@ -1,0 +1,2 @@
+TitreCours: Quebec Writing in English
+DescriptionCours: Introduction a la litterature ecrite en anglais au Quebec. Auteurs tels que Scott, Hood, Majzels, Richler, Ternar, Cohen, Rigelhof par exemple.

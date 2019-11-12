@@ -1,0 +1,2 @@
+TitreCours: Amenagements hydriques urbains
+DescriptionCours: Étude des reseaux hydriques naturels et des amenagements hydriques permettant une meilleure exploitation de la ressource. Description physique et role des ouvrages. Amenagements a but unique et amenagements a buts multiples. Impacts des amenagements. Étude de cas du reseau hydrique de la region de Montreal. Problematique du «Projet d'amenagement des eaux de l'archipel de Montreal».

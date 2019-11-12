@@ -1,0 +1,2 @@
+TitreCours: Lutte biologique
+DescriptionCours: Historique et bases ecologiques de la lutte biologique. Biologie des organismes predateurs, parasites et pathogenes. Methodologie: prospection, introduction et acclimatation. Conservation, augmentation et evaluation de l'efficacite des ennemis naturels. Lutte biologique contre les ravageurs des forets et des cultures, contre les mauvaises herbes, contre les vecteurs d'importance medicale et veterinaire et contre les mammiferes. La lutte biologique en tant que composante de la lutte integree.

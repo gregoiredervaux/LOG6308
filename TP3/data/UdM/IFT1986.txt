@@ -1,0 +1,2 @@
+TitreCours: Traitement informatique des textes
+DescriptionCours: Apprentissage d'un logiciel de traitement de texte. Édition et formatage d'un texte. Pagination. Utilisation d'en-tetes et de pieds de page, de tableaux et de graphiques. Creation d'index et tables des matieres. Fusion de documents types.

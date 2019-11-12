@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Le genese de l'État moderne, l'expansion de l'economie agraire; les conflits entre le capitalisme naissant et la culture medievale; les crises des XIVe et XVe siecles, le developpement des villes et des societes urbaines, les heresies, etc.

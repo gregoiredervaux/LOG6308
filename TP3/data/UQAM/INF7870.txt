@@ -1,0 +1,2 @@
+TitreCours: Fondements logiques de l
+DescriptionCours: Revue de la logique propositionnelle et du premier ordre. Logique temporelle et logique modale. Logique floue. Deduction naturelle. Tableaux semantiques. Heuristiques et tactiques de preuves. Applications.

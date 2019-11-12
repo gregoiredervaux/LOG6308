@@ -1,0 +1,2 @@
+TitreCours: Premathematiques pour les trois
+DescriptionCours: Étude des principales notions premathematiques a partir de materiel existant et de situations quotidiennes. Relation entre ces notions et le developpement general de l'enfant. Analyse des liens entre ces notions et le programme de mathematiques du primaire du point de vue psychologique et mathematique.

@@ -1,0 +1,2 @@
+TitreCours: Labo. de biol. molec. et cell. (GBM8602)
+DescriptionCours: Bonnes techniques experimentales en genie tissulaire & cellulaire. Encapsulation de cellules, dosage des genes et macromolecules proteiques, histochimie, immunohistochimie. Tenue du cahier de laboratoire et bonnes pratiques.

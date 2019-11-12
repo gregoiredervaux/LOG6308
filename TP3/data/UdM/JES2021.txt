@@ -1,0 +1,2 @@
+TitreCours: Discussion de cas cliniques
+DescriptionCours: Presentation, histoire et discussion de cas cliniques. Participation de l'etudiant aux discussions sur des strategies d'intervention. Realisation de plans d'intervention dans une perspective interdisciplinaire.

@@ -1,0 +1,2 @@
+TitreCours: Initiation aux ressources informatiques
+DescriptionCours: Systeme d'exploitation. Types de donnees. Format de fichiers et transformation. Sauvegardes et copies. Acces aux reseaux. Peripheriques d'entree et de sortie. Numerisation, saisies, transferts. Impressions, tracage. Les utilitaires.

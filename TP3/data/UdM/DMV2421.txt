@@ -1,0 +1,2 @@
+TitreCours: Travaux diriges en biomedecine vet. 1
+DescriptionCours: Lectures dirigees en medecine veterinaire. Accent sur les considerations morphologiques des conditions cliniques en medecine veterinaire. Approche multidisciplinaire et multiespece.

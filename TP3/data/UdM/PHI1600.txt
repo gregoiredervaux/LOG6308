@@ -1,0 +1,2 @@
+TitreCours: Introduction a la philosophie moderne
+DescriptionCours: Introduction aux principaux courants et aux themes majeurs de la philosophie du 17e et du 18e siecles.

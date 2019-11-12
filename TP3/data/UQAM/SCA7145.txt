@@ -1,0 +1,2 @@
+TitreCours: Instrumentation et travaux pratiques I
+DescriptionCours: Realisation d'experiences avec divers instruments de mesure atmospheriques et hydriques et analyse des donnees de teledetection: la temperature, l'humidite, la pression, le vent, la radiation.

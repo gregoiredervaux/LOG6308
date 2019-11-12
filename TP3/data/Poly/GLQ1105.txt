@@ -1,0 +1,2 @@
+TitreCours: Mineralogie
+DescriptionCours: Notion d'especes minerales. Nomenclature et classification des mineraux. Élements cristallochimiques. Dichotomie et caracterisation macroscopique des mineraux. Theorie de l'optique cristalline. Proprietes optiques des mineraux observes au microscope polarisant a lumiere transmise. Liens entre les mineraux et les roches. Utilisation des mineraux.

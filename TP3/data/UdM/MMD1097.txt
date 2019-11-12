@@ -1,0 +1,2 @@
+TitreCours: Intervention en milieux defavorises
+DescriptionCours: Permettre aux etudiants de prendre contact avec les actions locales et internationales en vue de promouvoir l'amelioration de la sante des populations defavorisees.

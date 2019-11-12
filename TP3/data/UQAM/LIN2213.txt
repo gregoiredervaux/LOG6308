@@ -1,0 +1,2 @@
+TitreCours: Élements d
+DescriptionCours: Ce cours vise a initier l'etudiant aux proprietes fondamentales d'un modele explicatif en sciences du langage. Le cours porte sur les principales questions epistemologiques qui se posent en sciences, illustrees par des comparaisons de cas simples en sciences naturelles et en sciences du langage. Les principaux elements illustres portent sur: le statut de l'observation scientifique; la valeur des descriptions; la construction des hypotheses; l'explication et la prediction en science; la notion de loi.

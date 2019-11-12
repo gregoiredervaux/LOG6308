@@ -1,0 +1,2 @@
+TitreCours: Atelier de radio VI
+DescriptionCours: Le theatre radiophonique: utilisation ou adaptation d'un texte, production radiophonique, incluant la direction de comediens et l'illustration sonore ambiante, d'un texte dramatique ou leger, de duree moyenne. La creation radiophonique: essai, conceptuel et de production, resultant en une oeuvre originale orientee vers la diffusion.

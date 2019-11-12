@@ -1,0 +1,2 @@
+TitreCours: Piratage informatique
+DescriptionCours: Concepts de piratage informatique. Terminologie. Typologie des pirates informatiques. Cibles d'attaques. Mthodologie d'une attaque. Prparation : collecte d'information, reconnaissance, rseaux sans-fil. Attaque : Intrusion et extension de privilges, exploitation de vulnrabilits, compromission. Conclusion : maintien d'accs, dissimulation de donnes et suppression des traces. Enqutes et lments de preuve. Tendances. Exercices et travaux pratiques en laboratoire.

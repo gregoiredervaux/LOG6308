@@ -1,0 +1,2 @@
+TitreCours: Éthique de l'ecosante
+DescriptionCours: Description et analyse de differents enjeux ethiques et pratiques lies a l'ecosante : la justice et le rapport humain a la nature; les decisions a impacts sociosanitaires et environnementaux; la preoccupation a l'egard des generations futures.

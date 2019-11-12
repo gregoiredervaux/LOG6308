@@ -1,0 +1,2 @@
+TitreCours: Securite des tout-petits
+DescriptionCours: Principes et pratique relies a l'elaboration, a l'implantation, a l'evaluation de mesures visant a assurer le bien-etre et la securite physique des tout-petits dans les milieux de garde institutionnels ou familiaux. Cadre juridique et reglementaire.

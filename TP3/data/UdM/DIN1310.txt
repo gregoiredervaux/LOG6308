@@ -1,0 +1,2 @@
+TitreCours: Introduction aux materiaux
+DescriptionCours: Élements scientifiques et technologiques propres aux materiaux utilises en design industriel. Nature et proprietes generales des materiaux. Grandes classes de materiaux et principes de mise en forme et d'assemblage.

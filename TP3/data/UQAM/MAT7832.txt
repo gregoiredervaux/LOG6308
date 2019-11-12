@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Étude des theories du developpement et de l'apprentissage logico-mathematiques de l'enfant de 3 a 5 ans. Bilan des recherches dans ce domaine. Experimentation et analyse de situations diagnostiques ou d'apprentissage s'inspirant de travaux didactiques sur l'activite mathematique chez des enfants d'age prescolaire.

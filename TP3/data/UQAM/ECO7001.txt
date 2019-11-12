@@ -1,0 +1,2 @@
+TitreCours: Microeconomie avancee
+DescriptionCours: Étude explicative et normative de la production, de la distribution, de la consommation et des institutions qui s'y rattachent. Theories de la valeur. Structures de marche. Decisions publiques et decentralisation. La prise en compte du temps et de l'incertain. Concepts d'equilibre et de desequilibre.

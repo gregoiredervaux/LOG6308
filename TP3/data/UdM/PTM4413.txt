@@ -1,0 +1,2 @@
+TitreCours: Parasitologie, animaux de compagnie
+DescriptionCours: Étude detaillee de l'ensemble des parasitoses rencontrees chez ces especes. Une approche clinique par probleme sera egalement utilisee; des cas pratiques seront decrits. L'accent sera mis sur les programmes de controle et de prevention.

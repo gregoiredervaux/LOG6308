@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de produits steriles
+DescriptionCours: Exercices pratiques sur la manipulation des produits steriles.

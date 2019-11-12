@@ -1,0 +1,2 @@
+TitreCours: Phonetique instrumentale
+DescriptionCours: Analyse instrumentale de la parole. Aspect physiologique et acoustique. Correlation entre mouvements articulatoires et variations formantiques. La perception. Le contenu physio-acoustique des traits. Manipulation des appareils en laboratoire et interpretation de traces.

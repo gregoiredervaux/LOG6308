@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de chimie physique I
+DescriptionCours: Étude de methodes experimentales utilisees au laboratoire en chimie physique. Mesures physicochimiques; thermochimie, liquides, solutions, equilibre de phases, cinetique, electrochimie.

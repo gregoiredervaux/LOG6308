@@ -1,0 +1,2 @@
+TitreCours: Philosophie politique
+DescriptionCours: Étude des principaux courants et problematiques en philosophie politique contemporaine, en reference, le cas echeant, a leurs fondements historiques. Étude de theories comme le liberalisme politique, le contractualisme, le marxisme, la theorie critique. Reflexion thematique pouvant porter sur des questions telles que pouvoir et legitimite, individualisme et communautarisme, nation et amitie civique, pluralisme et tolerance, revolution, insurrection et desobeissance civile.

@@ -1,0 +1,2 @@
+TitreCours: Comportement du consommateur
+DescriptionCours: Le cours "Comportement du consommateur" a pour objectif d'exposer les etudiants et les etudiantes aux fondements conceptuels et a la recherche en comportement du consommateur. Le cours met l'emphase sur la comprehension des facteurs psychologiques et sociaux qui influencent les differents aspects du comportement humain dans le contexte du marketing et de la consommation.

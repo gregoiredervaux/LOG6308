@@ -1,0 +1,2 @@
+TitreCours: Medecine interne bovine
+DescriptionCours: Concepts medicaux d'importance en pratique bovine.

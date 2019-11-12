@@ -1,0 +1,2 @@
+TitreCours: Sante oculaire 2.3
+DescriptionCours: Étiologie, semiologie et diagnostic differentiel des anomalies et des maladies des paupieres, de l'appareil lacrymal, de la conjonctive, de la sclere, de la cornee, de l'uvee et du cristallin.

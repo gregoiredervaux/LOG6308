@@ -1,0 +1,2 @@
+TitreCours: Gestion de reseau
+DescriptionCours: Permettre a l'etudiant d'acquerir les connaissances necessaires a la resolution des problematiques de la gestion de reseau. Environnement de gestion de l'Internet: SNMP (MIB, structures SMI, sondes RMON). Environnement de gestion des telecommunications: TMN, CMIP. Conception des plates-formes et limites des outils. Études des nouvelles approches de gestion.

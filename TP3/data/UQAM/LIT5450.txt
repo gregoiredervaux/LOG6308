@@ -1,0 +1,2 @@
+TitreCours: Robots et automates dans la litterature d
+DescriptionCours: Étude d'un aspect important de la litterature d'imagination scientifique: le robot et l'automate, personnage litteraire nouveau, apparu au debut du XIXe siecle. Aspects techniques et mythiques de l'automate: le Golem, mythe de la cybernetique, le Frankenstein de Marie Shelley, L'homme au sable de Hoffman, L'Eve future de Villiers de l'Isle-Adam. Indication relative a la poursuite de la recherche: tradition mecanique, tradition golemique, tradition utopique.

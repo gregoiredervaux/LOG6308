@@ -1,0 +1,2 @@
+TitreCours: Francais ecrit - Syntaxe
+DescriptionCours: Faciliter la redaction des textes par la revision des principales regles de construction de la phrase. Revoir l'emploi des pronoms relatifs, le choix des prepositions, la structure des phrases complexes.

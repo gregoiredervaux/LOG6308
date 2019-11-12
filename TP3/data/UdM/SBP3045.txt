@@ -1,0 +1,2 @@
+TitreCours: Projet d'integr. : notions et compet. 2
+DescriptionCours: Projet integrateur des connaissances et des competences associees aux phases 2, 3 et 4 et post-commercialisation du developpement clinique du medicament. Travail d'equipe et gestion de projet.

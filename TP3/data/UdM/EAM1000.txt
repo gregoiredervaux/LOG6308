@@ -1,0 +1,2 @@
+TitreCours: Litterature universelle
+DescriptionCours: Presentation d'ecrivains du XXe siecle universellement reconnus pour leur oeuvre (prix Nobel et autres). Lecture d'oeuvres en traduction.

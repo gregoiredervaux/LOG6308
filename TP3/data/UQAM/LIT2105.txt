@@ -1,0 +1,2 @@
+TitreCours: Litterature de langue francaise destinee aux enfants
+DescriptionCours: Analyse de la production des dix dernieres annees de la litterature de langue francaise destinee aux enfants. Themes, symboles, qualite de l'ecriture et des images, personnages, messages, implications, etc. Corpus constitue d'un choix d'albums, collections, romans, periodiques les plus communement mis a la disposition des enfants quebecois.

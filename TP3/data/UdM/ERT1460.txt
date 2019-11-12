@@ -1,0 +1,2 @@
+TitreCours: Initiation a la formation clinique
+DescriptionCours: Introduction a l'environnement professionnel. Experience de pratique supervisee pour developper diverses competences notamment l'observation, l'entrevue, la communication et la relation d'aide.

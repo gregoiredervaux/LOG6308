@@ -1,0 +1,2 @@
+TitreCours: Intervention audiologique 3
+DescriptionCours: Travaux pratiques portant sur les aides de correction a l'audition et les aides de suppleance a l'audition.

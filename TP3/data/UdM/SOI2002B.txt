@@ -1,0 +1,2 @@
+TitreCours: Approche clinique-soins a la pers. agee
+DescriptionCours: Étude de problematiques de soins reliees aux experiences de sante des personnes agees, analyse de situations cliniques, identification d'interventions appropriees et developpement d'habiletes specifiques a ces soins.

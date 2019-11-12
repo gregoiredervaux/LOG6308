@@ -1,0 +1,2 @@
+TitreCours: Theorie de la fiabilite
+DescriptionCours: Étude des lois de probabilites les plus utiles en theorie de la fiabilite. Étude des structures coherentes et de leur fiabilite. Familles de distributions de vie basees sur les cycles de vieillissement; distribution limite de durees de vie des systemes coherents.

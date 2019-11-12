@@ -1,0 +1,2 @@
+TitreCours: Traduction avancee
+DescriptionCours: Traduction de textes complexes sur les plans notionnel et redactionnel, appartenant a differents domaines d'interet general.

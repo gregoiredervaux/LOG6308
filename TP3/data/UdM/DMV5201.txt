@@ -1,0 +1,2 @@
+TitreCours: Clinique des animaux de compagnie
+DescriptionCours: Quatre semaines de stages en clinique des animaux de compagnie. Participation a la prise de l'anamnese, aux examens cliniques, aux soins medicaux et aux consultations.

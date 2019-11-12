@@ -1,0 +1,2 @@
+TitreCours: Anesthesie - animaux de compagnie
+DescriptionCours: Deux semaines de stage dans le service d'anesthesie de la clinique des animaux de compagnie.

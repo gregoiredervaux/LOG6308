@@ -1,0 +1,2 @@
+TitreCours: Analyse mathematique du risque
+DescriptionCours: Mesure mathematique des risques financiers. Notion de valeur a risque. Utilisation des mesures de risque. Limitations des mesures connues et developpement recents. Modeles stochastiques des reserves. Theorie de la ruine.

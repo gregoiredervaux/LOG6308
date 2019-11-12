@@ -1,0 +1,2 @@
+TitreCours: Psycholinguistique avancee
+DescriptionCours: Étude des processus psychologiques impliques dans l'acquisition d'une langue premiere et seconde. Role des facteurs environnementaux, biologiques et motivationnels. Regulation comportementale et langage.

@@ -1,0 +1,2 @@
+TitreCours: Prevention des infections
+DescriptionCours: Soins infirmiers et principes relies a la prevention des infections. Criteres qui determinent les infections nosocomiales et moyens de controle.

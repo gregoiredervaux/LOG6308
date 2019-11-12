@@ -1,0 +1,2 @@
+TitreCours: Coût de revient
+DescriptionCours: Ce cours s'adresse a tous les etudiants desireux d'acquerir des connaissances en comptabilite analytique de gestion et qui s'interessent surtout aux methodes de determination, d'analyse et de controle des differentes composantes du coût de revient dans l'entreprise industrielle.

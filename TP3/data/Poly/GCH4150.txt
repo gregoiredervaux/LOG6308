@@ -1,0 +1,2 @@
+TitreCours: Commande des procedes de genie chimique II
+DescriptionCours: Commande en cascade. Commande par anticipation. Commande par modele interne. Commande inferentielle. Commande de procedes multi-entrees multi-sorties. Analyse d'interactions. Integration design et commande. Applications tirees de l'industrie chimique et biochimique.

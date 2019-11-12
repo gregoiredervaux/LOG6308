@@ -1,0 +1,2 @@
+TitreCours: Cours thematique
+DescriptionCours: Cours de synthese et de recherche portant sur une problematique particuliere choisie en fonction de la specialisation du professeur. Sujet variable.

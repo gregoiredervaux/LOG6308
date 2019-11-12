@@ -1,0 +1,2 @@
+TitreCours: Apercu des litteratures slaves
+DescriptionCours: Examen d'un certain nombre d'oeuvres (poesie, prose, theatre) parmi les plus representatives des litteratures slaves. Mickiewicz, Slowacki, Gombrowicz, Milosz, Hasek, Capek, Kundera, Andric, Kis.

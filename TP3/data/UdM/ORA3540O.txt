@@ -1,0 +1,2 @@
+TitreCours: Atelier d'activites cliniques
+DescriptionCours: Atelier visant l'integration des connaissances issues de divers milieux de pratique professionnelle orthophonique.

@@ -1,0 +1,2 @@
+TitreCours: Analyse des apprentissages en mathematiques des eleves
+DescriptionCours: Analyse epistemologique de concepts et processus en mathematiques. Étude de situations-problemes et de taches proposees aux eleves s'articulant sur cette analyse epistemologique, et permettant de rendre compte de l'evolution de la pensee mathematique des eleves. Analyse de solutions d'eleves et de leurs acquisitions dans le developpement d'un concept et de processus en mathematiques.

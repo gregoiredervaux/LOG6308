@@ -1,0 +1,2 @@
+TitreCours: Fiabilite et pertinence de l
+DescriptionCours: Étude de la comptabilite financiere, dans une perspective strategique, du point de vue de la firme et de celui des utilisateurs de l'information produite. Comportements des dirigeants d'entreprises en matiere de pratiques comptables. Gestion des benefices et impacts sur le coût du capital, les coûts politiques, la fiscalite et la remuneration. Valorisation de la firme et utilite predictive de l'information comptable sur les marches boursiers.

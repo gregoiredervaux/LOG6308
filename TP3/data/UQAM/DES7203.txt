@@ -1,0 +1,2 @@
+TitreCours: Techniques de conservation
+DescriptionCours: Examen du vieillissement des materiaux de construction et des systemes techniques mis en oeuvre dans l'architecture moderne. Introduction aux moyens techniques disponibles en vue d'entretenir et de reparer les structures, les composants et les finitions architecturaux. Ce cours est base sur des etudes de cas et delivre sous la forme de conferences donnees par des specialistes.

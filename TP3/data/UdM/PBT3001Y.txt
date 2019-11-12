@@ -1,0 +1,2 @@
+TitreCours: Concours - releve publicitaire
+DescriptionCours: Developpement concurrentiel d'une campagne de publicite par des etudiants en equipes avec encadrement professionnel.

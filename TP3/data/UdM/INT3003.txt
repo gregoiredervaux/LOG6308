@@ -1,0 +1,2 @@
+TitreCours: Travail dirige en etudes internationales
+DescriptionCours: Realisation d&rsquo;un travail autonome d&rsquo;analyse ou de recherche permettant d&rsquo;integrer les connaissances acquises dans les principales disciplines du Baccalaureat en etudes internationales, sous la direction d&rsquo;un professeur.

@@ -1,0 +1,2 @@
+TitreCours: Difficultes en lecture au secondaire
+DescriptionCours: Lecture et maitrise de la langue. Motivation. Strategies cognitives et metacognitives. Comprehension. Lire pour apprendre. Diagnostic et reeducation des difficultes d'apprentissage en lecture. Dyslexie.

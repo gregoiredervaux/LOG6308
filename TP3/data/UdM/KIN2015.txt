@@ -1,0 +1,2 @@
+TitreCours: Activites physiques adaptees
+DescriptionCours: Les problemes lies a la conception et a l'application de programmes d'activites physiques adaptees a des personnes ayant des incapacites physiques.

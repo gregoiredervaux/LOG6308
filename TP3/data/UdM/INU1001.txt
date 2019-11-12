@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'information numerique
+DescriptionCours: Caracteristiques de l'information numerique. Aspects sociaux, economiques, ethiques et juridiques. Documents et fichiers numeriques. Internet. Reseaux. Introduction a la creation de sites Web. Securite informatique. Competences informationnelles.

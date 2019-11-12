@@ -1,0 +1,2 @@
+TitreCours: Activite de stage I
+DescriptionCours: Cette activite vise a mettre a profit des connaissances et a developper des habiletes en matiere de systemes d'information geographique (SIG) dans un contexte operationnel. L'etudiant travaille au sein d'un organisme public, parapublic ou prive dans un domaine directement lie aux SIG. Les activites de ce stage sont de niveau professionnel et peuvent permettre une participation dans la planification et l'implantation d'un SIG. Cette activite se deroule sous la supervision d'un tuteur.

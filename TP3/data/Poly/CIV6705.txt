@@ -1,0 +1,2 @@
+TitreCours: Thorie de la circulation
+DescriptionCours: Introduction, variables dcrivant la circulation, caractristiques du conducteur, interactions conducteur-route-vhicule, distributions de probabilit dcrivant la circulation, modles macroscopiques, modles de poursuite, thorie des ondes de choc, analyse thorique de la capacit routire, phnomnes d'attente, congestion, simulation de la circulation. Applications.

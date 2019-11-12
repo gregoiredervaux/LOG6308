@@ -1,0 +1,2 @@
+TitreCours: Accompagnement II
+DescriptionCours: Suite du cours MUS1302 Accompagnement I

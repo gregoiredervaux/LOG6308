@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique II
+DescriptionCours: Activite de meme type que ETH717X Seminaire thematique I.

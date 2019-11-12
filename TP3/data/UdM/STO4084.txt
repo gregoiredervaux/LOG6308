@@ -1,0 +1,2 @@
+TitreCours: Diagnostic - urgence
+DescriptionCours: Examen de patients presentant des cas plus difficiles. Diagnostic et traitement de patients en douleur. Illustrations pratiques de l'administration, des effets des medicaments et des interactions medicamenteuses.

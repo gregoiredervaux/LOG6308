@@ -1,0 +1,2 @@
+TitreCours: Theorie comptable II
+DescriptionCours: Ce cours permet l'analyse detaillee de composantes d'etats financiers debutee dans le cours "Theorie comptable I". Plus specifiquement, ce cours traite de la problematique du credit du bilan. Les postes du passif et de l'avoir des actionnaires sont examines pour leur contenu, leur mesure, leur presentation et leur impact sur les etats financiers.  &nbsp;  Enfin, ce cours examine les questions comptables soulevees par les contrats de location et les instruments financiers.

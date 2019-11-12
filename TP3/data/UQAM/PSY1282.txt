@@ -1,0 +1,2 @@
+TitreCours: Psychometrie et evaluation par les tests
+DescriptionCours: La notion de test. Grands types de tests. Caracteristiques metriques des tests: validite, fidelite, finesse. Élements de construction de tests. Regles d'administration des tests.

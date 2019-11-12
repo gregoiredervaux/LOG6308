@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique en marketing
+DescriptionCours: Seminaire a contenu variable portant sur le marketing.

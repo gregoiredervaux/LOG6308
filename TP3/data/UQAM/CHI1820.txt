@@ -1,0 +1,2 @@
+TitreCours: Chimie du milieu
+DescriptionCours: Applications des concepts de la chimie a l'etude de l'environnement. Étude des principaux equilibres chimiques du milieu et analyse des transformations qu'ils subissent sous influence naturelle ou par intervention humaine. Caracteristiques chimiques du sol, de l'eau et de l'air, transport entre les niveaux trophiques. Équilibre chimique, sources de perturbation, bilan de matiere (carbone, azote, soufre). Pollution du milieu, impact de l'activite humaine et potentiel d'intervention.

@@ -1,0 +1,2 @@
+TitreCours: Évaluation des competences
+DescriptionCours: Fonctions, principes, concepts et theories de la mesure et de l'evaluation dans le domaine de la formation technique. Types de mesures. Types et niveaux d'evaluation. Techniques metrologiques et modeles. Conception et experimentation d'instruments pour la mesure et l'evaluation des apprentissages et de leur transfert en situation de travail. Interpretation criteriee des resultats.

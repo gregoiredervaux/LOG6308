@@ -1,0 +1,2 @@
+TitreCours: Medecine des animaux de compagnie 1
+DescriptionCours: Partie 1. Étude des syndromes cliniques chez les animaux de compagnie. Description des maladies, methodes de diagnostic et therapie medicale et chirurgies communes.

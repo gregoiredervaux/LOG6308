@@ -1,0 +1,2 @@
+TitreCours: Histoire et philosophie de l'education
+DescriptionCours: Examen critique des conceptions et des idees pedagogiques au Quebec a la lumiere de l'histoire et de la reflexion philosophique.

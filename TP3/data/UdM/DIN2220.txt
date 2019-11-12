@@ -1,0 +1,2 @@
+TitreCours: Methodologie du design
+DescriptionCours: Methodes d'identification, de structuration, de modelisation et de solution des problemes de design. Notions relatives a la theorie du systeme general en vue de faciliter la conceptualisation de problemes complexes.

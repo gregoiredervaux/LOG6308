@@ -1,0 +1,2 @@
+TitreCours: Comptabilite financiere I
+DescriptionCours: Acquerir une connaissance du traitement comptable de differents postes aux etats financiers. Se familiariser avec le contenu global des rapports annuels. Cadre theorique. Actifs et passifs a court terme et eventualites. Immobilisations corporelles. Actifs incorporels. Aide gouvernementale. Frais de recherche et developpement. Placements temporaires et de portefeuille. Capitaux propres. Constatation de produits. État de l'evolution de la situation financiere.

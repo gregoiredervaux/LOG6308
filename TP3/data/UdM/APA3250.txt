@@ -1,0 +1,2 @@
+TitreCours: Geomatique et paysage
+DescriptionCours: Cours d'introduction a la geomatique appliquee a l'architecture de paysage. Integration des donnees a references spatiales et graphiques au projet de paysage.

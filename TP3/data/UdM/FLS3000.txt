@@ -1,0 +1,2 @@
+TitreCours: Aspects linguistiques du bilinguisme
+DescriptionCours: Competence linguistique et performance chez les bilingues : organisation de la grammaire des bilingues. Interference grammaticale unidirectionnelle et bidirectionnelle.

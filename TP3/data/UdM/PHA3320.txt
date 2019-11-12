@@ -1,0 +1,2 @@
+TitreCours: Laboratoire - pratique professionnelle 6
+DescriptionCours: Simulations de situations complexes en milieux communautaire et hospitalier. Prestation de soins pharmaceutiques au niveau requis pour acces aux stages. Communication en situation difficile. Reflexion ethique. Gestion de la distribution.

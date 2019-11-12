@@ -1,0 +1,2 @@
+TitreCours: Theorie avancee
+DescriptionCours: Le but de ce cours est d'approfondir les connaissances des etudiants dans un domaine specifique de l'analyse economique et de les amener a appliquer ces connaissances a la resolution de problemes complexes de facon a developper leurs habiletes analytiques. Le contenu du cours est determine en fonction des interets du professeur et des etudiants. Le sujet est choisi par le conseil de programme au moment de la commande de cours.

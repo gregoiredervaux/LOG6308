@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de recherche experimentale et quasi
+DescriptionCours: L'objectif de ce cours est l'acquisition d'habiletes methodologiques et techniques. Étude approfondie et mise en pratique des concepts et de certaines methodes presentees dans la section III du cours PSY4020: schemes experimentaux, quasi-experimentaux a sujet unique. Methodes psychophysiques. Enregistrement des processus et phenomenes biologiques. Évaluation de programmes d'intervention

@@ -1,0 +1,2 @@
+TitreCours: Litterature d'instruments d'orchestre 2
+DescriptionCours: Description des instruments a vent, de la harpe et des instruments de percussion : histoire de leur fabrication; leur repertoire et leurs virtuoses, les types de composition et les formations qui leur sont generales et particulieres.

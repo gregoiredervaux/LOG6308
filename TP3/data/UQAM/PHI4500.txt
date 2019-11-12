@@ -1,0 +1,2 @@
+TitreCours: Philosophie de la technologie
+DescriptionCours: Introduction aux theses soutenues par les philosophes sur la technologie comme intersection du savoir et du faire. La place de la technologie dans les processus de la connaissance. Les relations de la technologie et de la science: la technologie comme application de la science et comme element transformateur de la science. Le role de la technologie dans les rapports de l'homme a son environnement, du point de vue de l'interaction de la technologie avec les valeurs, les ideologies et la culture.

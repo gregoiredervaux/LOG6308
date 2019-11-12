@@ -1,0 +1,2 @@
+TitreCours: Didactique de la geometrie
+DescriptionCours: Études de concepts, procedures, attitudes et raisonnement en geometrie. Reperes historiques, epistemologiques et didactiques. Perspectives euclidienne et cartesienne. Situations didactiques, ingenieries et evaluation.

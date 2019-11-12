@@ -1,0 +1,2 @@
+TitreCours: Analyse de l'actualite
+DescriptionCours: Analyse d'evenements ou de phenomenes d'actualite internationaux et nationaux. Analyse multidisciplinaire d'un evenement (donnees historiques, economiques, politiques et sociales) : signification et jugement critique; methode d'analyse critique.

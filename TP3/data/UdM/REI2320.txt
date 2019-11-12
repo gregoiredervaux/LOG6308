@@ -1,0 +1,2 @@
+TitreCours: Rapports collectifs du travail
+DescriptionCours: Les regles juridiques s'appliquant au regime general de la negociation collective au Quebec. Droit d'association, accreditation, negociation de la convention collective, mode de reglements des conflits.

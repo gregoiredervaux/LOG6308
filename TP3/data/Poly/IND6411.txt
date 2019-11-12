@@ -1,0 +1,2 @@
+TitreCours: Ergon. occupat. : aspects environnementaux
+DescriptionCours: Application pratique de connaissances, principes et methodes varies pour l'evaluation et l'amenagement du travail assurant la productivite, la qualite et la securite: commandes et dispositifs de presentation de l'information visuelle, environnement visuel et eclairage, vibrations globales du corps et vibrations main-bras, evaluation et controle du bruit industriel, evaluation et controle de l'ambiance thermique, elements de securite industrielle et normalisation applicable.

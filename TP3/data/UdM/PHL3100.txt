@@ -1,0 +1,2 @@
+TitreCours: Pharmacodynamie des medicaments
+DescriptionCours: Modifications de la fonction des principaux organes et systemes physiologiques par les agents pharmacologiques. Effets desirables et indesirables des medicaments.

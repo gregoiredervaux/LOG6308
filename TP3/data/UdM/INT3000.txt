@@ -1,0 +1,2 @@
+TitreCours: Cours synthese en etudes internationales
+DescriptionCours: Approche multidisciplinaire des phenomenes internationaux. Cours visant a permettre aux etudiants de faire une synthese des enseignements suivis en droit, histoire, science politique et economie-gestion.

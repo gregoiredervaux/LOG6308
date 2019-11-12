@@ -1,0 +1,2 @@
+TitreCours: Organisation du travail dans les S.A.
+DescriptionCours: Étude des concepts et outils d'organisation du travail en gestion de l'alimentation des collectivites dans les services d'alimentation (S.A.) et autres champs de pratique de la dietetique.

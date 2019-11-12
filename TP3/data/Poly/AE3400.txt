@@ -1,0 +1,2 @@
+TitreCours: Commande de vol
+DescriptionCours: Introduction: historique, action des gouvernes. Modle mathmatique d'un avion rigide: linarisation, dcouplage des mouvements, quations d'tat, fonctions de transfert. tude de la stabilit: mouvement longitudinal, mouvement latral. Conception de systmes d'augmentation de la stabilit par la mthode du lieu des racines. Conception de systmes multivariables de commande d'attitude par la mthode de la structuration modale et du rgulateur optimal linaire quadratique.

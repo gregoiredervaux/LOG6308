@@ -1,0 +1,2 @@
+TitreCours: Practicum de recherche 2
+DescriptionCours: Acquisition des connaissances fondamentales et pratiques de la demarche scientifique par la participation a un projet de recherche dirige par un chercheur du departement.

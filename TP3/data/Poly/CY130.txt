@@ -1,0 +1,2 @@
+TitreCours: Clavardage et communications
+DescriptionCours: Historique du clavardage. Principes de base du clavardage (IRC). Communications Internet : groupes de discussions, courrier lectronique, tlphonie IP, vidoconfrence : tude comparative et impacts sur la criminalit. Socit virtuelle. Identit Internet. Volatilit des donnes. Activits illicites sur IRC : trafic, SPAM, virus, trojans. Cyber-attaques. Prvention. Exercices et travaux pratiques en laboratoire.

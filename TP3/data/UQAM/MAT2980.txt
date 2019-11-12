@@ -1,0 +1,2 @@
+TitreCours: Progiciels
+DescriptionCours: Initiation a l'utilisation des ordinateurs. Introduction a l'analyse par ordinateur des donnees en sciences humaines. Concepts de base et utilisation des progiciels SPSS et SAS. Interpretation des resultats fournis par ces programmes et limites de leur validite.

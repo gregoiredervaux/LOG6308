@@ -1,0 +1,2 @@
+TitreCours: Histoire du Japon jusqu'en 1868
+DescriptionCours: Les grandes etapes de l'histoire japonaise : origines mythologiques et archeologiques, influence de la Chine, age classique de Heian, feodalisme japonais, fondements de l'etat moderne.

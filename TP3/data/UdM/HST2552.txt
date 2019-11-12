@@ -1,0 +1,2 @@
+TitreCours: Sante et medecine au Canada
+DescriptionCours: Histoire de la sante et de la medecine au Canada du XVIIIe siecle a nos jours. Medecine traditionnelle et officielle. Aspects scientifiques et socioculturels.

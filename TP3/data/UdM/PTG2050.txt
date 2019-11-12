@@ -1,0 +1,2 @@
+TitreCours: Portugais : langue etrangere
+DescriptionCours: Principes linguistiques appliques a l'enseignement du portugais comme langue etrangere. Analyse des methodes d'enseignement. Études des faits saillants et des particularites du portugais du Bresil.

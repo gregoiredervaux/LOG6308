@@ -1,0 +1,2 @@
+TitreCours: Apprentissage scolaire au secondaire
+DescriptionCours: Apercu des paradigmes dominants en apprentissage scolaire. Processus generaux d'apprentissage et differences individuelles. Strategies cognitives des eleves. Composantes de l'apprentissage scolaire.

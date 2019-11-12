@@ -1,0 +1,2 @@
+TitreCours: Best
+DescriptionCours: Analyse des best-sellers au Quebec, au moment ou se donne le cours. Élaboration d'une theorie de la production litteraire et de ses implications sur l'auteur et le lecteur.

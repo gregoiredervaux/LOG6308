@@ -1,0 +1,2 @@
+TitreCours: Chimie de l'environnement : introduction
+DescriptionCours: Presentation des bases chimiques de phenomenes fondamentaux de l'environnement et des perturbations causees par les activites humaines. Atmosphere, eaux naturelles, croûte terrestre et biosphere. Substances toxiques : pesticide, BPCs, metaux lourds.

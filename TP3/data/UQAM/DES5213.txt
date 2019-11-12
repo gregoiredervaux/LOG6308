@@ -1,0 +1,2 @@
+TitreCours: Film d
+DescriptionCours: Introduction aux techniques du film d'animation bidimensionnel et tridimensionnel. Initiation a la methodologie de la conception et de la production. Developpement historique et etude critique du film d'animation contemporain.

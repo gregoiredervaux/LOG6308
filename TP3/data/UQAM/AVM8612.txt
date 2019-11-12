@@ -1,0 +1,2 @@
+TitreCours: Travail de recherche en education II
+DescriptionCours: Poursuite de la recherche en vue de la redaction du memoire a l'interieur du cadre fourni par la scolarite. Encadrement et supervision par le directeur de recherche qui determine le mode d'evaluation qui convient a la progression de la recherche qu'il accepte de diriger. Redaction d'un rapport lie aux etapes de la recherche.

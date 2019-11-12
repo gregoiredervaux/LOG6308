@@ -1,0 +1,2 @@
+TitreCours: Microsystemes
+DescriptionCours: Rappel des principes de microfabrication. Élaboration des principes de microsystemes mecaniques, acoustiques, thermiques, optiques, electromecaniques, fluidiques, chimiques et biologiques. Encapsulation des microsystemes. Le laboratoire consiste en un projet de conception d'un microsysteme.

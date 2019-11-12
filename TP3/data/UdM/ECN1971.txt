@@ -1,0 +1,2 @@
+TitreCours: Économie de l'Amerique latine
+DescriptionCours: Grandes etapes du developpement economique de l'Amerique latine. Role des institutions economiques nationales et internationales. Ratios financiers associes a la gestion des dettes nationales.

@@ -1,0 +1,2 @@
+TitreCours: English Composition 4
+DescriptionCours: Pratique de l'anglais ecrit dans le domaine litteraire. Perfectionnement de l'anglais ecrit par la redaction d'essais et la lecture de textes en anglais.

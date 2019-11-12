@@ -1,0 +1,2 @@
+TitreCours: Optimisation stochastique
+DescriptionCours: Notions de risque. Programmation dynamique deterministe et stochastique : programmation dynamique incrementielle, programmation dynamique avec scenarios, programmation dynamique duale, methodes d'approximations successives, methodes d'interpolation et d'agregation. Filtre de Kalman. Solutions de problemes lineaires, quadratiques et gaussiens. Processus decisionnel markovien. Programmation lineaire stochastique. Programmation stochastique avec recours.

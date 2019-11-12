@@ -1,0 +1,2 @@
+TitreCours: Geologie structurale et tectonique
+DescriptionCours: Theorie des plaques tectoniques; comportement rheologique de la croûte et du manteau; mesures de contrainte et de deformation; mecanismes de deformation et zones de cisaillement; chaines de subduction, de collision et de decrochement; structures oceaniques et continentales de distension ; methodes d'analyse tectonique ; traitement statistique et interpretation des elements structuraux ; discussion de cas typiques.

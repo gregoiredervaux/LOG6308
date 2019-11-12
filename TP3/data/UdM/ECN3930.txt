@@ -1,0 +1,2 @@
+TitreCours: Distribution du revenu
+DescriptionCours: Revenus agreges. Determinants des salaires. Transferts et pauvrete. Richesse et revenus de placements.

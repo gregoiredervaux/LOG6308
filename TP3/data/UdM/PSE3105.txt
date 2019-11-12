@@ -1,0 +1,2 @@
+TitreCours: Étude de cas et plans d'intervention
+DescriptionCours: Identification des difficultes d'adaptation sociale et des besoins d'un individu. Élaboration d'un plan et de strategies d'intervention.

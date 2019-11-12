@@ -1,0 +1,2 @@
+TitreCours: Geographie quantitative 2
+DescriptionCours: Statistique appliquee a l'analyse de variables geographiques : test du khi-deux, analyse de variance a un et deux criteres de classification, correlation, regression, regression multiple, autocorrelation spatiale et temporelle.

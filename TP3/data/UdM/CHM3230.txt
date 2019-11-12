@@ -1,0 +1,2 @@
+TitreCours: Chimie organometallique
+DescriptionCours: Étude de la nature, de la synthese, de la structure et des proprietes des composes contenant des liaisons carbone-metal de transition. Categories de ligands importants. Classes de reactions. Applications.

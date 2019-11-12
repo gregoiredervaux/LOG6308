@@ -1,0 +1,2 @@
+TitreCours: Floristique du Quebec
+DescriptionCours: Recolte des plantes, bases de donnees dans les etudes de biodiversite. Concepts generaux de floristique. Floristique du Quebec. Conservation des plantes et loi des especes en danger. Diagnose des principales familles.

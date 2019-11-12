@@ -1,0 +1,2 @@
+TitreCours: Marketing pharmaceutique
+DescriptionCours: Notions fondamentales du marketing, marketing du medicament par les compagnies pharmaceutiques. (oncomitant PHA 3220)

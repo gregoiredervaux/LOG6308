@@ -1,0 +1,2 @@
+TitreCours: Promotion de l'activite physique
+DescriptionCours: Adaptation au domaine de l'activite physique des theories et modeles utilises en promotion de la sante. Travail pratique : elaboration et planification d'une strategie de promotion de l'activite physique aupres d'un groupe cible.

@@ -1,0 +1,2 @@
+TitreCours: Chimie analytique 2
+DescriptionCours: La chromatographie analytique et les methodes spectroscopiques d'analyse. Principes de separation. Techniques chromatographiques et d'electrophorese capillaire. Spectrophotometries atomique et moleculaire. Problemes analytiques.

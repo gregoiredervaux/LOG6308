@@ -1,0 +1,2 @@
+TitreCours: Roman moderne et contemporain
+DescriptionCours: Étude de l'evolution des textes, genres et formes romanesques modernes et contemporains.

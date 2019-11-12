@@ -1,0 +1,2 @@
+TitreCours: Information protegee et informatique
+DescriptionCours: Menaces contre l&rsquo;information, informations a proteger; confidentialite; procedures et plan de protection de l&rsquo;information; sensibilisation des employes; protections physiques; securite informatique et prevention de la cybercriminalite; fraude.

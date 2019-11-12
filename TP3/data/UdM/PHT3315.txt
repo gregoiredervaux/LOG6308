@@ -1,0 +1,2 @@
+TitreCours: Kinesitherapie 3
+DescriptionCours: Affections respiratoires, cardiaques et vasculaires. Moyens d'investigation, physiopathologie, traitement medical et chirurgical. Évaluation en physiotherapie. Prevention. Traitements. Exercices respiratoires, drainage postural, auscultation.

@@ -1,0 +1,2 @@
+TitreCours: Methodes journalistiques
+DescriptionCours: Le journaliste devant l'evenement - les sources : orales, ecrites. Le dossier de presse et le schema d'entrevue. Les genres journalistiques : entrevue, nouvelle, reportage, analyse, journalisme d'enquete, etc.

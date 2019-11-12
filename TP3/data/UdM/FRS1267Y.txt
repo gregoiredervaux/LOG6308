@@ -1,0 +1,2 @@
+TitreCours: Didactique de l'ecrit en FLS
+DescriptionCours: Permettre a l'etudiant de niveau avance d'appliquer les developpements recents en didactique de la lecture et de l'ecriture dans l'enseignement du francais langue seconde ou etrangere.

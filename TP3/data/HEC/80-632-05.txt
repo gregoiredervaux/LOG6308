@@ -1,0 +1,2 @@
+TitreCours: Extensions de la programmation lineaire et applications en gestion
+DescriptionCours: 

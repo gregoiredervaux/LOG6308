@@ -1,0 +1,2 @@
+TitreCours: Pratique en etablissement de sante 3
+DescriptionCours: Stage de perfectionnement des competences reliees a la pratique pharmaceutique en etablissement de sante dans un secteur de soins generaux ou specialises; interventions aupres des patients, des aidants naturels et des professionnels.

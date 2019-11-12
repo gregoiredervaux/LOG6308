@@ -1,0 +1,2 @@
+TitreCours: Paleontologie
+DescriptionCours: Morphologie, evolution et classification des invertebres, vertebres et des plantes. Origine de la vie. Caracteres generaux et evolutifs des grands phyla des invertebres (macro et microfossiles) et des vertebres. Paleobotanique et evolution du regne vegetal. Notion de biostratigraphie et de paleoecologie. Collecte et analyse de fossiles du Paleozoique et du Quaternaire des basses terres du Saint-Laurent. Diversification et extinctions. Laboratoire (2 heures). Sorties sur le terrain.

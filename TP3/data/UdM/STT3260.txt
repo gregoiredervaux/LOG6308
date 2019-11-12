@@ -1,0 +1,2 @@
+TitreCours: Modeles de survie
+DescriptionCours: Fonction de survie. Taux de panne. Modeles parametriques et non parametriques pour des donnees completes. Estimation. Differents types de censure. Modele de regression. Applications. Ce cours contribue a la preparation des examens SOA C et CAS 4.

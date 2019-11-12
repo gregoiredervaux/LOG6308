@@ -1,0 +1,2 @@
+TitreCours: Seminaire de specialisation I
+DescriptionCours: Ce seminaire vise a permettre aux etudiants un approfondissement theorique, epistemologique et methodologique de leur formation dans le domaine de specialisation ou s'inscrivent leurs recherches doctorales. Le contenu de ce seminaire varie en fonction des besoins de formation des etudiants qui s'y inscrivent, compte tenu de leur choix de champ de specialisation.

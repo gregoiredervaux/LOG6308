@@ -1,0 +1,2 @@
+TitreCours: Monitorage en anesthesie
+DescriptionCours: Principes et caracteristiques des moniteurs d'anesthesie. Bioelectricite et parametres physiologiques. Normes et reglementations. Aspects securitaires. Applications cliniques. Interpretation des donnees.

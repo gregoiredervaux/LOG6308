@@ -1,0 +1,2 @@
+TitreCours: Lectures dirigees
+DescriptionCours: L'etudiant pourra completer une recherche sur un sujet de son choix apres entente avec le professeur qui acceptera de le diriger.

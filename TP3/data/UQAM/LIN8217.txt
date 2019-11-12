@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique en linguistique appliquee
+DescriptionCours: Ce seminaire a contenu variable portera sur un theme particulier relatif a la linguistique appliquee.

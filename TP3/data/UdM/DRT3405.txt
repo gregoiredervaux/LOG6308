@@ -1,0 +1,2 @@
+TitreCours: Élements de comptabilite
+DescriptionCours: Modalites de presentation de l'information financiere. Analyse, lecture et interpretation des etats financiers. Responsabilite juridique resultant de la confection et de l'utilisation des etats financiers.

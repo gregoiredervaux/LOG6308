@@ -1,0 +1,2 @@
+TitreCours: Seminaire de mathematiques
+DescriptionCours: Ce cours a contenu variable repondra aux besoins mathematiques des etudiants. En particulier, il pourra chercher a repondre aux besoins qui se manifestent par l'ajout de certains contenus mathematiques au sein des programmes d'etudes (par exemple, graphes, probabilites, statistiques). Il permettra egalement de revoir certains contenus mathematiques dans une vision plus large.

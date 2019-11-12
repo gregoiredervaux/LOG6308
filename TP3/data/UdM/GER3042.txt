@@ -1,0 +1,2 @@
+TitreCours: Planification de la retraite
+DescriptionCours: Cadre de references theoriques et pratiques sur la realite de la retraite (determinants, enjeux et perspectives). Planification, preparation et prise en charge.

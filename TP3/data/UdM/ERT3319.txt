@@ -1,0 +1,2 @@
+TitreCours: Approche scientifique en ergotherapie
+DescriptionCours: Methodes d'acquisition des connaissances : pre-scientifiques et scientifiques. Problematique et hypotheses d'une recherche. Devis, variables et controle : validite interne et externe. Mesure des phenomenes : types de mesure. Notions d'ethique.

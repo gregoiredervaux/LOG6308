@@ -1,0 +1,2 @@
+TitreCours: Principes et techniques de gestion dans le secteur public
+DescriptionCours: Initiation aux techniques et methodes de gestion appliquees au secteur public. Étude de techniques comme le cheminement critique, la gestion par objectifs, la recherche operationnelle, l'analyse des systemes, l'informatique de gestion, etc., en regard des principes de gestion et de leur application dans les secteurs publics quebecois et federal. Critique des principes logiques.

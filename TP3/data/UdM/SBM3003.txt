@@ -1,0 +1,2 @@
+TitreCours: Hematologie
+DescriptionCours: Notions generales de physiopathologie du systeme sanguin. Fonctions et composition du sang. Formation et roles des cellules sanguines. Hemostase et coagulation. Groupes sanguins, transfusion et transplantation.

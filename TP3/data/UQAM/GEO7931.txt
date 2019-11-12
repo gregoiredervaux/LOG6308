@@ -1,0 +1,2 @@
+TitreCours: Activite de stage II
+DescriptionCours: Ce cours represente une suite logique au cours GEO7930, c'est-a-dire que l'activite se deroule aupres du meme organisme et de la meme thematique. L'activite doit repondre aux memes exigences que celles du cours GEO7930. Pour des raisons exceptionnelles il peut s'averer possible que l'etudiant realise la poursuite de son stage au sein d'un autre organisme, ceci demande imperativement l'accord du directeur du programme et de son tuteur.

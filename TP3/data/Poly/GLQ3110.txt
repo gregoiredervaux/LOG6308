@@ -1,0 +1,2 @@
+TitreCours: Geologie de l'ingenieur
+DescriptionCours: Role de l'ingenieur geologue dans les travaux de construction civils. Methodes d'exploration. Cartes geologiques et geotechniques. Instrumentation geotechnique. Geomateriaux utilises en construction, petro-ingenierie. Petrographie des granulats et problemes de reactivite. Traitements et ameliorations des massifs rocheux. Injections des massifs rocheux. Choix des methodes d'excavation. Principes de conception des conduites forcees. Principe de conception de fondations au rocher.

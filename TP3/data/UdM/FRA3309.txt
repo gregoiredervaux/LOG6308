@@ -1,0 +1,2 @@
+TitreCours: Litterature et anthropologie
+DescriptionCours: Analyse du discours anthropologique et de ses rapports avec les textes litteraires.

@@ -1,0 +1,2 @@
+TitreCours: Analyse avance des struct. et lments finis
+DescriptionCours: Rappel du calcul matriciel. Introduction et historique de la mthode des lments finis. La mthode de rigidit incluant l'effet P-Delta. lments de poutres en trois dimensions. Assemblage et solutions des quations. Principes stationnaires et mthode de Rayleigh-Ritz. lments planaires et solides. lments isoparamtriques et axi-symtriques. lments de plaques. lments de voile mince. Introduction aux problmes non linaires. Application aux structures de gnie civil.

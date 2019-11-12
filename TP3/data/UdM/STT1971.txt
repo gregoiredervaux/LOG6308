@@ -1,0 +1,2 @@
+TitreCours: Introduction a la statistique
+DescriptionCours: Distributions statistiques a un caractere. Caracteristiques de position et de dispersion. Distributions statistiques a deux caracteres. Notions de probabilites. Variables aleatoires discretes, infinies et normales.

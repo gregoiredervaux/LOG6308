@@ -1,0 +1,2 @@
+TitreCours: Stage de recherche
+DescriptionCours: Stage de recherche dans un laboratoire, sur le campus ou hors campus, apres approbation par un superviseur de stage et le coordonnateur departemental. Redaction d'un texte scientifique et presentation orale.

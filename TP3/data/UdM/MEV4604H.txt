@@ -1,0 +1,2 @@
+TitreCours: Medecine equine
+DescriptionCours: Deux semaines d'exposition clinique en medecine equine. Stage d'ete hors programme entre la 4e et la 5e annee.

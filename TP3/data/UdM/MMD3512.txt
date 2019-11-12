@@ -1,0 +1,2 @@
+TitreCours: Stage : Specialites chirurgicales
+DescriptionCours: Stages cliniques aupres de malades ambulants ou hospitalises dans differentes specialites chirurgicales.

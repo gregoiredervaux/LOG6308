@@ -1,0 +1,2 @@
+TitreCours: Gestion des ressources humaines 2
+DescriptionCours: Le modele renouvele de gestion des ressources humaines. Les nouvelles tendances en G.R.H. : la gestion strategique, culturelle, participative, individualisee et informatisee ainsi que les programmes d'aide et l'evaluation.

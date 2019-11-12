@@ -1,0 +1,2 @@
+TitreCours: Phonetique instrumentale du francais
+DescriptionCours: Initiation a l'analyse et a l'exploitation des signaux acoustiques dans la parole. Cours en trois parties : signaux et systemes, production, audition et perception.

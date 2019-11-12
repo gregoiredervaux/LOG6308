@@ -1,0 +1,2 @@
+TitreCours: Stage : Pathologie
+DescriptionCours: Initiation au role du pathologiste de l'equipe de soins a l'hopital. L'accent est mis sur les correlations clinico-pathologiques et sur les methodes diagnostiques.

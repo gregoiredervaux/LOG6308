@@ -1,0 +1,2 @@
+TitreCours: Gestion de la SST
+DescriptionCours: A l'aide d'etudes de cas, analyse des trois composantes de la gestion de la sante-securite au travail : financement, reparation, preventions.

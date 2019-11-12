@@ -1,0 +1,2 @@
+TitreCours: Épreuve de francais ecrit
+DescriptionCours: Pour tout renseignement concernant ce test, cliquez sur le lien ci-dessous.  http://www.hec.ca/qualitecomm/francais/bacgest.html

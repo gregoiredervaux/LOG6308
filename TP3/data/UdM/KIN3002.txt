@@ -1,0 +1,2 @@
+TitreCours: Histoire de l'education physique
+DescriptionCours: Place et role des pratiques corporelles en education de l'Antiquite a nos jours. Theories justifiant l'enseignement de l'education physique en milieu scolaire. Integration de la dimension culturelle et des reperes culturels.

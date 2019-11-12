@@ -1,0 +1,2 @@
+TitreCours: Neuropsychologie sensorielle
+DescriptionCours: Traitement de l'information dans les systemes sensoriels : organisation microscopique et microphysiologique. Effets de lesions partielles ou totales. Integration theorique des donnees experimentales.

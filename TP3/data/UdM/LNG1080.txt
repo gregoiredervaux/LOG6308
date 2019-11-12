@@ -1,0 +1,2 @@
+TitreCours: Lexicologie, semantique et morphologie
+DescriptionCours: Notions de base de lexicologie, semantique et morphologie. Themes abordes : unite lexicale, signes et regles morphologiques, structure du lexique, relations lexicales, analyse semantique, phenomenes lexico-pragmatiques, approches lexicographiques.

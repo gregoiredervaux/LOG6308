@@ -1,0 +1,2 @@
+TitreCours: Integration des apprentissages
+DescriptionCours: Bilan des competences en matiere d'evaluation et d'intervention. Integration des aspects theoriques et pratiques a travers des activites cliniques. Autoevaluation de sa demarche d'apprentissage.

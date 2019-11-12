@@ -1,0 +1,2 @@
+TitreCours: Le Japon
+DescriptionCours: Le cadre physique et humain. Les ressources et le developpement economique. Le coût du developpement.

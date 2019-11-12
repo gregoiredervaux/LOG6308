@@ -1,0 +1,2 @@
+TitreCours: Troubles du comportement felin
+DescriptionCours: Presentations de cas cliniques suivies de discussion sur le diagnostic differentiel, le diagnostic probable, la theorie sur la condition, le traitement preconise et l'evolution possible du cas.

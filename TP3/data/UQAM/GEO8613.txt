@@ -1,0 +1,2 @@
+TitreCours: Geomorphologie et amenagement
+DescriptionCours: Le cours a pour objectif de developper une demarche analytique appliquee au processus d'humanisation de l'espace physique. L'amenagement et les contraintes physiques du milieu. Impact du developpement humain sur l'espace physique. Alternatives de choix d'amenagement. Lecture d'articles et d'ouvrages de reference, cours magistraux et seminaires. Travaux pratiques et travaux de recherche sur le terrain.

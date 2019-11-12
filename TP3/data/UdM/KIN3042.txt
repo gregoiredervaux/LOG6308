@@ -1,0 +1,2 @@
+TitreCours: Stage professionnel
+DescriptionCours: Mise en application en situation reelle des habiletes d&rsquo;evaluation, de programmation et d&rsquo;encadrement en activite physique pour des personnes dites normales et des personnes appartenant a des populations symptomatiques.

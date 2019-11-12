@@ -1,0 +1,2 @@
+TitreCours: Physique de l
+DescriptionCours: Approfondissement des connaissances preparant a l'enseignement de la physique au secondaire: etude des systemes physiques et de leurs interactions avec l'environnement. Les systemes physiques de l'infiniment grand a l'infiniment petit (l'univers, l'etoile, la matiere, la molecule, l'atome, le noyau). Les radiations: les particules ionisantes, les ondes sonores. Applications: les impacts des radiations, les techniques de detection des elements polluants, les divers vecteurs energetiques.

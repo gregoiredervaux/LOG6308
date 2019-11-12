@@ -1,0 +1,2 @@
+TitreCours: Gestion financiere
+DescriptionCours: Ce cours est consacre aux decisions de financement et d'investissement dans les organisations non financieres. Il s'apuie sur les elements abordes dans le cours de Finance (2-200-96) mais vise a les examiner de facon plus complete, en faisant appel&nbsp;a differents modeles et theories (ou elements de). Surtout, il vise a en etudier les modalites d'application a des situations concretes d'un niveau de complexite tres proche de celui de la realite.

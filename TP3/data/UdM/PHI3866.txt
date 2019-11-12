@@ -1,0 +1,2 @@
+TitreCours: Problemes de philosophie medievale
+DescriptionCours: Étude de questions philosophiques a partir des textes medievaux, en mettant l'accent sur la tradition latine du Ve au XVe siecle, avec des excursions possibles vers ses sources antiques ou ses prolongements modernes.

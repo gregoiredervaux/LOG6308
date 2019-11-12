@@ -1,0 +1,2 @@
+TitreCours: Morphophysiologie comparee des vertebres
+DescriptionCours: En contexte veterinaire, notions theoriques et pratiques de morphologie et de physiologie des groupes de vertebres suivants : oiseaux, reptiles, poissons et animaux de laboratoire.

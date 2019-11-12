@@ -1,0 +1,2 @@
+TitreCours: Seminaire de recherche en semiologie
+DescriptionCours: Activite de meme type qu'en SEM9300.

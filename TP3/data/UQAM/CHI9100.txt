@@ -1,0 +1,2 @@
+TitreCours: Methodologie de l
+DescriptionCours: Étude et evaluation critique des elements de methodologie de l'analyse chimique. Prelevement et conservation des echantillons. Preparation de l'echantillon pour l'analyse: solubilisation, digestion, extraction, concentration. Sensibilite et precision des methodes d'analyse des constituants majeurs et des constituants mineurs. Facteurs limitant la precision: nature des echantillons, interference, effets de matrice. Controle de qualite.

@@ -1,0 +1,2 @@
+TitreCours: Medecine preventive en apiculture
+DescriptionCours: Statistiques apicoles quebecoises. Morphophysiologie de l'abeille. Comportement d'une colonie. Pathologies de l'abeille adulte. Pathologies de la larve. Programmes de medecine preventive.

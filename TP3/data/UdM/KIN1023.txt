@@ -1,0 +1,2 @@
+TitreCours: Enseignement individuel et de groupe
+DescriptionCours: Techniques de gestion et d'animation de groupe. Principes de securite. Utilisation d'activites, telles l'entrainement avec musique, sur plateaux et en piscine, pour la mise en forme de clienteles variees.

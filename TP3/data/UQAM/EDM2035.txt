@@ -1,0 +1,2 @@
+TitreCours: Organisation d
+DescriptionCours: Ce cours vise a offrir aux etudiants les outils necessaires pour travailler a la conception et a la mise en oeuvre d'evenements dans le domaine de la culture et de la communication. Le cours traite de differents aspects (commandites, programmation, organisation, coordination, etc.) lies a la mise en oeuvre d'un evenement. Les etudiants seront impliques dans la conception, l'organisation et la mise en oeuvre d'evenements.

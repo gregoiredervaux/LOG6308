@@ -1,0 +1,2 @@
+TitreCours: Paleographie
+DescriptionCours: Apprentissage des techniques de lecture des ecritures anciennes du Moyen Age jusqu'au XVIIe siecle.

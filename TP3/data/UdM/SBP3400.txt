@@ -1,0 +1,2 @@
+TitreCours: Intro. a la fabrication pharmaceutique
+DescriptionCours: Procedes pharmaceutiques industriels, operations unitaires, bonnes pratiques de fabrication, caracterisation des materiaux, en particulier les solides pulverulents.

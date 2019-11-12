@@ -1,0 +1,2 @@
+TitreCours: Stage en recherche en physiologie
+DescriptionCours: Cours a l'intention des etudiants qui desirent faire un stage d'une duree minimal de 15 semaines au departement de physiologie. L'etudiant sera supervise par un professeur de physiologie et participera aux projets de recherche dans son laboratoire.

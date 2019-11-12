@@ -1,0 +1,2 @@
+TitreCours: Chimie analytique
+DescriptionCours: Ce cours vise la comprehension des principes de l'analyse chimique par voie humide. Il donnera aux etudiants les bases d'analyse au travers de l'etude des principes fondamentaux d'analyse quantitative par voie humide.

@@ -1,0 +1,2 @@
+TitreCours: Aspects medicaux et ergonomiques
+DescriptionCours: Aspects medicaux des cas d'invalidite physique resultant d'accidents du travail, de maladies professionnelles, de conditions personnelles, et des cas d'invalidite psychologique. Notions ergonomiques applicables a la readaptation en milieu de travail.

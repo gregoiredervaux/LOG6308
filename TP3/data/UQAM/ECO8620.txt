@@ -1,0 +1,2 @@
+TitreCours: Économetrie de la finance et applications
+DescriptionCours: Ce cours vise a integrer, approfondir et appliquer certains themes abordes dans les cours ECO8600 Fondements econometriques de la finance et MAT8510 Calcul stochastique applique . Maximum de vraisemblance. Modeles lineaires multivaries. Modeles a facteurs. Modeles ARCH-GARCH multivaries. Methode des moments generalises. Methodes simulees d'estimation. Reseaux de neurones. Methodes non parametriques. Techniques quantitatives appliquees aux microstructures de marche. Cours avec seances de laboratoire.

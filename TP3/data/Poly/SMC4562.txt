@@ -1,0 +1,2 @@
+TitreCours: Analyse fonctionnelle et usine numerique
+DescriptionCours: Outils et methodes d'analyse utilises dans la conception d'un produit industriel : analyse systemique et analyse fonctionnelle, redaction de cahier des charges fonctionnel et dessins de definition, analyse fonctionnelle et tracabilite tout au long du cycle de vie d'un produit. Concept de base de l'usine numerique et applications.

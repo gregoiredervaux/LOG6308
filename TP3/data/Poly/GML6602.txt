@@ -1,0 +1,2 @@
+TitreCours: Flottation des minerais
+DescriptionCours: Technique de flottation : aspects physique, chimique, aerodynamique et hydrodynamique. Methodes de flottation : ecume, flottation ionique, precipite. Appareillages de flottation et dimensionnement des equipements. Application : traitement du minerai, depollution des rejets industriels, desulfuration environnementale. Mineralogie appliquee et performance de la flottation.

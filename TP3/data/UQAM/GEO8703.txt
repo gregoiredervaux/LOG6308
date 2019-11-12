@@ -1,0 +1,2 @@
+TitreCours: Seminaire de lecture
+DescriptionCours: Cette activite tutorale vise a completer la formation de l'etudiant dans le domaine specifique de son memoire. Encadre par son directeur de memoire, l'etudiant fait la recension des ecrits dans son domaine de recherche et enrichit la problematique et le cadre theorique de son memoire. Selon des modalites entendues avec son directeur, l'etudiant produit un document synthese evalue selon des criteres etablis par le programme.

@@ -1,0 +1,2 @@
+TitreCours: Debats theoriques contemporains
+DescriptionCours: Cours-seminaire portant sur une selection de debats theoriques contemporains, a propos d&rsquo;objets importants eclaires par des developpements recents.

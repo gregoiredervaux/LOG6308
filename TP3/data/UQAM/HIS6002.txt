@@ -1,0 +1,2 @@
+TitreCours: Activite de recherche
+DescriptionCours: Cours thematique de recherche enrichie faisant suite au cours HIS6001. Ce cours met l'accent sur les developpements des competences necessaires a la production et a la diffusion d'une recherche historique par differents moyens (article, exposition, rapport de recherche, colloque, site Internet, etc.).

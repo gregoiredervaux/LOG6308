@@ -1,0 +1,2 @@
+TitreCours: Philosophie de l'histoire
+DescriptionCours: Reflexion critique sur le statut epistemologique de la science historique, la nature de l'explication et le role de la narration. Heritage des philosophies speculatives de l'histoire. Discussion de leur pertinence.

@@ -1,0 +1,2 @@
+TitreCours: Initiation a la bio-informatique
+DescriptionCours: Logiciels : de comparaison et d'alignement de sequences biologiques, de prediction de structures, de recherche de motifs, d'assemblage de sequences, de cartographie physique et d'analyse phylogenetique.

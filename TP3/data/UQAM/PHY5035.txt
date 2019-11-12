@@ -1,0 +1,2 @@
+TitreCours: Physique experimentale
+DescriptionCours: Montage et realisation de plusieurs experiences fondamentales dans lesquelles l'etudiant devra se familiariser avec divers instruments de base de la physique. Spectrometre, interferometre, photometre, laser, generateur et detecteur de micro-ondes, detecteur de particules ionisantes, sonde Hall. Mesure des variables qui caracterisent l'atmosphere.

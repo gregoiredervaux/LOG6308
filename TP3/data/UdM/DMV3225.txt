@@ -1,0 +1,2 @@
+TitreCours: Infectiologie vet. - animaux de rente
+DescriptionCours: Approche veterinaire par syst. ou organe, principaux elements relies au diagnostic et controle d'agents infect. (bacteries, fungi, virus, parasites) rencontres chez les bovins, ovins, caprins, porcins, volailles, ratites et poissons d'elevage.

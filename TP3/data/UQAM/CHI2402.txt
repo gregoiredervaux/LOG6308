@@ -1,0 +1,2 @@
+TitreCours: Chimie physique II
+DescriptionCours: Application de la thermodynamique aux equilibres de phases et aux equilibres chimiques. Potentiel chimique, grandeurs molaires partielles. Regle des phases, diagramme de phases d'un corps pur. Solutions : diagrammes simples, proprietes colligatives. Aneotropes, separation de phases, diagrammes complexes. Application des solutions aux equilibres chimiques homogenes et heterogenes. Élements de cinetique. Generalites, reactions simples et mecanismes. Introduction a la theorie des vitesses de reaction et a la catalyse.

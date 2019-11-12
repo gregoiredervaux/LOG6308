@@ -1,0 +1,2 @@
+TitreCours: Digestion et nutrition
+DescriptionCours: Anatomie, physiologie, pathologie et pharmacologie du systeme digestif : glandes salivaires, estomac, intestin, foie et pancreas. Mecanismes regulateurs du systeme. Introduction a la nutrition.

@@ -1,0 +1,2 @@
+TitreCours: Gestion - service-conseil
+DescriptionCours: Roles et fonctions du service-conseil dans une agence de publicite; liens et partenariats avec les clients annonceurs. Évaluation des problematiques. Analyse strategique. Gestion, projets, budgets et echeanciers.

@@ -1,0 +1,2 @@
+TitreCours: Chinois elementaire 2
+DescriptionCours: Developpement du vocabulaire et de la syntaxe pour conversations simples. Laboratoire de langue. Acquisition de 250 caracteres simplifies et non simplifies.

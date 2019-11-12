@@ -1,0 +1,2 @@
+TitreCours: Seminaire a contenu variable
+DescriptionCours: Ce seminaire a contenu variable a pour objectifs de permettre la presentation de travaux qui ne peuvent etre couverts dans le cadre d'un autre cours. Il porte donc sur des questions, themes ou problematiques qui seront definis a chaque occasion par le professeur responsable.

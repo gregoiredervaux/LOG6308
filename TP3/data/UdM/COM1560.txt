@@ -1,0 +1,2 @@
+TitreCours: Communication infographique
+DescriptionCours: Initiation a divers logiciels de traitement de l'information graphique et de l'image. Problematique du choix et de l'evaluation.

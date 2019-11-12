@@ -1,0 +1,2 @@
+TitreCours: Dynamique des populations
+DescriptionCours: Processus responsables des variations temporelles de l'abondance des populations animales et vegetales. Description et utilisation de modeles mathematiques visant a quantifier et predire les variations de l'abondance des populations.

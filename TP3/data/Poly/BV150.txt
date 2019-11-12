@@ -1,0 +1,2 @@
+TitreCours: Conception de systmes mcaniques performants
+DescriptionCours: Principes de conception des systmes mcaniques performants dans les btiments durables. quipements performants de climatisation et de chauffage. Rcupration de chaleur entre diffrents procds internes du btiment. quipements et accessoires  faible consommation nergtique. Potentiel des technologies d'nergie renouvelables en regard de leurs usages dans le btiment durable (gothermie, murs solaires, photovoltaque). Btiment  nergie nette nulle.

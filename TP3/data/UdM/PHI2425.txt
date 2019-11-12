@@ -1,0 +1,2 @@
+TitreCours: Philosophie politique contemporaine
+DescriptionCours: Principaux debats en philosophie politique depuis Rawls : egalite et justice distributive; liberaux et communautariens; liberalisme et pluralisme culturel; democratie deliberative; nationalisme et droits collectifs.

@@ -1,0 +1,2 @@
+TitreCours: Technologie de construction mcanique
+DescriptionCours: Systmes d'ajustements normaliss international et canado-amricain. Tolrancement gomtrique. Isostatisme des mcanismes. Schmatisation normalise ISO des liaisons. Analyse des liaisons. tats de surface. Cotation fonctionnelle. Conception et dessins de dfinition de produits finis et dessins d'ensembles mcaniques assists par ordinateur.

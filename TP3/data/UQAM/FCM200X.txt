@@ -1,0 +1,2 @@
+TitreCours: Seminaire de synthese et d
+DescriptionCours: Ce cours a comme objectifs de permettre une synthese des apprentissages et une mise a jour des connaissances et des pratiques dans l'un des domaines de formation professionnelle de la Faculte. Il vise l'acquisition de formation de pointe dans les differentes disciplines. Cours a la fois theorique et pratique: enonces d'appareils conceptuels et methodologiques recents. Activites pratiques, exercices, simulations, travaux pratiques et productions.

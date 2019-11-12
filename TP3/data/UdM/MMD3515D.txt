@@ -1,0 +1,2 @@
+TitreCours: Stage : Pediatrie de l'age scolaire
+DescriptionCours: Stage clinique offrant une vue globale de la pediatrie en pediatrie de l'age scolaire.

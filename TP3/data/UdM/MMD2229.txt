@@ -1,0 +1,2 @@
+TitreCours: Coeur et circulation
+DescriptionCours: Circulation systemique et hypertension arterielle. Atherosclerose coronarienne et peripherique. Angine, infarctus, arythmies, valvulopathies et maladies du pericarde. Anomalies cardiaques congenitales. Insuffisance cardiaque et choc.

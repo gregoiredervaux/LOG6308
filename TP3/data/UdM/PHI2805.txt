@@ -1,0 +1,2 @@
+TitreCours: La Republique de Platon
+DescriptionCours: Étude detaillee et approfondie des dix livres de la Republique et expose de la pensee politique de Platon depuis ses premiers dialogues jusqu'aux Lois.

@@ -1,0 +1,2 @@
+TitreCours: Recherche et resolution de problemes
+DescriptionCours: Étude des grands courants de la recherche actuelle en education comme facteurs de renouvellement des pratiques pedagogiques en classe heterogene et de l'ecole dans un environnement culturel et technologique en mutation.

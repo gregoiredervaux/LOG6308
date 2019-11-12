@@ -1,0 +1,2 @@
+TitreCours: Seminaire ou communication
+DescriptionCours: Le travail exige consiste a soumettre le texte d'une communication qui sera presentee dans le cadre d'un cours, d'un seminaire (autre que ceux inscrits au programme de l'etudiante) ou d'un colloque, en lien avec la formation en etudes feministes. Ce cours est evalue selon la notation succes-echec.

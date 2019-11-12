@@ -1,0 +1,2 @@
+TitreCours: Deficiences auditives peripheriques 1
+DescriptionCours: Physiopathologie et psychoacoustique appliquees aux troubles auditifs peripheriques. Évaluation et intervention.

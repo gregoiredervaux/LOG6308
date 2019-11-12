@@ -1,0 +1,2 @@
+TitreCours: Problemes en hygiene veterinaire 1
+DescriptionCours: A partir d'une problematique rencontree par l'etudiant dans son milieu de travail ou fournie par son professeur, evaluer le risque encouru avec une approche analytique et proposer des solutions.

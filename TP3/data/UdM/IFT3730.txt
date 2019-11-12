@@ -1,0 +1,2 @@
+TitreCours: Infographie 3D
+DescriptionCours: Objets geometriques 3D. Transformations et projections. Visibilite. Textures. Modelisation. Courbes et surfaces.

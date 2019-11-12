@@ -1,0 +1,2 @@
+TitreCours: Bureau d'etude d'un systeme mecanique
+DescriptionCours: Reconception d'un systeme mecanique. Mise en oeuvre des outils de mecanique du solide rigide pour l'etude des mouvements et du solide deformable pour le dimensionnement des composants. Construction de modeles CAO filaires, surfaciques, volumiques et elements finis. Analyse modale experimentale et recalage du modele. Construction d'un modele multicorps. Mise en oeuvre d'une base de donnees pour la gestion des donnees et des fichiers de simulation.

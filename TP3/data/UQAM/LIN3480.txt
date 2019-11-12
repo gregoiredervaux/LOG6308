@@ -1,0 +1,2 @@
+TitreCours: Description de la langue des signes quebecoise II
+DescriptionCours: L'objectif du cours est de permettre a l'etudiant de mieux connaitre la LSQ sous le biais d'une description linguistique sommaire. Les processus de formation des signes de la LSQ et leurs contraintes phonologiques. Les marqueurs de temps, de nombre, de negation, les classes de verbes, etc. Les regles d'ordonnancement des signes, les differents types de phrases et les differentes structures (par exemple les interrogatives), l'etude de la reference.

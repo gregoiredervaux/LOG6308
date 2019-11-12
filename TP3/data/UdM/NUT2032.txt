@@ -1,0 +1,2 @@
+TitreCours: Nutrition fondamentale
+DescriptionCours: Fonctions des nutriments dans l'organisme. Nature, bases physiologiques et facteurs de variation des besoins en elements nutritifs. Symptomes de carences et d'exces. Fondements et application des standards nutritionnels.

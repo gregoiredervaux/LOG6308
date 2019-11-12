@@ -1,0 +1,2 @@
+TitreCours: Introduction a la biostatistique
+DescriptionCours: Analyse des series statistiques simple et double. Distribution de probabilites. Theories de l'estimation de la decision. Tests parametriques et non parametriques de comparaison d'echantillons. Interpretation statistique et signification biologique des resultats. Ce cours comprend des travaux pratiques et l'utilisation du microordinateur pour le traitement de donnees.

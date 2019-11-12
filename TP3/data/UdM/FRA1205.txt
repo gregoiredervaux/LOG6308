@@ -1,0 +1,2 @@
+TitreCours: Lecture de l'essai
+DescriptionCours: Initiation a la lecture d&rsquo;essais : theorie, methodes et techniques du commentaire.

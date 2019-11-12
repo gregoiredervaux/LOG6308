@@ -1,0 +1,2 @@
+TitreCours: Medecine familiale
+DescriptionCours: Stage dans un milieu de pratique generale, au cours duquel l'etudiant acquiert et applique les connaissances, developpe les attitudes et les habiletes propres a la medecine familiale.

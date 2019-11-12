@@ -1,0 +1,2 @@
+TitreCours: Soins preventifs primaires 2
+DescriptionCours: Conseils d'hygiene dentaire et nutritionnels, soins de prevention et evaluation des conseils donnes aux patients. Confection d'un protecteur buccal.

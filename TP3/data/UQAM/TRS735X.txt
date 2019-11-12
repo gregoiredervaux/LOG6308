@@ -1,0 +1,2 @@
+TitreCours: Seminaire
+DescriptionCours: Ce seminaire, a contenu variable, porte sur des themes de recherche developpes par des professeurs des departements concernes ou des collegues invites. Il a comme objectif de permettre au professeur responsable de faire beneficier les etudiants de ses recherches en cours.

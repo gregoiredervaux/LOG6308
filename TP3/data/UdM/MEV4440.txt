@@ -1,0 +1,2 @@
+TitreCours: La douleur et son controle
+DescriptionCours: Mecanismes de la douleur et implications therapeutiques; theorie, demonstrations, pratique des anesthesies loco-regionales, des elements d'acupuncture, de manipulations osteopathiques.

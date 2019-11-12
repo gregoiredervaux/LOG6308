@@ -1,0 +1,2 @@
+TitreCours: Tribunaux de competence federale en R.I.
+DescriptionCours: Les tribunaux de juridiction federale specialises dans le domaine du travail : rapports collectifs de travail, normes du travail, sante et securite et droits de la personne.

@@ -1,0 +1,2 @@
+TitreCours: Équipements spatiaux de communication
+DescriptionCours: Circuits electroniques et hyperfrequences: rappel des notions fondamentales essentielles, composantes actives et passives, caracterisaiton et mesure, logiciels de CAO, technologies specifiques pour applications spatiales, analyse de sensibilite. Techniques de conception, de realisation et de mesure des principaux blocs fonctionnels electroniques et hyperfrequences. Repeteurs transportes a bord de satellites.

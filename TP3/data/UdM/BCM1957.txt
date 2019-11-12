@@ -1,0 +1,2 @@
+TitreCours: Biochimie generale 2
+DescriptionCours: Notions de base : structure, proprietes, fonctions, digestion et metabolisme des lipides, acides amines, et bases azotees; regulation du metabolisme; biochimie clinique.

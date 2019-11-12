@@ -1,0 +1,2 @@
+TitreCours: Les systemes physiques
+DescriptionCours: Approfondissement des connaissances preparant a l'enseignement de la physique au secondaire (I) Étude des systemes physiques de l'infiniment petit a l'infiniment grand et des fondements de leurs interactions (le quark, le noyau, l'atome, la molecule, la matiere, le systeme Soleil-Terre, l'etoile, l'univers du Big Bang a demain). Applications: les impacts des radiations de ces systemes, les diverses sources energetiques, les techniques de detection des elements polluants. Ce cours comprend des travaux pratiques.

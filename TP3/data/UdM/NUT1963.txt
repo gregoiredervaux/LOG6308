@@ -1,0 +1,2 @@
+TitreCours: Nutrition
+DescriptionCours: Connaissance des nutriments, de leurs roles et des sources alimentaires. Besoins nutritionnels des individus et utilisation de guides alimentaires. Étude des relations entre l'alimentation et la sante dentaire : aspects preventifs et curatifs.

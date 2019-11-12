@@ -1,0 +1,2 @@
+TitreCours: Chimie inorganique I
+DescriptionCours: Étude detaillee des proprietes des elements non transitionnels en relation avec le tableau periodique. Structure de l'atome. La liaison chimique et les forces de Vander Waals. Proprietes de la liaison covalente et de la liaison ionique. Hybridation et geometrie des molecules.

@@ -1,0 +1,2 @@
+TitreCours: Dispos. medicaux intelligents (GBM8320)
+DescriptionCours: Circuits d'implants: surveillance, stimulation neuromusc. Systeme nerveux, biopotentiels. Électrodes, amplificateurs. Biophysique: stimulation electrique, magnetique. Stimulateurs, ex: cochlee, retine, incontinence.

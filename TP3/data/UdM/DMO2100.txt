@@ -1,0 +1,2 @@
+TitreCours: Population canadienne
+DescriptionCours: La population ancienne et la population moderne du Canada et de ses regions comme champ d'application de l'analyse longitudinale et de l'analyse transversale. A l'aide de graphiques et de tableaux, relations entre mouvements et structures.

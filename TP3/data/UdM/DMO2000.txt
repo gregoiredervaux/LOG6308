@@ -1,0 +1,2 @@
+TitreCours: Lectures dirigees en sciences sociales
+DescriptionCours: Initiation aux principaux concepts theoriques des disciplines des sciences sociales les plus pertinentes pour entreprendre des etudes en demographie.

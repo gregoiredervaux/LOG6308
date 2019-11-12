@@ -1,0 +1,2 @@
+TitreCours: Difficultes d
+DescriptionCours: Analyse d'erreurs commises et diagnostic de difficultes rencontrees par les enfants dans les apprentissages fondamentaux au primaire. Instrumentations diagnostiques (mini-entrevues en classe, entrevues, etc.). Reflexion sur la question de l'evaluation des apprentissages mathematiques. Analyse critique des differents tests d'evaluation mathematiques (ministere de l'Éducation du Quebec, commissions scolaires, etc.), de leurs objectifs, des difficultes qu'ils soulevent et de ce qu'ils revelent sur la formation mathematique donnee.

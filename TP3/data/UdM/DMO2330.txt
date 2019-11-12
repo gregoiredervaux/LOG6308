@@ -1,0 +1,2 @@
+TitreCours: Techniques auxiliaires
+DescriptionCours: Rappel des principales notions de mathematiques utilisees en demographie mathematique (calcul differentiel et integral, calcul matriciel). Illustrations a l'aide de modeles simples.

@@ -1,0 +1,2 @@
+TitreCours: Medecine, sante et societe au Quebec
+DescriptionCours: Histoire intellectuelle et socio-institutionnelle de la medecine et de la sante au Quebec aux XIXe et XXe siecles.

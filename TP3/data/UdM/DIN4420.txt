@@ -1,0 +1,2 @@
+TitreCours: Pratique professionnelle
+DescriptionCours: Relations professionnelles entre le designer industriel, ses clients, ses collaborateurs et les autres membres de la profession. Introduction aux aspects legaux, financiers, strategiques et ethiques de la pratique.

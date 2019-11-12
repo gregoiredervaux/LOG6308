@@ -1,0 +1,2 @@
+TitreCours: Traduction commerciale et economique
+DescriptionCours: Analyse et traduction de differents genres de textes C/É, en prenant en compte les systemes notionnels, terminologiques et phraseologiques. Developpement d'une demarche d'exploitation de connaissances specialisees.

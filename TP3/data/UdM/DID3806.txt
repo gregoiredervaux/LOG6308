@@ -1,0 +1,2 @@
+TitreCours: Did. de la physique au secondaire 1
+DescriptionCours: Problematique de l'ens. de la physique. Programmes. Strategies et techniques didactiques au laboratoire et en classe. Utilisation de materiel informatise pour l'ens., l'analyse et la representation des donnees. Évaluation.

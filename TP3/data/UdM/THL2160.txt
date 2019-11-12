@@ -1,0 +1,2 @@
+TitreCours: Stage d'exploration
+DescriptionCours: Exploration supervisee des habiletes personnelles dans un milieu communautaire, paroissial, scolaire, hospitalier, carceral, etc., choisi par l'etudiant. Apprentissage de composantes de l'intervention pastorale. Planification d'un projet.

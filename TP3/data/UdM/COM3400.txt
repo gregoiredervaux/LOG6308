@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique
+DescriptionCours: Cours-seminaire portant sur un aspect particulier de la communication lie a des recherches de pointe et non couvert par les cours reguliers du programme.

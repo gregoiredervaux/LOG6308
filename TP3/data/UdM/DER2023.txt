@@ -1,0 +1,2 @@
+TitreCours: Endodontie preclinique
+DescriptionCours: Seances precliniques permettant a l'etudiant de realiser les differentes etapes necessaires a un traitement de canal sur des dents humaines extraites et sur des canaux simules dans des blocs en plastique.

@@ -1,0 +1,2 @@
+TitreCours: Questions de criminologie 2
+DescriptionCours: Seminaire permettant a l'etudiant d'approfondir certaines matieres criminologiques.

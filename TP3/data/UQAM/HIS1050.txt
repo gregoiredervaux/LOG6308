@@ -1,0 +1,2 @@
+TitreCours: Histoire des objets fabriques
+DescriptionCours: Cours centre sur l'histoire des objets fabriques et des outils, de leur naissance a leur complexification contemporaine dans une perspective d'histoire des sciences appliquees. Étude de l'evolution des objets fabriques, de l'apparition de la roue et du collier d'epaules comme outils, en passant par l'utilisation du feu puis de la vapeur comme formes d'energie, a l'organisation serielle de la societe, jusqu'a l'arrivee de la robotique, de l'informatique et de la nouvelle biologie.

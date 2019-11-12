@@ -1,0 +1,2 @@
+TitreCours: Dotation
+DescriptionCours: A l'aide d'etudes de cas, analyse de situations impliquant des questions de recrutement, selection, accueil, integration ainsi que des questions de gestion des mouvements (transferts, mutations, promotions, retrogradations).

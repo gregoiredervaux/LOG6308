@@ -1,0 +1,2 @@
+TitreCours: Bases moleculaires des maladies humaines
+DescriptionCours: Mecanismes moleculaires et cellulaires de maladies humaines: lesions du systeme nerveux, les maladies infectieuses, les maladies genetiques, les cancers et metastases. D'autres maladies pourraient se greffer a cette liste.

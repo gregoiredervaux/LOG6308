@@ -1,0 +1,2 @@
+TitreCours: Sociologie 1
+DescriptionCours: Les concepts sociologiques fondamentaux et leur utilisation dans l'analyse des phenomenes relatifs a la sante et au bien-etre.

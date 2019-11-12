@@ -1,0 +1,2 @@
+TitreCours: Geomorphologie structurale
+DescriptionCours: Étude des processus dynamiques de la lithosphere et de leurs consequences sur le relief terrestre. Definition des principaux domaines structuraux avec leurs caracteres morphologiques: boucliers, massifs anciens, plates-formes sedimentaires, chaines recentes et arcs insulaires. Application au relief du Quebec et de l'Amerique du Nord. Étude de la differenciation des reliefs en fonction de la lithologie: cas du granite et des roches carbonatees. Travaux en laboratoire (2 heures) et sorties sur le terrain.

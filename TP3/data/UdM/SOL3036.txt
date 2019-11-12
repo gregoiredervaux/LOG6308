@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de recherche 1
+DescriptionCours: Dans le cadre d&rsquo;un seminaire, l&rsquo;etudiant est invite a concevoir une recherche sur un sujet au choix. Par la voie des lectures approfondies, il effectue une revue critique de la litterature pertinente et developpe une problematique de recherche.

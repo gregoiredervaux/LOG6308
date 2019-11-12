@@ -1,0 +1,2 @@
+TitreCours: Chimie analytique environnementale
+DescriptionCours: Processus analytiques propres aux analyses environnementales : definition du probleme et plan d'experience, strategies d'echantillonnage, traitement et conservation des echantillons. Techniques analytiques instrumentales et validation des methodes.

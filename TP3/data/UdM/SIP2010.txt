@@ -1,0 +1,2 @@
+TitreCours: Gestion en securite interieure
+DescriptionCours: Fonctionnement efficace d'une organisation en relation avec son environnement. Roles et fonctions principales du gestionnaire: planification, organisation, direction et controle. Prevention des pertes.

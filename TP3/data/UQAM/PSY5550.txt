@@ -1,0 +1,2 @@
+TitreCours: Theories et recherches en psychophysiologie
+DescriptionCours: Les principaux indices psychophysiologiques employes en psychologie. Roles, mesures et problemes d'interpretation. États des recherches et controverses.

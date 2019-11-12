@@ -1,0 +1,2 @@
+TitreCours: Grammaire approfondie
+DescriptionCours: Revision des structures grammaticales importantes et etude des phenomenes grammaticaux reputes difficiles. Analyses grammaticales adaptees a la redaction de textes d'idees. Étude comparative des grammaires allemande et francaise.

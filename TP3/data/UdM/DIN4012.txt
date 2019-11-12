@@ -1,0 +1,2 @@
+TitreCours: Atelier de conception integree
+DescriptionCours: Conception et developpement d'un projet de grande envergure ou d'ingenierie simultanee en equipe multidisciplinaire (genie, design) et multisectorielle (universite, entreprise...). Hypotheses et developpement d'un concept preliminaire de design.

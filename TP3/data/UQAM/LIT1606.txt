@@ -1,0 +1,2 @@
+TitreCours: Litterature quebecoise
+DescriptionCours: Initiation a l'etude de la litterature quebecoise. Étude des oeuvres marquantes du corpus litteraire quebecois, depuis les ecrits de la Nouvelle-France jusqu'aux oeuvres contemporaines, et les divers genres litteraires essentiels (roman, poesie, essai, theatre). Presentation des pratiques et des courants litteraires dominants.

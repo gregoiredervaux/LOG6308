@@ -1,0 +1,2 @@
+TitreCours: Biostatistique et epidemiologie
+DescriptionCours: Étude des elements de base de la biostatistique et de l'epidemiologie. Application de la statistique a des problemes courants de la sante des populations.

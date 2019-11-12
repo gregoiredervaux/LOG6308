@@ -1,0 +1,2 @@
+TitreCours: Sc. de la vision 2 Dioptrique oculaire
+DescriptionCours: Dioptrique oculaire : mesures, variations individuelles; valeurs theoriques, aberrations optiques de l'oeil; theories de l'acuite visuelle; dynamique de l'accommodation; aspects biologiques des ametropies; phenomenes entoptiques.

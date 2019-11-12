@@ -1,0 +1,2 @@
+TitreCours: Virologie generale
+DescriptionCours: Principales caracteristiques des virus. Synthese des constituants des virus. Virus des bacteries, virus des plantes, virus des animaux. Principales caracteristiques et methodes d'etude. Replication et genetique des virus. Ce cours comprend des travaux pratiques.

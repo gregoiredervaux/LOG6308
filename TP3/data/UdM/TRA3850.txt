@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'interpretation
+DescriptionCours: Initiation aux principaux modes d'interpretation.

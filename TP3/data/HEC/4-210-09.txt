@@ -1,0 +1,2 @@
+TitreCours: Investissements alternatifs
+DescriptionCours: Ce cours vise a introduire l'etudiant aux principaux concepts et outils utilises pour la gestion des risques de credits et operationnels.

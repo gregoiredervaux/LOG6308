@@ -1,0 +1,2 @@
+TitreCours: Applications distribuees
+DescriptionCours: Programmation distribuee. Communication inter-processus. Services distribues. Protocoles sous-jacents aux applications distribuees. Sockets. Applications client/serveur. Appels a distance de procedures. Étude de cas.

@@ -1,0 +1,2 @@
+TitreCours: Analyse des oeuvres d
+DescriptionCours: Analyse des elements formels et iconiques de l'oeuvre en peinture, sculpture, gravure, installation, etc. Étude des parametres suivants: perspective et profondeur de l'organisation spatiale, instances materielles, lieu de presentation, textures, lignes, couleurs, equilibre, pourtour et dimensions proportionnelles des formes internes, relations entre la forme et le contenu, codes de references, iconographie, iconologie.

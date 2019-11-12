@@ -1,0 +1,2 @@
+TitreCours: Theories de l
+DescriptionCours: Étude des differentes ecoles: taylorisme, mouvement des relations humaines, approche bureaucratique, approches structurelle et fonctionnaliste, approches systemique, sociotechnique et contingencielle. Information, environnement et organisation. Modelisation.

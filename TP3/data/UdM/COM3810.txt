@@ -1,0 +1,2 @@
+TitreCours: Labo media et culture
+DescriptionCours: Dans le cadre d'un seminaire, l'etudiant est invite a concevoir et realiser un projet de recherche selon une thematique generale suggeree par le professeur relativement a la communication mediatique et culturelle.

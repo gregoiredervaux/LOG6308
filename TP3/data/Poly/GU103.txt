@@ -1,0 +1,2 @@
+TitreCours: Notions scientifiques appliquees a l'incendie
+DescriptionCours: Ce cours porte sur diverses notions scientifiques appliquees en securite incendie, entre autres la propagation de l'incendie et des fumees, la physique mecanique et la physique hydraulique, la chimie des matieres dangereuses, de meme que la reactivite et la toxicite des produits.  Il amene l'etudiant a faire des liens entre des phenomenes chimiques et physiques et l'intervention en securite incendie et les operations d'urgence notamment a l'aide d'essais terrains ou en laboratoires.

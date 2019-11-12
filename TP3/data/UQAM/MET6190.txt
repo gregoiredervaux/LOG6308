@@ -1,0 +1,2 @@
+TitreCours: Systemes experts en gestion
+DescriptionCours: Ce cours a pour but d'offrir aux etudiants une initiation pratique aux concepts de systemes experts en general et aux applications a la strategie d'entreprise en particulier. Les themes suivants seront developpes: l'introduction aux concepts de base et la presentation de quelques exemples de systemes experts; les etapes de developpement d'un systeme expert; les aspects organisationnels et l'exploitation des systemes experts.

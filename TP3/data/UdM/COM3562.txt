@@ -1,0 +1,2 @@
+TitreCours: Applications multimedias
+DescriptionCours: Apprentissage de logiciels avances de communication informatisee : multimedias, systemes interactifs, animation, integration du son et du video, integration sur Internet. Projet d'integration et de production dans un contexte communicationnel.

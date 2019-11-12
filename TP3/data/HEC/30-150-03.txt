@@ -1,0 +1,2 @@
+TitreCours: Gestion analytique des produits et des services
+DescriptionCours: Le cours a pour principal objectif de permettre aux etudiants un approfondissement des connaissances presentees dans le cours d'introduction en marketing (30-100-82). Comme le produit/service est le point d'ancrage de toute la demarche marketing, tous les sujets couverts dans le cours d'introduction seront cette fois-ci analyses dans une perspective de lancement et de gestion des produits/services.

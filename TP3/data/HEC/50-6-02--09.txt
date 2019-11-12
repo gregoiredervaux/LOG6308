@@ -1,0 +1,2 @@
+TitreCours: Initiation a la statistique
+DescriptionCours: Il n'y a pas de description disponible pour ce cours.

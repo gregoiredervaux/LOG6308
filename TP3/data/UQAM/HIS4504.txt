@@ -1,0 +1,2 @@
+TitreCours: État
+DescriptionCours: Ce cours se veut une reflexion historique sur l'evolution des structures du pouvoir politique au Canada et au Quebec, des origines a aujourd'hui, ainsi que sur leurs impacts variables sur l'ensemble social. Seront abordees les questions suivantes : les composantes du pouvoir politique depuis la Nouvelle-France ; la construction de l'État canadien et quebecois ; la montee du pouvoir bureaucratique ; les formes d'intervention de l'État dans la vie sociale ; la formation de l'identite nationale ; les relations politiques avec le monde.

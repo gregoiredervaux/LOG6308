@@ -1,0 +1,2 @@
+TitreCours: Grammaire et lexique
+DescriptionCours: Étude des rapports formels entre la grammaire et le lexique. Examen systematique des proprietes du lexique dans le cadre de la phrase. Verification des proprietes distributionnelles et transformationnelles de la grammaire d'une langue. Construction de matrices binaires. Apercu des distinctions qui ressortent dans ce cadre entre des langues romanes.

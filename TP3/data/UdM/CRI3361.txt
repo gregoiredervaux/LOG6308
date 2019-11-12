@@ -1,0 +1,2 @@
+TitreCours: Prevention du crime
+DescriptionCours: Cadre theorique et evolution de la notion de prevention en criminologie. L'analyse de divers programmes et leur efficacite. L'elaboration de projet en prevention.

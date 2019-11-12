@@ -1,0 +1,2 @@
+TitreCours: Travaux de recherche individuels 4
+DescriptionCours: Le cours vise a permettre a l'etudiant de poursuivre son initiation a la recherche et de s'integrer davantage dans un projet de recherche et de developper sa curiosite intellectuelle, son sens critique et son esprit creatif.

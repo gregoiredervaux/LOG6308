@@ -1,0 +1,2 @@
+TitreCours: Pharmacologie medicale
+DescriptionCours: Absorption, distribution, elimination et biotransformation des medicaments, classification des recepteurs et des agents pharmacologiques. Notions de toxicologie medicale.

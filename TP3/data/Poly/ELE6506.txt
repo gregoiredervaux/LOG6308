@@ -1,0 +1,2 @@
+TitreCours: Antennes et propagation
+DescriptionCours: Caracteristiques d'antennes, theoremes et principes d'electromagnetisme. Methode des moments et theorie geometrique de diffraction (GTD). Applications : antennes lineaires, a periodicite logarithmique, a fente, biconique, Yagi-Uda, a microruban, cornet, reflecteur, a onde de fuite. Facteurs environnementaux : bruit thermique, effets ionospheriques et tropospheriques, effet de conductivite du sol. Synthese de reseaux d'antennes.

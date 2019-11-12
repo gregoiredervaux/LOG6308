@@ -1,0 +1,2 @@
+TitreCours: Enseignement clinique 1
+DescriptionCours: Enseignement clinique dirige dans un etablissement de sante.

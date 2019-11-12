@@ -1,0 +1,2 @@
+TitreCours: Gestion et promotion en ergotherapie
+DescriptionCours: Application des principes de gestion. Planification, organisation et controle. Pratique professionnelle dans le contexte d'un reseau de services integres. Marketing des services ergotherapiques. Utilisation des medias.

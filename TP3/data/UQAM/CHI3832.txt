@@ -1,0 +1,2 @@
+TitreCours: Complement de chimie des eaux naturelles
+DescriptionCours: Étude complementaire des transformations chimiques et des equilibres qui s'etablissent dans les eaux de surface. Proprietes oxydo-reductrices des eaux. Diagrammes potentiel-pH. Équilibres solides-liquides. Reaction d'echanges ioniques. Carbone organique, azote et phosphore dans les eaux. Modelisation de systemes aquatiques.

@@ -1,0 +1,2 @@
+TitreCours: Psychoacoustique
+DescriptionCours: Rappel de physique acoustique. Methodes psychophysiques. Caracteristiques de la perception auditive normale.

@@ -1,0 +1,2 @@
+TitreCours: Formation avancee reliee a la pratique actuarielle II
+DescriptionCours: Principes et methodes d'evaluation et de provisionnement des regimes de retraite. Methodes actuarielles pour determiner les coûts des regimes, hypotheses actuarielles et analyse des profits et pertes. Seance d'exercice de deux heures.

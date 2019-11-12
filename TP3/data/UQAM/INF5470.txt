@@ -1,0 +1,2 @@
+TitreCours: Gestion de reseaux
+DescriptionCours: Permettre aux etudiants de gerer des reseaux d'entreprise et de concevoir des architectures de gestion de reseaux. Environnement de gestion de l'Internet: SNMP (MIB, structures SMI, sondes RMON). Environnement de gestion des telecommunications: les plates-formes et les outils. Nouvelles approches de gestion: SNMPv3, WBEM, DEN, gestion par les politiques. Ce cours comporte une seance obligatoire de laboratoire (2 heures).

@@ -1,0 +1,2 @@
+TitreCours: Did. des sc. economiques au secondaire 1
+DescriptionCours: Problematiques de l'enseignement des sciences economiques. Approches didactiques. Programmes. Contenus, demarches d'enseignement, formes d'evaluation. Analyse et production de scenarios d'enseignement.

@@ -1,0 +1,2 @@
+TitreCours: Intelligence artificielle et perception
+DescriptionCours: Capteurs d'informations exteroceptives en robotique et modes d'interpretation des informations. Interpretation de l'information visuelle : vision monoculaire, vision stereoscopique, telemetrie. Introduction a la reconnaissance de formes. Representation des connaissances et techniques exploratoires. Calcul de predicats. Planification des taches.

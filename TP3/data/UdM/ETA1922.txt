@@ -1,0 +1,2 @@
+TitreCours: Le systeme d'education du Quebec
+DescriptionCours: Étude du systeme d'education, de son fonctionnement et de ses finalites a la lumiere de son histoire et des contingences sociopolitiques actuelles.

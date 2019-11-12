@@ -1,0 +1,2 @@
+TitreCours: Anatomie chirurgicale canine et feline
+DescriptionCours: Aborder d'un point de vue anatomique les problemes medicaux les plus frequents. Anatomie canine et feline revisee a l'aide d'une methode topographique qui met l'accent sur les regions d'interet particulier.

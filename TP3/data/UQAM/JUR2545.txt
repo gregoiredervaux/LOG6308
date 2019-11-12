@@ -1,0 +1,2 @@
+TitreCours: Droit judiciaire I
+DescriptionCours: Ce cours vise a donner a l'etudiant une maitrise des notions fondamentales utiles a la formulation et au traitement d'une demande en justice. L'organisation judiciaire et la competence des tribunaux. La theorie de l'action en justice. Étude des principales etapes de la procedure ordinaire en premiere instance, de l'introduction de l'action au jugement. Le recouvrement des petites creances. Le recours collectif. Techniques de redaction de procedures.

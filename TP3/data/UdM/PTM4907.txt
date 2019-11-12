@@ -1,0 +1,2 @@
+TitreCours: Les procedes de conservation des viandes
+DescriptionCours: Comparaison, avantages et desavantages des divers procedes industriels de conservation des aliments, en particulier les produits carnes.

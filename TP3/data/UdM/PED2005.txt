@@ -1,0 +1,2 @@
+TitreCours: Laboratoire NTIC en orthopedagogie
+DescriptionCours: Utilisation des NTIC et nouveaux modes d'interaction en orthopedagogie. NTIC et autonomie de l'apprenant. Reflexion sur la contribution des NTIC a la transformation des environnements d'apprentissage.

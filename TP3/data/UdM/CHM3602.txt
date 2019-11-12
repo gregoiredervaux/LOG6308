@@ -1,0 +1,2 @@
+TitreCours: Chimie, pollution et toxicologie
+DescriptionCours: Pollution chimique. Nature des polluants, mobilite, transformation, biodisponibilite, degradation. Effets sur l'environnement. Substances toxiques. Toxicologie, risques, normes environnementales. Controle et traitement.

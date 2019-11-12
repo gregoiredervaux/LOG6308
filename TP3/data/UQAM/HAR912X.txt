@@ -1,0 +1,2 @@
+TitreCours: Questions thematiques
+DescriptionCours: Constitution et traitement analytique du theme a partir d'une oeuvre ou d'un corpus.

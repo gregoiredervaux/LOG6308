@@ -1,0 +1,2 @@
+TitreCours: Initiation a la localisation
+DescriptionCours: Definition du concept et lien avec la traduction. Principaux contextes d'application. Initiation a la gestion d'un projet de localisation et ressources. Survol des methodes de travail et des principaux logiciels. Modes d'exercice. Marche du travail.

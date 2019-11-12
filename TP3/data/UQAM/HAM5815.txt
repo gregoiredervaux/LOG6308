@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Initiation aux differentes utilisations de la photographie par l'historien de l'art ou de l'architecture: apprentissage theorique et pratique de l'appareil photographique, de ses composants et de leur maniement. Problemes d'interpretation qu'impliquent la prise de vue, la documentation de l'architecture et d'un objet d'art bidimensionnel ou dans l'espace. Presentation des implications ideologiques et esthetiques du medium dans la perception et l'interpretation de l'oeuvre d'art.

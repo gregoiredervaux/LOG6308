@@ -1,0 +1,2 @@
+TitreCours: Physique experimentale
+DescriptionCours: Travaux pratiques : mesures de divers phenomenes physiques (effet photoelectrique, emission thermo-electrique, radioactivite, semi-conducteurs, rayonnement du corps noir, etc.); utilisation de micro-ordinateurs en laboratoire.

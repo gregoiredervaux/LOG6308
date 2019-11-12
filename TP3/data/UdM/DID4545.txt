@@ -1,0 +1,2 @@
+TitreCours: Did. des mathematiques au secondaire 2
+DescriptionCours: Élements didactiques relies a l'enseignement des mathematiques. Examen des programmes et manuels. Apercu de recherches. Analyse de sequences d'enseignement.

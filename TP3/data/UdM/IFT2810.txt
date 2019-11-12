@@ -1,0 +1,2 @@
+TitreCours: Structures de donnees
+DescriptionCours: Structures d'information : chaines, tableaux, piles, listes, arbres et graphes. Implantation et manipulation. Algorithmes de tri. Organisation de dictionnaires. Allocation dynamique de memoire.

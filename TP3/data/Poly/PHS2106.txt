@@ -1,0 +1,2 @@
+TitreCours: Physique des ondes
+DescriptionCours: Équation d'onde. Ondes progressive et stationnaire. Decomposition de Fourier. Interferences et diffraction. Reflexion, transmission et absorption. Ondes sur une corde, sur une membrane ou plaque vibrante. Ondes acoustiques. Ondes electromagnetiques et guides d'ondes (cables coaxiaux, guides metalliques et dielectriques). Mise en evidence des proprietes communes des ondes transversales et longitudinales. Nature dimensionnelle des ondes (1-D, 2-D ou 3-D).

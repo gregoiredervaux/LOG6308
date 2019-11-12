@@ -1,0 +1,2 @@
+TitreCours: Systemes de sante et sante communautaire
+DescriptionCours: Revue des differents organismes et etablissements du systeme du Quebec en regard de leurs responsabilites en sante communautaire. Évolution des systemes de sante dans le contexte du systeme canadien. Lois en matiere de sante publique.

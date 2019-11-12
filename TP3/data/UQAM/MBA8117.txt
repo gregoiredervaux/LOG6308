@@ -1,0 +1,2 @@
+TitreCours: Études specialisees en developpement organisationnel III
+DescriptionCours: Ce cours vise a integrer le role de consultant a celui de gestionnaire du changement dans les organisations. Il permettra aussi aux etudiants de reflechir et d'approfondir les theories relatives au processus de changement organisationnel. Les etudiants auront l'occasion d'etablir le diagnostic, de proposer une strategie de changement et de prevoir les etapes d'implantation de cette strategie dans une organisation.

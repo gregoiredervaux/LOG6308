@@ -1,0 +1,2 @@
+TitreCours: Comportements strategiques
+DescriptionCours: Initiation a la pensee strategique. Environnements strategiques : problemes d'engagement et de credibilite, cooperation et coordination. Incitations. Applications economiques.

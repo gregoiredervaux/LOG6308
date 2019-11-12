@@ -1,0 +1,2 @@
+TitreCours: Introduction au multimedia
+DescriptionCours: Medias informatiques. Web. Interfaces usagers. Images. Video. Audio.

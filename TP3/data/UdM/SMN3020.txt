@@ -1,0 +1,2 @@
+TitreCours: Projet ou stage d'integration
+DescriptionCours: Activite pedagogique permettant l'integration des connaissances du programme par un projet ou un stage dans un milieu institutionnel, communautaire, prive ou benevole.

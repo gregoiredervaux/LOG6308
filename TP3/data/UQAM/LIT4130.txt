@@ -1,0 +1,2 @@
+TitreCours: Textes sur le cinema
+DescriptionCours: Se familiariser avec les theories qui permettent d'analyser et d'interpreter les films. Comprendre la specificite du medium cinematographique par rapport a l'oeuvre. Enjeux des esthetiques contemporaines du cinema. Survol historique et critique des conceptions du cinema depuis ses origines. Comparaison de l'experience du spectateur et de l'experience du lecteur. Les attributs et les effets de l'image et du son par rapport a l'oeuvre. Utilisation de materiel informatique (meuble multimedia).

@@ -1,0 +1,2 @@
+TitreCours: Activites de recherche en philosophie I
+DescriptionCours: Cours a contenu variable auquel le directeur du programme inscrit un etudiant pour l'autoriser a suivre un cours du doctorat en philosophie ou lui permettre de se reinscrire a un cours du programme, a la condition que la nouvelle occurrence de ce cours ait un contenu totalement different de l'occurrence a laquelle l'etudiant s'etait inscrit pour la premiere fois.

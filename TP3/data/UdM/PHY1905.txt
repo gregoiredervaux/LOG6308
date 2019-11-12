@@ -1,0 +1,2 @@
+TitreCours: Physique pour chimistes
+DescriptionCours: Notions physiques essentielles pour la chimie. Applications de la mecanique classique, de l'electromagnetisme et de l'optique.

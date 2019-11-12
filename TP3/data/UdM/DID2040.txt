@@ -1,0 +1,2 @@
+TitreCours: Did. des sciences, adapt. scol. second.
+DescriptionCours: Savoirs de reference en sciences et technologies au secondaire. Conceptions des eleves et demarches d'apprentissage. Resolution de problemes, activites experimentales. Adaptation des interventions aux eleves en difficulte. Évaluation.

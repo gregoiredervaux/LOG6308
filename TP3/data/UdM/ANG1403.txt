@@ -1,0 +1,2 @@
+TitreCours: Écrivains anglophones du Quebec
+DescriptionCours: Introduction a la litterature ecrite par des anglophones qui resident au Quebec, ou qui en font leur sujet. Ce cours cherche a montrer au lecteur francophone la contribution de ces ecrivains a l'evolution culturelle et litteraire.

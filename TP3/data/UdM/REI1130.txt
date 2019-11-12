@@ -1,0 +1,2 @@
+TitreCours: Methodologie en relations industrielles
+DescriptionCours: Definition de la recherche et formulation d'hypotheses en relations industrielles. Outils necessaires a la cueillette et l'analyse de donnees en relations industrielles et a la production de documents ecrits dans la discipline.

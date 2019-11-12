@@ -1,0 +1,2 @@
+TitreCours: Information, communication et societe
+DescriptionCours: Approche theorique de la communication sociale. Analyse des fondements socio-historiques de la « societe de l'information ». Nouvelles technologies de l'information et pratiques sociales.

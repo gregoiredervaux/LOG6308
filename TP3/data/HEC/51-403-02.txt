@@ -1,0 +1,2 @@
+TitreCours: Habiletes de gestion
+DescriptionCours: Ce cours vise &nbsp;:&nbsp;  &nbsp;  A sensibiliser les etudiants et etudiantes a l'importance des habiletes dans l'exercice de la gestion;  &nbsp;  A amorcer un processus d'apprentissage d'habiletes;  &nbsp;  A experimenter differents modes d'apprentissage d'habiletes.&nbsp;  &nbsp;  Dispense en tout debut de programme, ce cours mettra un accent particulier sur des habiletes qui s'avereront rapidement utiles pendant vos etudes de M.B.A. et pendant toute votre carriere.

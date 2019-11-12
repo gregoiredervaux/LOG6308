@@ -1,0 +1,2 @@
+TitreCours: Traitement automatique du langage
+DescriptionCours: Implementation des grammaires et des automates. Applications a l'analyse et a la synthese du langage naturel sur ordinateur.

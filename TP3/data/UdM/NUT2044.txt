@@ -1,0 +1,2 @@
+TitreCours: Nutrition clinique 2
+DescriptionCours: Physiopathologie et etude des maladies dont le traitement exige un controle dietetique. Tableau clinique, etiologie, traitement. Redaction, interpretation et appreciation des ordonnances dietetiques.

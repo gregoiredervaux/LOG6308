@@ -1,0 +1,2 @@
+TitreCours: Cinema quebecois
+DescriptionCours: Étude historique et esthetique du cinema quebecois depuis ses debuts jusqu&rsquo;a aujourd&rsquo;hui. Étude comparative des styles, des auteurs et des discours.

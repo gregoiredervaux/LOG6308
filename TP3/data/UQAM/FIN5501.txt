@@ -1,0 +1,2 @@
+TitreCours: Seminaire en finance
+DescriptionCours: Le but de ce seminaire est d'approfondir les connaissances des etudiants dans un domaine specifique et de developper leur sens pratique. Le contenu de ce seminaire est essentiellement flexible et est determine en fonction des souhaits des etudiants desirant se specialiser en finance ainsi que des ressources disponibles au departement. Des themes possibles sont indiques ci-dessous: structure des taux d'interet; analyse du risque; problemes financiers specifiques aux petites entreprises; fusions et acquisitions.

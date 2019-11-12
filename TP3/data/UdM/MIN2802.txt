@@ -1,0 +1,2 @@
+TitreCours: Continuo 1
+DescriptionCours: Applications stylistiques de l'harmonie au clavier. Realisation de tous les types de basse chiffree.

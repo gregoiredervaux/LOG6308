@@ -1,0 +1,2 @@
+TitreCours: Formation et developpement des R.H.
+DescriptionCours: A l'aide d'etudes de cas, analyse des questions relatives a la formation (analyse des besoins, apprentissage, techniques...) et au developpement (plans de carriere, evaluation de potentiels, developpement de carriere) des employes et des cadres.

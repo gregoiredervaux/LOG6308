@@ -1,0 +1,2 @@
+TitreCours: Criminalistique
+DescriptionCours: Identification, scene de crime, dactyloscopie, empreintes genetiques, toxicologie, balistique, marques et empreintes, incendies, explosifs, drogues, faux documents.

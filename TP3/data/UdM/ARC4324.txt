@@ -1,0 +1,2 @@
+TitreCours: Strategie structurale
+DescriptionCours: Differentes strategies structurales, planes ou spatiales utilisees dans la structure des divers objets a creer. Caracteristiques des facteurs influant sur les choix.

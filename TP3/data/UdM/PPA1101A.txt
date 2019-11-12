@@ -1,0 +1,2 @@
+TitreCours: Élements de base en gestion de classe
+DescriptionCours: Definition et fonction de la gestion de classe. Installation des regles de vie. Fonctionnement democratique. Motivation scolaire. Organisation des differentes structures sociales. Gestion de la classe a niveaux multiples.

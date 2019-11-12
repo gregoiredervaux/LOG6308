@@ -1,0 +1,2 @@
+TitreCours: Reingenierie de processus d'affaires
+DescriptionCours: Chaine de valeur. Processus d'affaires. Approches de reingenierie. Standards, outils et techniques de modelisation. Mesures de performance. Diagramme de flux. Analyse de valeur et diagnostic. Principes de reingenierie. Strategies d'impartition, de reorganisation, d'implantation et de conception de systeme. Solutions d'affaires. Design de processus. Developpement de specifications. Planification et implantation. Modeles de donnees. Amelioration continue.

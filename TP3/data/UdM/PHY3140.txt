@@ -1,0 +1,2 @@
+TitreCours: Hydrodynamique
+DescriptionCours: Cinematique et dynamique d'un fluide. Parametres non dimensionnels. Fluide parfait. Compressibilite. Viscosite, couche limite. Turbulence.

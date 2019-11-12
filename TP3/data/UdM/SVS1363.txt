@@ -1,0 +1,2 @@
+TitreCours: Problemes sociaux
+DescriptionCours: Étude des phenomenes collectifs designes comme problemes sociaux : chomage, pauvrete, marginalite, exclusion. Identification des facteurs structuraux et contextuels. Strategies des acteurs sociaux concernes.

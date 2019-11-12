@@ -1,0 +1,2 @@
+TitreCours: Stage de recherche
+DescriptionCours: Activite individuelle encadree par un professeur ou la direction de recherche de l'etudiant. Ce stage peut se derouler au Quebec ou ailleurs dans un milieu reconnu pour la recherche, l'intervention ou la creation. La duree du stage est d'au moins 120 heures a temps plein ou reparties a temps partiel. Il doit etre approuve par la direction de recherche de l'etudiant et la direction de programme avant l'inscription de l'etudiant.

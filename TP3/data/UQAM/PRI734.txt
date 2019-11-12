@@ -1,0 +1,2 @@
+TitreCours: Application des connaissances III
+DescriptionCours: Ce cours vise a amener l'etudiant a integrer l'ensemble des competences identifiees par le comite de programme. Inventaire et integration de l'ensemble des apprentissages realises.

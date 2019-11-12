@@ -1,0 +1,2 @@
+TitreCours: Lecture des textes francophones
+DescriptionCours: Questions d&rsquo;esthetique et de poetique soulevees a partir de textes francophones d&rsquo;Afrique, du Maghreb, des Caraibes, etc.

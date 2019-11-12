@@ -1,0 +1,2 @@
+TitreCours: L'organisation de l'enquete
+DescriptionCours: Vision d'ensemble de l'enquete criminelle. La coordination et l'articulation des elements. Le constat criminel, l'interrogatoire, la recherche, l'arrestation, la perquisition, les notions de police technique. Les facteurs de succes.

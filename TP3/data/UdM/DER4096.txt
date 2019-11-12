@@ -1,0 +1,2 @@
+TitreCours: Dentisterie esthetique : progres recents
+DescriptionCours: Lecons theoriques sur l'esthetique et les progres recents en dentisterie operatoire, prothese partielle fixe, prothese partielle amovible, prothese complete, endodontie, orthodontie et chirurgie maxillo-faciale.

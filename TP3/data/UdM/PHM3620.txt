@@ -1,0 +1,2 @@
+TitreCours: Toxicologie et pharmacodependance
+DescriptionCours: Intoxications. Lutte contre les intoxications. Mecanismes de toxicite. Action antidotique et modes d'intervention. Depistage et suivi des intoxications. Pharmacodependance. Tolerance. Sevrage. Toxicologie analytique.

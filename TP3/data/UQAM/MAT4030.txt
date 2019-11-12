@@ -1,0 +1,2 @@
+TitreCours: Geometrie projective
+DescriptionCours: Dualite. La droite a l'infini. Proprietes projectives, rapport. Coordonnees projectives. Les coniques. Collineation et involution. Invariants algebriques. Geometries non euclidiennes.

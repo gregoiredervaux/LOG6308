@@ -1,0 +1,2 @@
+TitreCours: Did. du francais et eleves en difficulte
+DescriptionCours: Observation et analyse des difficultes des eleves dans l'apprentissage de la lecture et de l'ecriture. Liens et interferences entre l'oral et l'ecrit. Pistes d'intervention en classe. Évaluation des apprentissages.

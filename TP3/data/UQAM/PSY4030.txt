@@ -1,0 +1,2 @@
+TitreCours: Methodes et schemas quantitatifs en psychologie
+DescriptionCours: Introduction aux diverses methodes de mesures quantitatives en psychologie. Statistiques descriptives, correlationnelles et inferentielles: non parametriques et parametriques. Analyses multivariees. Échelles mathematiques. Le rationnel de l'emploi de ces methodes et leurs applications dans les divers schemas de recherches en psychologie. Apprentissage d'un logiciel statistique permettant de mettre en application les connaissances theoriques.

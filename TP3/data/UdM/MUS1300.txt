@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'acoustique musicale
+DescriptionCours: Notions de la physique du son : vibration, propagation, resonance, acoustique des salles. Initiation, dans un contexte musical, aux techniques de mesures. Principaux parametres du son : frequence, intensite, spectre.

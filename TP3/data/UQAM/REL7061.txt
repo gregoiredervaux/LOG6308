@@ -1,0 +1,2 @@
+TitreCours: Lectures obligatoires I
+DescriptionCours: Ces lectures s'inscrivent directement dans le champ de recherche de l'etudiant. Elles le preparent, tant au plan theorique qu'au plan methodologique, a ses travaux de recherche et a la redaction de son memoire. Cette activite est evaluee selon la notation succes/echec (S/E).

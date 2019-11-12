@@ -1,0 +1,2 @@
+TitreCours: Le droit de l
+DescriptionCours: La propriete et les contrats touchant l'informatique: concentration, droits d'auteur, brevets et propriete intellectuelle, operations commerciales, aspects fiscaux, confidentialite et securite des donnees. La responsabilite civile et penale decoulant de l'utilisation de l'informatique: dommages, diffamation, fraude, crime economique. Les normes d'utilisation de l'informatique par les organismes publics et prives. Les aspects internationaux (flux transfrontieres, etc.).

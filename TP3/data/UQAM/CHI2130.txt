@@ -1,0 +1,2 @@
+TitreCours: Analyse par spectroscopie
+DescriptionCours: Spectroscopie moleculaire, bandes de rotation-vibration : application a l'identification chimique par l'etude du spectre infrarouge et Raman. Bandes de transitions electroniques : application de la spectroscopie dans l'ultraviolet-visible (absorption et fluorescence) a la caracterisation et la quantification des substances chimiques. Spectroscopie atomique : application a l'absorption atomique. Cours et travaux pratiques en laboratoire.

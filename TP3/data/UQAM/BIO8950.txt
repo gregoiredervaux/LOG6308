@@ -1,0 +1,2 @@
+TitreCours: Chapitres choisis en toxicologie
+DescriptionCours: Sujets de toxicologie s'adressant a des etudiants faisant des recherches dans differents domaines relies a la toxicologie. Les principaux themes abordes seront : actions de toxiques (e.g. pesticides, metaux lourds) sur les organismes terrestres ou aquatiques; developpements recents dans les methodes et techniques analytiques utilisees en toxicologie.

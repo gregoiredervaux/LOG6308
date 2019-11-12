@@ -1,0 +1,2 @@
+TitreCours: Automatisation industrielle
+DescriptionCours: Critres de choix d'un systme de contrle. Techniques avances d'installation et de dpannage. E/S analogiques. E/S intelligentes (Positionnement, Pesage, Communication, Serveur WEB). tude des instructions avances des langages LD (Ladder), FBD (Function Block Diagram) et SFC (Sequential Function Chart). Variation de vitesse et commande d'axe. Robotique. Vision. Redondance et scurit. Systme de contrle distribu (DCS).

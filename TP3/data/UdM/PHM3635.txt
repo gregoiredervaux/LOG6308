@@ -1,0 +1,2 @@
+TitreCours: Pharmacie, systemes et services de sante
+DescriptionCours: Sante et besoins de sante. Systeme de soins et assurance medicament. Utilisation des medicaments. Pharmacoepidemiologie. Pharmacoeconomie. Le pharmacien et les autres intervenants.

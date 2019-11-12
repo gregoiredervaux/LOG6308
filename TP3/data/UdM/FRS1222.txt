@@ -1,0 +1,2 @@
+TitreCours: Communication ecrite. Debutant
+DescriptionCours: Permettre a l'etudiant non francophone de developper des strategies de comprehension de textes simples, d'acquerir les connaissances de base de l'ecriture et de produire des phrases simples.

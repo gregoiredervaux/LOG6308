@@ -1,0 +1,2 @@
+TitreCours: Économie financiere
+DescriptionCours: Introduction a la finance. Étude des decisions d'investissement de la firme. Incorporation de la contrainte financiere, de la fiscalite et du risque dans les analyses avantages-coûts des projets prives.

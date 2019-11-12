@@ -1,0 +1,2 @@
+TitreCours: Initiation aux methodes quantitatives
+DescriptionCours: Les techniques statistiques de base en criminologie : description et analyse bivariees. Les tests non parametriques. Apprentissage de SPSS.

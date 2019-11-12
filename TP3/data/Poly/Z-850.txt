@@ -1,0 +1,2 @@
+TitreCours: Introduction aux normes ISO 9000
+DescriptionCours: ISO 9000 et la qualite totale. Description des normes ISO 9001-9002-9003 et leur distinction. Mise en place de la norme ISO dans les secteurs suivants: entreprise manufacturiere et entreprise de services. Redaction d'un manuel qualite. Redaction de procedures et instructions qualite. Redaction d'un plan qualite. Preparation d'un plan d'audit et execution des audits internes.

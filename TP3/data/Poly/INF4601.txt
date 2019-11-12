@@ -1,0 +1,2 @@
+TitreCours: Évaluation de performance des syst. inform.
+DescriptionCours: Introduction : objets et objectifs. Metriques en analyse de performance. Methodes experimentales. Notion de plan d'experimentation et interpretation des resultats. Methodes d'evaluation par simulation. Étalonnage et validation des modeles. Methodes analytiques. Étude de cas.

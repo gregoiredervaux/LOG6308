@@ -1,0 +1,2 @@
+TitreCours: Theorie et observation du mouvement
+DescriptionCours: Fondements theoriques de l'analyse du mouvement. Observation et description du mouvement. Developpement et utilisation d'outils d'analyse structurelle et qualitative.

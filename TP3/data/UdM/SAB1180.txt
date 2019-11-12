@@ -1,0 +1,2 @@
+TitreCours: Controle de l'infection en dentisterie
+DescriptionCours: Mode de transmission des agents infectieux rencontres dans l'environnement des cliniques dentaires. Precautions a prendre pour diminuer les risques de contamination croisee. Gestion du controle de l'infection. Discussion sur des cas precis.

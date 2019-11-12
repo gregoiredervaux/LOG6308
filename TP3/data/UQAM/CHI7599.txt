@@ -1,0 +1,2 @@
+TitreCours: Chimie
+DescriptionCours: Cours de formation complementaire oriente vers la pratique des sciences de l'environnement. Reactions chimiques dans l'atmosphere: reactions photochimiques, l'ozone, les radicaux libres, cinetique des principaux phenomenes. Les particules: tailles, formes, volumes et poids; leurs distributions. Absorption des gaz a la surface des particules. Interaction de la lumiere avec les particules. Taux de chute et diffusion moleculaire. Électrification. Évaporation et condensation des gouttelettes.

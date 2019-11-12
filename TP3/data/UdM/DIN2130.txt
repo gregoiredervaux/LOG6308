@@ -1,0 +1,2 @@
+TitreCours: Techniques de presentation graphique
+DescriptionCours: Initiation a divers medias et techniques de presentation graphique. Exercices de croquis et de rendu en vue de representer, manipuler et communiquer graphiquement les idees.

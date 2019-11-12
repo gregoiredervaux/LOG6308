@@ -1,0 +1,2 @@
+TitreCours: Travaux de terrain en hydrogeologie
+DescriptionCours: Travaux pratiques sur le terrain. Techniques geophysiques a haute resolution sur un terrain contamine. Essais hydrogeologiques pour l'evaluation des parametres physiques et chimiques de l'eau souterraine et pour l'evaluation de la vitesse de migration des contaminants.

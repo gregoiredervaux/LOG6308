@@ -1,0 +1,2 @@
+TitreCours: Conception et fabr. des pices en plastique
+DescriptionCours: Notions fondamentales sur les polymres. Proprits physiques et comportement mcanique des rsines thermoplastiques et thermodurcissables. tudes des proprits et des applications des plastiques les plus rpandus. Procds de mise en oeuvre, extrusion, injection, soufflage, thermoformage. Aspect conomique des procds et applications typiques. Conception des outillages et des produits. Calcul et dimensionnement des pices en plastique.

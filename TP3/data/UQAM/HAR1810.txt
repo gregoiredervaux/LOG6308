@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Acquisition des connaissances de base pour l'etude systemique de l'evolution des formes architecturales de l'Antiquite au XVIIIe siecle et approche des theories interpretatives de ces formes. Initiation au vocabulaire de l'architecture de l'Antiquite au XVIIIe siecle.

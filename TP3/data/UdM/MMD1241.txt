@@ -1,0 +1,2 @@
+TitreCours: Introduction a la medecine clinique 2
+DescriptionCours: Approche biopsychosociale des problemes de sante. Approche centree sur le patient. Role et responsabilites du medecin. Introduction aux notions d'education du patient.

@@ -1,0 +1,2 @@
+TitreCours: Chimie analytique 1
+DescriptionCours: Les equilibres chimiques en solution. Les reactions acide-base, redox, de precipitation et de complexation. L'analyse gravimetrique, volumetrique : titrimetrie, precipimetrie, oxydimetrie. Électroanalyse.

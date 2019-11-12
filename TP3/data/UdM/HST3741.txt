@@ -1,0 +1,2 @@
+TitreCours: Voyage d'etudes
+DescriptionCours: Ce cours met les etudiants en contact direct avec le patrimoine historique d'un pays, d'une region (sites historiques, oeuvres d'art, musees, centres d'archives, centres de recherche, etc.).

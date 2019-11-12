@@ -1,0 +1,2 @@
+TitreCours: Prose russe du 19e siecle 1
+DescriptionCours: Litterature de la fin du XVIIIe siecle. Classicisme, sentimentalisme : Fonvizine, Radichtchev, Karamzine. Litterature de la premiere moitie du XIXe siecle. Romantisme et debut du realisme : Pouchkine, Bestoujev-Marlinski, Lermontov. Gogol.

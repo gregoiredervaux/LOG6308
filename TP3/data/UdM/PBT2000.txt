@@ -1,0 +1,2 @@
+TitreCours: Strategies de creation
+DescriptionCours: Par des approches appliquees, decouvrir les differents registres de styles de publicite et leur pertinence en fonction des produits, services, cycles de vie et groupes cibles.

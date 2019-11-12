@@ -1,0 +1,2 @@
+TitreCours: Stage applique ou projet de recherche 1
+DescriptionCours: Experience dans un laboratoire de recherche en milieu universitaire ou industriel.

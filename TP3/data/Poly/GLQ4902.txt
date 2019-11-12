@@ -1,0 +1,2 @@
+TitreCours: Stage industriel III
+DescriptionCours: Pendant une periode de travail de 4 mois, l'etudiant fait un apprentissage de travail en industrie dans le domaine de la geologie ou du genie geologique. Le stagiaire occupe un poste d'assistant geologue ou de technicien sous la supervision d'un coordonnateur dans l'entreprise. Un rapport de stage est exige et l'evaluation de l'etudiant est faite conjointement par le superviseur industriel et le coordonnateur de stage.

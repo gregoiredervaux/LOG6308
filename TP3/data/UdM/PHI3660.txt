@@ -1,0 +1,2 @@
+TitreCours: Philosophie du droit
+DescriptionCours: Le droit, mediation entre la politique et l'ethique. Le droit des Anciens et des Modernes. Legalite et legitimite. Droit naturel et droit positif. Droit naturel et historicisme. Le droit de punir. Problemes de justice distributive.

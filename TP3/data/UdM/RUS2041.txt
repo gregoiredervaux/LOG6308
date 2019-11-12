@@ -1,0 +1,2 @@
+TitreCours: Version 1
+DescriptionCours: Technique de la traduction et son application a la traduction de textes de la vie courante. Étude contrastive de la morphologie et de la syntaxe du russe et du francais.

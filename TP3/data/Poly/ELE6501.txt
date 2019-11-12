@@ -1,0 +1,2 @@
+TitreCours: Analyse des circuits micro-ondes
+DescriptionCours: Modes orthogonaux de propagation dans des guides a section uniforme. Jonctions de lignes de transmission. Representation de n-ports par des matrices Z, Y, ABCD, S et hybrides. Effets de pertes, de la reciprocite et de la passivite. Theoreme de Foster. Circuits equivalents de dispositifs tels que coupleurs, dephaseurs, diviseurs de puissance, isolateurs, circulateurs et circuits en T.

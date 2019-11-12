@@ -1,0 +1,2 @@
+TitreCours: Improvisation jazz 1
+DescriptionCours: Cours theorique et pratique d'improvisation melodique applicable au jazz et a la musique populaire (blues, be-bop, modal, latin, fusion, funk, m-base, acid jazz, free jazz, rock, etc.).

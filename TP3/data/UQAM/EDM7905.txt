@@ -1,0 +1,2 @@
+TitreCours: Stage de recherche
+DescriptionCours: Ce cours a pour objectif de permettre a l'etudiant de s'initier, a titre d'assistant, a une demarche concrete de recherche-production sous la conduite d'un tuteur. Ce stage s'effectue a l'interieur des projets de recherche-production de l'Universite ou a l'exterieur, au sein du milieu professionnel des communications.

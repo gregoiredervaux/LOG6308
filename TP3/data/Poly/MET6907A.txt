@@ -1,0 +1,2 @@
+TitreCours: Seminaires I
+DescriptionCours: Expose, discussion de publications scientifiques ou de notions de genie metallurgique ou de genie des materiaux. L'etudiant devra traiter d'un sujet choisi avec son directeur de recherche et approuve par le responsable du cours. Il devra assister aux presentations des conferenciers invites et des autres etudiants.

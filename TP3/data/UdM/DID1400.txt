@@ -1,0 +1,2 @@
+TitreCours: Enrichissement mathematique
+DescriptionCours: Retour sur des notions mathematiques du secondaire afin de questionner et d'expliciter leur fonctionnement. Activites de resolution de problemes. Analyse et conception d'activites d'enrichissement.

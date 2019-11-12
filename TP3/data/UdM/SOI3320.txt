@@ -1,0 +1,2 @@
+TitreCours: Projet d'integration
+DescriptionCours: Demarche individuelle, assistee par une personne-ressource, consistant a faire le point sur l'ensemble des apprentissages realises au cours du programme.

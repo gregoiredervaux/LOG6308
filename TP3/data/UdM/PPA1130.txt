@@ -1,0 +1,2 @@
+TitreCours: L'apprentissage au secondaire
+DescriptionCours: Paradigmes dominants et processus generaux d'apprentissage. Differences individuelles et strategies d'apprentissage. Differenciation pedagogique et interventions adaptees aux eleves en difficulte d'apprentissage.

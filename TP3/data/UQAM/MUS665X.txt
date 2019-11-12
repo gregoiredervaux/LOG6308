@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese
+DescriptionCours: Cours modulable repondant a des besoins de formation ponctuels ou permettant de programmer une activite de formation speciale et complementaire placee, lorsque le sujet s'y prete, sous la direction d'une personnalite reputee. Ce cours s'adapte aussi a la realisation de projets speciaux dans lequel un ou plusieurs etudiants sont appeles a mettre en application ou a experimenter les connaissances theoriques et pratiques acquises durant leurs etudes ou leurs stages.

@@ -1,0 +1,2 @@
+TitreCours: Laboratoire organique pour biochimistes
+DescriptionCours: Identification des structures de molecules organiques. Utilisation des techniques de resonance magnetique nucleaire et de spectroscopie IR. Analyse chimique qualitative des groupes fonctionnels.

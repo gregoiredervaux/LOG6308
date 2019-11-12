@@ -1,0 +1,2 @@
+TitreCours: Seminaire de maitrise en mathematique II
+DescriptionCours: Ce seminaire a pour but de favoriser l'acces a divers domaines specialises ou nouveaux en mathematiques fondamentales ainsi que l'initiation a la recherche.

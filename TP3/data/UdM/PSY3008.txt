@@ -1,0 +1,2 @@
+TitreCours: Laboratoire 2
+DescriptionCours: Revue de la litterature sur un probleme pertinent au domaine de recherche choisi, realisation d'une recherche, seminaires de recherche et redaction d'un rapport.

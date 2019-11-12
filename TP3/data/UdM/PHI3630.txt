@@ -1,0 +1,2 @@
+TitreCours: Philosophie de l'action
+DescriptionCours: Introduction aux problemes contemporains de la philosophie de l'action. L'ontologie des actions. Le role des etats mentaux dans l'explication et la justification des actions. Le raisonnement pratique. L'action collective.

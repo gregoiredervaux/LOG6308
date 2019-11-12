@@ -1,0 +1,2 @@
+TitreCours: Biochimie analytique et industrielle
+DescriptionCours: Étude du role des systemes enzymatiques et des cellules dans les secteurs de pointe de la biochimie appliquee. Aspects modernes de biochimie analytique (biosondes, methodes immunoenzymatiques) relies aux domaines biomedical, pharmaceutique, alimentaire et de l'environnement. Progres recents dans la biochimie preparative (ultrafiltration, chromatographie d'affinite) et industrielle. Biocatalyse et procedes industriels a base de microorganismes. Nouvelles formes therapeutiques.

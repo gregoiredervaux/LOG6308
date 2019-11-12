@@ -1,0 +1,2 @@
+TitreCours: Algebre computationnelle
+DescriptionCours: Formes normales et canoniques, algorithmes d'Euclide, theoreme chinois, factorisation dans les anneaux euclidiens. Calcul effectif de solutions d'equations fonctionnelles et differentielles sous forme close. Calcul de forme normale. Bases de Grobner. Calculs numeriques en precision illimitee. Developpement en serie et approximants de Pade. Calcul tensoriel. Applications: systemes interactifs de calcul algebrique. Optimisation des automates et des programmes.

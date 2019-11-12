@@ -1,0 +1,2 @@
+TitreCours: Topologie des 3
+DescriptionCours: Preliminaires sur les varietes topologiques. Decomposition de Heegard. Les theoremes de Papakyriakopoulous. Le theoreme de decomposition en varietes premieres et la conjecture de Kneser sur le produit libre. Surfaces plongees dans les 3-varietes, varietes de Haken, hierarchies et la deformation d'equivalence d'homotopie. Espaces fibres de Seifert. Decomposition des 3-varietes suivant une famille caracteristique de Tores. Structures geometriques sur les 3-varietes.

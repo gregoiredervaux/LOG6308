@@ -1,0 +1,2 @@
+TitreCours: Le renseignement
+DescriptionCours: L'histoire et les pratiques du renseignement dans le domaine de la securite privee et publique. La communaute canadienne du renseignement et le processus cyclique du traitement de l'information.

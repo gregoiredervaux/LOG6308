@@ -1,0 +1,2 @@
+TitreCours: Petrologie ignee et metamorphique
+DescriptionCours: Introduction a la paragenese des roches ignees et metamorphiques. Évolution et cristallisation des magmas intrusifs et extrusifs. Recristallisation des roches produites par les changements des conditions physicochimiques.

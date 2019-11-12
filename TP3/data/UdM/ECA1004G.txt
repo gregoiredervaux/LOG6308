@@ -1,0 +1,2 @@
+TitreCours: Cardiopathies congenitales 2
+DescriptionCours: Anatomie, physiopathologie et etude echographique des cardiopathies congenitales complexes, masses et epanchement. Évaluation postoperatoire des cardiopathies congenitales. Introduction a l'echo transoesophagienne, echo de stress, et de contraste.

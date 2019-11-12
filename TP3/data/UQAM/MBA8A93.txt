@@ -1,0 +1,2 @@
+TitreCours: Discussion de cas en sante
+DescriptionCours: Ce cours retient comme objectif d'exercer les capacites des participants pour resoudre avec un minimum d'elements et un maximum d'expertise des cas issus du reel de l'administration des services de sante. Parmi les themes abordes: la strategie dans une organisation sociosanitaires; la gestion de l'asymetrie d'information resultant des technologies; les maillages entre les secteur prive et public; les fusions d'etablissements, le virage ambulatoire; et l'avenir des reseaux de services de sante.

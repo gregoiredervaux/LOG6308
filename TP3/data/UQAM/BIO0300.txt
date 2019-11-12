@@ -1,0 +1,2 @@
+TitreCours: Biologie generale
+DescriptionCours: Molecules chimiques a la base de la vie. Cellules procaryotes et eucaryotes. Organisation structurale et fonctionnelle de la cellule eucaryote. Division cellulaire. Bases biochimiques de la production d'energie par la cellule. Pyramide de la complexite: organisation hierarchique des cellules en tissus, organes et systemes. Grands systemes physiologiques chez l'humain. Seances de laboratoire.

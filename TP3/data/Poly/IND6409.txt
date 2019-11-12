@@ -1,0 +1,2 @@
+TitreCours: Interfaces humains-ordinateur specialisees
+DescriptionCours: Methodologie, normes et principes de conception des interfaces humains-ordinateur en ergonomie du logiciel et en informatique. Interfaces pour le Web. Interfaces multimedia. Interfaces basees sur la reconnaissance et la synthese de la parole. Environnements virtuels. Ardoises electroniques. Interfaces pour des clienteles ayant des besoins specifiques.

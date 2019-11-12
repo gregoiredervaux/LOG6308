@@ -1,0 +1,2 @@
+TitreCours: Macroeconomie
+DescriptionCours: Cours relevant de la TÉLUQ Maitriser les concepts de base de l'analyse macroeconomique. Connaitre les principaux indicateurs macroeconomiques et leur mesure. Comprendre les phenomenes macroeconomiques et leurs interrelations. Connaitre les finalites et les instruments de la politique economique. Developper l'aptitude a la recherche, au traitement et a l'analyse de l'information economique. Developper la capacite de porter un jugement eclaire a partir de l'information economique disponible.

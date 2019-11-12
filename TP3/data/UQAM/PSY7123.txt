@@ -1,0 +1,2 @@
+TitreCours: Seminaire sectoriel
+DescriptionCours: Étude de cinq facettes de la recherche fondamentale pertinente a la neuroscience du comportement incluant: la neuroanatomie fonctionnelle, la neurophysiologie sensorielle et motrice, les systemes neurochimiques du systeme nerveux, la physiopathologie du systeme nerveux et la biologie ou la neurobiologie du comportement. Dans chaque facette l'historique, les connaissances etablies et les controverses seront presentes.

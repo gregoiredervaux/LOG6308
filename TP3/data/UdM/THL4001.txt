@@ -1,0 +1,2 @@
+TitreCours: Cheminement personnalise 2
+DescriptionCours: Encadrement personnalise dans le cadre d'un cours regulier ou d'une lecture dirigee, sur une question theologique d'interet pour l'etudiant. Utilisation des outils de reference et de recherche.

@@ -1,0 +1,2 @@
+TitreCours: Sc. de la vision 6 Mouvements oculaires
+DescriptionCours: Mouvement des yeux et vision. Muscles extraoculaires. Stabilisation du regard : fixation, systemes vestibulo-oculaire et optocinetique. Orientation du regard : saccades, mouvements de poursuite, vergence. Controle nerveux des mouvements oculaires.

@@ -1,0 +1,2 @@
+TitreCours: Projet terminal
+DescriptionCours: Étude de cas ou projet d'intervention mobilisant un ensemble de connaissances et de savoir-faire, demontrant la maitrise de plusieurs competences, tout en permettant d'approfondir une problematique urbaine particuliere.

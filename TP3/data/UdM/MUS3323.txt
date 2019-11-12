@@ -1,0 +1,2 @@
+TitreCours: Musique de creation et technologies
+DescriptionCours: L'utilisation des sciences et technologies en musique pour la conception, realisation et production en concert d'oeuvres electroacoustiques, instrumentales et mixtes: hyper-instruments, traitement en temps reel, orchestres de haut-parleurs, etc.

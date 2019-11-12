@@ -1,0 +1,2 @@
+TitreCours: Voir in situ ou l'art dans son milieu
+DescriptionCours: Decouverte des oeuvres sur les lieux de leur fabrication et de leur exposition. Visite des lieux specifiques (ateliers d'artistes, musees d'art, galeries et centres d'artistes, espaces publics, edifices gouvernementaux).

@@ -1,0 +1,2 @@
+TitreCours: Fondements de l'apprentissage machine
+DescriptionCours: Élements de base des algorithmes d'apprentissage statistique et symbolique. Exemples d'applications en forage de donnees, reconnaissance des formes, regression non lineaire, et donnees temporelles.

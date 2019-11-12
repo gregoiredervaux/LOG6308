@@ -1,0 +1,2 @@
+TitreCours: Ophtalmologie veterinaire
+DescriptionCours: Deux semaines de stages dans le service d'ophtalmologie veterinaire.

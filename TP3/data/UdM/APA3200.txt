@@ -1,0 +1,2 @@
+TitreCours: Methodologie et processus
+DescriptionCours: Formulation des problemes et des questionnements de projet. Interpretation des donnees d'analyse et definition des processus de conception (inductif et deductif) en vue d'enoncer des solutions. Revue des methodes quantitative et qualitative.

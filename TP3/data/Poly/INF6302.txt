@@ -1,0 +1,2 @@
+TitreCours: Re-ingenierie du logiciel
+DescriptionCours: Cycle de re-ingenierie : re-ingenierie, restructuration, retro-ingenierie, recuperation de la conception (Design Recovery) et re-documentation. Niveaux d'abstraction et methodes de representation. Aspects d'analyse syntaxique. Techniques d'analyse statique du code source. Analyses de flux de controle et de flux de donnees. Autres techniques d'analyses de flux. Approches d'extraction et d'inference de specifications. Generation automatique de code. Analyse d'impact.

@@ -1,0 +1,2 @@
+TitreCours: La question du sujet
+DescriptionCours: Introduction a la question du sujet, dans ses approches modernes et contemporaines: traditions cartesiennes, phenomenologie, psychanalyse, analyse du langage, «philosophy of mind». Le cours peut confronter plusieurs approches ou se tenir a l'une d'elles. Subsidiairement, les rapports avec la conceptualite du sujet active dans les sciences humaines peuvent etre abordes: linguistique, anthropologie, histoire.

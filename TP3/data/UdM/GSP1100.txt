@@ -1,0 +1,2 @@
+TitreCours: Communication appliquee en sec. int.
+DescriptionCours: S'approprier les concepts et les approches. Preparer des communications appropriees a divers auditoires. Communiquer avec des groupes, tant a l'interne qu'a l'externe. Utiliser diverses strategies de communication.

@@ -1,0 +1,2 @@
+TitreCours: Litterature africaine
+DescriptionCours: Étude des textes et auteurs marquants de la litterature francophone d&rsquo;Afrique subsaharienne.

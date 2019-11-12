@@ -1,0 +1,2 @@
+TitreCours: Droit administratif general
+DescriptionCours: L'Administration publique et le droit administratif. Pouvoirs de l'Administration. Legalite des actes reglementaires, administratifs et quasi judiciaires. Le controle de l'Administration.

@@ -1,0 +1,2 @@
+TitreCours: Introduction a la programmation Internet
+DescriptionCours: Langage HTML, feuilles de style pour la conception et la mise en page de documents Web. JavaScript est introduit afin de rendre ces documents plus interactifs et vivants.

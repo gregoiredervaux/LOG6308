@@ -1,0 +1,2 @@
+TitreCours: Reconnaissance des formes
+DescriptionCours: Notion de forme. Description topologique. Methodes d'extraction des caracteristiques. Techniques de traitement prealable. Classificateurs. Fonctions discriminantes et implantation. Unites de seuil et perceptrons. Approche statistique. Distribution de probabilite dans la conception des structures de classification. Techniques non parametriques. Systemes adaptatifs. Methodologie experimentale et applications.

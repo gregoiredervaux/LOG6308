@@ -1,0 +1,2 @@
+TitreCours: Comptabilite et ethique
+DescriptionCours: Analyse des concepts et theories ethiques et de leur application dans les domaines de la comptabilite, du controle et de l'audit. Étude des dilemmes ethiques confrontant les professionnels comptables dans leur pratique et du processus de prise de decision relatif a ces problematiques.

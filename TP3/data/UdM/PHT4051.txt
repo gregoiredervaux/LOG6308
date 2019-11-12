@@ -1,0 +1,2 @@
+TitreCours: Stage clinique 5
+DescriptionCours: Application des connaissances theoriques et pratiques acquises dans differents champs de pratique de la physiotherapie.

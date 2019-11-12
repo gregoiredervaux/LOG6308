@@ -1,0 +1,2 @@
+TitreCours: Nutrition appliquee a la sante dentaire
+DescriptionCours: Comportement alimentaire et besoins nutritionnels des individus. Étude des nutriments et de leurs roles dans l'organisme. Application des connaissances nutritionnelles a la prevention et au traitement des affections dentaires et parodontales.

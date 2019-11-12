@@ -1,0 +1,2 @@
+TitreCours: Fonctionnement normal du corps humain 4
+DescriptionCours: Approche par systeme integrant biochimie, biologie cellulaire et moleculaire, anatomie, physiologie et nutrition visant a expliquer le fonctionnement normal du corps humain. Dermatologie ; systemes digestif, endocrinien et reproducteur; nutrition.

@@ -1,0 +1,2 @@
+TitreCours: Projets sciences et technologies 3
+DescriptionCours: Conception et realisation de situations didactiques en sciences et technologies.

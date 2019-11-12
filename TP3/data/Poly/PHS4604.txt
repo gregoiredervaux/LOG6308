@@ -1,0 +1,2 @@
+TitreCours: Conversion directe de l'energie
+DescriptionCours: Classification des techniques de conversion d'energie. Limitations dans la conversion de l'energie. Limitations de la planete, etude de sensibilite. Limitations thermodynamiques. Électromagnetisme applique a la conversion de l'energie. Rendement energetique des convertisseurs a magnetohydrodynamique, des generateurs de types Faraday et Hall, des convertisseurs thermoelectriques, des piles photovoltaiques et des piles a combustible. Étude comparative des differentes techniques de conversion. Cycles combines.

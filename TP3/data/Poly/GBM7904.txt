@@ -1,0 +1,2 @@
+TitreCours: Seminaires de doctorat en genie biomedical
+DescriptionCours: Exposes et discussions principalement centres sur les projets de recherche des etudiants au doctorat en genie biomedical. Discussions sur des publications recentes et participation occasionnelle de conferenciers invites.

@@ -1,0 +1,2 @@
+TitreCours: Meteorologie et qualite de l
+DescriptionCours: Diffusion pour sources ponctuelles. Le modele gaussien: classes de stabilite, coefficients de dispersion. L'elevation du panache. Rabattement, elevation du terrain, proximite d'une masse d'eau et presence d'inversion. Sources lineaires et etendues. Le transport: modeles euleriens et lagrangiens. Transformations chimiques. Pertes par depots secs et humides.

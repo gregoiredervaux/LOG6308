@@ -1,0 +1,2 @@
+TitreCours: Litterature et philosophie
+DescriptionCours: Recherches sur les textes litteraires dans leur rapport avec la philosophie.

@@ -1,0 +1,2 @@
+TitreCours: Écriture et developpement de projets en television
+DescriptionCours: Articulation des contenus et leur mise en application selon les contextes sociaux. Precision des publics vises. Clarification des objectifs d'intervention. Distinction des genres televisuels selon le potentiel de chacun. Ajustements des parametres de production, financement, contraintes syndicales, contextes juridiques.

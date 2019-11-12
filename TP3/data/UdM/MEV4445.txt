@@ -1,0 +1,2 @@
+TitreCours: Interpretation en imagerie medicale vet.
+DescriptionCours: Techniques et principes d'interpretation de l'echographie et de la radiographie dans le diagnostic de pathologies specifiques chez les animaux de compagnie.

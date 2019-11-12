@@ -1,0 +1,2 @@
+TitreCours: Sujets speciaux en etudes chinoises
+DescriptionCours: Examen de problemes particuliers d'interpretation de l'histoire, de la culture, de la societe et de la langue chinoises, a partir d'ouvrages de tendances diverses.

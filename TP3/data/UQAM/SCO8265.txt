@@ -1,0 +1,2 @@
+TitreCours: Gouvernance et normalisation dans les secteurs public et parapublic
+DescriptionCours: Études des regles comptables propres aux secteurs public et parapublic. Approche fondee sur la Nouvelle gestion publique. Liens entre la gouvernance, les mecanismes de controle et l'information communiquee. Audit integree.

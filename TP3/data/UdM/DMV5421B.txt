@@ -1,0 +1,2 @@
+TitreCours: Stage externe veterinaire
+DescriptionCours: Deux semaines de stage effectuees a l'exterieur de la Faculte et dans des milieux de stage approuves.

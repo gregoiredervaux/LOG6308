@@ -1,0 +1,2 @@
+TitreCours: LADMER 2 - Medicament en doses multiples
+DescriptionCours: Interaction medicament-corps humain. Notions de Liberation, Absorption, Distribution, Metabolisme, Élimination, Reponse (doses multiples), integrant la chimie medicinale, physicochimie, galenique, pharmacocinetique,pharmacodynamie, pharmacogenetique.

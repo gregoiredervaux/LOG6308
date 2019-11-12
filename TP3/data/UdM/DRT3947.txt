@@ -1,0 +1,2 @@
+TitreCours: Assistanat de recherche 1
+DescriptionCours: Assistanat de recherche aupres d'un professeur. Redaction des resultats de la recherche.

@@ -1,0 +1,2 @@
+TitreCours: Stage II
+DescriptionCours: Activite realisee dans un organisme professionnel (organisation gouvernementale, paragouvernementale, OSBL, etc.) soumise par l'etudiant et dont l'objectif est de lui permettre de completer son cheminement par une formation pratique. Le stage est encadre et evalue conjointement par un professeur et une personne ressource de l'organisme et doit donner lieu a un rapport de stage. Cette activite est evaluee selon la notation succes-echec.

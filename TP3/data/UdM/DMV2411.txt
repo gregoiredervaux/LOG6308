@@ -1,0 +1,2 @@
+TitreCours: Principes de medecine veterinaire 1
+DescriptionCours: Partie 1. Manifestations cliniques des affections animales. Approche par probleme. Prise de l'anamnese, examen physique, diagnostic et options therapeutiques.

@@ -1,0 +1,2 @@
+TitreCours: Travaux pratiques : soins
+DescriptionCours: Mise en application des notions theoriques apprises, par du travail supervise, sur differents equipements. Proceder a des entretiens preventifs et correctifs sur des equipements cibles. Methodes de depannage et appareils de verification. Test de performance. Controle de qualite. Notions de securite; asepsie, liquides biologiques, radiation. Ces notions seront appliquees dans les secteurs des soins tels que : bloc operatoire, soins intensifs, urgence, etc.

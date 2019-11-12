@@ -1,0 +1,2 @@
+TitreCours: Clinique specialisee
+DescriptionCours: Stage dans le cadre de la clinique de kinesiologie : cliniques experts et populations variees. Exercice d&rsquo;habiletes specifiques d&rsquo;evaluation, de programmation et d&rsquo;encadrement en activite physique.

@@ -1,0 +1,2 @@
+TitreCours: Appareil locomoteur
+DescriptionCours: Anatomo-physiologie et bases physiopathologiques des grands syndromes qui affectent le systeme locomoteur. Manifestations cliniques qui en decoulent. Principes d'investigation et de traitement.

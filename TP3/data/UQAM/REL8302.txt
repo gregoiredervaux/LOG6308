@@ -1,0 +1,2 @@
+TitreCours: Examen de synthese II
+DescriptionCours: Cet examen porte sur un sujet determine par le comite du programme et permet de verifier les connaissances du candidat dans un domaine important relie a la recherche.

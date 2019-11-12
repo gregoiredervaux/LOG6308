@@ -1,0 +1,2 @@
+TitreCours: Énergie et environnement
+DescriptionCours: Conversion de l'energie. Pollution de l'espace, de l'air, de l'eau, du sol et pollution souterraine due a la production et a la conversion de l'energie. Detection et propagation de la pollution. Études des impacts sur l'environnement et sur la sante pour les filieres du charbon, du petrole, de l'hydro-electrique et du nucleaire. Pollution et risques associes aux modes de production d'electricite geothermique, eolienne, solaire, par fusion et par biomasse.

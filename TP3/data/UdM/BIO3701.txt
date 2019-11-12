@@ -1,0 +1,2 @@
+TitreCours: Vitroculture des vegetaux
+DescriptionCours: Generalites sur la culture in vitro : culture d'embryons de pollen, de protoplastes, de meristemes; fusion de protoplastes et hybridation cytoplasmique; aspects genetiques; perspectives.

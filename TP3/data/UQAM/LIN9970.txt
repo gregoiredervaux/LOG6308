@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique C
+DescriptionCours: Activite de meme type que LIN9950.

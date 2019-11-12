@@ -1,0 +1,2 @@
+TitreCours: Bruit et signaux aleatoires
+DescriptionCours: Variables et signaux aleatoires. Signaux de bruit: origine; representation multidimensionnelle des signaux aleatoires. Filtres stochastiques lineaires, fonctions de correlation et spectre de puissance. Processus stationnaires. Ergodicite. Recepteurs optimaux. Probabilite d'erreur. Seances d'exercices.

@@ -1,0 +1,2 @@
+TitreCours: Analyse du texte et du discours 2
+DescriptionCours: Ce seminaire veut permettre une reflexion sur les principaux enjeux de l'analyse textuelle et de l'analyse du discours. Des problemes tels que les suivants seront discutes: deixis et anaphore; logique de la conversation et lois du discours; argumentation et orientation argumentative; coherence temporelle, thematique et referentielle; regles de coherence. Differentes hypotheses sur les processus pragmatiques et cognitifs impliques dans le traitement de l'information seront examinees.

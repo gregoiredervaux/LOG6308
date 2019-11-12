@@ -1,0 +1,2 @@
+TitreCours: Microbiologie des denrees alimentaires
+DescriptionCours: Cours relevant de l'I.N.R.S. Bref historique. Revue des parametres des denrees alimentaires affectant la multiplication microbienne. Étude de la flore normale et des microbes pathogenes. Étude du phenomene de la putrefaction et les criteres de qualite. Methodes officielles ou suggerees d'analyse microbiennes. Normes microbiennes. Maladies alimentaires dues aux microbes, symptomes et voies de dissemination. Étude de differents traitements visant a ameliorer la conservation des denrees alimentaires.

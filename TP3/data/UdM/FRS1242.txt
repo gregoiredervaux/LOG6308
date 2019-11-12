@@ -1,0 +1,2 @@
+TitreCours: Communication ecrite. Intermediaire 1
+DescriptionCours: Permettre a l'etudiant non francophone de developper des strategies de comprehension de textes complexes, de produire des textes respectant les regles d'orthographe, de syntaxe et d'usage de la langue.

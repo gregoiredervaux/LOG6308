@@ -1,0 +1,2 @@
+TitreCours: Physiologie integree
+DescriptionCours: Action concertee et regulation des systemes physiologiques durant l'exercice. Perspective de physiologie integree des systemes moteur, metabolique cardiovasculaire, respiratoire, thermoregulateur, nerveux autonome ainsi que douleur et dopage.

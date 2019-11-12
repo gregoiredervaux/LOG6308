@@ -1,0 +1,2 @@
+TitreCours: Tribunal
+DescriptionCours: Ateliers sur la representation devant les tribunaux judiciaires et administratifs. Exercices pratiques visant a developper certaines habiletes en matiere de representation: preparation du dossier, techniques d'interrogatoire, plaidoiries ecrite et orale, etc.

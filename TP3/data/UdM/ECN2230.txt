@@ -1,0 +1,2 @@
+TitreCours: Institutions et marches financiers
+DescriptionCours: Monnaie et regimes monetaires. Les marches financiers et la reglementation. Instruments financiers. Operations bancaires. Gestion monetaire. Marches des changes. Marches boursiers.

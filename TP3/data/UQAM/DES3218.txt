@@ -1,0 +1,2 @@
+TitreCours: Diffusion culturelle et conception graphique
+DescriptionCours: Introduction a l'elaboration technique et formelle, en deux ou trois dimensions, des presentations graphiques reliees a la diffusion culturelle, telles que publications, affiches, expositions. Cours-atelier.

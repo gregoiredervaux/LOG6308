@@ -1,0 +1,2 @@
+TitreCours: Politique economique
+DescriptionCours: Étude des objectifs et des moyens de la politique economique des gouvernements, avec application particuliere au Quebec. Revue des contraintes affectant l'administration de la mission economique de l'État au Quebec et au Canada. Inventaire des interventions gouvernementales relevant de la mission economique et analyse de leurs particularites et de leurs effets.

@@ -1,0 +1,2 @@
+TitreCours: Demarche de changement en SST
+DescriptionCours: Perception de l'ecart entre une situation existante et une situation desiree en SST. Source de l'initiative et reactions des partenaires. Nature et caracteristiques d'un contexte organisationnel ouvert au changement.

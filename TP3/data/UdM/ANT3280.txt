@@ -1,0 +1,2 @@
+TitreCours: Fouilles en archeologie historique
+DescriptionCours: Initiation pratique de fouilles sur le terrain et de releve et d'enregistrement des donnees en archeologie historique. Un rapport de fouille est exige.

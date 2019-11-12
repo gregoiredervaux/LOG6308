@@ -1,0 +1,2 @@
+TitreCours: Communication scientifique
+DescriptionCours: Acquisition des outils permettant le recensement informatique d'ecrits scientifiques. Analyse critique et apprentissage de la redaction d'articles. Apprentissage de la preparation de presentation orale courte, seminaire, journal club et affiche.

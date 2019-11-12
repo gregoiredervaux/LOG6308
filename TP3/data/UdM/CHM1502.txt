@@ -1,0 +1,2 @@
+TitreCours: Chimie experimentale 2
+DescriptionCours: Travaux pratiques integres de chimie analytique, minerale, organique et physique. Introduction aux mesures et traitements des donnees (logiciels informatiques et bibliographie).

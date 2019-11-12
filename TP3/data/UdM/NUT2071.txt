@@ -1,0 +1,2 @@
+TitreCours: Stage en gestion des S.A. 2
+DescriptionCours: Stage de quatre semaines. Mise en application et evaluation des outils de base necessaires a la gestion d'un service de restauration collective. Principes de gestion de la qualite, des risques et de la satisfaction de la clientele.

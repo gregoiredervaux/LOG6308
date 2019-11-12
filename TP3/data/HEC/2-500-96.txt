@@ -1,0 +1,2 @@
+TitreCours: Gestion des operations et de la production
+DescriptionCours: Par une approche systemique, ce cours examine le systeme d'operations et ses divers sous-systemes, tout en etudiant les relations et les interdependances entre ceux-ci.&nbsp; Parmi les sous-systemes etudies, mentionnons : la planification et le controle de la production et des stocks, la conception des produits et des processus, la logistique et la chaine d'approvisionnement ainsi que la qualite.

@@ -1,0 +1,2 @@
+TitreCours: Fondements en organisation du travail
+DescriptionCours: Ce cours permet de developper une vision integree de l'organisation du travail, d'en saisir les fondements theoriques et d'en comprendre les principaux enjeux societaux. Étude des differentes formes d'organisation du travail et des methodes, techniques et principes qui regissent l'amenagement des taches, des postes et du temps de travail.

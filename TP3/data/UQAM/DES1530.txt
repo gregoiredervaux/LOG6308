@@ -1,0 +1,2 @@
+TitreCours: Projet de design I
+DescriptionCours: Atelier de production ayant pour objectif d'initier les etudiants au langage de base de l'organisation spatiale. Approche des techniques de dessin et de maquette comme modes de description, de transcription et d'expression d'une idee en une forme. Exercices visant la conception et la representation des formes dans l'espace a partir des notions de limite spatiale, de transition et de parcours.

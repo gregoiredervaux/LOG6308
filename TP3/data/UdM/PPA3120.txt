@@ -1,0 +1,2 @@
+TitreCours: Gestion de classe au secondaire
+DescriptionCours: Principes, strategies et habiletes de gestion de classe. Rapports entre la gestion de classe et l'apprentissage scolaire et social. Problemes d'indiscipline. Étude de cas.

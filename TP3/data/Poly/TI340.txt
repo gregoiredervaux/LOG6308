@@ -1,0 +1,2 @@
+TitreCours: Matieres dangereuses
+DescriptionCours: Reactivite et incompatibilite de certaines matieres. Reglementation et mesures preventives. Regles et normes de manipulation, de transport et de stockage. Proprietes physico-chimiques des gaz, des liquides, des solides et des produits controles. Programmes de prevention et plans d'urgence

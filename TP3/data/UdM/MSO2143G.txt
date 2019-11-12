@@ -1,0 +1,2 @@
+TitreCours: Diabete : approches interdisciplinaires
+DescriptionCours: Évolution, etat de la recherche et des connaissances : physiopathologie, typologie, donnees epidemiologiques, depistage, prevention et complications, traitements, soutien et enseignement.

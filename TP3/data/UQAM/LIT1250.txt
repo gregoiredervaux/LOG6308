@@ -1,0 +1,2 @@
+TitreCours: Theorie de la creation litteraire
+DescriptionCours: Specificite du travail d'ecriture en regard d'autres pratiques artistiques. Principaux systemes esthetiques (genres, types de discours, notion de style, etc.). Processus de transformation du materiau dans l'elaboration de l'oeuvre.

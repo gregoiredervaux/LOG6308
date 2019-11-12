@@ -1,0 +1,2 @@
+TitreCours: Seminaire de statistique
+DescriptionCours: Ce seminaire a pour but de favoriser les activites de recherche, l'eclosion et la diffusion d'idees nouvelles en statistique. Il comporte au moins un expose par etudiant inscrit.

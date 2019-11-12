@@ -1,0 +1,2 @@
+TitreCours: Planification fiscale
+DescriptionCours: Étude des moyens legaux permettant de planifier et de minimiser les consequences fiscales de certaines transactions et de certains evenements qui surviennent pendant la vie d'un individu (donations, mariage, divorce, deces).

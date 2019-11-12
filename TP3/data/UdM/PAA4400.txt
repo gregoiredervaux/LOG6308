@@ -1,0 +1,2 @@
+TitreCours: Seminaires de recherche veterinaire
+DescriptionCours: Caracteristiques de divers types de recherche veterinaire. Domaines et parametres de la recherche; protocoles, subventions et bourses.

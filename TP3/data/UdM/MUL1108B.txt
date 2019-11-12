@@ -1,0 +1,2 @@
+TitreCours: Histoire de la musique 6B
+DescriptionCours: Histoire du langage musical de la seconde moitie du XXe siecle en relation avec son contexte socioculturel.

@@ -1,0 +1,2 @@
+TitreCours: Projet de logiciel graphique interactif
+DescriptionCours: Conception, realisation, validation et test d'un systeme logiciel graphique interactif. Concepts techniques integres : dynamique des corps rigides ou articules, infographie, interfaces utilisateur, structures de donnees et algorithmes, programmation orientee objet et conception, tests de logiciel. Aspects de base en gestion de projet : definition d'un projet, organigramme des taches, principes et types d'ordonnancement, notions de marges. Travaux en equipe.

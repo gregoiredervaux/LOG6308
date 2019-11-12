@@ -1,0 +1,2 @@
+TitreCours: Formation continue vet.: activites dir.
+DescriptionCours: Études de problemes cliniques avec des specialistes des divers domaines de la medecine veterinaire.Habituellement offert par teleconference.

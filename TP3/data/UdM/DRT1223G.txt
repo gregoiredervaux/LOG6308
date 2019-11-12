@@ -1,0 +1,2 @@
+TitreCours: Obligations 3
+DescriptionCours: Modalites de l'obligation. Paiement de l'obligation. Mise en oeuvre du droit a l'execution (excluant l'execution par equivalent). Protection du droit a l'execution. Transmission et mutations de l'obligation. Extinction de l'obligation.

@@ -1,0 +1,2 @@
+TitreCours: Programmation orientee objet en C++
+DescriptionCours: Perfectionnement en programmation. Étude du langage C++ et de la programmation orientee objet. Applications aux structures de donnees simples et aux interfaces graphiques de base.

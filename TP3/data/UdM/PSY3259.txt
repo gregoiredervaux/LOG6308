@@ -1,0 +1,2 @@
+TitreCours: Psychologie legale
+DescriptionCours: Étude des parametres psychologiques du processus judiciaire. Domaines particuliers d'application. Le jury : selection et fonctionnement; le temoignage oculaire; responsabilite criminelle et troubles mentaux; aptitudes a subir un proces.

@@ -1,0 +1,2 @@
+TitreCours: Meth. numer. pour equations diff. ordinaires
+DescriptionCours: Developpement de Taylor. Methode d'Euler. Representation des nombres sur ordinateurs. Problemes de conditions initiales : methodes a pas constants (Runge-Kutta), methodes a pas variables, stabilite des methodes. Problemes de conditions aux limites : methode des differences finies.

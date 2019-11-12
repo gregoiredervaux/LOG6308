@@ -1,0 +1,2 @@
+TitreCours: Équipe de travail en securite interieure
+DescriptionCours: Les habiletes relationnelles et politiques pour intervenir aupres d'equipes de travail : leadership, dynamique, mobilisation, empowerment, delegation, animation de groupe.

@@ -1,0 +1,2 @@
+TitreCours: Statistique appliquee et logiciels
+DescriptionCours: UNIX, SAS, SPLUS. Analyse exploratoire, robustesse. ANOVA : plan factoriel, comparaisons multiples, donnees manquantes, modele mixte, mesures repetees. Regression : test d'hypothese, selection de modeles, residu, influence, colinearite.

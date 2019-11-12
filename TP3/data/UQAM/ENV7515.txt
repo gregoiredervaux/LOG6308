@@ -1,0 +1,2 @@
+TitreCours: Processus d
+DescriptionCours: Ce cours de methodologie vise le developpement de l'aptitude a definir un projet d'intervention dans toutes ses composantes. Recherche bibliographique. Definition de la problematique, examen de l'etat des connaissances et besoins du client. Identification et definition d'un cadre d'analyse et des theories, concepts, variables et indicateurs pertinents. Établissement du mandat. Choix de la methodologie. Identification des sources de donnees et planification de la cueillette de donnees. Estimation des coûts et du materiel necessaire.

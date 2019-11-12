@@ -1,0 +1,2 @@
+TitreCours: Stage : Obstetrique-gynecologie
+DescriptionCours: Stage clinique concernant l'obstetrique generale, l'obstetrique medicale (conditions medicales pouvant affecter la grossesse) et la gynecologie.

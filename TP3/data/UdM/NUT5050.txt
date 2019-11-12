@@ -1,0 +1,2 @@
+TitreCours: Connaissances en nutrition fondamentale
+DescriptionCours: Fonctions des macros et des micronutriments dans l'organisme. Nature, bases physiologiques et facteurs de variation des besoins en elements nutritifs. Symptomes de carence et d'exces. Usages des supplements de vitamines et mineraux.

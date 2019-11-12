@@ -1,0 +1,2 @@
+TitreCours: Stage : Genetique, maladies metaboliques
+DescriptionCours: Stage aupres de patients d'age pediatrique en genetique et maladies metaboliques.

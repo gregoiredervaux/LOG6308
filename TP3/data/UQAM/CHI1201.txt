@@ -1,0 +1,2 @@
+TitreCours: Chimie inorganique
+DescriptionCours: L'atome isole et sa structure electronique. Structure et liaisons dans les molecules. Interactions dans de grands echantillons d'atomes. La chimie des anions. Solvants, solutions, acides et bases. Le tableau periodique et la chimie des elements; l'hydrogene; les elements du groupe IA (1) ; les elements du groupe IIA (2) ; les elements du groupe IIIA (13) ; les elements du groupe IVA (14) ; les elements du groupe VA (15) ; les elements du groupe VIA (16) ; les elements des halogenes VIIA (17) ; les gaz nobles VIIIA (18).

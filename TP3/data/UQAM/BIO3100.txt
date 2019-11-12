@@ -1,0 +1,2 @@
+TitreCours: Écologie generale
+DescriptionCours: Initiation aux problemes de l'environnement, l'ecosysteme et les facteurs qui le faconnent. Transfert d'energie. La chaine alimentaire et ses niveaux trophiques. Notions de biocenose: les communautes animales et vegetales et leurs interactions. Les grands biomes du globe. Les principaux habitats au Quebec. L'action de l'homme sur le milieu. Ce cours comprend des travaux pratiques.

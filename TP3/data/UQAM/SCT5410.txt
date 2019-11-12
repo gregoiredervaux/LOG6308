@@ -1,0 +1,2 @@
+TitreCours: Metallogenie
+DescriptionCours: Les concepts utilises en metallogenie. Les methodes de l'analyse des minerais et des gites metalliferes. Visites sur le terrain visant a familiariser l'etudiant avec l'echantillonnage et la prise de donnees; examen des mineraux opaques, reconnaissance des alterations hydrothermales, etude des inclusions fluides et utilisation des analyses ponctuelles. Travail individuel et redaction d'un rapport d'etude sur une mineralisation. Laboratoire (2 heures). Sorties sur le terrain.

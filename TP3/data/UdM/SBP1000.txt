@@ -1,0 +1,2 @@
+TitreCours: Decouv., dev. du medic. et orientation
+DescriptionCours: Decouverte et developpement du medicament : phases et disciplines associees. Composantes du programme. Approches pedagogiques : resolution de problemes, projets integrateurs. Competences transversales et specifiques : evaluation et developpement.

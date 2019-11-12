@@ -1,0 +1,2 @@
+TitreCours: Traduction scientifique et technique
+DescriptionCours: Analyse et traduction de differents genres de textes S/T, en prenant en compte les systemes notionnels, terminologiques et phraseologiques. Developpement d'une demarche d'exploitation de connaissances specialisees.

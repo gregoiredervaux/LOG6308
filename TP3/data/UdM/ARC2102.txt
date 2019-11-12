@@ -1,0 +1,2 @@
+TitreCours: Histoire des formes urbaines
+DescriptionCours: Connaissance generale de l'evolution des formes urbaines, de l'Antiquite a nos jours, en tant que resultantes de l'interaction de forces physiques et culturelles.

@@ -1,0 +1,2 @@
+TitreCours: Aristote : ethique et politique
+DescriptionCours: Étude des principaux themes de la philosophie politique d'Aristote en rapport avec l'action, le bien humain et la justice.

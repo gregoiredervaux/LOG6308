@@ -1,0 +1,2 @@
+TitreCours: Materiel roulant et projet
+DescriptionCours: Cahier des charges : relation entre donneurs d'ordres et fournisseurs. Production du materiel roulant : techniques de fabrication, organisation de la production. Maintenance corrective, preventive et predictive. Fiabilite. Exigences de duree de vie des composants et sous-ensembles. Organisation de la maintenance, coût d'exploitation, 'life cycle cost' (LCC), integration de la maintenabilite dans la conception des equipements.

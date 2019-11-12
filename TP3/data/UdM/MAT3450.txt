@@ -1,0 +1,2 @@
+TitreCours: Modelisation mathematique
+DescriptionCours: Formulation mathematique et applications des concepts suivants : analyse dimensionnelle, constante d'un mouvement, equilibre, stabilite, phases, croissance, interaction, delais, propagation, discontinuite, onde de choc.

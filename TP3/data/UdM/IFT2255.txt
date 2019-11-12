@@ -1,0 +1,2 @@
+TitreCours: Genie logiciel
+DescriptionCours: Introduction au genie logiciel. Cycles de developpement. Analyse, modelisation et specification. Conception. Developpement oriente objet. Mise au point. Outils et environnements de developpement.

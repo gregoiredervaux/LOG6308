@@ -1,0 +1,2 @@
+TitreCours: Bases de donnees
+DescriptionCours: Modeles de donnees. Conception et gestion d'une base de donnees. Controle et optimisation des performances. Bases de donnees reparties: architecture, distribution, etc. Integrite, controle de concurrence, securite, fiabilite et confidentialite. Bases de donnees avancees: bases de donnees orientees objets, bases de donnees deductives, intelligence artificielle et bases de donnees.

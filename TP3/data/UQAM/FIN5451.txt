@@ -1,0 +1,2 @@
+TitreCours: Retraite
+DescriptionCours: Ce cours permet a l'etudiant d'acquerir les connaissances necessaires a la realisation des objectifs de retraite d'un particulier. L'etudiant sera initie aux concepts de la retraite, de sa planification et des strategies financieres a adopter. Plus specifiquement, les sujets suivants seront couverts: introduction a la retraite, planification de la retraite, regimes prives (individuels et collectifs) de retraite, regimes gouvernementaux de pension et de retraite, aspects fiscaux de la retraite.

@@ -1,0 +1,2 @@
+TitreCours: Atelier de recherche en orthopedagogie
+DescriptionCours: Atelier d'initiation a l'analyse des besoins des eleves HDAA et de leurs agents d'education, a l'identification des fonctions d'un produit pedagogique, a la conception et au developpement d'un prototype pedagogique adapte.

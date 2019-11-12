@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese II
+DescriptionCours: Cette activite vise a completer le travail amorce dans le cadre du cours GEO7910. Cette etape doit contenir une phase experimentale ainsi qu'une conclusion et, selon le cas, des recommandations concernant le probleme souleve. Cette activite prendra la forme d'un rapport ecrit accompagne de banques de donnees informatisees et de produits de syntheses analogiques. L'etudiant fera enfin une presentation orale de ses recherches. Cette activite se deroule sous la supervision d'un tuteur.

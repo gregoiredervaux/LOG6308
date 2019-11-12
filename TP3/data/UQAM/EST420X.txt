@@ -1,0 +1,2 @@
+TitreCours: Exercice public
+DescriptionCours: Exercice qui a pour but de placer l'etudiant dans le contexte de la representation afin qu'il prenne connaissance de ses ressources sur le plan du jeu, de la scenographie et de la dramaturgie. Travail sur le personnage, l'espace et la mise en scene en fonction de la representation. Cours a contenu variable en fonction du choix de l'oeuvre et de l'approche d'un metteur en scene. Ce cours est suivi d'un atelier de trois heures pour fins d'exercices, de repetition, etc.

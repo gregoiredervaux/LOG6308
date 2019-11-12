@@ -1,0 +1,2 @@
+TitreCours: Le pharmacien, professionnel de la sante
+DescriptionCours: Initiation aux notions de sante et determinants de la sante; profession et professionnalisme; communication interpersonnelle; relation pharmacien/patient; initiation aux soins pharmaceutiques; sources documentaires.

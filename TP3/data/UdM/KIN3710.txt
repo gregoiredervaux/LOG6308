@@ -1,0 +1,2 @@
+TitreCours: Éleves a besoins particuliers et ÉPS
+DescriptionCours: Enseignement securitaire des activites physiques en milieu scolaire aupres de populations a besoins specifiques. Connaissances et concepts relatifs aux troubles moteurs, psychomoteurs et metaboliques.

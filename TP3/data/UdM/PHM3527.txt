@@ -1,0 +1,2 @@
+TitreCours: Dermopharmacie
+DescriptionCours: Anatomie et physiologie de la peau. Lesions cutanees. Affections cutanees. Produits dermopharmaceutiques. Reglements pertinents.

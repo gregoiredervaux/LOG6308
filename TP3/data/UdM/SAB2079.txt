@@ -1,0 +1,2 @@
+TitreCours: Preclinique d'orthodontie
+DescriptionCours: Exercices de laboratoire pour la planification et la manipulation d'appareils d'orthodontie, prise d'empreintes, taille des modeles, analyse de l'espace, adaptation des bagues, pliage de fils.

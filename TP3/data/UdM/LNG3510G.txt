@@ -1,0 +1,2 @@
+TitreCours: Grammaire superieure normative
+DescriptionCours: Étude de problemes grammaticaux sous l'angle normatif. Interference des theories linguistiques et des principes normatifs.

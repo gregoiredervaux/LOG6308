@@ -1,0 +1,2 @@
+TitreCours: Évaluation de la condition physique
+DescriptionCours: Analyse des methodes et techniques de mesure et d'evaluation des aspects morphologiques, organiques et musculaires de la condition physique. Adaptation de ces methodes et techniques selon l'age, le sexe et la condition physique des sujets. Principes fondamentaux du dosage de l'exercice physique en fonction des composantes evaluees, des facteurs de risques et des types de populations. Problemes d'ethique dans la mesure et l'evaluation de la condition physique. Cours theoriques et laboratoires.

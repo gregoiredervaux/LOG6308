@@ -1,0 +1,2 @@
+TitreCours: Transports: Technologies et innovation
+DescriptionCours: Technologies pour le transport des personnes, modes publics et privs. Choix des vhicules pour les transports publics urbains : autobus, trolley, tramway, mtro, train. Caractristiques technologiques des vhicules, sources nergtiques et externalits. Systmes intelligents de transport pour la gestion oprationnelle des rseaux, la gestion de la circulation et la dissmination d'information aux usagers. Outils et mthodologies de collecte de donnes. Mthodologie de fusion de donnes.

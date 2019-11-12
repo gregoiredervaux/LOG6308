@@ -1,0 +1,2 @@
+TitreCours: Sante, pauvrete, intervention
+DescriptionCours: Analyse des conditions socioculturelles, structurelles et ecologiques en lien avec la sante et la pauvrete. Politiques sociales et familiales. Intervention aupres des « groupes a risques » et en situation de crise.

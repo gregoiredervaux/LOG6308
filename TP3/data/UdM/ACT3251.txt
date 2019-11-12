@@ -1,0 +1,2 @@
+TitreCours: Theorie du risque
+DescriptionCours: Modeles individuels de risque, modeles collectifs de risque pour des periodes courtes et longues, application de la theorie "stop-loss". Theorie de la ruine. Modeles pour actifs financiers. Il contribue a la preparation des examens SOA M et CAS 3.

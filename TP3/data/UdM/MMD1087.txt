@@ -1,0 +1,2 @@
+TitreCours: Travaux cliniques individuels
+DescriptionCours: Fournir a l'etudiant l'occasion d'approfondir une discipline pour laquelle il eprouve un attrait particulier.

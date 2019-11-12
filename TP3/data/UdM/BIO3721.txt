@@ -1,0 +1,2 @@
+TitreCours: Écologie microbienne
+DescriptionCours: Étude des micro-organismes et leurs activites metaboliques dans les ecosystemes. Emphase sur le role cle des bacteries dans les differents cycles biogeochimiques.

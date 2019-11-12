@@ -1,0 +1,2 @@
+TitreCours: Rudiments du langage musical I
+DescriptionCours: Apprentissage des elements du langage musical: intonation, notation, duree, mesure, rythme, tonalites simples, a l'aide du solfege et de la dictee musicale (deux premieres heures). Application pratique par la lecture de partitions de flûte a bec ou de chant choral (au choix, troisieme heure). Cours ouvert a tous et n'exigeant aucune formation musicale.

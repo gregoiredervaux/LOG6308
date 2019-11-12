@@ -1,0 +1,2 @@
+TitreCours: Formation continue vet.: seminaires
+DescriptionCours: Presentation et discussion des developpements recents dans les sciences veterinaires. Les seminaires sont normalement offerts par teleconference.

@@ -1,0 +1,2 @@
+TitreCours: Propedeutique en gestion des ressources humaines
+DescriptionCours: Ce cours vise a familiariser l'etudiant avec l'importance de la gestion des ressources humaines et la diversite de ses aspects. Plus particuliermeent, on demontrera le lien entre la fonction ressources humaines et les autres fonctions de l'entreprise, le lien entre les priorites des entreprises liees aux ressources humaines et leurs pratiques de gestion ainsi que les relations entre les divers acteurs en ressources humaines.

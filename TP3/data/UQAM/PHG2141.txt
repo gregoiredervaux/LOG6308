@@ -1,0 +1,2 @@
+TitreCours: Thermodynamique classique
+DescriptionCours: Concepts et methodes de la thermodynamique macroscopique des systemes a l'equilibre. Systemes thermodynamiques. Équation des etats d'equilibre. Premiere loi: conservation de l'energie. Deuxieme loi: entropie. Potentiels thermodynamiques. Applications: gaz de Van der Waals. Effet Joule-Thomson. Transition de phase de premier ordre. Point critique. Regle de phase de Gibbs.

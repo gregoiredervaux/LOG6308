@@ -1,0 +1,2 @@
+TitreCours: Securite incendies-batiments grande hauteur
+DescriptionCours: Revue de la reglementation pertinente. Dynamique de la propagation de l'incendie. Mesures de securite reconnues par le CNB. Particularites des systemes de detection, de communication et d'extinction. Ascenseur pompier et rappel des ascenseurs. Systemes de controle de la fumee. Plan de securite incendie. Inspection et essai des systemes de securite incendie.

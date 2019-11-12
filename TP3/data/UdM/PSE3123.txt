@@ -1,0 +1,2 @@
+TitreCours: L'enfant maltraite
+DescriptionCours: La notion de trauma. Les differentes maltraitances a l'enfance. Prevalence, manifestations, facteurs de risque, evolution, traitement.

@@ -1,0 +1,2 @@
+TitreCours: Fondements de la didactique des maths
+DescriptionCours: Les mathematiques enseignees: histoire, savoirs, rapport au savoir et transposition. Arrimage entre les differents ordres d'enseignement. Roles de l'erreur. Fonctions et effets de l'evaluation.

@@ -1,0 +1,2 @@
+TitreCours: Évaluation des systemes informatiques
+DescriptionCours: Methodes d'evaluation integrees aux etapes du cycle de vie d'un systeme. Diversite des evaluations selon les etapes du cycle de vie et la complexite des applications. Aspects techniques de l'evaluation: evaluation des architectures de traitement et de communication; evaluation des serveurs; evaluation de la qualite de services; evaluation de la conformite a des normes. Outils d'analyse et de mesure de la performance technique. Études de cas d'evaluation technique.

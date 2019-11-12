@@ -1,0 +1,2 @@
+TitreCours: Chimie inorganique II
+DescriptionCours: Étude des proprietes des substances cristallines. Reseaux cristallins. Diffraction des rayons X et applications dans l'etude des poudres. La liaison ionique. Structures de composes inorganiques representatifs et facteurs regissant ces structures. Imperfections du reseau cristallin. Proprietes magnetiques des substances chimiques. La liaison metallique. Theorie des bandes dans les metaux. Alliages.

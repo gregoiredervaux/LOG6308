@@ -1,0 +1,2 @@
+TitreCours: Virologie et pathogenese virale
+DescriptionCours: Notions de base de virologie. Bacteriophages et leurs applications. Principales pathologies virales humaines. Grandes strategies de multiplication virale. Interactions virus-cellules. Impact des virus sur leur hote. Controle des infections virales.

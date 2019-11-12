@@ -1,0 +1,2 @@
+TitreCours: Élements de communication interne
+DescriptionCours: Identification et evaluation des reseaux politiques et techniques de communication interne. Audit communicationnel. Études de cas et atelier de planification.

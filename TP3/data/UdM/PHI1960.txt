@@ -1,0 +1,2 @@
+TitreCours: Philosophie des sciences de la sante
+DescriptionCours: Initiation aux principaux concepts, doctrines et questionnements de la philosophie des sciences de la sante. Analyse comparative de la raison philosophique et de la pensee scientifique dans un contexte de sante.

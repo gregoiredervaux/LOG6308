@@ -1,0 +1,2 @@
+TitreCours: Évaluation des apprentissages
+DescriptionCours: Évaluation diagnostique, formative et sommative du developpement des competences en contexte scolaire. Prise en compte du cheminement par cycle, des clienteles particulieres et des contextes d'application.

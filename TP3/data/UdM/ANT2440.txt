@@ -1,0 +1,2 @@
+TitreCours: Genetique et anthropologie
+DescriptionCours: Introduction a la genetique humaine. Les genes en tant que 1) systeme d'information (genetique moleculaire et du developpement); 2) unites de replication (genetique evolutive); 3) facteurs de variation (genetique mendelienne et quantitative).

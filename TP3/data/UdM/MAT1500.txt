@@ -1,0 +1,2 @@
+TitreCours: Mathematiques discretes
+DescriptionCours: Lois de la logique et d'inference, quantificateurs, preuves. Induction, pgcd, nombres premiers, algorithme d'Euclide, congruence. Recursion, coefficients binomiaux, nombres de Stirling, de Fibonacci, fonctions generatrices.

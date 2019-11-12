@@ -1,0 +1,2 @@
+TitreCours: Stage de recherche 1
+DescriptionCours: Assistanat dans un centre de recherche, aux Affaires juridiques de l'UdeM, aupres d'un juge, aupres d'un ministere d'un gouvernement ou aupres d'un autre corps public. Recherche. Redaction d'avis juridiques.

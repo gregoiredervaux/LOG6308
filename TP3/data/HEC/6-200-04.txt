@@ -1,0 +1,2 @@
+TitreCours: Decisions financieres de la firme
+DescriptionCours: Ce cours passe en revue les fondements theoriques de la gestion financiere des entreprises et en tire des enseignements pratiques pour les decisions d'investissement et de financement. On peut y aborder les cas des grandes entreprises a propriete diffuse aussi bien que celui des grandes entreprises etroitement controlees et celui des PME. Le cours est donnee sous forme de seminaire et requiert la participation active des etudiants.

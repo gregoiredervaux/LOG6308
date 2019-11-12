@@ -1,0 +1,2 @@
+TitreCours: Économie et droit
+DescriptionCours: Theories economiques du droit. Analyse economique des lois. Reglementation.

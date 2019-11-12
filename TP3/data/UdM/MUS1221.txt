@@ -1,0 +1,2 @@
+TitreCours: Musique et musiciens actuels
+DescriptionCours: Apercu d'experimentations realisees depuis 1950 : musiques concrete et electronique, musique aleatoire, processus graduel, theatre instrumental, minimalisme, etc. Reflexion sur les consequences de ces experiences.

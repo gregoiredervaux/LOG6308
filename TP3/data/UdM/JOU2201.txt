@@ -1,0 +1,2 @@
+TitreCours: Atelier de radio 1
+DescriptionCours: Pratiques journalistiques dans une salle de nouvelles (radio). Initiation technique : prise de son, montage. Redaction et lecture de nouvelles radiophoniques. Apprentissage des techniques d'entrevue propres a la radio.

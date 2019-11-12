@@ -1,0 +1,2 @@
+TitreCours: Sciences et societe
+DescriptionCours: Role des sciences dans la societe. Analyse des politiques scientifiques, de l'organisation des institutions scientifiques et de l'enseignement des sciences. Interaction entre les sciences et les structures sociales. Reflexion sur l'impact sociologique du developpement des sciences et des innovations techniques qui en resultent: l'automation, la communication de masse, les maladies industrielles, les manipulations genetiques, l'energie, la pollution, l'environnement, etc. Responsabilite du scientifique envers la societe.

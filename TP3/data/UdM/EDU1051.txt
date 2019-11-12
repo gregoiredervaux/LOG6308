@@ -1,0 +1,2 @@
+TitreCours: Stage d'initiation a l'enseignement
+DescriptionCours: Sensibilisation au role de l'enseignant. Exploration des composantes de la classe heterogene et de l'environnement scolaire.

@@ -1,0 +1,2 @@
+TitreCours: Theories de la communication
+DescriptionCours: Reflexion theorique sur la communication a partir de courants de pensee importants en psychosociologie, en psychologie et dans les sciences humaines en general. Schema «canonique» et theorie de l'information de Shannon. Implications de la cybernetique et de la theorie des systemes pour l'etude des communications. Approche semiologique de la communication. Pragmatique de la communication (par comparaison avec les perspectives techniques et symboliques).

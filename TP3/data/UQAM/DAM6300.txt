@@ -1,0 +1,2 @@
+TitreCours: Stage d
+DescriptionCours: L'etudiant devra assumer l'animation d'un groupe en milieu recreatif en vue de l'amener a une creation. Il sera charge de l'organisation des differentes etapes de cette production.

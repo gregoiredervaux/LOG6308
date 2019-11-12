@@ -1,0 +1,2 @@
+TitreCours: Lecture des formes du paysage
+DescriptionCours: Connaissance des formes du paysage : geomorphologie, analyse visuelle, etc. Notions de cartographie, de geomatique et de traitement numerique liees au territoire et au paysage. Concepts de lecture d'analyse paysagere.

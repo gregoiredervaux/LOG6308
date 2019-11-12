@@ -1,0 +1,2 @@
+TitreCours: Didactique du francais au secondaire 2
+DescriptionCours: Fond. et critique des approches en did. de la grammaire, de l'orthographe, de l'organisation du texte et de la comm. orale. Contenus, demarches d'ens. et formes d'evaluation. Analyse et prod. de scenarios d'app. Recherches.

@@ -1,0 +1,2 @@
+TitreCours: Ped. et eleves a besoins particuliers
+DescriptionCours: Gestion d'un groupe-classe integrant des enfants a besoins particuliers dans une perspective d'egalite des chances. Adaptation de l'enseignement aux caracteristiques des eleves. Pedagogie de la reussite.

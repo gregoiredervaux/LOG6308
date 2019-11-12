@@ -1,0 +1,2 @@
+TitreCours: Initiation au theatre
+DescriptionCours: Introduction au theatre a partir d'une pratique en ateliers portant sur: le travail sur des textes, l'exploration en jeu et en interpretation, l'identification et l'exploration des elements sonores et visuels de la representation. Approche historique et situation contemporaine du theatre. Aspects sociologiques. Analyse des diverses composantes du langage dramatique (fable, personnages, texte) et de la scenographie (decors, costumes, eclairages, accessoires, etc.).

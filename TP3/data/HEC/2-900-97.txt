@@ -1,0 +1,2 @@
+TitreCours: Comptabilite de gestion
+DescriptionCours: Les notions couvertes dans ce cours incluent l'etude du comportement des coûts, la repartition et le controle des coûts dans l'entreprise industrielle, la comptabilite par activites, l'analyse coût/volume/benefice, les decisions a court terme, le processus budgetaire, la rentabilite divisionnaire et l'evaluation de la performance.

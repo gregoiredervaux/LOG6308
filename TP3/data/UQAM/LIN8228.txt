@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique en acquisition des langues secondes
+DescriptionCours: Ce seminaire a contenu variable portera sur un theme particulier relatif a l'acquisition des langues secondes.

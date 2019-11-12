@@ -1,0 +1,2 @@
+TitreCours: Structure des materiaux
+DescriptionCours: Cours visant a donner une description physique de differents materiaux. Description de la structure et des proprietes de differents types de materiaux au niveau atomique et moleculaire. Cristaux, dielectriques, verre, ceramiques, semi-conducteurs, metaux. Selon les besoins, differentes formules pedagogiques pourront s'appliquer: cours magistral, laboratoire, seminaire, projet, lecture dirigee, etc.

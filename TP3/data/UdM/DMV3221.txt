@@ -1,0 +1,2 @@
+TitreCours: Mal. infect., sante publique, zoonoses
+DescriptionCours: Maladies infectieuses communes a plusieurs especes et maladies exotiques. Innocuite des aliments d'origine animale. Maladies infectieuses animales transmissibles aux humains.

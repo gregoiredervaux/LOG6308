@@ -1,0 +1,2 @@
+TitreCours: Didactique des mathematiques 1
+DescriptionCours: Comprehension et analyse des principaux savoirs arithmetiques enseignes au prescolaire et au premier cycle du primaire dans une perspective didactique. Organisation de situations didactiques. Évaluation des apprentissages.

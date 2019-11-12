@@ -1,0 +1,2 @@
+TitreCours: Automedication et instruments medicaux
+DescriptionCours: Automedication. Cadre legal et professionnel. Articles d'hygiene. Supplements dietetiques. Medicaments de vente libre. Instruments utilises pour le diagnostic, le traitement et le suivi therapeutique des patients.

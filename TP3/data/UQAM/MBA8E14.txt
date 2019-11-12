@@ -1,0 +1,2 @@
+TitreCours: Information comptable dans les entreprises collectives
+DescriptionCours: Ce cours vise une comprehension de l'information comptable, son utilisation a des fins de gestion et l'analyse efficace des etats financiers externes. Les dimensions specifiques de l'information comptable en entreprise collective seront aussi abordees.

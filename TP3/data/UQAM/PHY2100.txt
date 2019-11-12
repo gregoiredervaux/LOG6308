@@ -1,0 +1,2 @@
+TitreCours: Électrostatique
+DescriptionCours: Introduction aux principaux concepts de l'electrostatique et de l'electromagnetisme. Champ electrique. Potentiel electrique et energie potentielle electrique. Champ magnetique. Loi de Bio-Savard. Loi de Lentz. Self-inductance, inductance mutuelle, circuits magnetiques. Proprietes magnetiques de la matiere, ferromagnetisme, loi de Maxwell, oscillations electromagnetiques.

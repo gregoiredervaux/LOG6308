@@ -1,0 +1,2 @@
+TitreCours: Chapitres choisis en virologie
+DescriptionCours: Sujets touchant les divers aspects de l'expression genetique des virus animaux et vegetaux en fonction des interets de recherche des etudiants participants. Les principaux themes abordes seront : le role des virus comme vecteurs genetiques ; la dynamique du genome viral et de son expression phenotypique ; la pathogenicite virale et sa modulation par des facteurs environnementaux.

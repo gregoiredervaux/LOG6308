@@ -1,0 +1,2 @@
+TitreCours: Pollution atmospherique
+DescriptionCours: Systeme eulerien et lagrangien. Presentation spectrale de la turbulence. Theorie statistique de Taylor: application a la diffusion pres et loin des sources. Theorie de la similitude: application a une source continue. Diffusion en milieu urbain: modele de la boite et modele ATDL. Montee de panache en atmosphere neutre et stable. Les mecanismes de perte par sedimentation, depots secs et humides. Observations experimentales de la diffusion. Supplements au modele gaussien.

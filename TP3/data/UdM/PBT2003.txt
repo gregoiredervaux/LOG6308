@@ -1,0 +1,2 @@
+TitreCours: Strategies - service-conseil
+DescriptionCours: Types de strategies et de planifications publicitaires. Types de recherches appliquees a la publicite. Comportement du consommateur dans une perspective publicitaire.

@@ -1,0 +1,2 @@
+TitreCours: Gestion des operations et financement des entreprises
+DescriptionCours: Ce cours vise la comprehension par l'etudiant des differents modes de transformation de ressources en biens et services. A la fin du cours, l'etudiant devra en maitriser les principaux elements, les situer dans l'entreprise, savoir comment concevoir un systeme d'operation et resoudre les problemes qui en decoulent. Le contenu de ce cours peut varier en cheminement specialise.

@@ -1,0 +1,2 @@
+TitreCours: lectrotechnique applique
+DescriptionCours: Rvision des circuits  courant alternatif. Caractristiques des rseaux  courant alternatif. Circuits  courant continu. Introduction aux transformateurs. Introduction aux moteurs lectriques. Dmarreurs (commande et protection des moteurs). Appareils de coupure. Effets de capacitance et ractance des circuits de commande  courant alternatif. Isolation des circuits aliments par des sources diffrentes.

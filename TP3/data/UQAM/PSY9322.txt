@@ -1,0 +1,2 @@
+TitreCours: Psychologie du developpement du langage
+DescriptionCours: Problemes actuels en psychologie du developpement du langage. Approches behaviorales, ethologiques, cognitives et analytiques. Pragmatique de la communication et du langage. Analyse du discours et analyse de la conversation. Modeles et methodes computationnelles. Applications cliniques et psychoeducatives.

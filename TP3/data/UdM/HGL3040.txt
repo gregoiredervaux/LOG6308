@@ -1,0 +1,2 @@
+TitreCours: Aspects d'archeologie classique
+DescriptionCours: Étude de problemes specifiques relies a l'evolution de l'art (sculpture, ceramique, peinture, mosaique, etc.) et de l'architecture du monde grec.

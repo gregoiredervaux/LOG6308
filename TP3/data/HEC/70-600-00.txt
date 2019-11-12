@@ -1,0 +1,2 @@
+TitreCours: Propedeutique en mathematiques de gestion
+DescriptionCours: Ce cours a pour but de presenter les principaux concepts et notions du langage mathematique specifiques au domaine de la gestion. Des exemples d'application seront developpes avec Excel, un outil d'usage tres commun en gestion. L'accent portera plutot sur la comprehension des concepts et l'application du langage mathematique aux problematiques de gestion plutot qu'a l'acquisition d'habiletes techniques avancees.

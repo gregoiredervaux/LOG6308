@@ -1,0 +1,2 @@
+TitreCours: Dessin 2
+DescriptionCours: Ce cours met l'accent sur la maitrise du langage de base et l'utilisation du dessin comme outil de creation expressif pour ameliorer la qualite de l'observation et enrichir la memoire visuelle.

@@ -1,0 +1,2 @@
+TitreCours: Introduction a la traduction hispanique
+DescriptionCours: Initiation aux principes de base, aux instruments et aux methodes de la traduction dans le domaine hispanique. Travaux pratiques de traduction de l'espagnol vers le francais et du francais vers l'espagnol dans des domaines non specialises.

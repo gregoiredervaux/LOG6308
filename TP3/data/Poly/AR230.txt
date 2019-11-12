@@ -1,0 +1,2 @@
+TitreCours: Avionique II
+DescriptionCours: Dfinition des exigences et aspects relis  la conception des systmes avioniques. Choix des systmes avioniques en fonction de leur environnement. Bus et protocoles de communications embarqus. Contrle et validation du logiciel avionique. Considrations relatives  la maintenance et aux cots.

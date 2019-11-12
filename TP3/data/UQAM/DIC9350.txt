@@ -1,0 +1,2 @@
+TitreCours: Vision et analyse d
+DescriptionCours: Methodes cognitivement plausibles d'analyse d'images inspirees du systeme visuel humain. Modelisation des processus visuels humains a l'aide de l'architecture cognitive SOAR. L'attention visuelle: ses aspects cognitifs et son role en tant que processus computationnel. Systemes de vision artificielle a base de connaissances et de reseaux neuroniques.

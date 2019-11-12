@@ -1,0 +1,2 @@
+TitreCours: Gestion de reseaux et protocoles
+DescriptionCours: Protocole TCP/IP : installation, configuration, mecanismes d'adressage, evaluation de performances, serveurs d'application et depannage. Les travaux pratiques seront bases sur les systemes recents UNIX ou Windows.

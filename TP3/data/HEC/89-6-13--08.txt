@@ -1,0 +1,2 @@
+TitreCours: MC-MGSC 701 Decomposition - Large Scale Optimization
+DescriptionCours: Il n'y a pas de description disponible pour ce cours.

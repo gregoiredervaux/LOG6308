@@ -1,0 +1,2 @@
+TitreCours: Linguistique et intelligence artificielle
+DescriptionCours: Presentation des travaux qui se sont developpes en intelligence artificielle, en particulier dans le cadre de la comprehension des langues naturelles. Ce cours permet notamment de preciser les concepts d'algorithme, de programme et d'analyseur de langue naturelle, comme leur realisation dans des sous-domaines particuliers, phonologie, syntaxe et semantique. Enfin, il vise a mettre en relief des relations entre la theorie linguistique et la theorie computationnelle.

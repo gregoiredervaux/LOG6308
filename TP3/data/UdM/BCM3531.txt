@@ -1,0 +1,2 @@
+TitreCours: Travaux pratiques 3
+DescriptionCours: Mutagenese dirigee. Hybridation moleculaire. Sequencage. Chromatographie sur tamis moleculaire et sur colonne echangeuse d'ions. Électrophorese de proteines sur gel. Western blot. Culture cellulaire. Transfection. Cinetique enzymatique.

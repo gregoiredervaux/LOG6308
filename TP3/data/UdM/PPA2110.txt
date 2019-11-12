@@ -1,0 +1,2 @@
+TitreCours: Gestion de classe et adaptation scolaire
+DescriptionCours: Organisation et gestion de groupes incluant des eleves handicapes ou en difficulte. Animation, communication, planification, organisation spatio-temporelle. Impact des pratiques sur la reussite des eleves.

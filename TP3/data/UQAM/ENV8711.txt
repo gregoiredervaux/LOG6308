@@ -1,0 +1,2 @@
+TitreCours: Activite dirigee
+DescriptionCours: Activite effectuee sous la supervision d'un professeur qui accepte la responsabilite de cet encadrement individuel. Au debut de l'activite, un document explicitant le sujet aborde ainsi que les modalites d'encadrement et d'evaluation doit etre depose a la direction du programme et approuve par celle-ci. Le professeur assurant l'encadrement beneficie de credits d'encadrement correspondant a une fraction du nombre de credits associe a l'activite.

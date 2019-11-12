@@ -1,0 +1,2 @@
+TitreCours: Projet de memoire
+DescriptionCours: Sous la direction de son directeur de recherche, l'etudiant prepare un document complet exposant la problematique du sujet choisi, le point de la question dans la litterature scientifique, etaye par une bibliographie critique du theme. Les methodes et instruments de recherche devront etre suffisamment developpes pour demontrer que la recherche et la redaction du memoire sont realisables par l'etudiant. Cette activite est evaluee selon la notation succes-echec.

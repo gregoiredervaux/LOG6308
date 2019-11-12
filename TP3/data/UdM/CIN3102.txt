@@ -1,0 +1,2 @@
+TitreCours: Les theories des cineastes
+DescriptionCours: Analyse des theories du cinema proposees par les cineastes, que celles-ci s'expriment a travers des processus de creation ou sous les formes diverses du traite d'esthetique, du manifeste, de la reflexion theorique, du temoignage, etc.

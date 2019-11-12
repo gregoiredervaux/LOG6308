@@ -1,0 +1,2 @@
+TitreCours: Travail et environnement A
+DescriptionCours: Atelier de production ayant pour thematique l'espace industriel et les conditions de travail. Participation de l'etudiant a un projet qui lui permet l'apprentissage des methodes et des techniques du design industriel et du design architectural appliquees a l'environnement du travail.

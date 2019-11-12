@@ -1,0 +1,2 @@
+TitreCours: Histoire de la musique 4
+DescriptionCours: Histoire du langage musical du XVIIIe siecle, en relation avec son contexte socioculturel.

@@ -1,0 +1,2 @@
+TitreCours: Embryologie humaine
+DescriptionCours: Étude de l'embryologie avec emphase sur la clinique et les malformations. Embryogenese moleculaire : 1) du zygote unicellulaire a un bebe vivant et normalement forme; 2) liens entre l'embryogenese et l'oncogenese.

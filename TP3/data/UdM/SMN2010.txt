@@ -1,0 +1,2 @@
+TitreCours: VIH/sida : soins et soutien a domicile
+DescriptionCours: Évolution, etat de la recherche, traitements actuels. Donnees epidemiologiques. Depistage, prevention et complications. Soutien, accompagnement, controle de la douleur. Analyse des prejuges et des peurs. Ressources specifiques.

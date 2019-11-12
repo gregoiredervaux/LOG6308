@@ -1,0 +1,2 @@
+TitreCours: Theorie de l'organisation administrative
+DescriptionCours: Definition de l'organisation. Les buts de l'organisation. L'analyse classique des organisations administratives. La structure bureaucratique. Controle et leadership. L'organisation administrative et l'environnement social.

@@ -1,0 +1,2 @@
+TitreCours: Caracter. des polymeres thermoplastiques
+DescriptionCours: Principaux outils de caracterisation des matieres plastiques. Determination de la masse molaire par osmometrie, viscosite intrinseque et chromatographie d'exclusion sterique. Analyse enthalpique differentielle: Temperature de transition vitreuse et cristallinite. Normes ASTM: impact, fluage, perforation. Proprietes mecaniques en tension. Proprietes mecaniques dynamiques. Viscosite et rheometrie. Conductivite et diffusivite thermique. Comportement a la chaleur (HDT). Permeabilite a l'oxygene.

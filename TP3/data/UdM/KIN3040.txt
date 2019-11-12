@@ -1,0 +1,2 @@
+TitreCours: Pratique d'intervention
+DescriptionCours: Stage en milieu d'intervention. Application des habiletes d&rsquo;evaluation, de programmation et d&rsquo;encadrement en activite physique aupres de la clientele de la clinique du Departement de kinesiologie.

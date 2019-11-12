@@ -1,0 +1,2 @@
+TitreCours: Russe elementaire
+DescriptionCours: Communiquer dans des situations simples. Apprentissage de l'ecriture. Acquisition du vocabulaire et de la grammaire de base. Exercices oraux et ecrits, lecture, compositions breves. Aspects culturels.

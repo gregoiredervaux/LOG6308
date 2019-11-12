@@ -1,0 +1,2 @@
+TitreCours: Hygiene du travail
+DescriptionCours: Definition, but et methode de l'hygiene du travail. Notions de toxicologie. Fondements scientifiques des normes. Demarche d'investigation propre a l'hygiene du travail. Application aux principaux agresseurs physiques et chimiques du travail.

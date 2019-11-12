@@ -1,0 +1,2 @@
+TitreCours: Soins infirmiers en readaptation
+DescriptionCours: Philosophie et principes de la readaptation. Fonctionnement optimal des clients atteints d'une maladie chronique ou d'un handicap physique ou mental.

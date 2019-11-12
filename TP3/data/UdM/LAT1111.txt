@@ -1,0 +1,2 @@
+TitreCours: Initiation a la langue latine 1
+DescriptionCours: Cours intensif de latin classique. Principales structures morphologiques et syntaxiques de la langue. Themes, versions et lecture de textes simplifies.

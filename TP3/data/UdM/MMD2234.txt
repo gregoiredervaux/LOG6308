@@ -1,0 +1,2 @@
+TitreCours: Problemes systemiques
+DescriptionCours: A partir de problemes complexes, l'etudiant integre la physiopathologie des grands syndromes rencontres en clinique. Les problemes discutes touchent plusieurs systemes ce qui permet l'apprentissage de la demarche diagnostique en medecine interne.

@@ -1,0 +1,2 @@
+TitreCours: Sociologie du Quebec
+DescriptionCours: Survol historique de la societe quebecoise et analyse du Quebec contemporain. Demographie, structures economiques, organisation sociale, classes sociales et ideologies.

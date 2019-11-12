@@ -1,0 +1,2 @@
+TitreCours: Programmation 2
+DescriptionCours: Concepts avances : classes, objets, heritage, interfaces, reutilisation, evenements. Introduction aux structures de donnees et algorithmes : listes, arbres binaires, fichiers, recherche et tri. Notions d'analyse numerique : precision.

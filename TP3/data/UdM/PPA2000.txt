@@ -1,0 +1,2 @@
+TitreCours: Laboratoire d'enseignement
+DescriptionCours: Observation et analyse de situations d'enseignement. Pratiques d'habiletes en situation de micro-enseignement. Videoscopie et entrainement a une analyse de la pratique fondee sur la reflexion et sur l'ethique professionnelle.

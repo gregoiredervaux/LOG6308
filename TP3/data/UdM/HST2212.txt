@@ -1,0 +1,2 @@
+TitreCours: Histoire de l'Union sovietique
+DescriptionCours: Cours de synthese portant sur l'evolution de la Russie au XXe siecle.

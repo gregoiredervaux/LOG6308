@@ -1,0 +1,2 @@
+TitreCours: Construction 2
+DescriptionCours: Connaissance des composantes, assemblages et principes de construction d'un batiment a ossature en bois, en beton et en acier. Exposes sur les techniques de mise en oeuvre propres au Quebec.

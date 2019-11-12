@@ -1,0 +1,2 @@
+TitreCours: Paleontologie et evolution
+DescriptionCours: Paleozoologie generale et evolution des invertebres marins avec legere insistance sur les Foraminiferes, Brachiopodes, Trilobites et Graptolites.

@@ -1,0 +1,2 @@
+TitreCours: Photographie
+DescriptionCours: Introduction aux techniques de base en photographie: appareils, pellicules, developpement, eclairage, etc. Familiarisation avec le maniement de la camera. Sensibilisation aux differentes utilisations de la photographie.

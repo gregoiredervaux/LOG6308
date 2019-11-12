@@ -1,0 +1,2 @@
+TitreCours: Biochimie 2
+DescriptionCours: Sang, lymphe, liquide cephalo-rachidien et respiration. Salive, digestion et absorption. Fonctions biochimiques du foie et du rein. Hormones. Biochimie clinique. Biochimie des phosphates de calcium et de la plaque dentaire.

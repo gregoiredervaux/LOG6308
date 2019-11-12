@@ -1,0 +1,2 @@
+TitreCours: Dynamique
+DescriptionCours: Cinematique: position, deplacement, vitesse, acceleration. Les lois de Newton appliquees aux corps de masse constante. Mouvements rectiligne et circulaire, dans le plan et dans l'espace. Principe de conservation de la quantite de mouvement. Principe de conservation du moment cinetique. Principe de conservation de l'energie (potentielle et cinetique).

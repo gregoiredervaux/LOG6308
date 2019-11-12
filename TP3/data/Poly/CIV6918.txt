@@ -1,0 +1,2 @@
+TitreCours: Projet d'tudes suprieures
+DescriptionCours: Projet d'tudes suprieures accompli sous la direction d'un professeur du dpartement et comprenant une tude d'application de haut niveau ainsi que la rdaction d'un rapport de projet. Le travail comprend au moins 9 heures par semaine consacres au projet pendant 15 semaines pour un total de 135 heures.

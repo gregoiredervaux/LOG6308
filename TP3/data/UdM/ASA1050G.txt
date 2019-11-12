@@ -1,0 +1,2 @@
+TitreCours: Le role du gestionnaire : defis, enjeux
+DescriptionCours: Fonctions de gestion appliquees a l'evolution du reseau de la sante et des services sociaux. Tendances actuelles en management. Environnement de travail. Defis du gestionnaire, competences recherchees. Bilan de competences et projet de developpement.

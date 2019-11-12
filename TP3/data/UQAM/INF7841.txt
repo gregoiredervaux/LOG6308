@@ -1,0 +1,2 @@
+TitreCours: Intelligence artificielle
+DescriptionCours: Survol des domaines de l'intelligence artificielle. Representation de la connaissance, inference, raisonnement, architectures des systemes intelligents, systemes experts, comprehension de la langue naturelle, vision, autoapprentissage.

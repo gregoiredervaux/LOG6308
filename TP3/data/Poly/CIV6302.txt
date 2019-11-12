@@ -1,0 +1,2 @@
+TitreCours: Mtorologie
+DescriptionCours: L'atmosphre statique. Composition de l'atmosphre infrieure et de l'atmosphre suprieure. Structure verticale. Sommaire climatologique, le bilan du rayonnement. L'atmosphre dynamique. Circulation gnrale de l'atmosphre. Thorie des fronts norvgiens. Initiation  la pollution atmosphrique.

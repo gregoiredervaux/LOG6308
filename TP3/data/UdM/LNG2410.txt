@@ -1,0 +1,2 @@
+TitreCours: Phonetique appliquee : pathologie
+DescriptionCours: Problemes phonetiques en pathologie de la parole (segmental et suprasegmental). Methodes de diagnostic, evaluation du niveau d'analyse touche (ex. phonetique/phonologique), choix des modeles de description et des outils d'analyse appropries.

@@ -1,0 +1,2 @@
+TitreCours: Communication et gestion de crise
+DescriptionCours: Definition et categorisation des crises en milieu organisationnel. Analyse critique des strategies et des moyens specifiques a la communication en temps de crise.

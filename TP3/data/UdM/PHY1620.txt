@@ -1,0 +1,2 @@
+TitreCours: Ondes et vibrations
+DescriptionCours: Oscillations libres, amorties et entretenues. Oscillateurs couples et modes normaux. Ondes stationnaires. Superposition de modes et analyse de Fourier. Ondes progressives. Reflexion et transmission. Interference.

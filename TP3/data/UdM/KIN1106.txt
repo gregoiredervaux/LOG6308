@@ -1,0 +1,2 @@
+TitreCours: Activites de plein air 1
+DescriptionCours: Planification et gestion d'activites dans des environnements naturels : randonnees pedestres, parcours d'orientation, canoe, survie en foret, jeux de plein air. Appreciation de la nature.

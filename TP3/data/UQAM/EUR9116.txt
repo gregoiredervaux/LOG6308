@@ -1,0 +1,2 @@
+TitreCours: Seminaire de specialisation
+DescriptionCours: Les participants a ce seminaire sont appeles a approfondir leur domaine choisi de specialisation, notamment au moyen de lectures assignees par leur directeur de recherche. Cette activite d'approfondissement est completee par la discussion et l'echange dans le cadre de rencontres animees par le responsable du cours. Ce dernier assume la coordination du seminaire et l'evaluation des etudiants.

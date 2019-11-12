@@ -1,0 +1,2 @@
+TitreCours: Les indicateurs pour evaluer des programmes
+DescriptionCours: Ce cours vise l'approfondissement de l'etude des indicateurs utilises dans le contexte des evaluations de programmes en education. Nature et qualites de l'indicateur; types d'indicateurs, roles et significations en evaluation de programmes d'education ou de formation; indicateurs actuellement employes en education au Quebec, au Canada et ailleurs; forces et faiblesses des indicateurs dans une evaluation.

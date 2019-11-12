@@ -1,0 +1,2 @@
+TitreCours: Projets d'operations unitaires
+DescriptionCours: Validation en laboratoire de concepts d'operations unitaires : transfert de chaleur, mecanique des fluides, procedes de separation et commande des procedes. Perfectionnement des connaissances en operations unitaires par des modules d'application tires de l'industrie chimique. Realisation en equipe d'un projet integrateur visant la conception de plusieurs unites d'un meme procede industriel. Ce cours fait appel aux notions presentees dans le cours GCH3100A operations unitaires.

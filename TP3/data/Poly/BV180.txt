@@ -1,0 +1,2 @@
+TitreCours: Gestion cologique des btiments
+DescriptionCours: Synthse sur l'impact de la gestion d'un btiment sur l'environnement. Techniques de gestion cologique des ressources matrielles, de l'intendance, de l'entretien et des oprations d'un btiment (incluant les quipements lectromcaniques). Intgration de politiques corporatives cologiques. Rduction des consommations. Gestion de la qualit de l'air intrieur. Impacts conomiques d'une gestion durable  travers des tudes de cas.

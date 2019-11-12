@@ -1,0 +1,2 @@
+TitreCours: Informatique dans l
+DescriptionCours: Étude de l'utisation de didacticiels, de logiciels outils et de la programmation dans l'enseignement des mathematiques. Developpement de strategies pedagogiques reliees a ces logiciels. Reflexion sur l'impact du developpement des ressources informatiques sur les objectifs et contenus des programmes de mathematiques, ainsi que sur les modes d'apprentissage des mathematiques.

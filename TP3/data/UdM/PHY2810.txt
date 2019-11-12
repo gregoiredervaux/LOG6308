@@ -1,0 +1,2 @@
+TitreCours: Mecanique quantique
+DescriptionCours: Dualite onde-particule. Postulats de la mecanique quantique. Oscillateur harmonique. Particules identiques. Moment cinetique. Atome d'hydrogene. Spin.

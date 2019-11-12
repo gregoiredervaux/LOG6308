@@ -1,0 +1,2 @@
+TitreCours: Systmes lectromcaniques
+DescriptionCours: Dispositifs de conversion lectromcanique d'nergie. Conversion lectromcanique et quations du mouvement. Principes fondamentaux des machines lectriques. Machines synchrones et asynchrones: rgimes permanents et rgimes dynamiques; modlisation et simulation numrique. Machines spciales. Variateur de vitesse: mise en oeuvre et opration.

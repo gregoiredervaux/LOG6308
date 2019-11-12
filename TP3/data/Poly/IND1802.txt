@@ -1,0 +1,2 @@
+TitreCours: Methodes et mesure du travail
+DescriptionCours: Historique. Methodes d'analyse du travail en genie industriel. Chronometrage. Catalogue de temps. Systeme de temps et mouvements predetermines. Observations instantanees et echantillonnages. Comparaison des differentes methodes de mesure. Mesure indirecte du travail. Entrainement des operateurs. Accoutumance. Systemes de remuneration au rendement.

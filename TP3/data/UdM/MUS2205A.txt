@@ -1,0 +1,2 @@
+TitreCours: Solfege et dictee 4
+DescriptionCours: Poursuite de l'acquisition d'automatismes de lecture et d'audition par rapport au langage tonal. Perspective analytique.

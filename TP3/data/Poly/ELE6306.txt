@@ -1,0 +1,2 @@
+TitreCours: Tests de systemes electroniques
+DescriptionCours: Buts et objectifs des tests. Defauts physiques et modeles de pannes. Generation de tests pour les circuits combinatoires, sequentiels et analogiques. Tests de matrices logiques programmables (PLA) et de memoires. Simulation de defauts. Conception pour la testabilite structuree. Auto-test incorpore dans un circuit. Tests au niveau plaque; tests industriels. Techniques de mesure et de caracterisation.

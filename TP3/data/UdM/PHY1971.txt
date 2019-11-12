@@ -1,0 +1,2 @@
+TitreCours: Astronomie generale
+DescriptionCours: Ce cours traite d'une maniere descriptive des connaissances modernes sur l'univers.

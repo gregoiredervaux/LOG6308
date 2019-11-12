@@ -1,0 +1,2 @@
+TitreCours: Pratique orale de l'espagnol
+DescriptionCours: Perfectionnement de la comprehension et de l'expression orale en espagnol (exercices oraux, conversation avancee, correction de la prononciation et de l'intonation, etc.). Exercices ecrits complementaires.

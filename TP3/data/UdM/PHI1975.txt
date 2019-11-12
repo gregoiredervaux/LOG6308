@@ -1,0 +1,2 @@
+TitreCours: Savoir scientifique et action humaine
+DescriptionCours: Les approches classiques de la connaissance scientifique : l'hypothetico-deductivisme, le confirmationisme, le falsificationisme. Theorie de Kuhn et revolutions scientifiques. Science et societe. Science et ethique.

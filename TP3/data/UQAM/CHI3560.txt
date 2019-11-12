@@ -1,0 +1,2 @@
+TitreCours: Aspects biochimiques de la nutrition humaine
+DescriptionCours: Étude biochimique des besoins nutritifs chez l'homme. Influence des deficiences et des surplus en glucides, lipides, protides, vitamines, sels mineraux, etc. sur le metabolisme chez l'etre humain. Analyse critique des travaux recents dans ce domaine.

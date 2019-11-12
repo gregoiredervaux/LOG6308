@@ -1,0 +1,2 @@
+TitreCours: Biostatistique
+DescriptionCours: Études de cohortes, etudes transversales, longitudinales, prospectives. Determination des tailles d'echantillon dans les devis. Fiabilite des mesures.

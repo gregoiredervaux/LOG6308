@@ -1,0 +1,2 @@
+TitreCours: Medecine interne bovine
+DescriptionCours: Deux semaines de stage en medecine interne bovine. Apprentissage par des cas hospitalises requerant de l'autonomie de l'etudiant.

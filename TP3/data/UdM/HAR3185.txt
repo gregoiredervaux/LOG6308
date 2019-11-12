@@ -1,0 +1,2 @@
+TitreCours: Technologies du regard au XIXe siecle
+DescriptionCours: Enjeux esthetiques et sociaux des technologies de la vision autour de la photographie aux XIXe et XXe siecles : de la stereoscopie a l'imagerie numerique, du panorama aux dispositifs de realite virtuelle.

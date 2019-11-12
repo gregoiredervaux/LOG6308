@@ -1,0 +1,2 @@
+TitreCours: Multimedia
+DescriptionCours: Introduction aux technologies de l'information en vue de leur application en design. Revue comparative des strategies de communication des medias. Exploration des notions de multimedia, d'hypermedia, d'interactivite et d'interface.

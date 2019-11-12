@@ -1,0 +1,2 @@
+TitreCours: Stage au Centre de formation pratique
+DescriptionCours: Assistance au vice-decanat aux etudes dans l'encadrement de diverses activites pratiques. Tutorat aupres des etudiants inscrits a ces activites. Maitrise des divers outils de recherche conventionnels et informatises.

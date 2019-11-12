@@ -1,0 +1,2 @@
+TitreCours: Lecture dirigee en gestion de projet
+DescriptionCours: Cette activite de lecture dirigee a pour objet de permettre a l'etudiant d'approfondir un theme relatif a la gestion de projet. Elle s'inscrit dans une demarche personnalisee de formation a l'interieur du programme de maitrise en gestion de projet.

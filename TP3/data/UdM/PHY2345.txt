@@ -1,0 +1,2 @@
+TitreCours: Outils theoriques de la physique
+DescriptionCours: Variables complexes en physique. Phenomenes periodiques. Équations differentielles ordinaires et partielles en mecanique quantique et electromagnetisme. Fonctions de Green. Applications a divers problemes de physique.

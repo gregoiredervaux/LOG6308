@@ -1,0 +1,2 @@
+TitreCours: Politiques et modeles d'integration
+DescriptionCours: Analyse de donnees demographiques, historiques, sociologiques, juridiques sur le phenomene migratoire; etude comparee des politiques quebecoise et canadienne d'immigration et d'integration; identification des enjeux.

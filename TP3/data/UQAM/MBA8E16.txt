@@ -1,0 +1,2 @@
+TitreCours: Marketing social
+DescriptionCours: Ce cours propose une vue d'ensemble des effets du marketing au niveau de la societe. Le marketing traditionnel vise principalement la fonction commerciale de l'entreprise. Le marketing social approfondit cette meme fonction en elaborant davantage sur les prises de decision en marketing des entreprises collectives, le marketing des causes sociales, le marketing d'idees, le marketing de personnalites, et la promotion aupres de publics cibles.

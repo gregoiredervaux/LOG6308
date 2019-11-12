@@ -1,0 +1,2 @@
+TitreCours: coulement des eaux dans les sols
+DescriptionCours: coulement permanent en milieux homognes et multicouches, saturs/non saturs, isotropes et anisotropes. Solutions graphiques, analogiques et numriques. Applications aux travaux de gnie civil : barrages en remblai (gradients critiques, boulance, rosion interne, filtres granulaires et gosynthtiques); infrastructures routires et talus (systmes de drainage interne). Asschement des fouilles : utilisation des rseaux et des formules analytiques, choix des mthodes de rabattement de nappe.

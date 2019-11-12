@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Étude des principaux courants et theories artistiques qui se developpent depuis 1968: Art conceptuel, hyperrealisme, Land Art, Arte Povera, Support-Surface, Figuration Libre, Nouvel expressionnisme allemand, Trans avant-garde italienne, art kitsch, art d'installation, art videographique et infographique, etc.

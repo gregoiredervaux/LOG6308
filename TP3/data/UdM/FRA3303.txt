@@ -1,0 +1,2 @@
+TitreCours: Narratologie
+DescriptionCours: Recherches sur l'analyse des recits et les formes du discours narratif.

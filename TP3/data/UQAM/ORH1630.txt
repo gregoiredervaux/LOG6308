@@ -1,0 +1,2 @@
+TitreCours: Fondements en dotation
+DescriptionCours: Ce cours sert a developper chez l'etudiant une comprehension systemique du processus de la dotation, soit le recrutement, la selection et l'integration du personnel a la lumiere, notamment, du systeme de planification des ressources humaines, et permettre a l'etudiant de pratiquer l'application de techniques en matiere de dotation dans une perspective ou seront considerees la portee strategique de la dotation ainsi que les composantes ethiques des decisions.

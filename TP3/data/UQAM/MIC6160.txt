@@ -1,0 +1,2 @@
+TitreCours: Sujets speciaux en microelectronique
+DescriptionCours: Ce cours permet d'offrir des complements de formation sur des sujets de pointe dans le domaine de la microelectronique. Contenu etabli en fonction du sujet.

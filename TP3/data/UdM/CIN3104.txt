@@ -1,0 +1,2 @@
+TitreCours: Histoire et theorie du scenario
+DescriptionCours: Étude historique des developpements de la pratique d'ecriture de scenarios et analyse des discours theoriques portant sur le texte du scenario depuis les debuts du cinema jusqu'a aujourd'hui.

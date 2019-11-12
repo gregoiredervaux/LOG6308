@@ -1,0 +1,2 @@
+TitreCours: Didactique mathematique generale
+DescriptionCours: Étude generale des programmes de mathematiques des niveaux prescolaire, primaire et secondaire-premier cycle: objectifs, contenus, relations entre les elements du programme et principales difficultes d'apprentissage et d'enseignement. A partir de quelques notions-cles du programme: etude comparee des demarches d'enseignement proposees dans les manuels scolaires; analyse des difficultes d'apprentissage relatives a ces notions et de leurs causes, etude de l'evaluation de ces apprentissages.

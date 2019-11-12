@@ -1,0 +1,2 @@
+TitreCours: Stage clinique 4
+DescriptionCours: Application clinique des connaissances theoriques et pratiques acquises dans differents champs de pratique de la physiotherapie.

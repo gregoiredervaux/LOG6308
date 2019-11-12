@@ -1,0 +1,2 @@
+TitreCours: Atelier de scenarisation
+DescriptionCours: Expose d'une problematique de scenarisation de type classique, suivi de travaux pratiques portant sur des situations dramatiques a scenariser.

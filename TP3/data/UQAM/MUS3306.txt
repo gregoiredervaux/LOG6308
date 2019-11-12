@@ -1,0 +1,2 @@
+TitreCours: Techniques de base du piano II
+DescriptionCours: Developpement des apprentissages techniques du cours MUS3305. Étude de repertoires et d'accompagnements en relation avec les besoins particuliers de l'instrumentiste ou du chanteur. Exercices de lecture a vue et d'harmonisation au clavier.

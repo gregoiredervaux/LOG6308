@@ -1,0 +1,2 @@
+TitreCours: Integration des apprentissages 1
+DescriptionCours: Activites d&rsquo;integration des savoirs lies aux experiences de sante etudiees au cours du trimestre. Introduction au portfolio. Examen synthese du trimestre.

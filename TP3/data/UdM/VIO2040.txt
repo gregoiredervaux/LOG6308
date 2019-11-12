@@ -1,0 +1,2 @@
+TitreCours: Problematique specifique
+DescriptionCours: Activite pedagogique permettant d'explorer une question relative au probleme de la violence.

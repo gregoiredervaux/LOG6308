@@ -1,0 +1,2 @@
+TitreCours: Analyse des reseaux sociaux
+DescriptionCours: Introduction a la theorie et aux procedures d&rsquo;analyse en explorant les notions de structure, fonctions et contenu des reseaux.

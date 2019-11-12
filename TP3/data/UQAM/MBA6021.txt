@@ -1,0 +1,2 @@
+TitreCours: Microbiologie industrielle avancee
+DescriptionCours: Cours relevant de l'I.N.R.S. Discussion critique de sujets choisis en microbiologie environnementale, en microbiologie des streptomycetes et d'autres sujets de pointe se rapportant a la microbiologie industrielle. Les aspects de biologie moleculaire, de genie des proteines, de fermentation, de reglementation et des methodes analytiques connexes seront etudies. Apprentissage par problemes.

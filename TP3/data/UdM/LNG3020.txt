@@ -1,0 +1,2 @@
+TitreCours: Problemes en histoire du francais
+DescriptionCours: Presentation d'analyses recentes sur l'evolution interne du francais et des modeles theoriques utilises (prononciation, morphologie, syntaxe, orthographe, versification).

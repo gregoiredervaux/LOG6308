@@ -1,0 +1,2 @@
+TitreCours: Redaction preliminaire
+DescriptionCours: Permettre a l'etudiant d'obtenir une evaluation par son comite de direction d'une redaction preliminaire du memoire. L'etudiant presente une elaboration detaillee de la problematique de son memoire, un expose etoffe sur l'historiographie de la question et une premiere redaction de l'analyse des resultats de sa recherche. Un etudiant ne peut s'inscrire a cette activite que lorsque l'essentiel de sa recherche est termine et avec l'accord unanime des membres de son comite de direction de memoire.

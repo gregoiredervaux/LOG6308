@@ -1,0 +1,2 @@
+TitreCours: Geometrie
+DescriptionCours: Presentation, dans une perspective historique, des grandes idees en geometrie; developpement de certains themes particulierement marquants dans la geometrie scolaire (par exemple: geometrie comme modele de la realite versus geometrie comme systeme axiomatique; geometries euclidiennes, analytiques, projectives, geometries non euclidiennes, groupes de transformations, etc.).

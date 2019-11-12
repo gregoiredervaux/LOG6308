@@ -1,0 +1,2 @@
+TitreCours: Seminaire de recherche en philosophie des sciences formelles et naturelles
+DescriptionCours: Recherches relatives a un secteur ou un probleme particulier de la philosophie des sciences. Ce secteur ou ce probleme, qui sera determine par le professeur, peut concerner soit les sciences formelles, comme la logique ou les mathematiques, soit les sciences de la nature, comme la physique ou la biologie, soit encore permettre la mise en rapport de ces differents types de disciplines.

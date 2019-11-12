@@ -1,0 +1,2 @@
+TitreCours: Formation clinique 3
+DescriptionCours: Experience de pratique professionnelle supervisee ayant pour but l'application progressive des differentes etapes de la demarche ergotherapique. Integration des connaissances, implication dans le travail interprofessionnel. Pratique reflexive.

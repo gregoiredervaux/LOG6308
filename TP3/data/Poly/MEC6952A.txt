@@ -1,0 +1,2 @@
+TitreCours: C.Spec.:Gestion de risques aerospatiaux
+DescriptionCours: Introduction a la gestion de risques aerospatiaux. Survol de l'ethique et de la deontologie de l'ingenieur. Concept des differents risques aerospatiaux incluant les risques financiers. Évolution de la gestion des risques et de la gestion des crises. Techniques de gestion de risques et sûrete aerienne. Risques legaux et corporatifs. Audit des risques aerospatiaux et assurances commerciales. Risques spatiaux et accidents.

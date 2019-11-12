@@ -1,0 +1,2 @@
+TitreCours: Enseignement du FLS et culture
+DescriptionCours: Permettre a l'etudiant de niveau avance de situer l'enseignement de la langue cible dans son contexte culturel, au moyen d'une demarche pedagogique en cinq paliers : sensibilisation, information, mise en contexte, interpretation et actualisation.

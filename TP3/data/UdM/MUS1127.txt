@@ -1,0 +1,2 @@
+TitreCours: Creation de maquettes audio/MIDI
+DescriptionCours: Apprentissage d'un logiciel de montage et de mixage audio/MIDI. Theorie et applications du protocole MIDI et de l'audionumerique. Techniques d'orchestration virtuelle. Élaboration de simulations orchestrales et de maquettes musicales.

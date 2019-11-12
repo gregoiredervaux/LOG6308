@@ -1,0 +1,2 @@
+TitreCours: Intervention aupres des jeunes en toxico
+DescriptionCours: Developpement d'habiletes d'accompagnement aupres des jeunes toxicomanes et des familles. Experimentation de strategies d'intervention, utilisation d'outils cliniques et elaboration de plans d'intervention aupres des jeunes dependants.

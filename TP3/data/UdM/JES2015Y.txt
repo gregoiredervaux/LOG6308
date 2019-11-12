@@ -1,0 +1,2 @@
+TitreCours: Les jeunes de la rue
+DescriptionCours: Sensibilisation au phenomene des jeunes de la rue. Definitions, caracteristiques et theories explicatives. Principes, pratiques et finalites des strategies d'intervention. Pratiques institutionnelles et travail de rue.

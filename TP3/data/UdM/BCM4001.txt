@@ -1,0 +1,2 @@
+TitreCours: Stage honor en biochimie 1
+DescriptionCours: Stage de recherche en biochimie ou medecine moleculaire. Formation sur la pratique de la recherche, communication orale et ecrite, analyse, conception et evaluation critique de projets.

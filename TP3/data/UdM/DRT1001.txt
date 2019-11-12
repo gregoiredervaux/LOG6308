@@ -1,0 +1,2 @@
+TitreCours: Introduction au droit
+DescriptionCours: Notions de droit, de regle de droit. Sources de la regle de droit. Pouvoirs legislatif, executif et judiciaire : composition et competence. Élements fondamentaux de droit civil et de common law.

@@ -1,0 +1,2 @@
+TitreCours: Radiologie clinique 1
+DescriptionCours: Apprentissage des diverses techniques d'imagerie intra et extra-orales de radiographie de la cavite buccale et des structures avoisinantes. Interpretation et montage des radiographies. Procedures de traitement des cliches.

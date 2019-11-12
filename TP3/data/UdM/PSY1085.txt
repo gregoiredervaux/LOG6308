@@ -1,0 +1,2 @@
+TitreCours: L'apprentissage
+DescriptionCours: Introduction historique a l'evolution de la problematique de l'apprentissage. Conditionnement classique et instrumental. Notion de renforcement, generalisation, discrimination, transfert, etc.

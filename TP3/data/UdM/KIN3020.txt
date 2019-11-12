@@ -1,0 +1,2 @@
+TitreCours: Exercice, populations symptomatiques 1
+DescriptionCours: Conditions symptomatiques cardiovasculaires et respiratoires pouvant affecter ou etre influencees par la pratique d'activite physique. Roles de l'activite physique et prescription d'exercice.

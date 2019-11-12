@@ -1,0 +1,2 @@
+TitreCours: Initiation a la mediatique
+DescriptionCours: Exploration d'un domaine de pointe en communication: la mediatique, c'est-a-dire, le produit de la convergence des technologies du cable, de l'audiovisuel et de l'informatique. Formation de communicateur via les medias actuels. Exploration des futurs besoins dans ce secteur: la teledistribution, les teleservices commerciaux et la tele-informatique domestique. Exploration des nouveaux reseaux de communication qui commencent deja a s'edifier. Bi et multidirectionnalite, informatisation de ces technologies.

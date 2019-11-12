@@ -1,0 +1,2 @@
+TitreCours: Representation des groupes
+DescriptionCours: Representations lineraires des groupes finis. Sous-representations, theoreme de Mashke; representations irreductibles. Theorie des caracteres. Decomposition en composantes isotypiques. Produits tensoriels; representation induites. Representations lineaires des groupes compacts. Exemples: groupes cycliques, diedraux, symetriques: tores, groupes de rotations.

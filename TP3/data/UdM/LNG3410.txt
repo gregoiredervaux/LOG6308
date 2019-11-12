@@ -1,0 +1,2 @@
+TitreCours: Phonetique et technologies vocales
+DescriptionCours: La composante phonetique dans les technologies vocales. Enseignement theorique en classe et formation pratique en analyse, synthese et reconnaissance de la parole (laboratoire de phonetique).

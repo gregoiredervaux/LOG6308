@@ -1,0 +1,2 @@
+TitreCours: Architectures virtuelles
+DescriptionCours: Atelier intensif de recherche/creation sur les nouvelles technologies et la conception architecturale assistee par ordinateur. Notions d'intelligence collective et de creation en collaboration. Exploration du potentiel des creations numeriques.

@@ -1,0 +1,2 @@
+TitreCours: Droit du cyberespace
+DescriptionCours: Cadre juridique des environnements informatiques. Problematique examinee dans divers domaines : libertes fondamentales, propriete intellectuelle, contrats, actes criminels, preuve et autres.

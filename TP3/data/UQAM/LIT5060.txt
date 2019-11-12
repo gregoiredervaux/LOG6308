@@ -1,0 +1,2 @@
+TitreCours: Genetique litteraire
+DescriptionCours: S'initier aux concepts theoriques et aux outils methodologiques definis par la genetique litteraire pour etudier le manuscrit moderne. Identifier les apports et les limites de cette demarche. Histoire du manuscrit, terminologie genetique, types et modeles d'edition. Analyses genetiques permettant d'apprehender divers phenomenes scripturaux, dont la reecriture, l'intertextualite et la condensation. Travaux en atelier (mobilier mobile) ; utilisation de materiel informatique (meuble multimedia)

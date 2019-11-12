@@ -1,0 +1,2 @@
+TitreCours: Initiation a la danse
+DescriptionCours: Initiation a diverses techniques de danse. Les principes fondamentaux d'un point de vue technique, artistique et philosophique. Introduction aux divers courants ayant marque l'evolution de la danse theatrale.

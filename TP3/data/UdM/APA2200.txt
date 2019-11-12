@@ -1,0 +1,2 @@
+TitreCours: Materiaux et assemblage
+DescriptionCours: Developpement de la connaissance des principaux materiaux de construction en architecture de paysage, proprietes (resistance des materiaux) et conditions d'usage; sensibilisation a l'importance du detail dans l'oeuvre paysagere.

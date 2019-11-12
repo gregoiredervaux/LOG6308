@@ -1,0 +1,2 @@
+TitreCours: Gestion des ressources humaines
+DescriptionCours: Vue d'ensemble de la fonction « gestion des ressources humaines ». Processus d'appreciation du rendement. Methodes de supervision inspiree de l'approche « coaching ». Resolution de conflits. Avantages et limites des differents types d'encadrement.

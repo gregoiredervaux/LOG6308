@@ -1,0 +1,2 @@
+TitreCours: Analyse de la criminalite
+DescriptionCours: Strategies d'analyse des variations de la criminalite dans le temps et l'espace. Analyse de la structure de la criminalite, analyse cartographique et analyse d'impact.

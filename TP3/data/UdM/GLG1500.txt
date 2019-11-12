@@ -1,0 +1,2 @@
+TitreCours: Geometrie cotee
+DescriptionCours: Projections. Vraie grandeur et inclinaison. Changement de plans. Position de deux droites. Angle des droites et des plans. Localisation dans un terrain donne. Remblais et deblais. Rabattements. Rotation.

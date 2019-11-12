@@ -1,0 +1,2 @@
+TitreCours: Calcul 1
+DescriptionCours: Suites, series. Fonctions de plusieurs variables, continuite, derivees partielles, differentielles, plan tangent, derivation en chaine. Gradient, surfaces de niveau, extremums. Integrales multiples, changement de variables, jacobien.

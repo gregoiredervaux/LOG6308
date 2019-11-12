@@ -1,0 +1,2 @@
+TitreCours: Gestion des soins infirmiers
+DescriptionCours: Élements d'administration et d'organisation. Applications au domaine des soins infirmiers, telles que mode de division du travail, systeme de classification des patients et evaluation de la qualite des soins.

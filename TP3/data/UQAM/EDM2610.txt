@@ -1,0 +1,2 @@
+TitreCours: Initiation a la video
+DescriptionCours: Ce cours permet a l'etudiant: d'acquerir des connaissances techniques de base du medium video de format 1/2 pouce couleur; d'appliquer ces connaissances techniques a la production de documents videographiques. Historique de la video. Fonctionnement des appareils de tournage, des appareils de montage et des appareils de mixage. Notions concernant le montage, la prise de son, la prise de vue, la scenarisation.

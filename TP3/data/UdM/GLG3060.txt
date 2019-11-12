@@ -1,0 +1,2 @@
+TitreCours: Principes de stratigraphie
+DescriptionCours: Terminologie stratigraphique. Methodes stratigraphiques. Correlations lithologiques, chronolithologiques et paleontologiques. Les relations stratigraphiques. Tectonique sedimentaire.

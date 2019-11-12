@@ -1,0 +1,2 @@
+TitreCours: Intervention audiologique 1
+DescriptionCours: S'interesse aux approches d'intervention audiologique en fonction de differents facteurs de risque, de differents milieux et de differentes populations.

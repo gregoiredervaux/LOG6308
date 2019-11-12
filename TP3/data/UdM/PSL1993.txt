@@ -1,0 +1,2 @@
+TitreCours: Physiologie generale
+DescriptionCours: Physiologie generale des principaux systemes biologiques a l'exclusion du systeme nerveux.

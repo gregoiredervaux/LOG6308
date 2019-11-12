@@ -1,0 +1,2 @@
+TitreCours: Astronomie et astrophysique
+DescriptionCours: Les etoiles : proprietes physiques et evolution. Étoiles binaires. Amas d'etoiles. La galaxie : cinematique, structure, formation, evolution. Nature des galaxies. Galaxies spirales, elliptiques. Galaxies et Univers. Élements de cosmologie.

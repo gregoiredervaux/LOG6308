@@ -1,0 +1,2 @@
+TitreCours: Pensee politique
+DescriptionCours: Analyse de themes et de concepts fondamentaux en science politique, a partir d'une selection de textes allant de Platon a nos jours.

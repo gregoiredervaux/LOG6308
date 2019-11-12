@@ -1,0 +1,2 @@
+TitreCours: Linguistique et enseignement des langues secondes
+DescriptionCours: Le role de la phonetique dans l'enseignement des langues secondes. Les caracteristiques des grammaires pedagogiques. Les criteres de selection du vocabulaire. L'apport de la pragmatique dans l'enseignement des langues secondes. L'analyse et l'exploitation de l'erreur.

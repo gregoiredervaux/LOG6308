@@ -1,0 +1,2 @@
+TitreCours: Recherche en marketing
+DescriptionCours: Introduction a la methodologie de recherche en marketing. Les types de recherche exploratoires, descriptives et causales. Les donnees secondaires et primaires. Le plan d'echantillonnage. Les instruments de mesure. La collecte des donnees: observation, enquete, sondage. Fidelite et validite des mesures. Recherche qualitative et quantitative, Le traitement des donnees. Échelles de donnees. Les analyses univariees, bivariees et multivariees. Le rapport de recherche. La gestion de la recherche.

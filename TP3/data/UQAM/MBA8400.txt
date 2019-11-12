@@ -1,0 +1,2 @@
+TitreCours: Introduction aux statistiques et a la prise de decisions
+DescriptionCours: Ce cours a comme objectif de presenter a l'etudiant cadre les techniques de solution de problemes de gestion et les outils necessaires pour la prise de decision. Il prepare les participants aux autres cours du MBA. On initie la personne cadre a prendre des decisions a partir de l'information venant des statistiques, de la finance, et des autres fonctions de l'entreprise. Ce cours vise egalement a amener l'etudiant a reviser les notions mathematiques utilisees dans le programme.

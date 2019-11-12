@@ -1,0 +1,2 @@
+TitreCours: Phonetique clinique
+DescriptionCours: Connaitre le fonctionnement et le role des organes buccophonatoires dans l'articulation des sons de la parole.

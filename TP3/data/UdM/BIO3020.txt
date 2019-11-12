@@ -1,0 +1,2 @@
+TitreCours: Stage en milieu de travail 2
+DescriptionCours: Stage en vue d'acquerir une deuxieme experience professionnelle dans un milieu de travail (gouvernemental, hospitalier, industriel, universitaire etc.). Sous la coordination d'un superviseur. Presentation d'un rapport ecrit.

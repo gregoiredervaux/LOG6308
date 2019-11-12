@@ -1,0 +1,2 @@
+TitreCours: Stage 1
+DescriptionCours: Experience de pratique supervisee integrant les approches cliniques et communautaires. Stage de trois jours / semaine dans un organisme communautaire ou institutionnel.

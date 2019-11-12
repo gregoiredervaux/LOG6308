@@ -1,0 +1,2 @@
+TitreCours: Chapitres choisis en biologie moleculaire
+DescriptionCours: Differents themes de biologie moleculaire appliques a des systemes vivants seront abordes : transcription, replication, reparation et recombinaison de l'ADN. Structure des genes. Regulation de l'expression genetique. Proteines transformantes et cancer. Manipulations genetiques. Biologie moleculaire du developpement. Differenciation. Mutagenese. Maladies et therapies genetiques.

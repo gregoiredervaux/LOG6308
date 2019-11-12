@@ -1,0 +1,2 @@
+TitreCours: Droit des contrats nommes
+DescriptionCours: Ce cours vise a familiariser l'etudiant avec des regles juridiques des contrats speciaux prevus au Code civil. Analyse des regles juridiques des contrats nommes prevus au Code civil du Quebec, tels la vente, le louage (a l'exception du bail d'un logement), le contrat d'entreprise ou de service, le mandat, le pret, le cautionnement et le depot. Droit des assurances: sources et evolution historique, regles generales, assurance de personnes, assurances de dommages.

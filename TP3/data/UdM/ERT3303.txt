@@ -1,0 +1,2 @@
+TitreCours: Ergotherapie 3
+DescriptionCours: Études de cas et discussions sur des themes choisis en vue de l'approfondissement de la demarche ergotherapique tant sur les plans de l'evaluation, du traitement que de l'intervention communautaire.

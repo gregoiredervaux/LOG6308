@@ -1,0 +1,2 @@
+TitreCours: Projet
+DescriptionCours: Cours synthese de mise en pratique des connaissances acquises anterieurement. Il s'agit d'un travail personnel ou de groupe au cours duquel l'etudiant doit realiser, sous la direction d'un professeur, un projet pratique comprenant une analyse detaillee d'un probleme et en formuler les conclusions. Redaction d'un rapport technique.

@@ -1,0 +1,2 @@
+TitreCours: Analyses non parametriques en education
+DescriptionCours: Échelles non parametriques, nominales ou ordinales. Devis a un ou plusieurs groupes, avec ou sans mesures repetees. Étude de differentes techniques et applications lors d'activites en laboratoire de microordinateurs.

@@ -1,0 +1,2 @@
+TitreCours: Psychotherapie des psychoses
+DescriptionCours: Étude de la structure psychotique (schizophrenie, paranoia), aspects cliniques et symptomatologiques. Theories etiologiques et psychogenetiques. Theories psychodynamiques de Rosenfeld, Racamier, Pankow, Bion, Searles, etc. Psychotherapie d'orientation analytique: principes et techniques.

@@ -1,0 +1,2 @@
+TitreCours: Économie des industries culturelles
+DescriptionCours: Le cours cherche a permettre aux etudiants de saisir les enjeux et comprendre les comportements des entreprises dans les differentes industries culturelles, en ayant en toile de fond les developpements en economie de l'information.

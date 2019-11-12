@@ -1,0 +1,2 @@
+TitreCours: Discussions cliniques
+DescriptionCours: Presentations de cas par les etudiants ou les professeurs; exposes de sujets presentant un interet clinique.

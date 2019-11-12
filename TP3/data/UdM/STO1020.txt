@@ -1,0 +1,2 @@
+TitreCours: Histologie buccodentaire
+DescriptionCours: Étude de la formation, de l'histologie et de l'ultra-structure de la dent, du parodonte et autres organes de la cavite buccale.

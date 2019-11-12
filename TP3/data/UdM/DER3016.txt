@@ -1,0 +1,2 @@
+TitreCours: Dentisterie operatoire clinique 1
+DescriptionCours: Les etudiants sont appeles a traiter des patients en clinique sous la direction des professeurs et des cliniciens selon les regles de l'art.

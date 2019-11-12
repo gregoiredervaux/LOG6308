@@ -1,0 +1,2 @@
+TitreCours: Programmation dynamique
+DescriptionCours: Generalites, principes d'optimalite. Processus a horizon borne, equation recurrente, sensibilite de la solution. Processus a horizon fini mais non fixe a priori, resolution pratique de l'equation d'optimalite. Principe continu d'optimalite, application aux jeux differentiels. Processus discret aleatoire. Filtrage et prediction.

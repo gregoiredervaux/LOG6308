@@ -1,0 +1,2 @@
+TitreCours: Stages
+DescriptionCours: Experience de pratique supervisee aupres d'une clientele en difficulte et visant a developper des competences professionnelles, notamment l'observation, l'evaluation diagnostique, l'organisation et la communication.

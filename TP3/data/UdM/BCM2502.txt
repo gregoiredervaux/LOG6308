@@ -1,0 +1,2 @@
+TitreCours: Acides nucleiques et genetique 2
+DescriptionCours: Techniques du genie genetique. Organisation des genomes. Transcription. Interactions proteines-acides nucleiques. Épissage et maturation des ARN. Introduction a la biosynthese des proteines.

@@ -1,0 +1,2 @@
+TitreCours: Meteorologie synoptique
+DescriptionCours: Étude des systemes a l'echelle synoptique. Forces principales et analyse d'echelle. Developpement des equations basees sur la theorie quasi- geostrophique. Introduction aux modeles a echelle: modeles frontal, filtre, aux equations primitives. Application de la theorie aux cas reels a l'aide d'analyses meteorologiques de cas classiques et nouveaux: cartes au niveau du sol et en altitude, photos satellites, sondages, etc.

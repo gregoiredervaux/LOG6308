@@ -1,0 +1,2 @@
+TitreCours: Controle de qualite et caract. des composites
+DescriptionCours: Notions fondamentales de la theorie des stratifies. Fatigue, choc et rupture des composites. Essais mecaniques statiques et dynamiques sur les composites unidirectionnels et multidirectionnels. Controles destructifs et non destructifs. Caas de certification.

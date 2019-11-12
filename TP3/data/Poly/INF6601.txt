@@ -1,0 +1,2 @@
+TitreCours: Traitement parallele
+DescriptionCours: Conception de topologies distribuees et reseaux d'interconnexion. Grappes de stations de travail. Normes de communications en memoire partagee et en memoire distribuee. Synchronisation, coherence des antememoires. Granularite, evolutivite et equilibrage des algorithmes paralleles. Infrastructure de grille, gestion decentralisee de base de donnees.

@@ -1,0 +1,2 @@
+TitreCours: Grammaire pour futurs enseignants
+DescriptionCours: Notions grammaticales vues au primaire et au secondaire : phrase, classes de mots, fonctions, accords dans le GN, conjugaison et accord du verbe, ponctuation. Explicitation des connaissances linguistiques. Production ecrite.

@@ -1,0 +1,2 @@
+TitreCours: Preparation au stage
+DescriptionCours: L'etudiant doit entreprendre les demarches necessaires a la realisation de son projet de stage pratique. Il doit formuler des objectifs personnels et rediger un contrat pedagogique.

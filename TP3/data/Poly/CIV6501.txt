@@ -1,0 +1,2 @@
+TitreCours: Complments de bton arm
+DescriptionCours: Caractristiques des matriaux. Critres de rupture. Revue et critique de calcul aux tats limites selon divers codes amricains et europens : flexion, cisaillement et torsion. Poutres profondes et corbeaux. Calculs parasismiques. Dformations et rotules plastiques. Lignes de rupture. Analyse par quilibre et travaux virtuels. Forces nodales. Mthode des bandes Hillerborg. Effet de coin.

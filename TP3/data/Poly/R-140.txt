@@ -1,0 +1,2 @@
+TitreCours: Avionique
+DescriptionCours: Historique des systemes d'avionique. Cabine de pilotage, systemes avertisseurs et instruments de vol. Systemes de navigation a courte et a longue portee. Systemes de communication. Systemes de commande de vol automatique. Protocoles et normes de communication.

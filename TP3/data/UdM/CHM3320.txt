@@ -1,0 +1,2 @@
+TitreCours: Methodes de synthese organique
+DescriptionCours: Applications des concepts modernes de reactivite, de stereochimie et d'analyse conformationnelle. Methodes de blocage et de deblocage des fonctions et influence des groupes voisins. Methodologie de formation des liens en chimie organique.

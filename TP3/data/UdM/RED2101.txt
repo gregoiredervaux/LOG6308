@@ -1,0 +1,2 @@
+TitreCours: Le texte de creation
+DescriptionCours: L'imagination, l'imaginaire, la creativite et la creation. Initiation a l'ecriture litteraire. Lecture, analyse et ecriture de textes de creation.

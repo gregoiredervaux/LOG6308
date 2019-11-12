@@ -1,0 +1,2 @@
+TitreCours: Évaluation et remuneration
+DescriptionCours: A l'aide d'etudes de cas, analyse de situations relatives a l'evaluation (taches, rendement), la remuneration (de base, au merite, des competences, regimes d'incitation, globale, non monetaire, etc.) aux avantages sociaux.

@@ -1,0 +1,2 @@
+TitreCours: L'art de cour au XIVe siecle
+DescriptionCours: Apres les transformations stylistiques de la fin du XIIIe siecle, apparition du gothique flamboyant et du manierisme. Formation du style gothique international en France.

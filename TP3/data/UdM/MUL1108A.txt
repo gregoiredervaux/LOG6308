@@ -1,0 +1,2 @@
+TitreCours: Histoire de la musique 6A
+DescriptionCours: Histoire du langage musical de la premiere moitie du XXe siecle en relation avec son contexte socioculturel.

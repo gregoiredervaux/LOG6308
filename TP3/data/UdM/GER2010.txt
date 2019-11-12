@@ -1,0 +1,2 @@
+TitreCours: Physiopathologie du vieillissement
+DescriptionCours: La pathologie physique dans le cadre global des concepts de « sante » et de « maladie ». Étude de la physiologie a travers les pathologies telles que vecues avec l'avance en age. Consequences de ces pathologies : comportements, morbidite, mortalite.

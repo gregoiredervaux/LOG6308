@@ -1,0 +1,2 @@
+TitreCours: Simulation
+DescriptionCours: Concepts et techniques de modelisation. Mecanisme du simulateur : controle du temps et structure de donnees. Probabilite et statistique en simulation. Acquisition et analyse de donnees. Validation des resultats. Generation de nombres aleatoires. Theorie des files d'attente. Étude d'un langage flexible de simulation (SLAM II) et son application dans differents domaines.

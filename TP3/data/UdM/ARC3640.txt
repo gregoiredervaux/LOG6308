@@ -1,0 +1,2 @@
+TitreCours: L'architecture verte
+DescriptionCours: Atelier intensif de recherche/creation sur la conception experimentale de batiments qui sont autosuffisants en termes d'energie et d'entretien et qui sont aussi innovateurs sur le plan de l'usage concu comme une occupation creatrice.

@@ -1,0 +1,2 @@
+TitreCours: Documents structures
+DescriptionCours: Introduction a la modelisation XML de l'information. Historique, concepts de base. XML, Definition de Type de Document (DTD), schemas XML, espaces nominatifs et feuilles de styles. Jeux de caracteres. "Uniform Resource Identifier".

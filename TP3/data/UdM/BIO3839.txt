@@ -1,0 +1,2 @@
+TitreCours: Limnologie
+DescriptionCours: Approche ecosystemique a l'ecologie des eaux douces. Limnologie physique et chimique : lumiere, temperature, physico-chimie, hydrodynamisme. Limnologie biologique : communautes vegetales et animales, interactions trophiques, paleolimnologie.

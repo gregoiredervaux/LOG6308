@@ -1,0 +1,2 @@
+TitreCours: Principes de biochimie 1
+DescriptionCours: Notions de base : equilibre acido-basique; chimie de la respiration; bioenergetique; structure et digestion des proteines, enzymes et coenzymes, structures, proprietes, fonctions, digestion et metabolisme des glucides.

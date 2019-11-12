@@ -1,0 +1,2 @@
+TitreCours: Technologie de l'Internet
+DescriptionCours: Historique, services actuels et perspectives. Navigation et composition de pages. Infrastructure reseaux et protocoles. Programmation pour interactivite, cgi, Javascript. Établissement de sites. Securite. Sujets avances.

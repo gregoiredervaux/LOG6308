@@ -1,0 +1,2 @@
+TitreCours: Technologies et enseignement des maths
+DescriptionCours: Impact de l'informatique sur l'activite mathematique. Apports et limites des differentes technologies dans l'enseignement et l'apprentissage des mathematiques. Étude critique d'activites d'integration.

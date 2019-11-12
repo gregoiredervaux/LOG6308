@@ -1,0 +1,2 @@
+TitreCours: Troubles du comportement des equins
+DescriptionCours: Discussion de sujets d'ethologie relatifs a l'utilisation du cheval par l'humain. Troubles du comportement chez le cheval garde a l'ecurie et leur traitement. Effet de certaines drogues sur le comportement : travaux recents.

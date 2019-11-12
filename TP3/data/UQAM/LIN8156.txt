@@ -1,0 +1,2 @@
+TitreCours: Description linguistique et enseignement du francais 2
+DescriptionCours: Ce cours a pour objet l'approfondissement des connaissances linguistiques et didactiques du francais afin d'ameliorer son enseignement. Cet approfondissement se fera dans une perspective de production et de comprehension de la langue orale et ecrite. On etudiera egalement l'interaction entre l'oral et l'ecrit, entre langue premiere et langue seconde ainsi que les notions de norme et de variation.

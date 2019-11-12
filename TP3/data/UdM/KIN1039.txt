@@ -1,0 +1,2 @@
+TitreCours: Anatomie fonctionnelle et exercice
+DescriptionCours: Composantes de l'appareil locomoteur (systemes osseux, musculaire et articulaire). Plans, axes, leviers. Application a l'analyse de gestes sportifs.

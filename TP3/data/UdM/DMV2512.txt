@@ -1,0 +1,2 @@
+TitreCours: Toxicologie veterinaire
+DescriptionCours: Étude des effets adverses et des risques pour la sante des substances etrangeres. Notions de base sur la relation dose-effet et l'analyse du risque. Mecanismes d'action et effets des toxines d'importance veterinaire.

@@ -1,0 +1,2 @@
+TitreCours: Hydrogeologie chimique
+DescriptionCours: Interactions inorganiques eau-aquifere. Matiere organique et polluants organiques dans les aquiferes. Pollution des eaux souterraines par dechets domestiques, industriels (metaux, composes organiques), agricoles et miniers. Speciation et interpretation des analyses des eaux souterraines.

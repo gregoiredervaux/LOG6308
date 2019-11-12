@@ -1,0 +1,2 @@
+TitreCours: Atelier thematique sur les religions
+DescriptionCours: Exploration d'une thematique specifique concernant une des grandes religions du monde, en lien avec les besoins d'une clientele particuliere ou d'un milieu professionnel.

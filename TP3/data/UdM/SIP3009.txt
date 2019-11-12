@@ -1,0 +1,2 @@
+TitreCours: Stage en analyse
+DescriptionCours: L'etudiant effectue un stage en analyse dans le milieu de la securite interieure.

@@ -1,0 +1,2 @@
+TitreCours: Atelier de creation II
+DescriptionCours: Creation et recherche en arts visuels et mediatiques. Presentation et realisation d'une oeuvre reliee au projet de recherche-creation de l'etudiant, dans une ou plusieurs disciplines de son choix. Contextualisation de sa pratique artistique dans le champ de l'art contemporain. Confrontation de la production de l'etudiant a l'opinion et a la critique d'intervenants actifs dans le milieu des arts visuels, (artistes, theoriciens de l'art, commissaires, directeurs de galerie).

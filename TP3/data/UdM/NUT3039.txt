@@ -1,0 +1,2 @@
+TitreCours: Integration de la pratique dietetique
+DescriptionCours: Cours d'integration des connaissances actualisees en nutrition normale ou clinique. Études et discussion de cas et solution de problemes. Approche par probleme.

@@ -1,0 +1,2 @@
+TitreCours: Apprentissage et adaptation scolaire
+DescriptionCours: Dynamique de l'apprentissage sous l'angle de differentes theories. Applications en adaptation scolaire. Caracteristiques generales du contexte scolaire et de l'apprenant (vouloir et pouvoir).

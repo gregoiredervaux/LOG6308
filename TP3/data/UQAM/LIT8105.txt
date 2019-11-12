@@ -1,0 +1,2 @@
+TitreCours: Atelier de creation de textes pour enfants
+DescriptionCours: Creation par les etudiants de textes individuels et collectifs. Analyse, critique et evaluation des productions.

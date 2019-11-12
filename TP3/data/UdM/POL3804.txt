@@ -1,0 +1,2 @@
+TitreCours: Les techniques de l'analyse politique
+DescriptionCours: Analyse des methodes applicables en science politique. Analyse et evaluation des sources secondaires : fiabilite, validite et precision. Pratique de recherche documentaire.

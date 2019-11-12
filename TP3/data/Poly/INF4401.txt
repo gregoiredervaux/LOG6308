@@ -1,0 +1,2 @@
+TitreCours: Aspects operationn. des reseaux et systemes
+DescriptionCours: Historique des reseaux locaux. Caracterisation des reseaux locaux : topologies, cablage, debit, protocoles. Methodes d'acces. Architectures, protocoles et normes de reseaux locaux. Reseaux locaux a haut debit. Interconnexion de reseaux : routeurs, commutateurs, repeteurs, passerelles, ponts. Protocoles d'interconnexion. Internet, intranets et extranets. Systemes d'exploitation de reseaux. Installation et configuration du materiel et des logiciels. Outils d'administration et de gestion de reseaux.

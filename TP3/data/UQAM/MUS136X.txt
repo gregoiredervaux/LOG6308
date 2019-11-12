@@ -1,0 +1,2 @@
+TitreCours: Techniques de base du piano I
+DescriptionCours: Connaissance pratique des principes de base de la technique du piano. Exercices techniques elementaires, lecture a vue et apprentissage de repertoires faciles.

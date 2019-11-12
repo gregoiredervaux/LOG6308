@@ -1,0 +1,2 @@
+TitreCours: Systeme juridique chinois
+DescriptionCours: Histoire et evolution; institutions et processus decisionnel; specificites de certains domaines du droit.

@@ -1,0 +1,2 @@
+TitreCours: Psychologie du sport
+DescriptionCours: Facteurs individuels et psychosociaux influencant le rendement et la performance en activites physiques et sportives.

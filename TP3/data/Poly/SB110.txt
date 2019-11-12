@@ -1,0 +1,2 @@
+TitreCours: Legislation
+DescriptionCours: Historique des lois, reglements et normes. Les differents organismes reglementaires et normalisateurs. Revue des multiples lois, reglements ou normes qui regissent les batiments ou les systemes et equipements installes dans les batiments. Leur champ d'application. Identification de l'autorite ayant juridiction.

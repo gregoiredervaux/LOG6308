@@ -1,0 +1,2 @@
+TitreCours: Seminaire sur les systemes d
+DescriptionCours: Étude des applications informatiques a diverses fonctions administratives. Choix de sujets dans les domaines suivants: organisation du travail, organisation des achats, controle: qualite, quantite, inventaire; gestion du personnel; administration des salaires: gestion financiere; application aux systemes financiers, analyse de portefeuille, evaluation immobiliere, etc.

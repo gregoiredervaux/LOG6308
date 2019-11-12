@@ -1,0 +1,2 @@
+TitreCours: Dictionnaires : analyse de contenu
+DescriptionCours: Dictionnaires monolingues, bilingues, de specialite, d'apprentissage. Structuration du contenu (nomenclature, article). Dictionnaires de langue, dictionnaires encyclopediques. Breve histoire des grands dictionnaires du francais.

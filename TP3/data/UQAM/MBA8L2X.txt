@@ -1,0 +1,2 @@
+TitreCours: Seminaire a contenu variable en logistique et transport II
+DescriptionCours: Ce cours introduit les principaux concepts de productivite et de qualite dans le domaine du transport et de la logistique. Les themes suivants y seront abordes plus specifiquement: principes cles de la gestion de la qualite; amelioration continue et reingenierie des processus; mesure de la qualite et de la productivite; indicateurs de performance et benchmarking; qualite totale et normes ISO; implication des employes et gestion des ressources humaines.

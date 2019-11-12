@@ -1,0 +1,2 @@
+TitreCours: Turbomachines
+DescriptionCours: Classification des turbomachines. Équations de conservation. Équation d'Euler. Definitions de rendement. Triangles de vitesses. Turbines et compresseurs axiaux. Analyse des performances au point de design et hors design. Pompes et compresseurs centrifuges. Lois de similitude et courbes caracteristiques. Cycles des turbines a gaz. Optimisation des cycles reels. Performance des turbines a gaz. Selection des turbines hydrauliques. Cavitation. Effets d'echelle.

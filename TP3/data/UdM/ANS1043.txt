@@ -1,0 +1,2 @@
+TitreCours: Letters, Memos & Reports
+DescriptionCours: Permettre a l'etudiant de rediger des lettres, des notes de service et des rapports. Le sensibiliser aux strategies reliees a l'elaboration d'un texte : ideation, structuration et revision.

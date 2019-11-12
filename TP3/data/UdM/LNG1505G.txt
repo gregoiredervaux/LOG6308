@@ -1,0 +1,2 @@
+TitreCours: Introduction aux sciences du langage
+DescriptionCours: Definition des notions de linguistique generale. Familiarisation avec les concepts et la terminologie des differentes disciplines qui interviennent dans la formation des langagiers et qui contribuent aux theories de la traduction.

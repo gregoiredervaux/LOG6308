@@ -1,0 +1,2 @@
+TitreCours: Techniques de recherche en archeologie
+DescriptionCours: Introduction aux techniques de terrain (inventaire, fouille) et aux analyses en laboratoire des collections archeologiques (description et classification).

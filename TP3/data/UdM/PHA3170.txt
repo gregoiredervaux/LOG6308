@@ -1,0 +1,2 @@
+TitreCours: Soins pharm. : Oncologie
+DescriptionCours: Approche des soins pharmaceutiques integrant des notions de physiopathologie, evaluation de l&rsquo;etat physique, biologie clinique, chimie medicinale, galenique, pharmacologie, pharmacocinetique, toxicologie, therapeutique. Oncologie.

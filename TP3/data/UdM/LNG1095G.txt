@@ -1,0 +1,2 @@
+TitreCours: Savoir lire dans sa discipline
+DescriptionCours: Par des mises en situation, saisie des processus cognitifs inherents a l'activite de lecture et a la comprehension textuelle des niveaux d'articulation d'un texte et de leur integration. Reperage des constituants rhetoriques, thematiques, logiques.

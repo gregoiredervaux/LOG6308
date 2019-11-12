@@ -1,0 +1,2 @@
+TitreCours: Biochimie de la cellule
+DescriptionCours: Signalisation cellulaire : recepteurs et canaux, transduction du signal. Adhesion moleculaire. Cytosquelette. Ciblage : secretion, segregation, importation dans les mitochondries et les chloroplastes.

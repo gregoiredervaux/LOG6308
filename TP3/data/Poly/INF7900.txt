@@ -1,0 +1,2 @@
+TitreCours: Communication scientifique et technique II
+DescriptionCours: Communication orale et ecrite dans un contexte scientifique ou technique, et plus particulierement en genie informatique. Élements importants d'une bonne communication scientifique ou technique. Expose oral. Évaluation critique d'un article scientifique. Participation aux seminaires departementaux.

@@ -1,0 +1,2 @@
+TitreCours: Physiologie animale comparee 2
+DescriptionCours: Étude comparative de fonctions choisies chez les invertebres et vertebres : fonctions iono- et osmo-regulatrices, excretrices, alimentaires. Systemes endocriniens et reproduction. Systemes effecteurs autres que musculaires. Cycles physiologiques.

@@ -1,0 +1,2 @@
+TitreCours: Laboratoire - pratique professionnelle 3
+DescriptionCours: Simulations de situations cliniques communautaire et hospitaliere. Application de toutes les etapes de soins pharmaceutiques. Preparation et distribution de medicaments. Communication orale entre professionnels. Évaluation critique de l&rsquo;information.

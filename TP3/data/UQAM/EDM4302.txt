@@ -1,0 +1,2 @@
+TitreCours: Atelier de radio I
+DescriptionCours: Initiation a l'instrumentation de la radio: micro, tourne-disque, lecteur audionumerique, magnetophone, cartouchiere, console. Comprehension des proprietes electroniques et mecaniques du fonctionnement de ces appareils. Apprentissage de l'autonomie de la parole a travers les fonctions du microphone; paliers de lecture et interpretation du texte; niveaux de langage et terminologie.

@@ -1,0 +1,2 @@
+TitreCours: Technologies de communication et societe
+DescriptionCours: Presentation et mise en contexte des grands paradigmes qui animent les courants de recherche sur les aspects sociaux, economiques et culturels des technologies d'information et de communication. Analyse critique de leurs presupposes et fondements epistemologiques, des principales categories d'analyse et des problematiques privilegiees. Économie politique de la societe de l'information.

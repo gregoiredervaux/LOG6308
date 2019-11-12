@@ -1,0 +1,2 @@
+TitreCours: Questions speciales en sc. des religions
+DescriptionCours: Étude d'un theme en sciences des religions.

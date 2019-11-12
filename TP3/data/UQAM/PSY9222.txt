@@ -1,0 +1,2 @@
+TitreCours: Seminaire specialise en therapie behaviorale
+DescriptionCours: Seminaire sur des themes choisis par le groupe-cours dans le domaine de la therapie behaviorale.

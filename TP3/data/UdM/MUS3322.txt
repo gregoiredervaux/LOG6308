@@ -1,0 +1,2 @@
+TitreCours: Organologie et acoustique instrumentale
+DescriptionCours: Systemes de classification des instruments de musique. Histoire et facture instrumentale. Acoustique et psychoacoustique des instruments et de la voix chantee. Controle gestuel, perception, verbalisation et notation du timbre instrumental et vocal.

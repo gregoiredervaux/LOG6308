@@ -1,0 +1,2 @@
+TitreCours: Gestion du batiment
+DescriptionCours: Definition de l'environnement de gestion selon les differents types de batiment, leur vie utile et les impacts des defaillances des systemes les composantes. Les cinq (5) themes de gestion relies a l'entretien des batiments. La gestion des interventions d'entretien «journalieres» et la planification des plans triennaux d'investissement «gros oeuvres». L'organisation et la prise de decision dans le choix de «faire ou faire faire». Gestion comptable de l'entretien.

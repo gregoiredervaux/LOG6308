@@ -1,0 +1,2 @@
+TitreCours: Communication graphique
+DescriptionCours: Projections orthogonales. Dessins isometriques et obliques. Croquis. Coupe. Cotes. Lecture de plans. Representation graphique bidimentionnelle et tridimentionnelle. Utilisation de logiciels en dessin assiste par ordinateur (D.A.O.). Travaux pratiques en laboratoire (3 heures/semaine).

@@ -1,0 +1,2 @@
+TitreCours: Stage : Medecine interne
+DescriptionCours: Stage clinique aupres des malades ambulants ou hospitalises dans la specialite medecine interne.

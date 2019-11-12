@@ -1,0 +1,2 @@
+TitreCours: Litterature et histoire
+DescriptionCours: Ce cours etudie les rapports qu'entretiennent Histoire et Litterature dans un champ spatio-temporel donne. Certains genres litteraires pourront etre vus comme sources primaires susceptibles d'eclairer leur temps (romans, recits de voyage ou d'exploration, memoires et temoignages lies a un evenement historique). Il peut y etre question aussi de l'ecriture de l'histoire et de l'ecriture de soi (autobiographie), ou de toute autre question mettant en relation ces deux domaines a travers le temps.

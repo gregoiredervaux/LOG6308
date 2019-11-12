@@ -1,0 +1,2 @@
+TitreCours: Pratiques educatives et recherche
+DescriptionCours: Interaction, theorie-pratique en education. Étude des modeles de recherche a visee pratique : la recherche action, la recherche intervention, la recherche developpement, la recherche evaluation. Analyse de recherches recentes.

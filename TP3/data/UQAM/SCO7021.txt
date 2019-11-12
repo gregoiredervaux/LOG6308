@@ -1,0 +1,2 @@
+TitreCours: Planification fiscale
+DescriptionCours: Ce cours porte sur la planification fiscale qui implique l'utilisation d'un grand nombre de regles fiscales parfois complexes. L'emphase dans ce cours est mise sur l'etude de l'application des concepts fiscaux et non seulement sur l'emploi des regles techniques. L'integration des connaissances sera favorisee par l'entremise de differentes mises en situation.

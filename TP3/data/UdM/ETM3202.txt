@@ -1,0 +1,2 @@
+TitreCours: Initiation aux sources medievales
+DescriptionCours: Travaux pratiques de recherche, de lecture commentee et d'analyse des diverses sources (litterature, philosophie et histoire). Élements de codicologie, de diplomatique et de critique des sources; initiation aux sciences auxiliaires.

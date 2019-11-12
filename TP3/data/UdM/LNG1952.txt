@@ -1,0 +1,2 @@
+TitreCours: Analyse de textes et synthese
+DescriptionCours: Les elements de la comprehension textuelle et ses obstacles : references philosophiques, techniques et culturelles, contexte d'enonciation. Types de plans, marques d'organisation textuelle. Lectures, discussions et synthese de textes.

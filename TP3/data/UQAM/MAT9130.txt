@@ -1,0 +1,2 @@
+TitreCours: Geometrie symplectique
+DescriptionCours: Mecaniques lagrangienne et hamiltonienne; forme symplectique standard sur l'espace des phases R<+>2N<+>; equations d'Hamilton; varietes symplectiques, sous-varietes isotropes et lagrangiennes. Exemples: C<+>N<+>, le fibre cotangent d'une variete et les varietes kahleriennes. Theoreme de Kostant-Weinstein. Systemes hamiltoniens et actions de groupes sur les varietes symplectiques. Fibres symplectiques et indice de Maslov. Intersection lagrangienne.

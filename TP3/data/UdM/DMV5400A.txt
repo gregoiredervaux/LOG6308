@@ -1,0 +1,2 @@
+TitreCours: Initiation a la recherche veterinaire
+DescriptionCours: Deux semaines de travaux en recherche.

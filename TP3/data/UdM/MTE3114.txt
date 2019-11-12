@@ -1,0 +1,2 @@
+TitreCours: Orchestration 3
+DescriptionCours: Écriture pour divers ensembles orchestraux. Roles des familles, dispositions, plans sonores, resonance, tutti. Reduction. Orchestration et forme.

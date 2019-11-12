@@ -1,0 +1,2 @@
+TitreCours: Dynamique relationnelle I
+DescriptionCours: Cours relevant de l'Universite de Sherbrooke Interagir de facon efficace avec les differents interlocuteurs impliques en readaptation. Efficacite interpersonnelle: perspectives extrinseque et intrinseque. Regle de l'autoregulation. Regles de cooperation: responsabilisation, non-ingerence, concertation, alternance, partenariat.

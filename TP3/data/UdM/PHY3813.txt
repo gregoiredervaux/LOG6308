@@ -1,0 +1,2 @@
+TitreCours: Mecanique quantique avancee
+DescriptionCours: Addition de moments cinetiques. Perturbations stationnaires. Atome d'hydrogene structure fine et hyperfine. Interactions electromagnetiques. Diffusion. Équation de Dirac.

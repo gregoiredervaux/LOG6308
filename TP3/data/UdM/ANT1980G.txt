@@ -1,0 +1,2 @@
+TitreCours: Anthropologie de la sante
+DescriptionCours: Introduction aux theories de l'ecologie de la sante, de l'epidemiologie socioculturelle et de la semiologie. Divers problemes de sante communautaire sont envisages dans leurs dimensions bioculturelles et dans une perspective comparative.

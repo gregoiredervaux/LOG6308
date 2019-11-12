@@ -1,0 +1,2 @@
+TitreCours: Projet en laboratoire
+DescriptionCours: Projet technique ralis dans le domaine du gnie civil, au sein d'un laboratoire du dpartement sous la supervision d'un professeur de gnie civil. L'tudiant rdige un rapport final crit dont l'valuation est faite par le professeur et il prsente son travail de faon orale et publique.

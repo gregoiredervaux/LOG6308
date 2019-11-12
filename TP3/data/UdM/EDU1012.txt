@@ -1,0 +1,2 @@
+TitreCours: Stage de familiarisation a l'ecole sec.
+DescriptionCours: Familiarisation a l'ecole secondaire et introduction a la fonction enseignante. Observation des adolescents a l'ecole. Entrevue avec des intervenants. Étude du projet educatif.

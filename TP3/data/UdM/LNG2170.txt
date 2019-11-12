@@ -1,0 +1,2 @@
+TitreCours: Francais, langue maternelle
+DescriptionCours: Principes linguistiques de l'enseignement du francais, langue maternelle. Passage d'une grammaire « theorique » a une grammaire « pedagogique ». Considerations psycholinguistiques et sociolinguistiques. Methodes et materiel d'enseignement.

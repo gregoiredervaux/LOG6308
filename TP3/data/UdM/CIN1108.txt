@@ -1,0 +1,2 @@
+TitreCours: Cinema et television
+DescriptionCours: Étude historique, theorique et esthetique des liens entre le cinema et la television. Rapports d'antagonisme et de complementarite.

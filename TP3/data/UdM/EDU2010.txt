@@ -1,0 +1,2 @@
+TitreCours: Stage d'assistanat
+DescriptionCours: Assistanat aupres d'une enseignante ou d'un enseignant. Observation et analyse des differentes facettes de la tache au quotidien. Interventions progressives et controlees aupres des eleves.

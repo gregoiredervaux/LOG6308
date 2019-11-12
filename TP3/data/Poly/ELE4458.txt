@@ -1,0 +1,2 @@
+TitreCours: lectricit industrielle
+DescriptionCours: Structure des rseaux lectriques industriels. Niveau de tension. Installations lectriques, codes et normes. Court-circuits, protection et coordination. Mise  la terre. Qualit de l'onde. Facteur de puissance, tarification et gestion de l'nergie lectrique.

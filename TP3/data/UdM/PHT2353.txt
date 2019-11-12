@@ -1,0 +1,2 @@
+TitreCours: Stage clinique 2
+DescriptionCours: Developpement des competences en regard des connaissances theoriques et pratiques acquises dans le domaine musculo-squelettique et neurologique. Ce stage sera evalue par la mention Succes ou Échec.

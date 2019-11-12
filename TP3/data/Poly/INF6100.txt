@@ -1,0 +1,2 @@
+TitreCours: Aspects algorithmiques du genie informatique
+DescriptionCours: Complexite d'algorithmes et problemes NP-complets. Étude de certains algorithmes utilises en genie informatique : recherche d'expressions regulieres et machines a etats, compression de donnees, recherche et tri d'objets geometriques 2D et 3D. Algorithmes de la theorie des graphes. Mecanismes de support a l'execution de programmes par objets et repartis.

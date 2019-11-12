@@ -1,0 +1,2 @@
+TitreCours: Materiaux dentaires
+DescriptionCours: Structure de la matiere, contrainte, deformation, proprietes physiques et chimiques. Produits du gypse, materiaux a empreinte, resines.

@@ -1,0 +1,2 @@
+TitreCours: Techniques d
+DescriptionCours: Étude des principales techniques d'analyse applicables a des situations comportant plusieurs variables en psychologie. Analyse multivariee de la variance et de la covariance. Regression multiple, analyse factorielle, correlation canonique et analyse discriminante. Traitements des tableaux de contingence multidimensionnels et analyse de variables binaires mesurees sur des echelles logistiques. Analyse multidimensionnelle.

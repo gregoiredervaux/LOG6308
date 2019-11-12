@@ -1,0 +1,2 @@
+TitreCours: Psychologie et monde du travail
+DescriptionCours: Principaux apports de la psychologie contemporaine au monde du travail.

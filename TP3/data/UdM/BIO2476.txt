@@ -1,0 +1,2 @@
+TitreCours: Ichtyologie
+DescriptionCours: Diversite (anatomie, genetique, classification), eco-physiologie (metabolisme, croissance, mortalite, reproduction), comportement (predation, competition, migration, nidification) et ecologie (exploitation, impacts) des poissons.

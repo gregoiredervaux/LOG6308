@@ -1,0 +1,2 @@
+TitreCours: Hemat. clinique en med. feline et canine
+DescriptionCours: Discussion des techniques utilisees en hematologie veterinaire. Étude des troubles hematopoietiques axee sur la semiologie, le diagnostic et l'approche therapeutique. Utilisation de cas cliniques pour appuyer la presentation des sujets.

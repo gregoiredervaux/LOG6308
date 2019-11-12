@@ -1,0 +1,2 @@
+TitreCours: Gestion strategique des services touristiques
+DescriptionCours: Ce cours presente une integration des variables internes et externes de gestion dans le contexte d'une entreprise touristique. Presente sous forme de seminaire, ce cours reprendra les notions de strategie d'entreprise, d'avantage commercial, de gestion de l'offre et de productivite commerciale en tenant compte des particularites de l'entreprise touristique. Des exemples et des etudes de cas proviendront principalement des entreprises touristiques.

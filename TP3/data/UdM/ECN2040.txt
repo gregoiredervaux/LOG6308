@@ -1,0 +1,2 @@
+TitreCours: Theorie microeconomique 1
+DescriptionCours: Theorie de la decision; choix des consommateurs et theorie de la demande; choix des producteurs et theorie de l'offre; marches concurrentiels; equilibres partiel et general; bien-etre et efficacite.

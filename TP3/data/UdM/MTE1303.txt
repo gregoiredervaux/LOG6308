@@ -1,0 +1,2 @@
+TitreCours: Harmonie jazz 1
+DescriptionCours: Accords de trois sons jusqu'a ceux de treizieme et leurs symboles. Systeme de notation polytonal. Principes d'enchainement des accords. Cycles diatoniques et symetriques. Accords de substitution. Modulation.

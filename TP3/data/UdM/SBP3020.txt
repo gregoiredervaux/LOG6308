@@ -1,0 +1,2 @@
+TitreCours: Developpement du medicament 2
+DescriptionCours: Conception et elaboration d'un essai clinique de Phase 2. Bioethique.BPC. Strategies d'analyse statistique en recherche biomedicale 2. Reglementation.

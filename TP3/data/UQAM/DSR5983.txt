@@ -1,0 +1,2 @@
+TitreCours: Methodes quantitatives comparatives d
+DescriptionCours: Le cours vise a habiliter l'etudiant a resoudre les problemes les plus complexes d'evaluation en utilisant les nouvelles methodes comparatives. Revision des methodes traditionnelles (dites paritaires) d'evaluation. Approfondissement des nouvelles methodes comparatives et application, a cette fin, des diverses techniques mathematiques. Apport de l'informatique a l'application de ces methodes d'evaluation.

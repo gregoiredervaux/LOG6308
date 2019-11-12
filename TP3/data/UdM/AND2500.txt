@@ -1,0 +1,2 @@
+TitreCours: Collecte en demographie et anthropologie
+DescriptionCours: Collecte et analyse des donnees demo-anthropologiques sous un angle comparatif. Études de cas : structure de maisonnees, de gouvernance, de l&rsquo;economie, des migrations, des politiques de natalite, et les definitions sociales du feminin.

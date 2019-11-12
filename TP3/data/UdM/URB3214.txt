@@ -1,0 +1,2 @@
+TitreCours: Cadres institutionnels de l'urbanisme
+DescriptionCours: Contexte institutionnel et juridique de l'amenagement et de l'urbanisme. Competences legislatives et politiques gouvernementales. Institutions municipales locales et regionales. Évolution et reforme.

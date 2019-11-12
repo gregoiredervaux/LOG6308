@@ -1,0 +1,2 @@
+TitreCours: Enseignement du francais assiste par ordinateur
+DescriptionCours: L'ordinateur en tant qu'environnement pedagogique. Interactions homme-machine. Types de taches a confier a l'ordinateur dans l'enseignement du francais. Modes d'interaction: exercices a repetition, a choix multiples, de simulation, etc. Évaluation des risques de regression pedagogique. Ce cours implique une periode de deux heures d'exercices obligatoires par semaine sur microordinateur, en dehors des heures normales de cours.

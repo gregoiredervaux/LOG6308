@@ -1,0 +1,2 @@
+TitreCours: Methodologie en ecologie
+DescriptionCours: Developper les habiletes a l'utilisation judicieuse et precise de certaines techniques propres a l'ecologie. L'etudiant sera ainsi a meme d'utiliser les techniques les plus communes de son domaine de specialisation, d'interpreter les donnees issues de ces techniques et d'en connaitre les limites, afin de repondre a une problematique simple.

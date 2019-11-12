@@ -1,0 +1,2 @@
+TitreCours: Medecine sportive equine
+DescriptionCours: Deux semaines de travaux en diagnostic de boiteries et anesthesie equine.

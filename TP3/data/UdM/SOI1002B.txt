@@ -1,0 +1,2 @@
+TitreCours: Approche theorique-soins a la pers. agee
+DescriptionCours: Étude de notions theoriques et de concepts inherents aux experiences de sante chez la personne agee.

@@ -1,0 +1,2 @@
+TitreCours: Justice des mineurs
+DescriptionCours: Étude critique de la justice des mineurs : legislation, police, tribunaux, dejudiciarisation.

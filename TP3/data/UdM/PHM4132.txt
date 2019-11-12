@@ -1,0 +1,2 @@
+TitreCours: Fabrication pharmaceutique
+DescriptionCours: Procedes de production. Theories reliees a la fabrication dans l'industrie pharmaceutique. Theories de preformulation et formulation industrielles. Optimisation et transposition d'echelle.

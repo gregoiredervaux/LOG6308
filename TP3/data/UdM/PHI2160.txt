@@ -1,0 +1,2 @@
+TitreCours: Philosophie des sciences exactes
+DescriptionCours: L'epistemologie formelle des sciences exactes. Problemes fondationnels de la physique : notion d'appareil analytique, de relations mathematiques, de modeles, etc.

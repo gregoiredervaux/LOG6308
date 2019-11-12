@@ -1,0 +1,2 @@
+TitreCours: Comm. ecrite et orale en contexte technique
+DescriptionCours: Methode d'elaboration et de redaction de textes techniques. Normes de presentation. Application a diverses categories de documents propres au milieu scientifique ou industriel. Preparation methodique d'exposes a caractere technique et pratique d'habiletes de communication orale.

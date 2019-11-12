@@ -1,0 +1,2 @@
+TitreCours: Élements de machines
+DescriptionCours: Facteurs de securite, fiabilite, charges statiques et dynamiques. Élements de tribologie : frottement, usure, lubrification (huiles, graisses et additifs). Classification, calcul et selection des elements de machines : roulements et paliers lisses; moteurs; elements de fixation (ressorts, boulons); elements de transmission (courroies, engrenages); elements de liaison (arbres, montages, accouplements, freins et embrayages). Études de cas : conception et choix des principaux elements de machine.

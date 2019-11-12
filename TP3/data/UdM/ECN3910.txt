@@ -1,0 +1,2 @@
+TitreCours: Économie de l'environnement
+DescriptionCours: Problemes environnementaux. Externalites. Interventions de l'État. Marches. Taxes. Normes.

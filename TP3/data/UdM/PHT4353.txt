@@ -1,0 +1,2 @@
+TitreCours: Activite synthese
+DescriptionCours: Travail personnel d'integration de l'ensemble des connaissances acquises en physiotherapie par la resolution de problemes dans les domaines principaux d'intervention en physiotherapie. Examen et travail de synthese.

@@ -1,0 +1,2 @@
+TitreCours: Modalites electrotherapeutiques 1
+DescriptionCours: Bioelectronique. Notions theoriques d'electrotherapie traitant des modalites utilisees en physiotherapie : electrostimulation, TENS, courants diadynamique et interferentiel, ultrasons et laser. Methodes d'application. Évaluation des traitements.

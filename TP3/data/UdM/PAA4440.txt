@@ -1,0 +1,2 @@
+TitreCours: Algologie veterinaire : notions avancees
+DescriptionCours: La douleur animale : son expression, son evaluation et sa gestion. Rappel des mecanismes pathophysiologiques. Procedures analgesiques actuelles et a venir incluant les demonstrations pratiques d'anesthesies loco-regionales.

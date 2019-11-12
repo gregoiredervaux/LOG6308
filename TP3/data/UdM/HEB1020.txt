@@ -1,0 +1,2 @@
+TitreCours: Langue hebraique intermediaire
+DescriptionCours: Developpement du vocabulaire et de la syntaxe pour permettre la lecture et la comprehension de textes plus complexes en hebreu classique et en hebreu moderne.

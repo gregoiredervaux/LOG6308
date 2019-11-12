@@ -1,0 +1,2 @@
+TitreCours: Élements de management industriel
+DescriptionCours: Le calcul du prix de revient : les trois elements de base, le probleme de l'imputation des frais generaux de fabrication. La fabrication sur commande et la fabrication uniforme et continue. Introduction a l'analyse de rentabilite. Coûts et benefices differentiels. Revenu net et flux monetaires. Mesures de rentabilite. Impact de l'inflation sur l'evaluation des projets. Subventions et stimulants fiscaux. Impact financier des changements technologiques sur l'organisation.

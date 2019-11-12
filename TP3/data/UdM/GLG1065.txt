@@ -1,0 +1,2 @@
+TitreCours: Introduction a la petrographie
+DescriptionCours: Cristallographie optique : optique appliquee a l'utilisation du microscope polarisant. Mineralogie optique : determination des parametres optiques des mineraux; principes de classification dans les roches.

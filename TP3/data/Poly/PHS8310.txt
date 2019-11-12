@@ -1,0 +1,2 @@
+TitreCours: Microfabrication
+DescriptionCours: Introduction a la microfabrication et a la nanofabrication. Photolithographie : technologie optique et photoresines. Couches minces : methodes physiques (evaporation, pulverisation et laser), methodes chimiques, depot electrochimique, procede d'oxydation. Gravure: seche par plasma et en milieu liquide. Notions de nanofabrication. Procedes pour la microelectronique, pour la photonique, pour les microsystemes microelectromecaniques et les biocapteurs. Applications de la microfabrication. Laboratoire de microfabrication.

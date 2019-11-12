@@ -1,0 +1,2 @@
+TitreCours: Ondes et acoustique
+DescriptionCours: Approfondissement des concepts enseignes dans le cadre du programme de physique au secondaire. Phenomenes ondulatoires. Ondes longitudinales, transversales. Notions de frequence, periode, longueur d'onde, phase, vitesse d'une onde. Ondes progressives, stationnaires. Applications a l'acoustique: lames et cordes vibrantes, oscillation des gaz... Travaux pratiques.

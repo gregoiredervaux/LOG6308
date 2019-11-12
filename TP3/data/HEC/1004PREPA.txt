@@ -1,0 +1,2 @@
+TitreCours: Le monde des affaires
+DescriptionCours: Ce cours se veut une introduction a la structure du monde des affaires,a la pratique des affaires et un survol des principes de fonctionnement de differents types d'entreprise. Les approches pedagogiques du cours sont variees. Elles comprennent des exposes magistraux, des discussions et echanges interactifs, des etudes de cas, des presentations videos et des exposes par les participants. texte contenuRubrique div rubrique

@@ -1,0 +1,2 @@
+TitreCours: Chimie organique II B
+DescriptionCours: Ce cours est la suite de CHI1320 et est destine principalement aux etudiants de biologie. Étude des principales substances d'interet biologique. On traitera de la chimie des lipides, des arenes, des heterocycles, des terpenes et steroides, des carbohydrates, des acides amines, proteines et enzymes, des acides nucleiques et drogues.

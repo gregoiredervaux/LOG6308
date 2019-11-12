@@ -1,0 +1,2 @@
+TitreCours: Circulation, respiration et rein
+DescriptionCours: Anatomie, physiologie, pathologie et pharmacologie des systemes cardiovasculaire, respiratoire et renal. Études des regulations centrales et peripheriques et mecanismes fonctionnels d'integration de ces systemes.

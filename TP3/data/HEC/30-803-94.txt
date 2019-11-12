@@ -1,0 +1,2 @@
+TitreCours: Économie manageriale
+DescriptionCours: Ce cours utilise les outils traditionnels de la microeconomie (offre, demande, elasticites, etc .) pour analyser le comportement des entreprises. Les modeles de marche (concurrence parfaite, monopole, oligopole...) sont mis a contribution. L'aspect « pricing » est egalement aborde. Des exemples concrets tires de l'actualite permettent d'appliquer les differents concepts.

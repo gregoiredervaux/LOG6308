@@ -1,0 +1,2 @@
+TitreCours: Medecine hyperbare
+DescriptionCours: Generalites et physiologie. Effets therapeutiques de la medecine hyperbare : indications et complications. Intoxication au monoxyde de carbone. Physiologie de la plongee. Anamnese et examen pre-plongee. Medecine d'altitude.

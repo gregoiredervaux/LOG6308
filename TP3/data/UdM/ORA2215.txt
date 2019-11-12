@@ -1,0 +1,2 @@
+TitreCours: Troubles de la communication et maladies
+DescriptionCours: Correlats medicaux des troubles de la communication vus sous l'angle de la neurologie, de la pediatrie et de la psychiatrie. Manifestations cliniques et principes d'examen chez l'enfant et l'adulte.

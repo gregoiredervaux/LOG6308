@@ -1,0 +1,2 @@
+TitreCours: Stage de limnologie
+DescriptionCours: Stage sur le terrain de limnologie appliquee aux ecosystemes d'eau douce : morphometrie, physico-chimie des eaux naturelles. Communautes planctoniques et benthiques.

@@ -1,0 +1,2 @@
+TitreCours: Stage
+DescriptionCours: Les stages s'adressent aux etudiants qui s'orientent vers l'informatique ou les mathematiques appliquees, et visent a leur faire prendre contact directement avec le monde socioeconomique. L'acceptation d'un stage, ainsi que son evaluation, relevent de la regie interne du programme de mathematiques.

@@ -1,0 +1,2 @@
+TitreCours: Intervention behaviorale pour la depression
+DescriptionCours: Theories behaviorales et behaviorales-cognitives de la depression. Methodes d'intervention. Utilisation de la psychopharmacologie combinee aux methodes behaviorales. Comportements suicidaires et parasuicidaires.

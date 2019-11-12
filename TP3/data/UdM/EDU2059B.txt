@@ -1,0 +1,2 @@
+TitreCours: Stage d'assistanat, ed. phys. secondaire
+DescriptionCours: Assistanat aupres d'une ou d'un specialiste en education physique au secondaire. Integration progressive dans l'enseignement aupres des eleves et des groupes classes.

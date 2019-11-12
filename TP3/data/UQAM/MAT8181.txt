@@ -1,0 +1,2 @@
+TitreCours: Series chronologiques
+DescriptionCours: Generalites sur les processus stochastiques. Processus stationnaires. Representation de la fonction de covariance. Densite spectrale. Filtre. Estimation de la fonction de covariance. Estimation de la densite spectrale. Estimation des parametres et prediction pour des processus autoregressifs et des processus a moyenne mobile. Sujets speciaux.

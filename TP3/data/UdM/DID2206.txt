@@ -1,0 +1,2 @@
+TitreCours: Étude de la langue
+DescriptionCours: Notions de base pour l'enseignement des composantes linguistique (lexique, syntaxe, morphologie) et discursive (de la phrase aux types de textes et de discours); apprentissage de la grammaire nouvelle; composante langue des programmes d'etudes.

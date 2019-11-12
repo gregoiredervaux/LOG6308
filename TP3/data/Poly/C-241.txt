@@ -1,0 +1,2 @@
+TitreCours: lments d'automatismes industriels
+DescriptionCours: Notions de commande en TOUT ou RIEN. Logique de communi-cation. Diagrammes logiques. Reprsentation des automatismes par GRAFCET. Automates programmables industriels : classification, programmation par expressions logiques et circuits  relais. Capteurs et actionneurs. Logique entirement pneumatique. Exemples d'application.

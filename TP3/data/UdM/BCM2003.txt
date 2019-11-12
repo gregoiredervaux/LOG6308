@@ -1,0 +1,2 @@
+TitreCours: Application d'outils bio-informatiques
+DescriptionCours: Alignement multiple de sequences, assemblage de sequences aleatoires; prediction de structures secondaires d'ARN et de proteines, recherche dans des bases de donnees, recherche de patrons et annotation de sequences genomiques, phylogenie.

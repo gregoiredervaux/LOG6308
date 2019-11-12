@@ -1,0 +1,2 @@
+TitreCours: Innocuite alimentaire veterinaire
+DescriptionCours: Ce cours comporte trois niveaux abordant l'analyse des concepts de qualite agro-alimentaire du point de vue veterinaire. Principes de salubrite. Acquisition d'une demarche HACCP s'appliquant aux produits alimentaires transformes.

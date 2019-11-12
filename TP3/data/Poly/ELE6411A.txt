@@ -1,0 +1,2 @@
+TitreCours: Étude des grands reseaux electriques
+DescriptionCours: Matrices de representation des reseaux. Analyse nodale, equations d'etat, analyse hybride. Regime permanent. Études de court-circuit a l'aide des circuits de sequence. Calculs d'ecoulement de puissance monophase. Calculs d'ecoulement de puissance triphase. Methodes de solution des problemes non lineaires. Simulation dans le domaine du temps : transitoires electromagnetiques et transitoires electromecaniques. Modelisation avancee des composants de reseau.

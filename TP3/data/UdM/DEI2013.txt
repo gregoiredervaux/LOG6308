@@ -1,0 +1,2 @@
+TitreCours: Conception assistee par ordinateur
+DescriptionCours: Initiation aux caracteristiques des logiciels de CAO. Comprehension des regles associees aux logiciels 3D en design d'interieur. Realisation d'un projet en utilisant la CAO comme outil de conception et de visualisation.

@@ -1,0 +1,2 @@
+TitreCours: Simulation nergtique des btiments durables
+DescriptionCours: Technologies de simulations nergtiques des btiments (avantages et inconvnients). Comparaison entre les logiciels de simulation disponibles. Principes d'une simulation nergtique: zonage, fichiers mtorologiques et paramtres de modlisation d'un btiment. Techniques de simulation des systmes complexes lis aux btiments durables. Produire une simulation nergtique simple d'un btiment. Optimiser la consommation d'un btiment existant  l'aide de la simulation nergtique.

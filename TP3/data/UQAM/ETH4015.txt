@@ -1,0 +1,2 @@
+TitreCours: Atelier de production
+DescriptionCours: Analyse, par le groupe-cours, des question soulevees par les productions theatrales du trimestre en cours. Redaction de textes critiques en vue de la publication de programmes. Recherche iconographique et traitement informatique. Ce cours est suivi de travaux pratiques obligatoires jumeles aux productions theatrales.

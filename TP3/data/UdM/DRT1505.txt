@@ -1,0 +1,2 @@
+TitreCours: Droit penal 1
+DescriptionCours: Sources et fondements du droit penal. Principes fondamentaux de la responsabilite penale. Étude des elements constitutifs des infractions, de la notion de faute penale et des principaux moyens d'exoneration.

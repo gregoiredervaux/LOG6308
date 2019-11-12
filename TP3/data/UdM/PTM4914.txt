@@ -1,0 +1,2 @@
+TitreCours: Problemes en hygiene veterinaire 2
+DescriptionCours: A partir d'une problematique mediatisee d'envergure pouvant affecter la sante du public, effectuer une analyse du risque (evaluation, gestion et communication) et ses consequences.

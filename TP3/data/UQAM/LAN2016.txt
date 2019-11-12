@@ -1,0 +1,2 @@
+TitreCours: Francais langue seconde
+DescriptionCours: Amener l'etudiant non francophone a developper ses habiletes pour la redaction de textes dont les structures sont complexes. L'encourager a analyser les difficultes rencontrees, a rechercher des solutions appropriees et a reflechir a l'ensemble des qualites stylistiques de ses ecrits.

@@ -1,0 +1,2 @@
+TitreCours: Le pharmacien et la communaute
+DescriptionCours: Soins pharmaceutiques et sante publique; programmes d&rsquo;acces aux medicaments ; evaluation et amelioration de l&rsquo;usage du medicament; pharmacoeconomie; ethique; enjeux de la pratique

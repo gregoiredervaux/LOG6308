@@ -1,0 +1,2 @@
+TitreCours: Principes de geomorphologie
+DescriptionCours: Les idees en geomorphologie. L'alteration superficielle. Geomorphologie fluviale, glaciaire et periglaciaire. Les pentes. Le littoral. Phenomenes eoliens. Karst. Laboratoire axe sur la geomorphologie structurale.

@@ -1,0 +1,2 @@
+TitreCours: Problemes de metaphysique
+DescriptionCours: Examen, dans une perspective a la fois historique et contemporaine, de problemes classiques ou moins classiques de la metaphysique, tels que l'existence et l'identite, les universaux, les categories, la causalite, la modalite, le realisme, etc.

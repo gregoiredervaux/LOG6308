@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique en gestion des operations
+DescriptionCours: Seminaire a contenu variable portant sur la gestion des operations

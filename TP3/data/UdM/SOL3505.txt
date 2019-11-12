@@ -1,0 +1,2 @@
+TitreCours: Sociologie : themes choisis
+DescriptionCours: Cours-seminaire portant sur un aspect particulier de la sociologie et relie a des recherches recentes.

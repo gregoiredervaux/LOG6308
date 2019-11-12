@@ -1,0 +1,2 @@
+TitreCours: Stage d'enseignement, education physique
+DescriptionCours: Integration dans une equipe-ecole et prise en charge des groupes classes au prescolaire/primaire ou au secondaire. Developpement de l'autonomie professionnelle par la pratique reflexive.

@@ -1,0 +1,2 @@
+TitreCours: Physique atomique et moleculaire
+DescriptionCours: Atomes a plusieurs electrons: les diverses approximations. Les molecules simples. La liaison chimique: covalente et ionique. Liaisons non localisees; la liaison metallique. Agregats macroscopiques d'atomes. Theorie des collisions: approximation de Born, methode des ondes partielles, applications. Absorption. Potentiels intermoleculaires aux energies thermiques.

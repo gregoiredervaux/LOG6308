@@ -1,0 +1,2 @@
+TitreCours: Introduction a la pragmatique du langage
+DescriptionCours: Ce cours vise a analyser les aspects linguistiques du fonctionnement et de l'interpretation des enonces en contexte. Le cours porte sur: les deictiques; les presuppositions pragmatiques et les implications; la structure et l'expression des actes de langage; la competence de communication; l'analyse des conversations; le role de la pragmatique dans la theorie linguistique.

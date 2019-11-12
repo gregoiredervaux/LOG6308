@@ -1,0 +1,2 @@
+TitreCours: Analyse quantitative appliquee
+DescriptionCours: Évaluation des etapes d'un protocole d'analyse chimique: echantillonnage, preparation de l'echantillon, mesures. Élements de statistique : moyenne, ecart-type, regression lineaire. Applications en analyse gravimetrique, volumetrique et electroanalytique. Cours et travaux pratiques en laboratoire.

@@ -1,0 +1,2 @@
+TitreCours: Sante des ecosystemes
+DescriptionCours: Trois semaines de stage en evaluation de la sante des ecosystemes agricoles et naturels. Stage d'ete hors programme entre la 4e et la 5e annee.

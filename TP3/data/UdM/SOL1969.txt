@@ -1,0 +1,2 @@
+TitreCours: Societe quebecoise et systeme de sante
+DescriptionCours: Organisation et evolution du systeme de sante dans le contexte socioculturel, sociodemographique et sociopolitique quebecois. Comparaison avec les systemes de sante europeen et americain. Enjeux sociaux en matiere de sante.

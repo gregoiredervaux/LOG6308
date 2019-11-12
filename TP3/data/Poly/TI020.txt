@@ -1,0 +1,2 @@
+TitreCours: Hydraulique appliquee
+DescriptionCours: Pompes d'incendie. Sources d'eau publiques et privees. Reseaux de distribution, analyses de sources d'eau, mesures de debit, analyses graphiques. Hydraulique appliquee aux extincteurs automatiques et aux canalisations d'incendie. Besoins en eau. Évaluation de la protection disponible.

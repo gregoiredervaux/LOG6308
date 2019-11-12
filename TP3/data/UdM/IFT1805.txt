@@ -1,0 +1,2 @@
+TitreCours: Informatique de base: medecine dentaire
+DescriptionCours: Mise a niveau : outils et progiciels les plus repandus dans les applications informatiques telles recherche documentaire, creation de pages Web, production de documents et de presentations orales, gestion de donnees.

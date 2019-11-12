@@ -1,0 +1,2 @@
+TitreCours: Anthropologie des problemes medicaux
+DescriptionCours: Introduction aux theories de l'ecologie medicale, de l'epidemiologie socioculturelle et de la semiologie. Divers problemes medicaux sont envisages dans leurs dimensions bioculturelles et dans une perspective comparative.

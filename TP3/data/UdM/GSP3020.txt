@@ -1,0 +1,2 @@
+TitreCours: Éthique appliquee en securite interieure
+DescriptionCours: S'approprier les concepts, les principes et les modeles d'analyse. Situer les questions ethiques : legalite, legitimite. Identifier les dilemmes ethiques. Choisir les avenues appropriees. Integrer la reflexion ethique aux activites professionnelles.

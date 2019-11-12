@@ -1,0 +1,2 @@
+TitreCours: Personne/Environnement
+DescriptionCours: Connaissances generales sur le champ d'etudes Personne/Environnement : evaluation, programmation et conceptions fondamentales des relations Personne/Environnement. Travaux pratiques.

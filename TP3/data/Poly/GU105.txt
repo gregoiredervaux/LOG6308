@@ -1,0 +1,2 @@
+TitreCours: Schema couvert. risques en securite incendie
+DescriptionCours: Ce cours porte sur la Loi en securite incendie, les orientations ministerielles ainsi que sur la production des schemas de couvertures de risques et leurs impacts sur les organisations. Il amene l'etudiant a bien comprendre les objectifs des orientations, des etapes de production d'un schema, de son processus d'adoption, de son suivi et sa mise en oeuvre ainsi que de sa mise a jour lorsqu'il arrive a terme.

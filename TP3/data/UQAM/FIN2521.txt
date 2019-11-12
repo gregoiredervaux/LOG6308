@@ -1,0 +1,2 @@
+TitreCours: Analyse de l
+DescriptionCours: Preparer l'etudiant a evaluer une demande de credit et a determiner les conditions du pret, le cas echeant. La nature des besoins de financement et les facteurs qui influencent ces besoins. Le contexte de la decision de financement bancaire. La collecte d'informations. Les principes d'analyse. L'analyse de la rentabilite. L'analyse du risque. L'analyse de la liquidite. L'estimation des besoins de financement. Les garanties. L'octroi de credit aux particuliers et le credit commercial.

@@ -1,0 +1,2 @@
+TitreCours: Le cinema chinois
+DescriptionCours: Survol du cinema chinois, taiwanais, et hongkongais, surtout des annees 1980, moment d'une renaissance culturelle importante.

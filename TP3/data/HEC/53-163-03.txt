@@ -1,0 +1,2 @@
+TitreCours: Market Research
+DescriptionCours: This course consists in an introduction to the concepts and tools associated with conducting market research studies. It covers methodological foundations of market research such as modelling, qualitative research, surveys, market tests, questionnaire construction, perceptual mapping, and buyer preference analysis. Although this course adopts a manager-user perspective, the more technical aspects linked to the practical conception of a market research study are not overlooked.

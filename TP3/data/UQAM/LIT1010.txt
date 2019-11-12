@@ -1,0 +1,2 @@
+TitreCours: Effective Communication
+DescriptionCours: Initiation aux techniques a la pratique de l'ecriture. Production de textes de prose: description, recit, dissertation, lettre, etc. Reflexion stylistique sur ces textes.

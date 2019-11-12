@@ -1,0 +1,2 @@
+TitreCours: Stages en milieu professionnel
+DescriptionCours: Stages pratiques dans un milieu d'interet professionnel qui differe des milieux conventionnels d'enseignement ou de travail afin d'y acquerir des connaissances et des habiletes nouvelles.

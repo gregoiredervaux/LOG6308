@@ -1,0 +1,2 @@
+TitreCours: Gestion : environnement et paysage
+DescriptionCours: Enjeux environnementaux lies a l'utilisation des composantes biophysiques des paysages; presentation des acteurs publics et prives; analyse critique des modeles et des outils de gestion; examen de dossiers d'actualite.

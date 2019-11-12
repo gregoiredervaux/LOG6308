@@ -1,0 +1,2 @@
+TitreCours: Stage d'enseignement 2
+DescriptionCours: Integration dans une equipe-ecole et prise en charge d'une classe. Developpement de l'autonomie professionnelle par la pratique reflexive.

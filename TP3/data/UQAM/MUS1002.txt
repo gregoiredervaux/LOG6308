@@ -1,0 +1,2 @@
+TitreCours: Rudiments du langage musical II
+DescriptionCours: Suite du cours MUS1001 Rudiments du langage musical I

@@ -1,0 +1,2 @@
+TitreCours: Introduction a la statistique
+DescriptionCours: Description des donnees. Production de donnees. Probabilites. Inference. Intervalles de confiance et tests d'hypotheses. Donnees de denombrement. Tableaux de contingence. Regression lineaire simple.

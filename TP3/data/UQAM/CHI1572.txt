@@ -1,0 +1,2 @@
+TitreCours: Nutrition humaine II
+DescriptionCours: Cours d'interet general. Approfondissement de certains secteurs de la nutrition humaine. Depenses d'energie total par rapport aux nutriments dans differentes dietes. Le cholesterol dans les aliments et son role dans les maladies cardiovasculaires. Les deficiences alimentaires conduisant aux anemies. Traitements nutritionnels relies a certaines maladies. Les defis nutritionnels du futur.

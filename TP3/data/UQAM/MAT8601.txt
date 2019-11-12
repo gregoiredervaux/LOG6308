@@ -1,0 +1,2 @@
+TitreCours: Methodes stochastiques en finance I
+DescriptionCours: Modeles discrets. Strategies de transaction. Arbitrage. Marches complets. Évaluation des options. Probleme d'arret optimal et options americaines. Mouvement brownien. Integrale stochastique, proprietes. Formule d'Ito. Localisation. Introduction aux equations differentielles sotchastiques. Changement de probabilite et theoreme de Girsanov. Representation des martingales et strategie de couverture. Modele de Black et Scholes.

@@ -1,0 +1,2 @@
+TitreCours: Teledetection appliquee aux problematiques contemporaines
+DescriptionCours: Étude des bases physiques et des differentes fenetres spectrales utilisees en teledetection. Élements d'acquisition, de pretraitement, de traitement et d'extraction d'information dans une perspective d'application. Experimentation a partir de donnees aeroportees et satellitales provenant de paysages a caracteres physiques et ethnoculturels differents. Periodes de laboratoire. Sorties sur le terrain.

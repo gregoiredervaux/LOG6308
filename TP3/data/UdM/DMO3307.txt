@@ -1,0 +1,2 @@
+TitreCours: Pratique de la demographie
+DescriptionCours: Pratique de la demographie. Perspectives de population : modeles de base et modeles adaptes aux sous-populations. Applications a divers milieux de pratique : education, sante, population active, immigration, et autres.

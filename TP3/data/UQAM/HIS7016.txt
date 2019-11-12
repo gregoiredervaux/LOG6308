@@ -1,0 +1,2 @@
+TitreCours: Histoire des États
+DescriptionCours: A partir d'une connaissance generale de l'evolution des États-Unis, le cours vise a cerner les diverses interpretations de l'histoire americaine qui sont pertinentes a la societe contemporaine. Étude des transformations demographiques, economiques, politiques, sociales et culturelles grace a l'analyse des phases les plus significatives de l'evolution des États-Unis.

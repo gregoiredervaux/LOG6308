@@ -1,0 +1,2 @@
+TitreCours: Direction et controle des activites
+DescriptionCours: Gerer le cadre normatif. Prevoir et deployer les moyens. Repartir les ressources. Analyser les ecarts. Orienter et coordonner les activites. Adopter le leadership opportun. Traiter les imprevus et incidents. Rendre des comptes en contexte politique.

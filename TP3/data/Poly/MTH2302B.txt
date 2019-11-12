@@ -1,0 +1,2 @@
+TitreCours: Probabilites et statistique
+DescriptionCours: Statistique descriptive, simulation numerique. Notions de probabilites. Lois de probabilite unidimensionnelles ; lois discretes et lois continues usuelles. Vecteurs aleatoires ; distributions conjointes, conditionnelles, marginales ; fonctions de variables aleatoires. Estimation ponctuelle et par intervalles. Tests parametriques et tests d'ajustement. Planification et analyse de plans d'experiences. Regression lineaire.

@@ -1,0 +1,2 @@
+TitreCours: Atmosphere et environnement stellaires
+DescriptionCours: Étude des modeles de matiere interstellaire et d'atmospheres stellaires. Determination de l'abondance des elements chimiques dans l'univers. Spheres de Strömgren. Formation des raies spectrales. Rayonnement cosmique.

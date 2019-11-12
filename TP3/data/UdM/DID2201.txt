@@ -1,0 +1,2 @@
+TitreCours: Didactique du francais 1
+DescriptionCours: Debuts de la lecture/ecriture, perspectives developpementales. Modeles d'apprentissage. Enseignement a l'eleve debutant. Comprehension en lecture et son developpement au prescolaire/primaire. Évaluation.

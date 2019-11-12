@@ -1,0 +1,2 @@
+TitreCours: Gestion de la securite
+DescriptionCours: Specificite de la gestion de la securite : gestion ciblee sur des problemes et des crises. Gestion d'un service de police, d'une equipe d'enqueteurs, d'une agence de securite. Application des principales notions de management.

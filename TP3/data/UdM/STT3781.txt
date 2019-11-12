@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de statistique
+DescriptionCours: Planification d'experiences et de sondages. Exploration et analyse de donnees a l'aide de progiciels. Interpretation et communication de resultats.

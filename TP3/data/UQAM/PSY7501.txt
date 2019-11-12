@@ -1,0 +1,2 @@
+TitreCours: Intervention structuree et individualisee
+DescriptionCours: Description de l'intervention structuree et individualisee selon les prescriptions du modele TEACCH de l'Universite de Caroline du Nord. Exposes theoriques et activites pratiques. Description des composantes de l'evaluation. Étude et pratique du PEP-R et AAPEP. Interventions structurees, interventions facilitant la communication, l'autonomie dans la vie quotidienne et les habiletes de travail, les loisirs, les habiletes sociales et la gestion des troubles du comportement.

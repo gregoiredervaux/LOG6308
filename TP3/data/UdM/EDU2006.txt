@@ -1,0 +1,2 @@
+TitreCours: Stage d'assistanat
+DescriptionCours: Interventions progressives par tutorat aupres d'un eleve ou de petits groupes d'eleves du primaire en immersion sous la supervision de l'enseignant associe. Assistanat aupres d'un enseignant associe.

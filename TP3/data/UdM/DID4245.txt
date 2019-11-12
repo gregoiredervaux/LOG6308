@@ -1,0 +1,2 @@
+TitreCours: Didactique des langues au secondaire 2
+DescriptionCours: Didactique de la grammaire et du vocabulaire. Étude des contenus et des demarches d'enseignement. Analyse des formes et des outils d'evaluation. Strategies d'apprentissage et techniques d'enseignement. Recherches.

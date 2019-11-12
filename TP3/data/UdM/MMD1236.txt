@@ -1,0 +1,2 @@
+TitreCours: Histoire de la medecine
+DescriptionCours: Grandes etapes du developpement de la medecine scientifique. Influence des decouvertes scientifiques sur la pratique medicale.

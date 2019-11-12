@@ -1,0 +1,2 @@
+TitreCours: Atelier thematique
+DescriptionCours: Cours a contenu variable sur les sujets relies au champ des etudes sur le deuil et la mort. Les contenus doivent etre approuves par le comite de programme.

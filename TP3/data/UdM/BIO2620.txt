@@ -1,0 +1,2 @@
+TitreCours: Physiologie animale comparee 1
+DescriptionCours: Étude comparative de fonctions choisies chez les invertebres et vertebres : fonctions cardiorespiratoires, metabolisme, energie et activite. Fonctions integratrices du systeme nerveux, controle des activites musculaires.

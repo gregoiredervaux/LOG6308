@@ -1,0 +1,2 @@
+TitreCours: Theories de la connaissance
+DescriptionCours: Introduction aux theories de la connaissance contemporaines. Épistemologie et metaepistemologie. Coherentisme et fondationnalisme. Internalisme, externalisme et fiabilisme. Scepticisme, relativisme et naturalisme.

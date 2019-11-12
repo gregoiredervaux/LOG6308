@@ -1,0 +1,2 @@
+TitreCours: Neurologie veterinaire
+DescriptionCours: Deux semaines de stages dans le service de neurologie veterinaire.

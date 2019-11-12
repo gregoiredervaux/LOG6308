@@ -1,0 +1,2 @@
+TitreCours: Analyse de textes
+DescriptionCours: Apprentissage pratique, par petits groupes, de l&rsquo;analyse de texte en etudes litteraires ; exercices individuels a partir de textes appartenant a differentes periodes, a differents genres litteraires et a differentes aires de la francophonie.

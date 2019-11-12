@@ -1,0 +1,2 @@
+TitreCours: Didactique du calcul differentiel et integral
+DescriptionCours: Finalites de l'enseignement du calcul differentiel et integral, recherche d'un nouvel equilibre entre le discret et le continu, et impact des nouvelles technologies. Évolution des programmes au Quebec et ailleurs. Diverses approches en fonction des clienteles: choix du niveau de rigueur et de competence technique; utilisation de l'histoire, de l'informatique, des modeles mathematiques; approches alternatives.

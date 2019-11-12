@@ -1,0 +1,2 @@
+TitreCours: Sondages et politique
+DescriptionCours: Le cours portera sur l'histoire et l'usage des sondages politiques, les instituts de sondage, l'opinion publique. Il sera question aussi de la construction des sondages (demande, questionnaire, echantillonnage, collecte des donnees, traitement des donnees, echelle de mesure et d'attitudes...). Enfin, plusieurs questions politiques liees aux sondages (publication des sondages electoraux, controle des sondages...) seront abordees.

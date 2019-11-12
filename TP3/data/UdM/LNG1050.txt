@@ -1,0 +1,2 @@
+TitreCours: Ancien et moyen francais
+DescriptionCours: Description des structures de base de l'ancien et du moyen francais a l'aide de textes choisis (XIIe - XVe s.). Initiation a l'etude philologique.

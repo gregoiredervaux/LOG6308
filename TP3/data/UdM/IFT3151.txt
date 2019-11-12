@@ -1,0 +1,2 @@
+TitreCours: Stage d'informatique
+DescriptionCours: Stage en milieu de travail, donnant lieu a un rapport, evalue conjointement par l'employeur et un jury du DIRO.

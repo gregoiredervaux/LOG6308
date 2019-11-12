@@ -1,0 +1,2 @@
+TitreCours: Chimie organique IV
+DescriptionCours: Études des produits naturels tels les terpenes, steroides et alcaloides au point de vue elucidation de structures, degradations, syntheses et biosyntheses.

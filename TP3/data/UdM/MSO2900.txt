@@ -1,0 +1,2 @@
+TitreCours: Élements de base en epidemiologie
+DescriptionCours: Permettre a l'etudiant l'acquisition des connaissances de base de l'epidemiologie et l'initier a l'application de celles-ci a des problemes courants de la sante des populations.

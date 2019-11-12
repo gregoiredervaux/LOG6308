@@ -1,0 +1,2 @@
+TitreCours: Introduction au design d'interieur
+DescriptionCours: Definition; antecedents historiques ; rapports avec les disciplines connexes; introduction aux principaux concepts de la discipline, aux procedes et methodes de sa pratique et aux champs de recherche.

@@ -1,0 +1,2 @@
+TitreCours: Atelier de radio 2
+DescriptionCours: Production d'emissions d'affaires publiques : reportage, entrevue, dossier. Initiation a l'animation radiophonique.

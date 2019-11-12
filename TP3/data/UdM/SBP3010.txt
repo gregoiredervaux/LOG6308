@@ -1,0 +1,2 @@
+TitreCours: Developpement du medicament 1
+DescriptionCours: Conception et elaboration d'un essai clinique de Phase I. Bioethique. Bonnes pratiques cliniques (BPC). Strategies d'analyse statistique en recherche biomedicale I. Épidemiologie. Reglementation. Notions d'economie de la sante et de marketing.

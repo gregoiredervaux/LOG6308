@@ -1,0 +1,2 @@
+TitreCours: Atelier de video I
+DescriptionCours: La creation en video au niveau de la realisation. Étude de la structure du scenario. Description des personnages. Developpement de l'action. Redaction des dialogues. Étude des styles. Scenarisation, tournage et montage d'une production. Ce cours est suivi en meme temps que le EDM4111 (Atelier de video II).

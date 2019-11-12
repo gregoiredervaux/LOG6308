@@ -1,0 +1,2 @@
+TitreCours: Technologie des medias
+DescriptionCours: Études des technologies de communication analogique et numerique utilisees pour la mediatisation audiovisuelle et cybernetique. Notions de base en physique de la lumiere et du son. L'architecture de l'ordinateur, la numerisation, la resolution, la compression, les formats de fichiers, les protocoles de transfert et de controle.

@@ -1,0 +1,2 @@
+TitreCours: Thermodynamique chimique
+DescriptionCours: Proprietes thermodynamiques des solutions ideales et reelles. Fugacite et activite, coefficients d'activite. Modeles thermodynamiques pour le calcul des coefficients d'activite. Équilibre des phases, systemes liquide-gaz et liquide-liquide. Équilibre chimique a differentes pressions et temperatures.

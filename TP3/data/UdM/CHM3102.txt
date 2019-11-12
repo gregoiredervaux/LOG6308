@@ -1,0 +1,2 @@
+TitreCours: Chimie bioanalytique avancee
+DescriptionCours: Spectrometrie de masse, la spectrophotometrie moleculaire, l'electrophorese, la cinetique enzymatique, les immuno-essais, les biocapteurs, la spectroscopie de resonance de plasmon de surface (SPR), la microscopie a force atomique (AFM).

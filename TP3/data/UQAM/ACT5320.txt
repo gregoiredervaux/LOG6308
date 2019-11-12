@@ -1,0 +1,2 @@
+TitreCours: Theorie de la credibilite
+DescriptionCours: Ce cours vise a initier l'etudiant au concept de la credibilite et a ses applications actuarielles. Aspects qualitatifs et quantitatifs de la credibilite. Approche bayesienne et traditionnelle. Formule de Longley-Cook. Credibilite du coût moyen et de la prime pure. Distributions des pertes en assurance I.A.R.D. Ce cours comporte une seance d'exercices de 2 heures par semaine.

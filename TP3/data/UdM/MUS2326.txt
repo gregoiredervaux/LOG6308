@@ -1,0 +1,2 @@
+TitreCours: Creation sonore pour les jeux videos
+DescriptionCours: Études theoriques de la creation sonore et de la composition musicale pour le jeu video. Mecanismes de l'industrie, modes de productions, outils employes, analyse de jeux et demonstration de situations pratiques.

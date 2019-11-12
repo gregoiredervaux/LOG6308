@@ -1,0 +1,2 @@
+TitreCours: Atelier d'architecture 3
+DescriptionCours: Le sens du lieu. Apprentissage de la composition architecturale a travers des projets d'envergure modeste. L'etudiant doit integrer dans l'expression architecturale certains aspects fonctionnels et techniques.

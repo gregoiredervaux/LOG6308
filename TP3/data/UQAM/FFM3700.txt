@@ -1,0 +1,2 @@
+TitreCours: Projet de perfectionnement en milieu de garde
+DescriptionCours: Le projet de perfectionnement en milieu de garde se veut un projet personnel d'intervention educative visant la mise en application des notions acquises par l'etudiant tout au long de son cheminement dans le certificat en education en milieu de garde. Il vise a le rendre apte a planifier, a mettre en application et a evaluer des activites reliees au programme educatif dans son milieu de travail, ainsi qu'a reflechir sur sa pratique et sur son evolution personnelle dans le cadre de cette pratique.

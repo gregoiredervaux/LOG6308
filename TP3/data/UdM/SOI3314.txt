@@ -1,0 +1,2 @@
+TitreCours: Soins infirmiers en pedopsychiatrie
+DescriptionCours: Problemes de comportement chez les enfants de differents ages. Intervention infirmiere aupres de l'enfant et de sa famille.

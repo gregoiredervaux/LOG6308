@@ -1,0 +1,2 @@
+TitreCours: Projet I
+DescriptionCours: Travaux de synthese en electrochimie appliquee effectues sous la direction d'un professeur. Le projet peut etre fait en collaboration avec l'industrie et doit recevoir l'approbation prealable du responsable du programme. Un avant-projet doit etre soumis des le debut du travail et un rapport final ainsi qu'un expose doivent etre presentes a la fin du trimestre.

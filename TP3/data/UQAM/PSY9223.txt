@@ -1,0 +1,2 @@
+TitreCours: Fondements theoriques et experimentaux des therapies behaviorales
+DescriptionCours: Analyse critique des bases theoriques et experimentales des interventions behaviorales. Les divers modeles des interventions behaviorales. Les liens entre ces modeles et les methodes d'intervention. Les recherches supportant ces modeles.

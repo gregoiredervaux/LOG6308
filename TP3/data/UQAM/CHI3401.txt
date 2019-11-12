@@ -1,0 +1,2 @@
+TitreCours: Chimie physique IV
+DescriptionCours: Introduction a la chimie-physique des colloides et des phenomenes de surface. Surface des liquides: tension de surface, interfaces liquides, proprietes de monocouches, interfaces electriquement chargees. Surface des solides : isothermes d'absorption, interface solide-liquide, application a la catalyse. Interfaces solide-liquide: mouillage, detergence, flottation, mousses, emulsions, lubrification et adhesion. Les colloides: diffusion et mouvement brownien, floculation, sedimentation, gels, micellisation.

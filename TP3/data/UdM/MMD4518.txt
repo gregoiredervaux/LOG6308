@@ -1,0 +1,2 @@
+TitreCours: Reanimation cardiaque respiratoire 2
+DescriptionCours: Cette formation permettra aux etudiants d'approfondir les notions essentielles des mesures de reanimation cardiaque et respiratoire en incluant les connaissances theoriques de la physiologie ou de la pharmacologie.

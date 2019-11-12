@@ -1,0 +1,2 @@
+TitreCours: Qualite et productivite des logiciels
+DescriptionCours: Metriques et mesures de complexite des logiciels. Facteurs explicatifs de la qualite en genie logiciel. Modeles d'estimation de la productivite. Criteres d'appreciation des metriques et modeles. Notions de qualite totale.

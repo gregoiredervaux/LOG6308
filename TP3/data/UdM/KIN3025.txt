@@ -1,0 +1,2 @@
+TitreCours: Practicum 2
+DescriptionCours: Mise en application en situation reelle des habiletes d'evaluation, de programmation, d'encadrement ou de gestion en activite physique.

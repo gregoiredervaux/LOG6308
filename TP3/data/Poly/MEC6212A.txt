@@ -1,0 +1,2 @@
+TitreCours: Maillages et modelisation geometrique
+DescriptionCours: Classification des maillages: structures, non structures. Methodologie de construction de maillages structures; techniques elliptiques. Algorithmes de maillages non structures, methodes frontales et de Delaunay. Modelisation geometrique: representations solide et surfacique. Surfaces: representations, intersections et constructions. Techniques de parametrisation et d'approximation. Representations graphiques de donnees abstraites.

@@ -1,0 +1,2 @@
+TitreCours: Stage mixte : animaux de compagnie
+DescriptionCours: Deux semaines de stage dans les services de la clinique des animaux de compagnie.

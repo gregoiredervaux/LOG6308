@@ -1,0 +1,2 @@
+TitreCours: Droit des affaires 2
+DescriptionCours: Étude des principes fondamentaux et regles gouvernant la compagnie. Legislation federale et provinciale. Naissance, organisation, vie interne et externe, liquidation et dissolution.

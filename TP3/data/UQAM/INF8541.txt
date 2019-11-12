@@ -1,0 +1,2 @@
+TitreCours: Paradigmes de programmation
+DescriptionCours: Étude comparative et critique des divers paradigmes. Langages proceduraux. Programmation fonctionnelle, logique, parallele et orientee-objet. Methodologies de programmation. Proprietes formelles des paradigmes.

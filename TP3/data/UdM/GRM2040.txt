@@ -1,0 +1,2 @@
+TitreCours: Travaux pratiques 1
+DescriptionCours: Exercices de composition et de traduction.

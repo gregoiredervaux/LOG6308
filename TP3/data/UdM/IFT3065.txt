@@ -1,0 +1,2 @@
+TitreCours: Langages de programmation et compilation
+DescriptionCours: Methodes de compilation et interpretation des langages de programmation. Generation de code, optimisation, transformations de programme. Gestion de la memoire. Implantation des langages specialises.

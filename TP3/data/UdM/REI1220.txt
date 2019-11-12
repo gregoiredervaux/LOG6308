@@ -1,0 +1,2 @@
+TitreCours: Administration des affaires
+DescriptionCours: L'entreprise et ses grandes fonctions : production, marketing, finance et comptabilite.

@@ -1,0 +1,2 @@
+TitreCours: Enseignement clinique en audiologie
+DescriptionCours: Sensibilisation aux problemes de la personne deficiente auditive, tant la personne sourde de naissance que la personne devenue sourde, dans differentes tranches de la population : enfants, adolescents, adultes, travailleurs, personnes agees.

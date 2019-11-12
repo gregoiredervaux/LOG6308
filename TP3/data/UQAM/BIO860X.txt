@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique en ecologie
+DescriptionCours: Cours a contenu variable portant sur l'ecologie. Ce cours permettra aux etudiants de faire le point sur un aspect particulier du domaine vise.

@@ -1,0 +1,2 @@
+TitreCours: Micro-organismes pathogenes et infection
+DescriptionCours: Pathogenes humains : caracteristiques, classification, transmission, prototypes d'infection clinique, diagnostic de laboratoire, traitement et prevention.

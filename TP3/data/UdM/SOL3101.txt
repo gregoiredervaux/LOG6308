@@ -1,0 +1,2 @@
+TitreCours: Sociologie du droit
+DescriptionCours: Revue des principales approches utilisees dans le domaine de la sociologie du droit. Examen de theories recentes en sociologie : analyse de phenomenes et d'institutions juridiques a partir de ces theories.

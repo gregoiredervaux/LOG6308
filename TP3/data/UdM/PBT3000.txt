@@ -1,0 +1,2 @@
+TitreCours: Atelier en creation
+DescriptionCours: Atelier thematique sur une problematique specifique a la creation publicitaire.

@@ -1,0 +1,2 @@
+TitreCours: Stage : Soins ambulatoires chirurgicaux
+DescriptionCours: Stage clinique aupres de malades ambulants ou hospitalises en soins ambulatoires chirurgicaux.

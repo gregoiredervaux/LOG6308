@@ -1,0 +1,2 @@
+TitreCours: Medecine d'urgence
+DescriptionCours: Stage au cours duquel l'etudiant se familiarise avec l'evaluation, le diagnostic et la prise en charge du patient dans un contexte de soins d'urgence.

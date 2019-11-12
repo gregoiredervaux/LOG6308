@@ -1,0 +1,2 @@
+TitreCours: Partage des competences legislatives
+DescriptionCours: Partage des competences entre pouvoir central et pouvoir provincial; controle juridictionnel de la legalite constitutionnelle.

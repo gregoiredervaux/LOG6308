@@ -1,0 +1,2 @@
+TitreCours: Chimie organique I B
+DescriptionCours: Ce cours est destine principalement aux etudiants de biologie. Étude des principes de base de la chimie organique. Liaisons chimiques, groupements fonctionnels, proprietes physiques et reactions chimiques en fonction des structures moleculaires, mecanismes reactionnels. Chimie des glucides: aldoses et cetoses. Exemples tires en partie de la biologie.

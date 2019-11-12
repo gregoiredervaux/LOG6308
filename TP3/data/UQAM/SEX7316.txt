@@ -1,0 +1,2 @@
+TitreCours: Projet de memoire I
+DescriptionCours: Le projet de memoire I consiste a amener l'etudiant a preciser le cadre theorique et la problematique de sa recherche. L'etudiant effectue une bibliographie selective le conduisant soit a poser des hypotheses pertinentes sur le sujet a l'etude, soit a definir et etayer theoriquement les concepts principaux de la recherche. A la fin de cette activite, l'etudiant doit avoir complete la recherche theorique necessaire a son experimentation ou a la realisation de sa recherche empirique.

@@ -1,0 +1,2 @@
+TitreCours: Statistiques pour informaticien
+DescriptionCours: Introduction aux probabilites et statistique appliquees. Emploi d'un progiciel statistique. Techniques de l'analyse exploratoire des donnees. Planification d'experiences. Modeles de probabilite. Distribution d'echantillonnage des statistiques. Tests et intervalles de confiance. Validite et robustesse des procedures. Analyse de tableaux. Regression lineaire. Ce cours comporte une seance d'exercices (2 heures).

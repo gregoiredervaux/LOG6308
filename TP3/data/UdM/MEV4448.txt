@@ -1,0 +1,2 @@
+TitreCours: Med. zool.-amphibiens-reptiles-poissons
+DescriptionCours: Medecine et pathologie des animaux poikilothermes. Aspects veterinaires de la garde en captivite des amphibiens et reptiles. Notions d'aquariophilie, systemes aquatiques artificiels, principales maladies rencontrees chez les poissons.

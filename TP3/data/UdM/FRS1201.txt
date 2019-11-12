@@ -1,0 +1,2 @@
+TitreCours: Pratique du francais oral et ecrit 2
+DescriptionCours: Permettre a l'etudiant ayant une connaissance elementaire du francais de revoir et d'approfondir les connaissances syntaxiques, phonetiques, lexicales indispensables a la communication orale et ecrite de base dans des echanges previsibles et brefs.

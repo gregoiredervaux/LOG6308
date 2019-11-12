@@ -1,0 +1,2 @@
+TitreCours: Physiotherapie musc.squel. 1, extremites
+DescriptionCours: Generalites des affections inflammatoires, degeneratives, tumorales et traumatiques. Évaluation SOAPIE musculo-squelettique. Évaluation et traitement physiotherapiques des affections des membres. Bases en radiologie et chirurgie.

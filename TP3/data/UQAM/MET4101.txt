@@ -1,0 +1,2 @@
+TitreCours: Gestion des organismes de loisir et de sport
+DescriptionCours: Construire les connaissances relatives a la gestion des organismes de loisir et de sport. Analyser les conditions de realisation propres a ces milieux. Appliquer ces connaissances en milieu de loisir et de sport. Gestion et administration des ressources humaines, materielles et budgetaires des organisations de loisir et de sport. Role de l'educateur physique en tant que gestionnaire dans differents milieux. Gestion du personnel benevole et remunere.

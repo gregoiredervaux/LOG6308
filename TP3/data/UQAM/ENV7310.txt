@@ -1,0 +1,2 @@
+TitreCours: Controle de la qualite de l
+DescriptionCours: Ce cours vise a procurer aux etudiants des outils conceptuels et pratiques pour preserver la qualite de l'environnement. Risques et indicateurs environnementaux. Analyse de risques. Normes et criteres de qualite. Methodes et procedures de caracterisation des milieux. Interpretation des resultats. Diminution des risques et remediation des impacts aux niveaux preventifs, correctifs et curatifs. Pollution de l'air, des eaux et des sols.

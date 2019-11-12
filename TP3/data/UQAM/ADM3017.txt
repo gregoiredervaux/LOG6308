@@ -1,0 +1,2 @@
+TitreCours: Informatisation et organisation du travail dans les services
+DescriptionCours: Cours relevant de la TÉLUQ S'initier a l'analyse du secteur des services et des emplois de bureau, ainsi qu'aux changements technologiques et organisationnels qui s'y produisent. Outils permettant de jouer un role efficace dans l'organisation: connaissance et applications, changements technologiques et organisationnels. Mondialisation des echanges economiques. Diversification de la main-d'oeuvre. Nouveaux modes d'organisation du travail.

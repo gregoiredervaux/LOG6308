@@ -1,0 +1,2 @@
+TitreCours: Priorites nationales de sante publique
+DescriptionCours: Analyse des problemes de sante publique et choix des interventions prioritaires suivant les principes a la base de la sante communautaire et en fonction des sept priorites d'action identifiees dans le cadre de la reforme de la sante.

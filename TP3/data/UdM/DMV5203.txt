@@ -1,0 +1,2 @@
+TitreCours: Clinique equine
+DescriptionCours: Quatre semaines de stages en clinique equine. Participation a la prise de l'anamnese, aux examens cliniques, aux soins medicaux et aux consultations.

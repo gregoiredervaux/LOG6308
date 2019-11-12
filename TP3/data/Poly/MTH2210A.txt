@@ -1,0 +1,2 @@
+TitreCours: Calcul scientifique pour ingenieurs
+DescriptionCours: Interpolation, differentiation et integration numerique. Discretisation des equations differentielles. Resolution numerique des equations algebriques. Methodes directes et iteratives pour les systemes d'equations algebriques lineaires et non-lineaires. Modelisation mathematique. Erreurs de modelisation, de representation et de troncature.

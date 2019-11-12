@@ -1,0 +1,2 @@
+TitreCours: Medecine des equins
+DescriptionCours: Étude des principales maladies affectant les equins. Diagnostic, traitements et prevention des principales maladies.

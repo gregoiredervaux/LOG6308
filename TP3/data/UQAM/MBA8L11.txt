@@ -1,0 +1,2 @@
+TitreCours: Statistiques et theorie de la decision en logistique et transport
+DescriptionCours: Presentation de solutions potentielles pour la resolution de problematiques de gestion. Utilisation d'outils statistiques et de recherche operationnelle afin de prendre des decisions a partir de sources d'information diverses. Acquisition des notions mathematiques utilisees dans le programme.

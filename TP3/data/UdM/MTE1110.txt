@@ -1,0 +1,2 @@
+TitreCours: Contrepoint 1
+DescriptionCours: Contrepoint vocal en especes a deux voix. Analyse d'exemples du repertoire des periodes Renaissance et Baroque.

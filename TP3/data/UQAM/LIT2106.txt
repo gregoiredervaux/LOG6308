@@ -1,0 +1,2 @@
+TitreCours: Litterature de langue francaise destinee aux enfants
+DescriptionCours: Fournir des connaissances litteraires, theoriques et historiques a de futurs enseignants. Analyse de differentes productions litteraires pour la jeunesse, des textes classiques (contes de Perrault, fables de Lafontaine ...) jusqu'aux textes contemporains parmi les plus communement mis a la disposition des enfants quebecois. Notions d'histoire litteraire, reflexions theoriques. Étude des themes, des symboles, de l'iconographie et des liens entre celle-ci et les textes, etc.

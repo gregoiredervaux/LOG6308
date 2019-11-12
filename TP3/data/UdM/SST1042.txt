@@ -1,0 +1,2 @@
+TitreCours: Droit de la SST
+DescriptionCours: La problematique des regles de droit en matiere de SST applicables au Quebec. Apercu historique. Description et analyse du regime general actuellement en vigueur. Jurisprudence et problemes d'application.

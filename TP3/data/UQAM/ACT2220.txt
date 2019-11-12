@@ -1,0 +1,2 @@
+TitreCours: Mathematiques financieres II
+DescriptionCours: Ce cours vise a initier les etudiants aux concepts et methodes de la finance avec des applications a l'actuariat. Application des methodes de theorie de l'interet aux decisions financieres. Valeur actualisee nette. Notion de risque financier. Modele de Markowitz et theorie de portefeuille. Ce cours comporte une seance d'exercices de 2 heures par semaine.

@@ -1,0 +1,2 @@
+TitreCours: Fiabilite et testabilite des circuits ITGE
+DescriptionCours: Étude theorique et pratique de la fiabilite des systemes. Classification et modeles de fautes. Verification et test de circuits de grande complexite. Architectures et logiciels tolerants aux fautes. Évaluation de la fiabilite. Exercices diriges et travaux pratiques en laboratoire (3 heures/semaine).

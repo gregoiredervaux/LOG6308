@@ -1,0 +1,2 @@
+TitreCours: Biochimie et biologie moleculaire
+DescriptionCours: Apercu de la biochimie au niveau cellulaire. Les proteines: structure, proprietes et fonctions. Introduction a l'enzymologie. Structure des acides nucleiques. Replication et transcription. Étude des fonctions cellulaires au niveau moleculaire. Structure et complexite du genome. Controle de l'expression genetique chez les procaryotes. Clonage moleculaire. Methodes de caracterisation et d'analyse des acides nucleiques. Ce cours comprend des travaux pratiques.

@@ -1,0 +1,2 @@
+TitreCours: Finances publiques
+DescriptionCours: Raisons d'etre du gouvernement. Biens publics. Externalites. Modeles de choix politiques. Federalisme financier. Incidence et effets des impots et taxes. Analyse avantages-coûts.

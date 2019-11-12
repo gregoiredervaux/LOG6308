@@ -1,0 +1,2 @@
+TitreCours: Stage d'observation
+DescriptionCours: Activites pedagogiques destinees a permettre aux etudiants un premier contact avec un milieu d'intervention par le biais d'un stage d'observation.

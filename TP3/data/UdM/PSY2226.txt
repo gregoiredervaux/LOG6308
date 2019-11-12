@@ -1,0 +1,2 @@
+TitreCours: Modeles d'intervention
+DescriptionCours: Presentation des principaux modeles d'intervention (psychodynamique, behavioral, experientiel, systemique). Apercu historique. Étude des postulats de base et de la problematique selon une grille d'analyse critique.

@@ -1,0 +1,2 @@
+TitreCours: Anatomie macroscopique humaine
+DescriptionCours: Notions generales d'anatomie macroscopique humaine. On decrit successivement les appareils digestif, respiratoire, urinaire, cardiovasculaire, nerveux, endocrinien et de reproduction.

@@ -1,0 +1,2 @@
+TitreCours: Chirurgie - Complement de formation
+DescriptionCours: Periode de travail personnel complementaire au stage de chirurgie MMD 3302 permettant une evaluation normative des connaissances en chirurgie d'un etudiant terminant le doctorat en medecine (M.D.).

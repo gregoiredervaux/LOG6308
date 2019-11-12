@@ -1,0 +1,2 @@
+TitreCours: Fondements des interventions de sante
+DescriptionCours: Approches globales (comprehension des comportements, influence de l'environnement immediat et social), approches et modeles d'intervention, thematiques sociosanitaires majeures (nutrition, gestion de stress, sommeil, etc.).

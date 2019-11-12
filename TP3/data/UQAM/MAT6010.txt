@@ -1,0 +1,2 @@
+TitreCours: Calcul des variations
+DescriptionCours: Position physique du probleme. Conditions necessaires d'extremum. Équations d'Euler. Extremites variables et conditions de transversalite. Équations de Hamilton. Application a la mecanique.

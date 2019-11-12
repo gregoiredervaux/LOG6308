@@ -1,0 +1,2 @@
+TitreCours: Éleves en diff. d'apprentissage au prim.
+DescriptionCours: Problematique de l'intervention aupres des eleves en difficulte d'apprentissage. Contexte scolaire et caracteristiques de ces eleves au primaire. Évaluation descriptive et diagnostique. Methodes et strategies d'intervention.

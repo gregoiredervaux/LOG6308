@@ -1,0 +1,2 @@
+TitreCours: Informatique theorique
+DescriptionCours: Modeles du calcul. Calculabilite et decidabilite. Complexite. Hierarchies. Completudes. Sujets choisis.

@@ -1,0 +1,2 @@
+TitreCours: Traitements physico-chimiques des eaux
+DescriptionCours: Normes sur les eaux potables et les effluents des stations d'puration. Procds physico-chimiques utiliss dans le traitement des eaux potables et des rejets liquides : microtamisage, floculation, dcantation, filtration, dsinfection, prcipitation, enlvement du fer et du manganse, adsorption, stabilisation, paississement et dshydratation des boues. Critres de conception et de slection de ces procds de traitement.

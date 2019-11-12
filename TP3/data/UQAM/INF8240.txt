@@ -1,0 +1,2 @@
+TitreCours: Traitement d
+DescriptionCours: Proprietes des images. Échantillonnage, codage. Traitement algebrique et geometrique, filtrage spatial, transmission des images. Segmentation et approximation des images. Representation en deux et trois dimensions. Équipements et logiciels pour le traitement graphique. Analyse de scenes. Applications. Systeme interactif et systeme en differe.

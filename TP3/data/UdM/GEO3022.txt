@@ -1,0 +1,2 @@
+TitreCours: Stage pratique
+DescriptionCours: Projets impliquant des travaux de terrain et des recherches se poursuivant en milieu de travail en vue de renforcer et de developper l'experience professionnelle.

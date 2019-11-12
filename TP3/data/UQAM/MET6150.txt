@@ -1,0 +1,2 @@
+TitreCours: Gestion de l
+DescriptionCours: Étude des differentes fonctions principales d'un centre d'ordinateurs. Regroupement des fonctions principales en fonction de la capacite du centre. Controle des operations par departement et controle general du centre. Évaluation des coûts de la production, des operations et de l'analyse. Determination des besoins informatiques d'une entreprise ou d'un organisme en rapport avec sa capacite, son but et sa production. Investissement et amortissement financier du centre.

@@ -1,0 +1,2 @@
+TitreCours: Stage de recherche II
+DescriptionCours: Activite de recherche faite sous la direction d'un chercheur actif possedant un doctorat en psychologie ou dans un domaine connexe (qui peut etre le directeur de recherche de l'etudiant). Dans ce stage, l'etudiant doit participer activement a la realisation des travaux de recherche. La problematique de recherche doit se demarquer de celle de la these, mais peut etre dans un domaine connexe. Ce stage est reserve aux etudiants inscrits au profil recherche.

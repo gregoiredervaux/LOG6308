@@ -1,0 +1,2 @@
+TitreCours: Techniques graphiques
+DescriptionCours: Établissement des techniques graphiques specialisees necessaires pour la reproduction graphique. Possibilites et contraintes de la creation graphique propre aux techniques de diffusion. Étude de reproductions, specificites de ces techniques; particularite d'emploi.

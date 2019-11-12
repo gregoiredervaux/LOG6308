@@ -1,0 +1,2 @@
+TitreCours: Thermodynamique a l'echelle nanometrique
+DescriptionCours: Rappel de thermodynamique classique : approche de Gibbs. Description microscopique : evolution temporelle dissipative et non dissipative. Lien entre thermodynamique et hydrodynamique. Lien entre theorie cinetique et dynamique moleculaire. Applications : transport, proprietes statiques (polymeres et poudres), machines miniatures (moteurs proteiques, muscles). Simulations directes sur ordinateur.

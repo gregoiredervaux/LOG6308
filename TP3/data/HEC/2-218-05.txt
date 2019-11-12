@@ -1,0 +1,2 @@
+TitreCours: Investment
+DescriptionCours: This course deals with the topic of investment analysis. In the&nbsp;first part&nbsp;of the course the&nbsp;markets, instruments,&nbsp;and institutions are described.&nbsp;The following parts of the course deals with&nbsp;stocks and bonds in detail.

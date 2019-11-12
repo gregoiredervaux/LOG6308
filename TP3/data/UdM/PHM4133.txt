@@ -1,0 +1,2 @@
+TitreCours: T.P. fabrication / controle de qualite
+DescriptionCours: Travaux pratiques de preformulation, formulation, fabrication et controle de medicament.

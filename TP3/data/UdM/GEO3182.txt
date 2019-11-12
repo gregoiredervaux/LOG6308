@@ -1,0 +1,2 @@
+TitreCours: Terrain en environnement physique 2
+DescriptionCours: Étude de problemes en environnement physique. Interactions entre les systemes physiques et les activites humaines : geomorphologie dynamique, hydrologie, pedologie, microclimatologie, aerobiologie. Thematique variable.

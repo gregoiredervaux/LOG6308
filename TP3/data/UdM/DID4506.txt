@@ -1,0 +1,2 @@
+TitreCours: Didactique des mathematiques en L2 II
+DescriptionCours: Problematique specifique de l'enseignement des mathematiques au premier cycle du secondaire. Situations didactiques. Évaluation.

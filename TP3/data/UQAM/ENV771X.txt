@@ -1,0 +1,2 @@
+TitreCours: Sujets speciaux en sciences de l
+DescriptionCours: Étude de sujets en sciences de l'environnement non couverts par les autres activites. Il peut s'agir de l'opportunite offerte par la presence temporaire a l'Universite d'une expertise particuliere, de l'introduction d'un nouveau cours avant une modification officielle de programme, de sujets d'actualite, de nouveaux sujets a la pointe du developpement des sciences de l'environnement, etc. Le contenu de ce cours varie de trimestre en trimestre.

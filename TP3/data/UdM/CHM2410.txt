@@ -1,0 +1,2 @@
+TitreCours: Chimie macromoleculaire: introduction
+DescriptionCours: Syntheses des polymeres (polymerisation par etapes, polymerisations en chaine, modification chimique des polymeres). Masses molaires et polymolecularite. Structure et proprietes des polymeres.

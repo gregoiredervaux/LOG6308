@@ -1,0 +1,2 @@
+TitreCours: Évolution et enjeux du systeme de sante
+DescriptionCours: Developpement d'une vision globale de l'organisation des services de sante. Dynamique des etablissements, comprehension des liens entre les differentes composantes du systeme de soins, dans la societe en evolution.

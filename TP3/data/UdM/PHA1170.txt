@@ -1,0 +1,2 @@
+TitreCours: LADMER 3 - Medicaments en interaction
+DescriptionCours: Interaction medicament-corps humain. Notions de Liberation, Absorption, Distribution, Metabolisme, Élimination, Reponse (medicaments en interaction), integrant la chimie medicinale, physicochimie, pharmacocinetique,pharmacodynamie, pharmacogenetique.

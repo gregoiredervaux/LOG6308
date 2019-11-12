@@ -1,0 +1,2 @@
+TitreCours: Programmation cote client
+DescriptionCours: Programmation Javascript avancee, modele objet de document (DOM), XML, XHTML, notions avancees sur les feuilles de style.

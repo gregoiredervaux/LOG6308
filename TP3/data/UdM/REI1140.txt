@@ -1,0 +1,2 @@
+TitreCours: Approche juridique en R.I.
+DescriptionCours: Introduction au droit : les sources du droit, l'organisation judiciaire et les aspects constitutionnels des relations industrielles. Definition et nature du droit du travail. La methode juridique.

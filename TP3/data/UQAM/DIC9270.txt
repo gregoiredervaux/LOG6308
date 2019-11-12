@@ -1,0 +1,2 @@
+TitreCours: Seminaire en informatique cognitive
+DescriptionCours: Il s'agit d'une activite organisee annuellement et portant sur une thematique de recherche. Un programme comportant environ 20 conferences donnees par des chercheurs locaux et etrangers sera propose aux etudiants et chercheurs du programme. La participation des etudiants inscrits est obligatoire lors de la premiere annee de la scolarite. La note de cours est S (succes) ou E (echec).

@@ -1,0 +1,2 @@
+TitreCours: Histoire de l'architecture
+DescriptionCours: Initiation a l'architecture dans un contexte global (geographique, social, culturel). Examen de la relation changeante entre forme, materiaux et methodes de construction; influence sur l'architecture des objectifs et valeurs sociales et culturelles.

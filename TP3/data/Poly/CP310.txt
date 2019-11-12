@@ -1,0 +1,2 @@
+TitreCours: Mesure et instrumentation
+DescriptionCours: Les grandeurs physiques. Mesure des grandeurs physiques. Description qualitative des capteurs et des actionneurs. Types et niveaux standards des signaux de sortie et d'entre. La transmission des signaux. Contrle et rgulation des procds industriels. Symboles et reprsentations graphiques. Scurit dans l'instrumentation et l'automatisme. Interprtation du cahier des charges.

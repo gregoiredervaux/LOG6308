@@ -1,0 +1,2 @@
+TitreCours: Extraction des ressources energetiques
+DescriptionCours: Aspects techniques, sociaux et politiques de l'extraction des ressources energetiques: charbon, gaz, petrole et sables bitumineux. Contexte geologique et environnemental: techniques d'extraction, transport et mise en marche. L'accent est mis sur l'industrie canadienne en incluant l'exploitation miniere nordique et l'extraction offshore du petrole.

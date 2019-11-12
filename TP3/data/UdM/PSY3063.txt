@@ -1,0 +1,2 @@
+TitreCours: Processus cognitifs 2
+DescriptionCours: Étude des processus impliques dans le langage et la pensee humaine. Apercu des principaux resultats et des principales theories concernant la comprehension du langage, la resolution de problemes et le raisonnement.

@@ -1,0 +1,2 @@
+TitreCours: Fonctions du systeme nerveux
+DescriptionCours: Structures et physiologie sous-tendant les fonctions du systeme nerveux : bases cellulaires, developpement, circuits neuronaux et mecanismes et plasticite des systemes sensoriels, moteur, autonome et cognitif. Notions de neuropathologie.

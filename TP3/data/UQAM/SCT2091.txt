@@ -1,0 +1,2 @@
+TitreCours: Geologie historique
+DescriptionCours: Donner une vue d'ensemble de l'histoire de la terre. Histoire geologique de la terre depuis le Precambrien jusqu'au Quaternaire. Insistance sur l'Amerique du Nord et particulierement sur le geosynclinal des Appalaches, rapprochements avec l'histoire geologique du monde, notamment en ce qui a trait a la derive des continents. Vue generale sur l'evolution de la faune. Programme de lectures.

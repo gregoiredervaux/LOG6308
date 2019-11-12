@@ -1,0 +1,2 @@
+TitreCours: Études a l'etranger 1
+DescriptionCours: Étude de systemes compares ou des pratiques de gestion des ressources humaines a l'etranger.

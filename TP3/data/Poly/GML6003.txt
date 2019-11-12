@@ -1,0 +1,2 @@
+TitreCours: Seminaire de geomateriaux
+DescriptionCours: Exposes et discussions de sujets choisis en rapport avec les cours ou les travaux de recherches. Discussions de publications recentes.

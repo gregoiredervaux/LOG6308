@@ -1,0 +1,2 @@
+TitreCours: Calcul differentiel et integral 2
+DescriptionCours: Primitives. Integrale definie, theoreme fondamental du calcul. Techniques d'integration. Applications : calcul d'aires, volumes de revolution. Integrale impropre. Suites, series, series de Taylor.

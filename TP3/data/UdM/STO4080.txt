@@ -1,0 +1,2 @@
+TitreCours: Medecine buccale 2
+DescriptionCours: Maladies constitutionnelles et leurs relations avec les affections buccales. Diagnostic differentiel des stomatopathies, physiopathologie, traitement pharmacologique. Precautions pharmacotherapeutiques. Interactions medicamenteuses.

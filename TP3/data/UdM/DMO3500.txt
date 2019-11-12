@@ -1,0 +1,2 @@
+TitreCours: Integration en demographie-geographie
+DescriptionCours: Phenomenes demographiques et dynamiques spatiales. Facteurs explicatifs des disparites spatiales de phenomenes demo-geographiques. Chevauchements et specificite des objets, methodes, courants theoriques et preoccupations de recherche.

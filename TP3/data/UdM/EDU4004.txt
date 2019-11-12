@@ -1,0 +1,2 @@
+TitreCours: Enseignement 2 (primaire ou secondaire)
+DescriptionCours: Integration dans une equipe-ecole et prise en charge des groupes-classes au primaire ou au secondaire. Developpement de l'autonomie professionnelle par la pratique reflexive.

@@ -1,0 +1,2 @@
+TitreCours: Analyse qualitative des donnees
+DescriptionCours: Methodes d'analyse des reseaux sociaux, de contenu, de discours, etc. Rapports entre donnees factuelles et processus interpretatif, impact de l'approche theorique sur l'interpretation, interrelations entre les donnees quantitatives et qualitatives.

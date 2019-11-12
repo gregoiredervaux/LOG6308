@@ -1,0 +1,2 @@
+TitreCours: Introduction  la conception en aronautique
+DescriptionCours: Ralisation en quipe d'un projet intgrateur de conception d'un prototype d'un aronef test en vol dans un espace clos. Rponse  des exigences imposes  l'aide d'un processus simplifi de dveloppement de produit aronautique. Sous la supervision du professeur, utilisation des lments de gestion de projet : planification, budget, cahier de projet, processus de revue de conception. Tests de performance des prototypes lors d'une comptition inter-quipes.

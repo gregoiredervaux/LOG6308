@@ -1,0 +1,2 @@
+TitreCours: Évaluation en FLS
+DescriptionCours: Évaluation des competences en FLS; fonctions de l'evaluation. Planification de situations d'evaluation authentique; elaboration d'instruments; interpretation normative et criterielle; modalites de communication.

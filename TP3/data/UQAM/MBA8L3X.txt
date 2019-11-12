@@ -1,0 +1,2 @@
+TitreCours: Seminaire a contenu variable en logistique et transport III
+DescriptionCours: Familiarisation aux dimensions internationales de la logistique. Themes abordes: analyse de coût total en logistique internationale; principaux intervenants de la chaine logistique internationale; modes de transport utilises et criteres de selection d'un mode de transport et d'un transporteur; principales tendances en matiere de logistique internationale; contexte legal et economique des transactions internationales.

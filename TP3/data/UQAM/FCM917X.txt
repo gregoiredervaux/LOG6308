@@ -1,0 +1,2 @@
+TitreCours: Seminaires avances en communication
+DescriptionCours: Seminaire destine a repondre a un besoin ponctuel d'enseignement dans un champ particulier de recherche. Les sujets varient et sont determines par le comite du doctorat conjoint.

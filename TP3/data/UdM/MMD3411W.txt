@@ -1,0 +1,2 @@
+TitreCours: Stage: Soins intensifs medicaux
+DescriptionCours: Stage clinique ou l'externe sera confronte aux entites pathologiques les plus courantes des unites de soins intensifs incluant les differentes formes de choc.

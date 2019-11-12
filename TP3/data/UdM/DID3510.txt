@@ -1,0 +1,2 @@
+TitreCours: Enseignement du FLS au secondaire
+DescriptionCours: Contenus et demarches en didactique de l'oral et de l'ecrit au secondaire en francais langue seconde (FLS). Conception d'activites, d'unites et de projets dans des sequences d'apprentissage.

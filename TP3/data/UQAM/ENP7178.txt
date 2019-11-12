@@ -1,0 +1,2 @@
+TitreCours: Finances publiques
+DescriptionCours: Cours relevant de l'E.N.A.P. Le but de ce cours est de familiariser les etudiants aux differents modes de financement disponibles pour les gouvernements (federal, provincial, municipal). Apres un bref tour d'horizon des responsabilites economiques des gouvernements, seront analysees de facon detaillee les diverses sources de financement disponibles. Les implications de chacune des methodes en usage seront evaluees par rapport aux objectifs de croissance et de stabilisation economique, d'efficacite et d'equite.

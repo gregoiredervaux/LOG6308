@@ -1,0 +1,2 @@
+TitreCours: Gestion des ressources humaines
+DescriptionCours: Specificite de la gestion des ressources humaines dans les organisations policieres et en securite privee. Selection, formation, encadrement, evaluation, remuneration et promotion. Code du travail, syndicalisme, indiscipline et corruption.

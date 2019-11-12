@@ -1,0 +1,2 @@
+TitreCours: Systmes logiques programmables
+DescriptionCours: Notions de logique mixte. Analyse et conception de systmes logiques rels de complexit moyenne. tude des squenceurs synchrones et principalement synchrones. Ralisation de circuits et systmes logiques au moyen de composants programmables et d'outils de conception. Introduction  la synthse de haut niveau des circuits logiques. Conception de systmes squentiels par la mthode hirarchique. Commande de priphriques analogiques par circuits squentiels.

@@ -1,0 +1,2 @@
+TitreCours: Hydrogeologie
+DescriptionCours: Principes et equations des ecoulements souterrains. Problemes divers d'ingenierie relies aux eaux souterraines. Essais de permeabilite en laboratoire. Anisotropie. Reseaux d'ecoulements. Transport, diffusion et mecanismes physico-chimiques. Determination des caracteristiques hydrogeologiques en place. Essais de pompage. Écoulement en milieux fissures.

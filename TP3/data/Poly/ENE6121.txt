@@ -1,0 +1,2 @@
+TitreCours: Sûrete des centrales nucleaires
+DescriptionCours: Risques et effets biologiques des radiations. Conception des systemes de sûrete des centrales nucleaires; utilisation des approches probabiliste et deterministe. Classification et phenomenologie des principaux types d'accidents nucleaires. Analyses de sûrete. Les accidents de Three Mile Island et de Tchernobyl : lecons apprises. Reglementation, role des organismes nationaux et internationaux. Responsabilites des exploitants. La recherche en sûrete; la sûrete intrinseque.

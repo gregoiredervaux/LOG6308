@@ -1,0 +1,2 @@
+TitreCours: Stage d
+DescriptionCours: Ce stage est reserve a l'etudiant qui n'a pas d'experience d'enseignement en milieu scolaire d'ordre secondaire de preparer, realiser, et evaluer une intervention en mathematiques. Un tel stage sera suivi d'un travail de reflexion en didactique des mathematiques mene dans ce milieu.

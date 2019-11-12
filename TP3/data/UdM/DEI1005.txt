@@ -1,0 +1,2 @@
+TitreCours: Methodologies et processus
+DescriptionCours: Cueillette de donnees, relations entre les variables, traitement de l'information. Matrice d'interpretation. Notion de besoin en relation avec les activites dans l'espace, les particularites d'un contexte et sa metamorphose formelle.

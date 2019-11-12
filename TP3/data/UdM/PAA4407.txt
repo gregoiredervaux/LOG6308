@@ -1,0 +1,2 @@
+TitreCours: Agents ergogenes veterinaires
+DescriptionCours: Pharmacologie des antibiotiques utilises comme promoteurs de croissance chez les animaux de consommation; effets zootechniques et environnementaux. Bacteries antibioresistantes: consequences.

@@ -1,0 +1,2 @@
+TitreCours: Traduction espagnol-francais 2
+DescriptionCours: Traductions. Perfectionnement des techniques de traduction de textes hispaniques vers le francais. Discussions sur les difficultes (grammaticales, stylistiques ou lexicales) de textes hispaniques issus de domaines specialises.

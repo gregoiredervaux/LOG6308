@@ -1,0 +1,2 @@
+TitreCours: Theorie des genres
+DescriptionCours: Recherches sur la theorie des genres litteraires.

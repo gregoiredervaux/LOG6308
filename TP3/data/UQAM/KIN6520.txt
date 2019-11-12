@@ -1,0 +1,2 @@
+TitreCours: Reeducation motrice
+DescriptionCours: Étude de la neurophysiologie et des techniques de reeducation posturale et de la motricite operante. Aspects mecaniques et physiologiques des dysfonctions motrices. Diagnostics kinesiologiques des deficits moteurs. Applications des techniques kinesiologiques dans le traitement des dysfonctions motrices (etirement-force musculaire, mobilite et flexibilite). Applications des principes d'entrainement chez des individus presentant differents troubles neuromoteurs. Études de cas.

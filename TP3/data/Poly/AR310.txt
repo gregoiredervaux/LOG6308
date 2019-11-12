@@ -1,0 +1,2 @@
+TitreCours: Matriaux et procds II
+DescriptionCours: Introduction aux matriaux destins aux applications spciales en aronautique. Matriaux plastiques, cramiques, composites polymriques et mtalliques. Matriaux pour les trs hautes tempratures et les tempratures cryogniques. Effets des diffrents procds de fabrication sur les proprits des matriaux. Utilisation de procds avancs tels que le formage superplastique, le collage par diffusion et la mtallurgie des poudres.

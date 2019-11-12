@@ -1,0 +1,2 @@
+TitreCours: Aspects professionnels de la chimie
+DescriptionCours: Sensibilisation aux aspects legaux, d'ethique et de securite encadrant la pratique de la chimie et les diverses formes que prend cette profession.

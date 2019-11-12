@@ -1,0 +1,2 @@
+TitreCours: Gestion des ressources humaines 1
+DescriptionCours: La definition, les buts et les objectifs; les activites de base : planification, recrutement et selection, formation et developpement, evaluation remuneration; organisation de la G.R.H.

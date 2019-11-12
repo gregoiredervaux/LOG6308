@@ -1,0 +1,2 @@
+TitreCours: Themes speciaux
+DescriptionCours: Ce sigle de cours comporte plusieurs cours a contenu variable. Il permet aux etudiants d'approfondir une dimension de la gestion de projet non couverte par les autres activites de la banque de cours. Le contenu du cours variera selon les besoins des etudiants et l'evolution du domaine de la gestion de projet. Les descriptifs des cours des series Themes speciaux offerts peuvent etre consultes sur le site web du programme: www.mgp.uqam.ca/etudiants/cours3credits.php .

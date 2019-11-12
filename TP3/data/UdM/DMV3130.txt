@@ -1,0 +1,2 @@
+TitreCours: Principes de medecine
+DescriptionCours: Manifestations cliniques des maladies. Approche par probleme. Diagnostic et options therapeutiques.

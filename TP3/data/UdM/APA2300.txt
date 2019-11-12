@@ -1,0 +1,2 @@
+TitreCours: Design des espaces residentiels
+DescriptionCours: Developpement de projets a l'echelle residentielle avec accent sur l'analyse du site, l'organisation et la composition du jardin, le design avec les vegetaux et les elements techniques. Definition de strategies de communication avec le client.

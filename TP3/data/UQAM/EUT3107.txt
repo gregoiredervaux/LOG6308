@@ -1,0 +1,2 @@
+TitreCours: Prevision et prospective du tourisme
+DescriptionCours: Étude quantitative et qualitative de l'evolution du tourisme. Les principales methodes de la prevision empiriques et mathematiques seront presentees et des exercices pratiques porteront sur ces methodes. Les principales notions et methodes de la prospective seront aussi etudiees. A la fin du cours, une synthese de ces deux approches sera presentee. Les exercices et travaux porteront sur l'une et l'autre de ces demarches.

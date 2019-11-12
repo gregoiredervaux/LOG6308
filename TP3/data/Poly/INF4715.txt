@@ -1,0 +1,2 @@
+TitreCours: Ing. des applic. multimedia interactives
+DescriptionCours: Notions theoriques et pratiques de la realisation d'une application multimedia interactive. Integration de ces notions dans le cadre d'un projet. Composants et architecture des plateformes d'applications multimedia interactives. Animation et cinematique. Scenarisation et interactivite. Creation et gestion de contenu multimedia. Intelligence artificielle pour les applications interactives. Plans de tests.

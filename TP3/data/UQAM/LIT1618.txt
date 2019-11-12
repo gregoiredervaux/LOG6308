@@ -1,0 +1,2 @@
+TitreCours: Corpus francais
+DescriptionCours: S'initier a l'etude de la litterature francaise par la lecture et l'analyse d'un choix d'oeuvres marquantes de divers genres, epoques et tendances. Principaux jalons du developpement de la litterature francaise envisages a partir de textes marquants de ce corpus. Histoire de la litterature par les oeuvres.

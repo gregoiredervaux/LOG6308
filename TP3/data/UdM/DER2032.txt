@@ -1,0 +1,2 @@
+TitreCours: Materiaux dentaires
+DescriptionCours: Notions theoriques sur les amalgames, les ciments dentaires, les polymeres, la metallurgie, la porcelaine et l'aurification.

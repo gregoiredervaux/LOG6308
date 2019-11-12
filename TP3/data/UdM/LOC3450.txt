@@ -1,0 +1,2 @@
+TitreCours: Atelier thematique
+DescriptionCours: Cours destine a l'etude ou a l'approfondissement d'une thematique, a l'acquisition de competences particulieres ou a l'examen d'une problematique propre aux langagiers dans l'industrie de la localisation.

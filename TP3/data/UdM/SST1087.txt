@@ -1,0 +1,2 @@
+TitreCours: Securite du travail
+DescriptionCours: Les modeles de representation et d'analyse multifactorielle. Les bases empiriques et theoriques de la securite technique. La pratique de la securite technique : cadenassage, gardes protecteurs, espaces clos, echafaudages, etc.

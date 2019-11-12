@@ -1,0 +1,2 @@
+TitreCours: Medecine tropicale
+DescriptionCours: Cours d'introduction en medecine tropicale theorique et microscopie pratique, sur les principales maladies tropicales parasitaires, mycobacteriennes et virales, sur la malnutrition et sur les maladies de retour de voyage.

@@ -1,0 +1,2 @@
+TitreCours: Communication orale. Niveau 3
+DescriptionCours: Permettre a l'etudiant ayant une connaissance du francais de developper sa competence de communication orale dans des echanges plus elabores et d'acquerir les notions syntaxiques, phonetiques et lexicales de base.

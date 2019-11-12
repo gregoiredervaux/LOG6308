@@ -1,0 +1,2 @@
+TitreCours: Ergo - Developpement professionnel 6
+DescriptionCours: Application de methodes d'evaluation et de modalites d'intervention complexes (amenagement domiciliaire, domaine du travail, dysphagie, etc.).

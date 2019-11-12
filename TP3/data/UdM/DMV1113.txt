@@ -1,0 +1,2 @@
+TitreCours: Gestion de l'information veterinaire
+DescriptionCours: Utilisation des outils informatiques appliques en med. vet. Description des approches pedagogiques assistees par les TIC et contextualisees a la FMV. Approche de la medecine factuelle.

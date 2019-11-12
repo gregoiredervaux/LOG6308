@@ -1,0 +1,2 @@
+TitreCours: Psychopharmacologie II
+DescriptionCours: Revue approfondie des bases neurochimiques du comportement. Systemes de neurotransmetteurs et leurs mecanismes d'action sur les recepteurs. Substances psychotropes et leurs mecanismes d'action. Pharmacologie macroscopique (absorption, metabolisme, adaptation, etc.). Fonctions des psychotropes dans les problemes tels que: sommeil-activation, douleur, memoire, etc. Bases biologiques de l'alcoolisme et autres toxicomanies. Neuropsychotoxicologie occupationnelle: exposition industrielle au plomb, aux solvants organiques.

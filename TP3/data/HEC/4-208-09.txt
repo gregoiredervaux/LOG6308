@@ -1,0 +1,2 @@
+TitreCours: Gestion des risques 2
+DescriptionCours: Ce cours vise a introduire l'etudiant aux principaux concepts et outils utilises pour la gestion des risques de marche. La reglementation des institutions financieres et les contenus des accords de Bales pour la gestion des risques financiers sont aussi examines.

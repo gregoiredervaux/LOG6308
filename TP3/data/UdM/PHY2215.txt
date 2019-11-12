@@ -1,0 +1,2 @@
+TitreCours: Physique thermique et statistique
+DescriptionCours: Thermodynamique statistique. Fonctions thermodynamiques. Transformations de phases. Distribution canonique. Mec. stat. Statistiques quantiques. Applications de Gaz de bosons et de fermions.

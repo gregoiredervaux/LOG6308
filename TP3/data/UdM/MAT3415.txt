@@ -1,0 +1,2 @@
+TitreCours: Analyse numerique 2
+DescriptionCours: Complement d'analyse numerique matricielle. Interpolation et quadrature. Methodes numeriques pour les equations differentielles ordinaires et aux derivees partielles. Compatibilite, stabilite, convergence. Introduction aux elements finis.

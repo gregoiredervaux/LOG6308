@@ -1,0 +1,2 @@
+TitreCours: Specialisation I en toxicologie et sante environnementale
+DescriptionCours: L'objectif de cette specialisation est de traiter la physiologie animale et humaine dans un contexte d'integration des differents systemes (nerveux, hepatique, cardiovasculaire, pulmonaire, gastrique, endocrinien, musculaire, etc). Ces systemes pourront s'integrer dans le contexte de la sante environnementale.

@@ -1,0 +1,2 @@
+TitreCours: Modeles de regression
+DescriptionCours: Theorie des modeles lineaires generaux. Theorie des modeles lineaires generalises. Regression logistique. Modeles log-lineaires.

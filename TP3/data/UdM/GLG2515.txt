@@ -1,0 +1,2 @@
+TitreCours: Principes de geochimie
+DescriptionCours: Introduction a la distribution des elements. Chimie des solutions. Fluides hydrothermaux. Alteration, argiles et sols. Équilibres chimiques dans les oceans. Principes de geologie isotopique.

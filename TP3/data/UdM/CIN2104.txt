@@ -1,0 +1,2 @@
+TitreCours: Cinema documentaire
+DescriptionCours: Étude du cinema documentaire international. Introduction aux differentes conceptions qui ont jalonne l&rsquo;histoire politique et esthetique du documentaire.

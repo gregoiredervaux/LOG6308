@@ -1,0 +1,2 @@
+TitreCours: Sc. de la vision 3 Vision binoculaire
+DescriptionCours: Points correspondants et horopteres, aire de Panum, base physiologique de la fusion sensorielle, disparite de fixation, perception du relief.

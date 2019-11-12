@@ -1,0 +1,2 @@
+TitreCours: La chanson populaire francaise
+DescriptionCours: Évolution historique et contenu analytique du repertoire, depuis la Revolution francaise a nos jours, en tenant compte des parametres sociologiques, politiques, litteraires et musicaux. Analyse et audition d'oeuvres.

@@ -1,0 +1,2 @@
+TitreCours: Pharmacologie oculaire 2.2
+DescriptionCours: Medicaments oculaires therapeutiques : anti-infectieux, anti-inflammatoires, corticosteroides, antiglaucomateux. Analgesiques. Prescription et modes d'administration des medicaments oculaires.

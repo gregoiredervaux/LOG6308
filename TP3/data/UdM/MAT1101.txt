@@ -1,0 +1,2 @@
+TitreCours: Mathematiques fondamentales
+DescriptionCours: Axiomes de Peano. Principe d'induction. Algorithme d'Euclide. Nombres entiers, rationnels, reels. Nombres algebriques, transcendants. Cardinaux. Nombres complexes. Theoreme fondamental de l'algebre.

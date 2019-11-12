@@ -1,0 +1,2 @@
+TitreCours: Dynamique quantique et statistique
+DescriptionCours: La dynamique quantique des molecules appliquee aux reactions chimiques et a la photodissociation des molecules. Methodes de la mecanique statistique appliquees a la dynamique de grandes molecules et ensembles de molecules.

@@ -1,0 +1,2 @@
+TitreCours: Chimie physique 2
+DescriptionCours: Concepts de base des equilibres chimiques et electrochimiques. La conductivite des electrolytes. La thermodynamique des piles et des electrolytes. La cinetique electrochimique. Les phenomenes de surface. Les proprietes de systemes colloidaux.

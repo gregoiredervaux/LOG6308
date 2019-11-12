@@ -1,0 +1,2 @@
+TitreCours: Didactique de la chimie au secondaire 2
+DescriptionCours: Facteurs et conditions didactiques relies a l'enseignement de la chimie. Programmes, documents officiels et materiel pedagogique. Recherches, travaux d'application. Activites en laboratoire et sequences d'enseignement.

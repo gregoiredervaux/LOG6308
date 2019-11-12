@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Activite telle que proposee par un etudiant ou un groupe d'etudiants et acceptee par le Comite de programme ou le professeur responsable. Cette activite doit permettre aux etudiants de realiser un projet relie a une demande provenant des milieux exterieurs qui n'ont pas traditionnellement acces aux services et aux enseignements de l'universite.

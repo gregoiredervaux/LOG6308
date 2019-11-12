@@ -1,0 +1,2 @@
+TitreCours: Traitement d'images et signaux biomedicaux
+DescriptionCours: Rappels de traitement de signal et d'estimation : acquisition, echantillonnage, filtrage, signaux aleatoires, estimation spectrale. Application aux donnees, images et signaux biomedicaux : detection et restauration de signaux biologiques, traitement d'images medicales, reconstruction tomographique, reconnaissance de formes, compression de signaux biologiques.

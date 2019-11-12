@@ -1,0 +1,2 @@
+TitreCours: Intro. pharmacologie cardiovasculaire
+DescriptionCours: Medicaments utilises dans l'hypertension, les troubles de la coagulation, les hyperlipidemies, les troubles du rythme cardiaque, les maladies ischemiques et l'insuffisance cardiaque.

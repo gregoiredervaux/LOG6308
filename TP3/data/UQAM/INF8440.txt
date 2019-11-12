@@ -1,0 +1,2 @@
+TitreCours: Modeles informatiques de la concurrence et du parallelisme
+DescriptionCours: Modeles materiels: monoprocesseurs a changement de contexte (concurrence), monoprocesseurs vectoriels, multiprocesseurs en matrice et en arborescences, architectures mixtes, etc. Modeles logiciels: semaphores, moniteur, processus sequentiels concurrents, etc. Modeles mathematiques: reseaux de Petri, monoides partiellement commutatifs, reseaux systoliques, SIMD, MIMD, etc.

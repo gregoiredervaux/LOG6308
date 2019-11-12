@@ -1,0 +1,2 @@
+TitreCours: Calcul I
+DescriptionCours: Rappel abrege des fonctions continues et derivables a une variable et de l'integrale. Vecteurs et courbes. Fonctions de plusieurs variables: limite et continuite. Derivees partielles et directionnelles. Fonctions composees. Theoreme de Taylor pour les fonctions a plusieurs variables. Divergence et rotationnel pour un champ vectoriel. Maxima et minima. Multiplicateurs de Lagrange. Integrales, multiples, jacobiens. Integrales de ligne et de surface. Theoremes de Green, Gauss et Stokes.

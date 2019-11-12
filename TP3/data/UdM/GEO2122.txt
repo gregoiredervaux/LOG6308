@@ -1,0 +1,2 @@
+TitreCours: Climatologie
+DescriptionCours: Introduction aux processus meteorologiques fondamentaux qui regissent le climat. Les grands types de climat, leur repartition spatiale et leur evolution dans le temps. Ajustements au doublement du CO2 atmospherique.

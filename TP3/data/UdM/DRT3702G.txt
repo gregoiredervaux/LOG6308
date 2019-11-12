@@ -1,0 +1,2 @@
+TitreCours: Regime fiscal de l'entreprise
+DescriptionCours: Étude de la fiscalite afferente aux societes par actions, aux societes commerciales de personnes et aux organisations sans but lucratif.

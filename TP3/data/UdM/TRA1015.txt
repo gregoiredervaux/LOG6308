@@ -1,0 +1,2 @@
+TitreCours: Interferences linguistiques
+DescriptionCours: Étude comparee de la demarche et des ressources expressives du francais et de l'anglais. Examen des differents types d'interferences (conventions d'ecriture, anglicismes...).

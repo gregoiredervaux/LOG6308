@@ -1,0 +1,2 @@
+TitreCours: Asservissements
+DescriptionCours: Systmes asservis: notions et concepts fondamentaux. Stabilit et valuation des performances. Analyse temporelle et frquentielle. Compensateur  action proportionnelle, intgrale et drive (PID). Compensateur par retour d'tat et observateur d'tat pour des systmes. Analyse des systmes non linaires par les mthodes du plan de phase et du premier harmonique. Analyse et conception assistes par ordinateur des systmes asservis (Matlab, Simulink, Labview).

@@ -1,0 +1,2 @@
+TitreCours: Infographie 2
+DescriptionCours: Approfondissement des techniques de representation. Applications de la CAO et de la DAO. La production d'images de synthese et d'animations.

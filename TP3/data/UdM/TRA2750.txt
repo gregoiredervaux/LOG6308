@@ -1,0 +1,2 @@
+TitreCours: General Translation
+DescriptionCours: Initiation a la traduction professionnelle (du francais a l'anglais) a partir de textes non specialises.

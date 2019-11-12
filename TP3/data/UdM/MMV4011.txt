@@ -1,0 +1,2 @@
+TitreCours: Sante des animaux, medecine reglementee
+DescriptionCours: Introduction aux concepts de la gestion des divers programmes d'organisation publiques relatifs a la sante des animaux et a l'epidemiosurveillance des maladies declarables et des maladies exotiques.

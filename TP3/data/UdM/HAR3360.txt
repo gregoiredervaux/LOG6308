@@ -1,0 +1,2 @@
+TitreCours: Stage
+DescriptionCours: Mise en pratique de certains apprentissages theoriques dans un milieu de travail relie a la discipline. Stage coordonne par un professeur et un responsable du milieu d&rsquo;accueil.

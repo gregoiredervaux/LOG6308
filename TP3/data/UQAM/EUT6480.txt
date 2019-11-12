@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese
+DescriptionCours: En s'appuyant sur un programme de lectures dirigees, les etudiants suivront la serie de seminaires qui composent ce cours afin de debattre des principaux problemes que presente la ville contemporaine et en les analysant dans la perspective d'enjeux sociaux, economiques, politiques et environnementaux.

@@ -1,0 +1,2 @@
+TitreCours: Fondations
+DescriptionCours: Essais gotechniques in situ. Conception des fondations superficielles : capacit portante et tassements. Fondations profondes : pieux individuels et groupes de pieux. quilibres limites. Analyse et conception des murs de soutnement. Utilisation de logiciels de calcul de fondations. Instabilit des excavations et risques pour les travailleurs.

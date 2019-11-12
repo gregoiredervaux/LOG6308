@@ -1,0 +1,2 @@
+TitreCours: Lectures individuelles dirigees
+DescriptionCours: Activite etudiante individuelle encadree par un professeur du departement, analogue par ses objectifs et equivalente par ses exigences aux cours thematiques et spatiotemporels.

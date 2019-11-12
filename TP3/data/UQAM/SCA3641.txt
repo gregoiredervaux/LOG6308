@@ -1,0 +1,2 @@
+TitreCours: Meteorologie physique
+DescriptionCours: Étude de la radiation atmospherique, de la formation de precipitation et de la thermodynamique atmospherique. Les lois thermodynamiques pour l'air sec et humide. Stabilite et convection. Processus d'evaporation et de condensation. Diagrammes thermodynamiques. Revue des lois de radiation. Bilan radiatif dans l'atmosphere. Role des aerosols dans l'atmosphere. Formation de la precipitation: croissance des cristaux de glace et de flocons de neige. Caracteristiques spatiotemporelles des systemes de precipitation.

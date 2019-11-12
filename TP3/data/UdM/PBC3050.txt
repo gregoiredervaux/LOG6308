@@ -1,0 +1,2 @@
+TitreCours: Embryologie et biologie du developpement
+DescriptionCours: Embryogenese humaine; organogenese normale et malformations. Embryogenese moleculaire : du zygote unicellulaire a l'organisme vivant normalement constitue; liens entre l'embryogenese et l'oncogenese.

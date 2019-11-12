@@ -1,0 +1,2 @@
+TitreCours: Activite de recherche
+DescriptionCours: Cours thematique de recherche enrichie qui a pour objectif de preparer les etudiants a la recherche en histoire a travers l'experience de toutes ses etapes autour d'un theme specifique. Le theme a l'etude sera analyse de maniere ouverte, sur plusieurs espaces-temps et dans sa dimension theorique, conceptuelle, problematique et documentaire. Les etudiants seront encadres par plusieurs professeurs.

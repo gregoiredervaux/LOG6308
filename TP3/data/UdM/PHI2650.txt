@@ -1,0 +1,2 @@
+TitreCours: Kant : Critique de la raison pure
+DescriptionCours: Introduction a la Critique de la raison pure. Analyse et commentaire de ses articulations principales : Esthetique, Analytique, Dialectique.

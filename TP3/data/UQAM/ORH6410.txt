@@ -1,0 +1,2 @@
+TitreCours: Stage en gestion des ressources humaines
+DescriptionCours: Effectue dans un milieu de travail que l'etudiant doit lui-meme trouver. Ce stage est une activite academique d'environ trois mois passes en entreprise. Il doit permettre a l'etudiant d'exercer son sens de l'observation, d'appliquer son esprit d'analyse et de synthese a la realisation d'une activite en gestion des ressources humaines en milieu de travail et d'acquerir ainsi des connaissances dans un domaine de pratique professionnelle.

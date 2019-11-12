@@ -1,0 +1,2 @@
+TitreCours: Introduction aux principes de perfusion
+DescriptionCours: Apprentissage des principes fondamentaux de la perfusion clinique. Historique de la perfusion clinique. Roles et fonctions du perfusionniste. Équipements et composantes du circuit extracorporel. Theorie et application des principes de base.

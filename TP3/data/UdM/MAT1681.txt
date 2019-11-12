@@ -1,0 +1,2 @@
+TitreCours: Mathematiques assistees par ordinateur
+DescriptionCours: Travaux pratiques en Mathematica TM : expressions, listes, fonctions, recursions, iterations, derivations, integrations, graphismes en 2 et 3 dimensions.

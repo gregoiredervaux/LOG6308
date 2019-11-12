@@ -1,0 +1,2 @@
+TitreCours: Phonetique experimentale 1
+DescriptionCours: Initiation aux methodes d'analyse et de description de l'aspect segmental de la parole (francais, en particulier), aspects articulatoire et acoustique. Formation pratique en analyse de la parole.

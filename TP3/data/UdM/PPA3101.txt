@@ -1,0 +1,2 @@
+TitreCours: Éval. interv. aupres des eleves a risque
+DescriptionCours: Analyse et evaluation des problemes eprouves en classe par les eleves a risque. Pistes d'intervention pour favoriser les deux conditions essentielles a l'apprentissage : le vouloir et le pouvoir.

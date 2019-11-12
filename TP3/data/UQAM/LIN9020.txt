@@ -1,0 +1,2 @@
+TitreCours: Phonologie 2
+DescriptionCours: Ce cours approfondit les concepts et les techniques d'analyse degages dans le cours LIN8201, Phonologie 1. L'accent sera mis sur l'argumentation et la justification des theories actuelles de phonologie autosegmentale et metrique.

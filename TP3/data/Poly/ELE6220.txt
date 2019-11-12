@@ -1,0 +1,2 @@
+TitreCours: Commande sensorielle des syst. intelligents
+DescriptionCours: Analyse d'image pour le controle de systemes. Commande en boucle ouverte ou en boucle fermee, en position ou basee directement sur l'image. Commande sensori-motrice de bras manipulateurs, de vehicules autonomes. Apprentissage de couplage sensori-moteur. Commande par un reseau neuro-mimetique. Utilisation conjointe d'autres senseurs. Semi-autonomie. Simulation, realite virtuelle. Impact des robots autonomes et semi-autonomes dans l'industrie et dans la societe.

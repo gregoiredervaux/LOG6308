@@ -1,0 +1,2 @@
+TitreCours: Synoptique I
+DescriptionCours: Étude de la structure des systemes synoptiques. Écoulement quasi-geostrophique et hydrostatique. Pente des systemes et structure verticale du vent: vent thermique, zones frontales et courants jets. Quasi-equilibre dans la couche limite. Presentation des observations, cartes et previsions meteorologiques courantes.

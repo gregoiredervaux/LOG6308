@@ -1,0 +1,2 @@
+TitreCours: Circuits integres a tres grande echelle
+DescriptionCours: Methode de conception des circuits ITGE: problemes de rendement, testabilite, modeles de defauts, vecteurs de verification, circuits autoverifiables. Microarchitecture: systemes concurrents, reseaux de processeurs, processeurs specialises. Aspect algorithmique des outils de conception des circuits ITGE. Travaux pratiques en laboratoire (3 heures/semaine).

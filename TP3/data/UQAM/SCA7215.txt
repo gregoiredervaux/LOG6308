@@ -1,0 +1,2 @@
+TitreCours: Mehodes statistiques experimentales
+DescriptionCours: Le caractere stochastique des phenomenes atmospheriques. La statistique comme moyen d'interpretation et de description des phenomenes. Methodes d'echantillonnage, representation graphique, mesures de tendance centrale, mesures de dispersion, problemes, correlation, regression lineaire, utilisation d'un logiciel statistique.

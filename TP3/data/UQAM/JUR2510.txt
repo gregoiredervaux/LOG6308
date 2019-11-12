@@ -1,0 +1,2 @@
+TitreCours: Theorie generale des obligations
+DescriptionCours: L'objectif de ce cours est d'initier l'etudiant a l'etude de l'origine et l'evolution du droit des obligations. Survol des notions essentielles de base. Origine et evolution du droit des obligations. Classification des obligations. Les differentes sources des obligations: naissance et extinction. Le contrat: formation, validite, nullite et effets. Comparaison avec la loi sur la protection du consommateur. Les quasi-contrats: conditions d'existence et effets. Sanction de l'inexecution des obligations.

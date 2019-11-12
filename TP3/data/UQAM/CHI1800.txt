@@ -1,0 +1,2 @@
+TitreCours: Chimie de l
+DescriptionCours: Introduction a l'etude de phenomenes relies a la chimie de l'environnement. Le cours portera sur l'examen de systemes naturels en equilibre et l'analyse des effets de l'activite humaine sur ces equilibres. Les themes abordes seront choisis parmi les suivants: cycles naturels (carbone, soufre, oxygene, eau), transports des composes toxiques (gaz, metaux lourds, pesticides), methodes d'analyse (parametres de qualite, metaux traces, pesticides), etc.

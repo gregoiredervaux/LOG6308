@@ -1,0 +1,2 @@
+TitreCours: Seminaire de recherche approfondie en gestion
+DescriptionCours: Ce cours a comme objectif de completer l'apprentissage en recherche par une etude approfondie des methodologies les plus recentes en usage en gestion. Il est adapte aux diverses specialisations offertes au programme.

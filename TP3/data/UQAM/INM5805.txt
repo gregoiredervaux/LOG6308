@@ -1,0 +1,2 @@
+TitreCours: Projet de fin d
+DescriptionCours: Ce cours vise a approfondir les connaissances informatiques dans un projet d'envergure. Travail d'analyse-programmation dans un projet.

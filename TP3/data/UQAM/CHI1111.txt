@@ -1,0 +1,2 @@
+TitreCours: Techniques de base
+DescriptionCours: Initiation aux techniques generales utilisees en chimie organique. Distillation, cristallisation, extraction, chromatographie sur couche mince, sur colonne, spectroscopie I.R. et R.M.N. Syntheses simples en relation avec le cours CHI1301.

@@ -1,0 +1,2 @@
+TitreCours: Pathologie bucco-dentaire
+DescriptionCours: Notions generales de pathologie pour comprendre les maladies bucco-dentaires. Pathologie de la carie et de la pulpe dentaire. Pathologie des structures de support des dents. Maladies systemiques en relation avec la cavite buccale.

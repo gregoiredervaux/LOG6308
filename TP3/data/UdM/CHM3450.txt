@@ -1,0 +1,2 @@
+TitreCours: Élements de cristallographie
+DescriptionCours: Production, proprietes et diffraction des rayons X. Analogie optique. Groupes de symetrie ponctuels et spatiaux. Interpretation des diagrammes de diffraction. Strategies de resolution de structure.

@@ -1,0 +1,2 @@
+TitreCours: Strategies technologiques
+DescriptionCours: Analyse strategique : lecture de l'environnement, theorie des jeux et theorie des ressources. Formulation de la strategie : politique et culture de l'entreprise. Mise en oeuvre : engagement, negociation, changement organisationnel, contrats, coordination, marches internes.

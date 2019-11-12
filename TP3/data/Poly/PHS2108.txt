@@ -1,0 +1,2 @@
+TitreCours: Mecanique quantique I
+DescriptionCours: Introduction a la physique moderne. Phenomenes quantiques. Rappels de mecanique classique. Fonction d'onde et equation de Schrödinger. Representation p, paquets d'onde. Oscillateur harmonique. Concepts et postulats de la mecanique quantique. Mesures et observables. Commutateurs. Espace de Hilbert. Puits et barriere de potentiel. Integration numerique de l'equation de Schrödinger.

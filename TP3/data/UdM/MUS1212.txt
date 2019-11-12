@@ -1,0 +1,2 @@
+TitreCours: Solfege et dictee jazz 2
+DescriptionCours: Acquisition d'automatismes d'audition et de lecture propres a la musique de jazz; relations accords-gammes et leur application dans l'improvisation jazz. Repiquage d'improvisations et preparation de « lead sheet » pour combo jazz.

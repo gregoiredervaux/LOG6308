@@ -1,0 +1,2 @@
+TitreCours: Architecture de processeurs avances
+DescriptionCours: Étude des fondements theoriques associes aux architectures de machines pour une classe specifique de problemes. Architectures des uniprocesseurs: RISC, CISC. Processeurs specialises: traitement de signaux DSP, graphique GSP, coprocesseurs. Parallelisme et pipeline. Systemes hautement paralleles: multiprocesseurs, structures systoliques, flux de donnees. Super-ordinateurs. Machines de base de donnees. Travaux pratiques en laboratoire (3 heures/semaine).

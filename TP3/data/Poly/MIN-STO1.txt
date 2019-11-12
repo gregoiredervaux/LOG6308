@@ -1,0 +1,2 @@
+TitreCours: Preparation et rapport du stage
+DescriptionCours: Periode de travail de quatre mois dans une exploitation miniere. Le stagiaire occupe une fonction technique ou de production sous la supervision d'un cadre de l'entreprise. Un rapport de stage est exige et l'evaluation de l'etudiant sera faite conjointement par le superviseur industriel et un professeur du programme de genie des mines. L'etudiant aura a faire une presentation orale du rapport de stage.

@@ -1,0 +1,2 @@
+TitreCours: Stage
+DescriptionCours: Stage en milieu professionnel comportant des elements significatifs d'analyse economique. L'etudiant doit lui-meme proposer et faire approuver son stage avant de s'inscrire a ce cours.

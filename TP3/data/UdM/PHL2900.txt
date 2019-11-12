@@ -1,0 +1,2 @@
+TitreCours: Élements de pharmacologie
+DescriptionCours: Introduction a la pharmacocinetique. Systeme adrenergique et cholinergique. Pharmacologie cardiovasculaire, respiratoire, nerveuse et musculo-squelettique. Antimicrobiens. Anti-inflammatoires.

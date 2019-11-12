@@ -1,0 +1,2 @@
+TitreCours: Regression lineaire
+DescriptionCours: Methode des moindres carres. Theoremes de Gauss-Markov et de Cochran. Estimation et tests d'hypotheses. Residus et diagnostics. Construction de modeles. Exemples.

@@ -1,0 +1,2 @@
+TitreCours: UM-IFT 6261 Traitement des connaissances
+DescriptionCours: 

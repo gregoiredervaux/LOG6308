@@ -1,0 +1,2 @@
+TitreCours: Practicum de recherche
+DescriptionCours: Stage supervise de recherche en sciences infirmieres. Participation a un projet dirige par un chercheur ou une equipe de recherche de la Faculte.

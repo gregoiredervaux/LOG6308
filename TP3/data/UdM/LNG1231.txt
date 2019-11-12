@@ -1,0 +1,2 @@
+TitreCours: Topics in English Linguistics
+DescriptionCours: Choix de themes parmi les suivants : questions de phonologie, de morphologie et (ou) de syntaxe de l'anglais; variation sociale, regionale, stylistique; pragmatique; semantique.

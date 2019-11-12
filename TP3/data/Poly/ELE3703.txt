@@ -1,0 +1,2 @@
+TitreCours: Introduction aux communications numriques
+DescriptionCours: Problmatique d'un lien de communication numrique point  point. Signaux et systmes linaires. Analyse spectrale. Numrisation d'un signal : taux de Nyquist, quantification, codage de source et compression de l'information. Codes dtecteurs et correcteurs d'erreurs. Procdures de transmission : codes de ligne, modulation linaire, modulation de frquence et techniques de transmission numrique. Supports de transmission. Introduction  la transmission de donnes.

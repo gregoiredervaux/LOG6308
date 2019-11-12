@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese
+DescriptionCours: Grace a un programme de lectures dirigees, les etudiants seront amenes a debattre de questions relatives a la gestion touristique et/ou au developpe-ment touristique (ex. le service a la clientele, le developpement durable...).

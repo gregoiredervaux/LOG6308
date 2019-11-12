@@ -1,0 +1,2 @@
+TitreCours: Analyse de l
+DescriptionCours: Évaluations qualitatives et quantitatives de parametres de la qualite de l'air. Lois des gaz et unite de concentration. Methodes d'echantillonnage et d'analyse de l'air: gaz, vapeurs, particules. Gravimetrie, microscopie, chromatographie, chimioluminescence, fluorescence, spectroscopie. Cours et travaux pratiques en laboratoire.

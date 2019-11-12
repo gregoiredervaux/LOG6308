@@ -1,0 +1,2 @@
+TitreCours: Introduction a la chimie bioorganique
+DescriptionCours: Notions de base de chimie biomimetique et « design » de modeles d'enzymes. Constituants des membranes. Pont entre catalyse heterogene et enzymatique. Neuropeptides et role hormonal. Concept du centre actif d'enzymes. Notions de biologie moleculaire.

@@ -1,0 +1,2 @@
+TitreCours: Mesure et integration
+DescriptionCours: Mesure de Borel et Lebesgue. Theorie de l'integrale de Lebesgue. Differentiation des integrales. Espace L<+>p<+>. Applications.

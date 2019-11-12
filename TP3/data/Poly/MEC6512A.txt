@@ -1,0 +1,2 @@
+TitreCours: Conception de produits et proc. durables
+DescriptionCours: Specificite du concept de developpement durable en conception de produits et de procedes. Modelisation des produits par noeuds de composants fonctionnels et d'attachement. Amelioration des caracteristiques techniques du produit en vue d'en faciliter la transformation durant l'ensemble de son cycle de vie. Conception de procedes sains : aspects mecaniques et environnementaux.

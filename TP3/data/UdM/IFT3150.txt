@@ -1,0 +1,2 @@
+TitreCours: Projet d'informatique
+DescriptionCours: Projet defini et encadre par un professeur associe a un laboratoire de recherche universitaire.

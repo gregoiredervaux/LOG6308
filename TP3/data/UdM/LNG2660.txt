@@ -1,0 +1,2 @@
+TitreCours: Philologie occitane
+DescriptionCours: Initiation a la lecture et a l'analyse philologique de textes du Midi de la France (troubadours, textes epiques, documents linguistiques).

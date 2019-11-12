@@ -1,0 +1,2 @@
+TitreCours: Technologies et travail en collaboration
+DescriptionCours: Étude des usages des technologies de communication et de collaboration dans les organisations. Revue de leurs consequences sur les organisations, les acteurs et leurs pratiques. Introduction a diverses technologies de travail en collaboration.

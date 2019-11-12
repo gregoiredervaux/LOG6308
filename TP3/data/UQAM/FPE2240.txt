@@ -1,0 +1,2 @@
+TitreCours: Apprentissage
+DescriptionCours: Ce cours vise a maitriser les principales theories d'apprentissage et du developpement tout en analysant leurs antecedents epistemologiques, ideologiques, psychologiques et leurs consequences educationnelles. De plus, il etablit les liens fondamentaux qui existent entre ces theories tels que, empirisme-behaviorisme, naturalisme-humanisme et rationalisme-cognitivisme.

@@ -1,0 +1,2 @@
+TitreCours: Architecture et construction 2
+DescriptionCours: Relations qualitatives entre l'humain, les constructions et le climat. Solutions architecturales energetiquement economiques et adaptees au milieu physique local. Quantification et implications sur la physique du batiment.

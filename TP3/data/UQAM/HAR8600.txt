@@ -1,0 +1,2 @@
+TitreCours: Atelier de recherche I
+DescriptionCours: L'atelier de recherche est place sous la responsabilite du tuteur de l'etudiant. Il permet a celui-ci de delimiter son projet de recherche et d'en determiner l'orientation. Au terme d'un premier trimestre, il est demande a l'etudiant de produire un rapport de recherche dont l'ampleur et l'orientation seront determinees par le tuteur avec l'assentiment de l'etudiant.

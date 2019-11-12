@@ -1,0 +1,2 @@
+TitreCours: Physiologie des animaux domestiques 2
+DescriptionCours: Physiologie des systemes nerveux, endocrinien, sensoriel, reproducteur et de la lactation. Particularites des especes d'interet veterinaire. Parametres d'importance medicale.

@@ -1,0 +1,2 @@
+TitreCours: Reading Drama
+DescriptionCours: Introduction a l'etude des litteratures de langue anglaise. Histoire et methodologies. Analyse de pieces de theatre. Principes de critique litteraire.

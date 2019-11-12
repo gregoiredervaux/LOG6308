@@ -1,0 +1,2 @@
+TitreCours: Atelier pratique
+DescriptionCours: Études de cas : analyse de situations relatives a l'invalidite impliquant differents regimes d'indemnisation et differentes instances judiciaires.

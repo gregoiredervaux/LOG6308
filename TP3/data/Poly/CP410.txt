@@ -1,0 +1,2 @@
+TitreCours: Interface oprateur et logiciels de supervis.
+DescriptionCours: Place des HMI et SCADA dans un systme automatis. Types de HMI (lampes/boutons, afficheur de message, terminaux, terminaux graphiques, micro-ordinateur et logiciels, serveur WEB). Critres de choix. Principe de dveloppement (crans graphiques, base de donnes, gestion des alarmes, historiques, courbes et tendances, gnration de rapport). Communication avec les systmes automatiss. Stratgie d'implantation (Centralis vs Distribu, Poste unique ou multicrans, Client-Serveur, Redondance)

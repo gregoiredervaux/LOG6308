@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese
+DescriptionCours: Recherche theorique ou appliquee en enseignement de la geographie. Activite dans un domaine d'analyse, de documentation ou d'intervention avec application a l'enseignement de la geographie.

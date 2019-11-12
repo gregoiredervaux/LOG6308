@@ -1,0 +1,2 @@
+TitreCours: Mecanique des fluides
+DescriptionCours: Étude formelle des lois regissant les mouvements des masses fluides. Lois de conservation dans les fluides parfaits: equation de continuite. Équations d'Euler et de Bernouilli. Équations du mouvement d'un fluide visqueux. Couche limite. Fluides en rotation. Approche numerique aux problemes d'ecoulement potentiel. Turbulence.

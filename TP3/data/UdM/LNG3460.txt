@@ -1,0 +1,2 @@
+TitreCours: Perception et acoustique de la parole
+DescriptionCours: Acoustique de la parole et de la voix. Theories de la perception de la parole. Perspectives sur des applications multidisciplinaires exigeant une expertise en phonetique.

@@ -1,0 +1,2 @@
+TitreCours: Nouveaux enjeux en gestion de projet
+DescriptionCours: Ce sigle de cours comporte plusieurs cours a contenu variable. Il permet aux etudiants de se familiariser avec de nouveaux enjeux en gestion de projet au fur et a mesure que ceux-ci emergeront. Chaque cours a une duree de 15 heures. Les descriptifs des cours de la serie Nouveaux enjeux en gestion de projet offerts peuvent etre consultes sur le site web du programme: www.mgp.uqam.ca/cours/cours1credit.php .

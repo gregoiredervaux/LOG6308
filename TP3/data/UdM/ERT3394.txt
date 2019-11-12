@@ -1,0 +1,2 @@
+TitreCours: Formation clinique 3
+DescriptionCours: Stage de competence professionnelle en milieu clinique ou communautaire a temps continu. Consolidation des apprentissages et synthese de la formation theorique et pratique.

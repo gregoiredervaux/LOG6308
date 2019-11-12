@@ -1,0 +1,2 @@
+TitreCours: Descartes
+DescriptionCours: Étude globale de la pensee de Descartes et de son influence determinante sur le cours de la philosophie occidentale, de maniere a apprecier l'essentiel de son apport.

@@ -1,0 +1,2 @@
+TitreCours: Integration et evaluation II
+DescriptionCours: Cette unite vise a permettre a l'etudiant d'effectuer l'integration des apprentissages realises dans le cadre des unites composant le trimestre en cours et les trimestres anterieurs, aussi bien au niveau des apprentissages de type cognitif qu'au niveau du developpement d'habiletes. On demande de critiquer par ecrit un (ou plusieurs) livrets en tant que biologiste. L'etudiant doit approfondir son sens critique et son expression ecrite.

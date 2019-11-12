@@ -1,0 +1,2 @@
+TitreCours: Methodes de recherche
+DescriptionCours: Étude des divers types de recherche. Analyse du processus scientifique: enonce de problemes, identification et operationalisation de variables, formulation d'hypotheses, processus d'echantillonnage, echelles de mesure et qualite des instruments, controle experimental, schemas d'experiences, inference statistique, type d'erreur.

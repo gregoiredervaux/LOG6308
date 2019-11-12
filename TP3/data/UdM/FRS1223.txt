@@ -1,0 +1,2 @@
+TitreCours: Pratique du francais ecrit. Debutant 1
+DescriptionCours: Permettre a l'etudiant non francophone de consolider et d'approfondir les competences linguistiques necessaires a la comprehension de textes tres simples et a la production de phrases tres simples.

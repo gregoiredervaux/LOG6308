@@ -1,0 +1,2 @@
+TitreCours: Theories du developpement
+DescriptionCours: Presentation et analyse des principaux facteurs (economiques, politiques, technologiques, sociaux et culturels) qui participent a la croissance economique et au developpement social, ainsi que des theories qui leur sont associees.

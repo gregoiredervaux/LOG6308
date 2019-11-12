@@ -1,0 +1,2 @@
+TitreCours: Atelier d'improvisation
+DescriptionCours: Creation d'un nouvel atelier destine a developper les capacites d'improvisation des instrumentistes tant classiques que jazz.

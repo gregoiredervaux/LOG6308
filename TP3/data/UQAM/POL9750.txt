@@ -1,0 +1,2 @@
+TitreCours: Seminaire de lectures dirigees
+DescriptionCours: Ce seminaire a pour objectif de permettre aux etudiants- de soumettre un programme de lecture leur permettant d'approfondir la litterature theorique relative au domaine de leur sujet de recherche. Chaque etudiant doit soumettre son projet de seminaire de lecture au sous-comite d'admission et d'evaluation. Des etudiants dont les interets de recherche convergent pourront, en accord avec le tuteur du seminaire, donner une dimension collective a cette activite.

@@ -1,0 +1,2 @@
+TitreCours: Conception des systemes electriques d'avion
+DescriptionCours: Historique des systemes electriques d'avion. Accumulateurs acide-plomb et nickel-cadmium. Systemes de generation de puissance a courant continu et a courant alternatif, systeme d'urgence, systemes a vitesse variable et frequence constante (VSCF). Composantes electriques : conducteurs, disjoncteurs, connecteurs, fusibles, composantes de commutation. Interferences et compatibilite electromagnetiques. Fiabilite, entretien et securite. Conception des divers systemes electriques d'avion.

@@ -1,0 +1,2 @@
+TitreCours: Didactique et medias pour ECR
+DescriptionCours: Analyse critique de logiciels et de sites Internet relatifs a l'ethique et a la culture religieuse. Production et diffusion de documents multimedias. Scenarios d'integration pedagogique des medias.

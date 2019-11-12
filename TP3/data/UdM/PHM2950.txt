@@ -1,0 +1,2 @@
+TitreCours: Pharmacologie generale et oculaire
+DescriptionCours: Notions generales en pharmacocinetique et pharmacodynamie des medicaments. Biopharmacie et pharmacologie des medicaments oculaires. Indications therapeutiques et diagnostiques. Effets oculaires causes par les medicaments systemiques.

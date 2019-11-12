@@ -1,0 +1,2 @@
+TitreCours: Statistique descriptive en gestion
+DescriptionCours: Transmettre des connaissances tant theoriques que pratiques de methodes d'analyse descriptive des donnees. Nous verrons deux types d'analyse descriptive factorielle : l'analyse en composante principale (ACP) et l'analyse factorielle des correspondances (AFC). Chacune de ces methodes sera couplee avec des classifications ascendantes hierarchiques (CAH). Enfin nous joindrons les deux analyses factorielles dans l'analyse factorielle multiple (AFM).

@@ -1,0 +1,2 @@
+TitreCours: Projet de conception et analyse d'impact
+DescriptionCours: Realisation complete, par equipe, d'un projet de conception de procede industriel incluant une analyse preliminaire d'impact environnemental. Analyse des effets de la mise en place de procedes et d'installations de production sur l'environnement et la securite.

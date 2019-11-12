@@ -1,0 +1,2 @@
+TitreCours: Gestion des institutions financieres
+DescriptionCours: Contexte nord-americain des institutions financieres, particulierement des institutions financieres de depots. Organisation et legislation. Analyse conceptuelle du role des marches financiers. La fonction d'intermediation financiere. Gestion d'une institution de depots. Gestion de la liquidite. Analyse de la marge nette d'interet. Gestion des taux, gestion du risque de credit, gestion du risque du portefeuille. La competition dans l'industrie des services financiers. Les defis de la nouvelle reglementation.

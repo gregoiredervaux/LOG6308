@@ -1,0 +1,2 @@
+TitreCours: Design graphique
+DescriptionCours: Étude des moyens d'expression; exploration de l'interpenetration des disciplines specialisees; revue des differentes alternatives menant a la resolution du probleme pose.

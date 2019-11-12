@@ -1,0 +1,2 @@
+TitreCours: Histoire des mathematiques
+DescriptionCours: Les mathematiques dans l'Antiquite. Les mathematiques en Chine, en Inde et chez les Arabes. Les mathematiques en Europe de 500 a 1600. La geometrie analytique. Le calcul infinitesimal. Le developpement de l'analyse. Les mathematiques du XXe siecle.

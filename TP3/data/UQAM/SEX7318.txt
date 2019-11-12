@@ -1,0 +1,2 @@
+TitreCours: Memoire
+DescriptionCours: Le memoire doit comporter un cadre theorique integrant les ouvrages theoriques pertinents, incluant, si appropriees, des hypotheses de recherche clairement definies et justifiees au plan theorique; une methodologie appropriee a l'objet d'etude et reliee au cadre theorique; la presentation et l'analyse des resultats de recherche; une discussion des resultats.

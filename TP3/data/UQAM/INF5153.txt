@@ -1,0 +1,2 @@
+TitreCours: Genie logiciel
+DescriptionCours: Sensibiliser l'etudiant aux difficultes de la conception et lui permettre d'elaborer des solutions reutilisables, maintenables et extensibles. Problematique du processus de conception. Criteres et architecture. Conception comme activite creatrice. Outils d'aide a la conception. Integration et essais systeme. Conception orientee objet. Cadres d'application et patrons de conception. Documentation de conception. Retro ingenierie. Ce cours comporte une seance obligatoire de laboratoire.

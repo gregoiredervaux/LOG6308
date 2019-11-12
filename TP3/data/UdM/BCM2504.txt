@@ -1,0 +1,2 @@
+TitreCours: Enzymologie
+DescriptionCours: Cinetique enzymatique. Mecanisme d'action des enzymes. Anticorps comme agents catalyseurs. ARN catalytiques.

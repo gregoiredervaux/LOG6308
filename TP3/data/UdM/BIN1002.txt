@@ -1,0 +1,2 @@
+TitreCours: Integration biosciences/informatique 1
+DescriptionCours: Introduction aux problemes et methodes de recherche en bio-informatique.

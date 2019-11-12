@@ -1,0 +1,2 @@
+TitreCours: Labo. de formation professionnelle 3
+DescriptionCours: Planification, mise a l'essai et analyse de situations pedagogiques dans une perspective de developpement professionnel.

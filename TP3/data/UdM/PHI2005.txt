@@ -1,0 +1,2 @@
+TitreCours: Logique 2
+DescriptionCours: Introduction a la metalogique propositionnelle : completude et decidabilite de la logique propositionnelle classique. Introduction a des variantes et alternatives logiques intuitionniste, multivalente, modale, floue, etc.

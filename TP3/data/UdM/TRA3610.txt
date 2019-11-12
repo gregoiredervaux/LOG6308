@@ -1,0 +1,2 @@
+TitreCours: Revision de textes
+DescriptionCours: Principes et pratique de la revision unilingue et bilingue. Initiation au controle de la qualite. Revision a l'ordinateur. Code typographique et correction d'epreuves.

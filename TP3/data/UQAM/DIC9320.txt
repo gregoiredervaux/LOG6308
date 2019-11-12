@@ -1,0 +1,2 @@
+TitreCours: Psycholinguistique et traitement des langues naturelles
+DescriptionCours: Systemes de representation et de traitement des langues naturelles: traitement et reconnaissance de la parole. Grammaires et theories de parsage syntaxique. Representation et traitement semantique: reseaux semantiques et graphes conceptuels. Pragmatique et communication homme-machine. Apprentissage des langues naturelles et modeles connexionnistes.

@@ -1,0 +1,2 @@
+TitreCours: Immunologie approfondie
+DescriptionCours: Concepts fondamentaux en immunite cellulaire et moleculaire; biologie des cellules impliquees et de leurs interactions durant la reponse immunitaire innee et antigene-specifique; mediateurs de l'immunoregulation; immunopathologie.

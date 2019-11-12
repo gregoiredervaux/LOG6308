@@ -1,0 +1,2 @@
+TitreCours: Adm. et organisation des entreprises
+DescriptionCours: Structures comparees des organisations. Centralisation ou decentralisation. Objectifs et strategie. Environnement. Études de cas.

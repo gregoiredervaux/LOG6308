@@ -1,0 +1,2 @@
+TitreCours: Lectures dirigees
+DescriptionCours: L'etudiant qui s'inscrit a ces lectures dirigees doit indiquer son orientation. Il doit egalement etre accepte par un professeur.

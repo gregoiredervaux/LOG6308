@@ -1,0 +1,2 @@
+TitreCours: Villes et environnement
+DescriptionCours: L'histoire des villes en Occident dans une perspective comparative. Le cours s'attarde aux diverses conceptions de la ville developpees aux XIXe et XXe siecles, aux utopies et aux modes de vie urbains.

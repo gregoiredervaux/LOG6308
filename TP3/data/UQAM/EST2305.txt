@@ -1,0 +1,2 @@
+TitreCours: Atelier de creation theatrale I
+DescriptionCours: Connaissance pratique et experimentation d'une approche theatrale liee a un projet specifique de recherche-creation. Ce cours est suivi d'un atelier de trois heures pour fins d'exercices, de repetition, etc.

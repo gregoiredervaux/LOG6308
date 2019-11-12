@@ -1,0 +1,2 @@
+TitreCours: Redaction technique
+DescriptionCours: Analyse, conception, structuration et redaction de textes techniques varies. Le style et le vocabulaire de la redaction technique. Choix et emplacement des elements visuels dans les documents techniques. La documentation de reference specialisee.

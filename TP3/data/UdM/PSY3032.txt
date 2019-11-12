@@ -1,0 +1,2 @@
+TitreCours: Neuropsychologie humaine
+DescriptionCours: Dommages cerebraux et leurs effets. Experience de cerveau divise. Apraxies, aphasies. Integration theorique des donnees experimentales.

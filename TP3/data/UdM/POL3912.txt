@@ -1,0 +1,2 @@
+TitreCours: Forces et comportements : enjeu actuel
+DescriptionCours: Definition et analyse d'un enjeu pose en termes theoriques et appliques. Le probleme traite peut varier d'une annee a l'autre.

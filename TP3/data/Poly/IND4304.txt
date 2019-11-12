@@ -1,0 +1,2 @@
+TitreCours: Approvisionnement et distribution
+DescriptionCours: Reseau d'approvisionnement et de distribution : strategies, outils d'analyse. Problemes de localisation : types de problemes, criteres de selection, modeles et methodes qualitatifs et quantitatifs. Entreposage : conception, technologies statiques et dynamiques, technologies de communication, politiques de gestion, preparation de commandes. Transport : options de transport, tournees de vehicules.

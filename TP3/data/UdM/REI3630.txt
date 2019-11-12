@@ -1,0 +1,2 @@
+TitreCours: Stages et laboratoires 1
+DescriptionCours: Pratique professionnelle dans des organismes accredites a cette fin par l'École. Un rapport analytique peut suivre cette partie de stage.

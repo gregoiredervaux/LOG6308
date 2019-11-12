@@ -1,0 +1,2 @@
+TitreCours: Les arts visuels du Moyen
+DescriptionCours: Étude de la production en arts visuels du XIe au XVIe siecles. Presentation du vocabulaire technique et stylistique a partir d'un corpus d'oeuvres choisies et d'aspects de l'historiographie propre a cette periode de l'histoire de l'art.

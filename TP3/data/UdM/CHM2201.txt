@@ -1,0 +1,2 @@
+TitreCours: Chimie inorganique 2
+DescriptionCours: Chimie de coordination et chimie organometallique. Liaisons metal-ligand par les orbitales moleculaires et par la theorie du champ des ligands. Proprietes magnetiques des complexes metalliques. Liaisons metal-carbone.

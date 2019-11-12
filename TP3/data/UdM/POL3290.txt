@@ -1,0 +1,2 @@
+TitreCours: Idees politiques au Quebec
+DescriptionCours: Étude de certains courants de pensee marquants de l'histoire politique du Quebec.

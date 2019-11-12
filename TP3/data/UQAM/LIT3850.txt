@@ -1,0 +1,2 @@
+TitreCours: Atelier de scenarisation II
+DescriptionCours: Exercices de scenarisation en fonction des contraintes de la production: relation producteur-realisateur-scenariste. Techniques specifiques aux documents audiovisuels de commandite (pedagogiques, documentaires, publicitaires, de divertissement...)

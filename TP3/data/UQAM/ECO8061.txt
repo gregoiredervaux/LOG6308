@@ -1,0 +1,2 @@
+TitreCours: Cycle et politiques economiques
+DescriptionCours: Étude des developpements recents en macroeconomie. Approches d'equilibre general a la theorie du cycle economique; approche par les contrats de prix et de salaire; sources et propagation dynamique des fluctuations economiques; formation des attentes. Étude empirique de l'evolution dynamique de la production, du chomage et de l'inflation dans les pays industriels.

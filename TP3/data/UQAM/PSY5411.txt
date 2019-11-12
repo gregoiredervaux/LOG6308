@@ -1,0 +1,2 @@
+TitreCours: Introduction a l
+DescriptionCours: Modeles d'evaluation cognitifs et comportementaux. Concepts centraux et problemes theoriques, pratiques, metriques et ethiques. Les methodes de cueillette d'information et d'evaluation dans le domaine: entrevues, echelles, jeux de roles, observations, analyses environnementales. Deroulement de l'evaluation.

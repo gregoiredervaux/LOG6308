@@ -1,0 +1,2 @@
+TitreCours: Éthologie humaine
+DescriptionCours: Étude biologique de l'evolution du comportement humain; concepts ethologiques et methodes d'observation directe; analyse phylogenetique et ontogenetique des relations humaines.

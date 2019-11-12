@@ -1,0 +1,2 @@
+TitreCours: Preparation au stage d
+DescriptionCours: Fournir le cadre conceptuel et administratif pour le troisieme stage en informatique. Recherche d'un organisme d'accueil. L'inscription au stage, rappel des responsabilites et de l'ethique du stagiaire, des modalites d'evaluation. Preparation des documents pertinents au stage et preparation aux entrevues.

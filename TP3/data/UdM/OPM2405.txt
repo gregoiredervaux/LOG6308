@@ -1,0 +1,2 @@
+TitreCours: Anomalies de la vision binoculaire 2.2
+DescriptionCours: Étiologie, semiologie et examen de la correspondance retinienne anomale et des paralysies oculomotrices. Atteintes neurogenes, myogenes et restrictions mecaniques. Anomalies supranucleaires et nystagmus. Laboratoires.

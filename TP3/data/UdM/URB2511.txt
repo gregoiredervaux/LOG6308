@@ -1,0 +1,2 @@
+TitreCours: Labo-atelier 1 analyse et problematique
+DescriptionCours: Inventaire et analyse du milieu. Constitution de dossiers thematiques. Synthese et montage de dossiers. Formulation d'une problematique d'amenagement.

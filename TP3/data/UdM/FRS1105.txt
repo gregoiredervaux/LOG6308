@@ -1,0 +1,2 @@
+TitreCours: Communication orale 1
+DescriptionCours: Permettre a l'etudiant debutant de developper une competence de communication orale en francais dans des echanges previsibles et brefs; acquerir les notions syntaxiques, phonetiques, lexicales propres aux fonctions langagieres prevues pour ce cours.

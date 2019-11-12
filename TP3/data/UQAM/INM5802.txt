@@ -1,0 +1,2 @@
+TitreCours: Stage d
+DescriptionCours: Parfaire les connaissances pratiques par l'application des connaissances en informatique dans un milieu de travail. Travail d'au moins quatre mois en informatique.

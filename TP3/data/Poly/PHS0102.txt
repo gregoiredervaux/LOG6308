@@ -1,0 +1,2 @@
+TitreCours: Électricite et magnetisme
+DescriptionCours: Étude des forces electriques, du champ electrique et du potentiel electrique dans des situations electrostatiques. Étude du deplacement des charges electriques dans les circuits RC. Étude du champ magnetique et du comportement des charges electriques en presence de champs magnetiques. Notions fondamentales de l'induction electromagnetique.

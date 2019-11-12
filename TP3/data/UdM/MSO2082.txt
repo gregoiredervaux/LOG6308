@@ -1,0 +1,2 @@
+TitreCours: Sante des jeunes et milieu scolaire
+DescriptionCours: Determinants de la sante, caracteristiques cognitives, physiques, socio-emotives des jeunes, importance des milieux de vie (ecole, famille communaute), concepts theoriques, limites et efficacite des programmes de sante.

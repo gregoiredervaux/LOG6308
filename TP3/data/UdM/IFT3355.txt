@@ -1,0 +1,2 @@
+TitreCours: Infographie
+DescriptionCours: 2D : trace, remplissage. 3D : transformations, projections. Surfaces cachees. Illumination : modeles de reflexion. Textures : antialiassage. Modelisation : surfaces parametriques. Animation : interpolation, cinematique, dynamique.

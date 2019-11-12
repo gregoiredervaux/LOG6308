@@ -1,0 +1,2 @@
+TitreCours: Jeu pathologique
+DescriptionCours: Activite pedagogique explorant les questions relatives au jeu pathologique et a la comorbidite associee a la toxicomanie. Presentation des implications cliniques et des approches de readaptation.

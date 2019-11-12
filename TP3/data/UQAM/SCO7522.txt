@@ -1,0 +1,2 @@
+TitreCours: Comptabilite de management II
+DescriptionCours: Étudier le comportement des coûts dans une perspective dynamique. Étudier la formule budgetaire dans ses phases de planification et de controle. Étudier les principales methodes utilisees par les entreprises en matiere d'evaluation de performance. Planification a court terme: budget et interaction coûts-volume-benefice. Controle des coûts, evaluation du rendement, decentralisation. Nouveaux courants en comptabilite de management.

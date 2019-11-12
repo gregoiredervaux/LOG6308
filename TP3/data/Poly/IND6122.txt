@@ -1,0 +1,2 @@
+TitreCours: Économique et financement de la production
+DescriptionCours: Analyse microeconomique : la demande, la theorie economique de la firme, determinants technologiques de la firme et structure industrielle, equilibre selon la structure de marche. Le financement : sources de financement a long terme, structure du capital, theorie de Miller et Modigliani, capital de risque, subventions gouvernementales, credit d'impot a l'investissement, theorie et role des options, formule de Black et Scholes. Fusion, types, coûts et benefices des fusions.

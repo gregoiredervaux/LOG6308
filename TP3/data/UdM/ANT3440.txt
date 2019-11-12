@@ -1,0 +1,2 @@
+TitreCours: Genetique et comportement
+DescriptionCours: Analyse genetique des variations individuelles dans le domaine psychique et comportemental. Études de jumeaux, heritabilite, environnementalite, effets dus a l'age et au sexe, correlation et interaction genes-environnement, epidemiologie genetique.

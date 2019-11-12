@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique en didactique
+DescriptionCours: Ce seminaire, a contenu variable, a comme objectif l'approfondissement des theories, problematiques et orientations de la recherche portant sur un theme particulier relatif au domaine de la didactique appliquee (e.g. nouvelles technologies de l'information et de la communication) ou de la didactique des disciplines (e.g. didactique des sciences). Le contenu exact de ce cours est precise au trimestre ou il se donne et il doit etre approuve par le comite de programme.

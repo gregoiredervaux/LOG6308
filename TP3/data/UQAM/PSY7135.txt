@@ -1,0 +1,2 @@
+TitreCours: Processus psychologiques et evaluation
+DescriptionCours: Methodes d'evaluation behaviorale utilisees dans le contexte clinique, de l'education et de la recherche, etc. Observation systematique, mesures en laboratoire, questionnaires, entrevues, etc. Application de ces methodes a divers problemes de comportements. Developpement d'une analyse behaviorale. Les problemes de fidelite et de validite relies a l'utilisation de ces instruments.

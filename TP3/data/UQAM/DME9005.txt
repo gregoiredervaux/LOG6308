@@ -1,0 +1,2 @@
+TitreCours: Recherche en education
+DescriptionCours: Ce cours a pour buts de permettre a l'etudiant d'acquerir une vision globale de la problematique et des preoccupations majeures actuelles de la recherche en education; de s'initier a differentes approches ou methodologies de recherche dans ce domaine; d'appliquer une methode d'analyse conceptuelle dans le cadre de la structuration de son projet de recherche.

@@ -1,0 +1,2 @@
+TitreCours: Gestion de cas dans la communaute
+DescriptionCours: Role de gestionnaire de cas dans la communaute aupres de clienteles vivant des situations complexes de soins. Concept de gestion de cas. Études de cas reliees a des problematiques de gestion de cas au quotidien dans un contexte de chronicite.

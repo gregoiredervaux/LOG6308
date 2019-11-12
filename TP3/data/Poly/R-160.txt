@@ -1,0 +1,2 @@
+TitreCours: Caracteristiques de l'avion
+DescriptionCours: Configuration d'un avion et problemes de conception. Specifications civiles et militaires regissant la securite et la conception. Philosophies de design. Forces agissant durant le vol et l'atterrissage. Conception des composantes principales d'un avion: ailes, fuselage, empennage et train d'atterrissage. Centrage et chargement d'un avion. Systemes hydraulique, energetique, electronique, de controle et d'urgence.

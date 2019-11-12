@@ -1,0 +1,2 @@
+TitreCours: Projets integres en sciences/techn. 2
+DescriptionCours: Contribution des disciplines (biologie, chimie, physique, didactiques) a la realisation et a la critique d'experiences reliees a des problemes complexes en sciences et en technologies.

@@ -1,0 +1,2 @@
+TitreCours: Formation continue vet.: ateliers
+DescriptionCours: Participation a des ateliers de formation pratique ayant pour but d'ameliorer la maitrise des techinques de pointe utilisees en medecine veterinaire.

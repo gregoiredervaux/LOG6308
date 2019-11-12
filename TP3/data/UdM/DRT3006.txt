@@ -1,0 +1,2 @@
+TitreCours: Theories du droit
+DescriptionCours: Conceptualisation du phenomene juridique dans la societe. Theorisation des processus d'emergence, d'interpretation et d'application du droit. Analyse critique du droit et de la dogmatique juridique.

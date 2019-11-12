@@ -1,0 +1,2 @@
+TitreCours: Methodes non parametriques
+DescriptionCours: Rangs et loi uniforme. Statistiques lineaires de rang. Tests d'hypotheses bases sur les rangs. Contre-hypotheses de position et de dispersion. Generalisation. Hypothese d'independance. Estimation.

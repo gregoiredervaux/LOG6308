@@ -1,0 +1,2 @@
+TitreCours: Physique nucleaire
+DescriptionCours: Caracteristiques du noyau. Force a deux corps. Interaction de la radiation avec la matiere. Desintegrations et reactions nucleaires. Masses et energies de liaison. Forces et modeles nucleaires.

@@ -1,0 +1,2 @@
+TitreCours: Philosophie de la religion
+DescriptionCours: Introduction historique aux plus importantes philosophies de la religion (Grecs, Augustin, Spinoza, Rousseau, Kant, Hegel, Schleiermacher, Feuerbach, Freud, etc.) qui tiendra aussi compte des perspectives plus contemporaines.

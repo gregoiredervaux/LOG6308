@@ -1,0 +1,2 @@
+TitreCours: Immunologie
+DescriptionCours: Revue de la litterature recente en immunologie. Étude des mecanismes cellulaires et moleculaires des reponses immunitaires : naturelle, a mediation humorale et a mediation cellulaire. Examen des facteurs de l'environnement pouvant compromettre l'integrite du systeme immunitaire et leurs consequences biologiques. Ce cours comporte un volet sur les principes et la pratique des techniques immunologiques de pointe couramment utilisees en recherche.

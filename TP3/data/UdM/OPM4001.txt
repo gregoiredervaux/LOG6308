@@ -1,0 +1,2 @@
+TitreCours: Normes cliniques nord-americaines
+DescriptionCours: Ce cours destine aux etudiants visiteurs vise l'acquisition des aptitudes et attitudes dictees par les normes optometriques de pratique clinique en Amerique du Nord.

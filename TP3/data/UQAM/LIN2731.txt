@@ -1,0 +1,2 @@
+TitreCours: Developpement du langage chez l
+DescriptionCours: Description des principales etapes d'acquisition de la communication orale chez l'enfant. Maturation linguistique de la naissance a l'age scolaire, au niveau de la prononciation, de la formation des mots, des phrases et du discours dans un contexte quebecois. Developpement des habiletes metalinguistiques. Moyens de stimulation verbale. Analyse du langage des enfants a partir de corpus.

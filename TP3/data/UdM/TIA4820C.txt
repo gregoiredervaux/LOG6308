@@ -1,0 +1,2 @@
+TitreCours: Stage en assurance qualite des aliments
+DescriptionCours: Travaux sur le terrain ou visites dans des usines de production des aliments mettant en contact l'etudiant avec les differents aspects du controle de la qualite des denrees alimentaires.

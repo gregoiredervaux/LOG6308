@@ -1,0 +1,2 @@
+TitreCours: Acoustique industrielle
+DescriptionCours: Acoustique fondamentale avec caracteristique de l'onde sonore et son comportement suivant les milieux dans lesquels elle se propage. Analogies electriques. Distribution du son dans un local. Temps de reverberation. Étude des pertes par transmission (S.T.C., I.I.C.). Procedes generaux de mesure et de controle du bruit industriel.

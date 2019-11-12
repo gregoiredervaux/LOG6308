@@ -1,0 +1,2 @@
+TitreCours: Stage en dietetique 1
+DescriptionCours: Integration a l'equipe de dietetique. Implication de l'etudiant aux operations d'un service d'alimentation dans les secteurs de la production et de la distribution. Initiation a la consultation dietetique et a la relation d'aide.

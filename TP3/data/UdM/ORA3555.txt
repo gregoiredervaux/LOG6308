@@ -1,0 +1,2 @@
+TitreCours: Troubles neurologiques de la parole
+DescriptionCours: Connaissances theoriques et approche d'intervention aupres des personnes affectees par une dysarthrie.

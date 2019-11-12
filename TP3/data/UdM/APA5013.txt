@@ -1,0 +1,2 @@
+TitreCours: Activite dirigee
+DescriptionCours: Activite visant a favoriser la participation a des projets communautaires, a des concours ou a des voyages d'etudes relies a l'architecture de paysage.

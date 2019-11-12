@@ -1,0 +1,2 @@
+TitreCours: Langue et culture
+DescriptionCours: Initiation a la prononciation, a la representation ecrite, a la grammaire, au vocabulaire et aux structures syntaxiques de base. Developpement de strategies et de techniques de comprehension de textes simples, oraux ou ecrits. Familiarisation avec certains aspects de la culture.

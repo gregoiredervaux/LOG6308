@@ -1,0 +1,2 @@
+TitreCours: Croissance-developpement-vieillissement
+DescriptionCours: Étude des phenomenes normaux qui accompagnent et des facteurs qui influencent la croissance et le developpement cognitif, psychoaffectif, sexuel et social de la personne depuis la naissance jusqu'a l'age avance.

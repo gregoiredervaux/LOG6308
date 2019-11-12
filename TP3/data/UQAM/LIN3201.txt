@@ -1,0 +1,2 @@
+TitreCours: Linguistique et informatique
+DescriptionCours: Applications de l'informatique a la linguistique. Durant ce cours, l'etudiant doit creer des logiciels pour la resolution de problemes linguistiques dont la description fait notamment appel a la recursivite dans le langage. Note: Ce cours est assume conjointement par les departements de linguistique, de mathematiques et d'informatique.

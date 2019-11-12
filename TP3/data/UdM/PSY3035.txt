@@ -1,0 +1,2 @@
+TitreCours: Psychopharmacologie : introduction
+DescriptionCours: Description des effets physiologiques et psychologiques des principales classes de drogues psychotropes. Évaluation critique (methodologique et deontologique) de la recherche et des connaissances actuelles en psychopharmacologie.

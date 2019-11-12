@@ -1,0 +1,2 @@
+TitreCours: Projet d
+DescriptionCours: Interface des concepts abordes et des outils developpes a l'interieur du DESS. Liens entre theorie et pratique. Élaboration ecrite d'un travail final de synthese presentant une application d'un ou de plusieurs aspects developpes durant la scolarite et faisant l'objet d'une presentation devant les pairs. Pour l'option en creation dans le DESS en danse: realisation et presentation d'une etude choregraphique accompagnee d'un travail ecrit de reflexion. Cette activite est suivie vers la fin de la scolarite.

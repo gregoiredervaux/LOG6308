@@ -1,0 +1,2 @@
+TitreCours: Initiation a la recherche 2
+DescriptionCours: Étude des elements et des differentes etapes du processus de la recherche menant a la formulation d'une problematique et a l'elaboration d'un protocole de recherche en sciences infirmieres.

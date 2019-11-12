@@ -1,0 +1,2 @@
+TitreCours: Automatique industrielle
+DescriptionCours: Raison d'etre de l'automatisation. Classification des systemes automatises. Automatismes combinatoires et sequentiels. Outils de description des automatismes : table de verite, tableaux de Karnaugh, logigrammes, GRAFCET, GEMMA. Composants de l'automatique pneumatique et electro-pneumatique : actionneurs, capteurs, cellules logiques, sequenceurs, automates programmables industriels. Schemas de cablages, programmes d'automates. Applications industrielles. Mise en oeuvre de systemes automatises.

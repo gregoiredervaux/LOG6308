@@ -1,0 +1,2 @@
+TitreCours: Chant baroque 5
+DescriptionCours: Étude de la technique de l'instrument et de son repertoire.

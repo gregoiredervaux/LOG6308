@@ -1,0 +1,2 @@
+TitreCours: Introduction a la philosophie de l'art
+DescriptionCours: Introduction aux problemes les plus significatifs de la reflexion philosophique sur l'art dans la pensee ancienne, moderne et contemporaine.

@@ -1,0 +1,2 @@
+TitreCours: Intro. a l'evaluation des apprentissages
+DescriptionCours: Notion de mesure et d'evaluation, de competence et de performance. Objectifs pedagogiques. Instruments d'observation et de mesure des apprentissages. Évaluation formative et sommative. Interpretation criteriee et normative.

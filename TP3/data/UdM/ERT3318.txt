@@ -1,0 +1,2 @@
+TitreCours: Technologie en readaptation
+DescriptionCours: Étude theorique et pratique de la technologie en readaptation. Utilisation des aides techniques a des fins therapeutiques sur les plans physique, psychologique et social. Analyse de diverses aides techniques.

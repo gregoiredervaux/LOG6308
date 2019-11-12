@@ -1,0 +1,2 @@
+TitreCours: Technosciences, culture et societe
+DescriptionCours: Analyse des transformations culturelles et sociales liees au developpement des technologies de l'information et des biotechnologies ; Internet, genie genetique, clonage, etc.

@@ -1,0 +1,2 @@
+TitreCours: Applications of Game Theory
+DescriptionCours: The course is a general introduction to non-cooperative and cooperative static and dynamic game theory.&nbsp; The main concepts are defined rigorously and illustrated by a series of examples, exercises and applications to different problems in management of interest to the participants.

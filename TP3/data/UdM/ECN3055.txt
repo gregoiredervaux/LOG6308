@@ -1,0 +1,2 @@
+TitreCours: Fluctuations economiques
+DescriptionCours: Évolution des agregats au cours du cycle. Indicateur du cycle. Modeles discrets de fluctuations. Diagramme de phases. Retard d'adaptation des agregats au cycle. Cycle et inflation. Stabilisation economique.

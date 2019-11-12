@@ -1,0 +1,2 @@
+TitreCours: Occlusion pratique
+DescriptionCours: Analyses de l'occlusion sur modeles et en bouche, equilibrage de l'occlusion de modeles montes sur articulateur et confection d'une plaque occlusale complete.

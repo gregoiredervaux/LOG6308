@@ -1,0 +1,2 @@
+TitreCours: Produits veterinaires
+DescriptionCours: Modes d'action et utilisation clinique des medicaments chez les animaux.

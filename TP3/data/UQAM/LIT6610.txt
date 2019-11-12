@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Identifier les questions et problemes specifiques relies a la pedagogie et a la didactique litteraires. Étudier l'histoire des contenus et finalites de l'enseignement de la litterature depuis le XIXe siecle jusqu'a nos jours. Analyse des presupposes, des conditions d'exercice, des objets et des methodes de l'enseignement litteraire en fonction de leurs variations au fil du temps. Étude du role institutionnel de l'enseignement et de son influence sur le developpement des goûts et des habitudes de lecture.

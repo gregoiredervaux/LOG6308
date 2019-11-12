@@ -1,0 +1,2 @@
+TitreCours: Atelier de production avancee en publicite I
+DescriptionCours: De la commande du client a la realisation finale: conception, production et post-production du message publicitaire. Travail en equipes multidisciplinaires et utilisation integree des divers supports mediatiques: imprimes, sonore, audiovisuel et telematique. Les ateliers tenteront de repondre a des commandes ponctuelles et privilegieront les publicites de service qui pourraient etre reellement diffusees; leurs realisations varieront donc a chaque fois.

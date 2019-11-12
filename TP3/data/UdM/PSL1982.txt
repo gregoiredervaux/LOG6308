@@ -1,0 +1,2 @@
+TitreCours: Les bases du systeme nerveux
+DescriptionCours: Description de la structure et de la physiologie du systeme nerveux central et peripherique.

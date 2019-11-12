@@ -1,0 +1,2 @@
+TitreCours: Seminaires
+DescriptionCours: Exposes et discussions de projets choisis en rapport avec les cours ou les travaux de recherche du departement. Discussions de publications recentes.

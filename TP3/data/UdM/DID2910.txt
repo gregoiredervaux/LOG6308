@@ -1,0 +1,2 @@
+TitreCours: Didactique des arts plastiques 1
+DescriptionCours: Experiences des arts plastiques, medias plastiques, elements du langage plastique. Programme des arts plastiques au primaire. Élaboration, animation d'activites, evaluation des apprentissages. Aspects de l'histoire de l'art.

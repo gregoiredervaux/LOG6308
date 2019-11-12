@@ -1,0 +1,2 @@
+TitreCours: Competence en intervention 1
+DescriptionCours: Acquisition ou developpement d'une competence specifique en intervention en lien avec les besoins d'une clientele specifique ou d'un milieu de pratique. A titre d'exemples : troubles envahissants du developpement (TED), situation de crise, etc.

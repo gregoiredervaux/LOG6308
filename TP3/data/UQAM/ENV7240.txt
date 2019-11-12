@@ -1,0 +1,2 @@
+TitreCours: Gestion de l
+DescriptionCours: Ce cours vise l'application des notions de gestion de l'environnement a l'espace urbain. Les grandes problematiques environnementales des villes et leur impact sur la qualite de vie des citoyens. Étalement urbain, transport, gestion de l'eau, qualite de l'air et gestion des dechets. Facteurs socioeconomiques et politiques.

@@ -1,0 +1,2 @@
+TitreCours: Aerodynamique
+DescriptionCours: Notions de base sur les fluides. Lois de conservation. Écoulement de fluide parfait. Fonctions de courant et de potentiel. Profils aerodynamiques. Theorie des singularites. Theorie des profils minces. Aile d'envergure finie. Introduction aux ecoulements visqueux.

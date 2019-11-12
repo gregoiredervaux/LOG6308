@@ -1,0 +1,2 @@
+TitreCours: Entrepreneurship, demarrage d'entreprise
+DescriptionCours: De l'idee a la realisation : etapes menant au demarrage d'une entreprise. Occasion d'affaires : recherche et analyse. Étude de marche, sources d'information. Plan d'affaires. Financement. Formes juridiques. Propriete intellectuelle. Technologies.

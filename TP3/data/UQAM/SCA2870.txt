@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Meteorologie urbaine: vents, temperature, humidite, rayonnement solaire et terrestre. Bilan radiatif, hydrique et energetique. Microclimats. La qualite de l'air: sources, nature et mesure des polluants atmospheriques. Diffusion et dispersion: impact des vents, de la stabilite et des systemes synoptiques. Transformations physiques et chimiques. Impact du transport a longue distance sur la ville, et de la ville sur l'environnement regional.

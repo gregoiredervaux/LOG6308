@@ -1,0 +1,2 @@
+TitreCours: Microelectronique II
+DescriptionCours: Revue des procedes de fabrication des composants microelectroniques. Introduction aux regles de dessin et de conception des circuits ITGE. Structures logiques MOS et CMOS. Techniques de conception des circuits MOS. Reseaux logiques programmables (PLA). Structures de memoire. Communication et synchronisation. Architecture a transfert de registres et machine a etats finis. Outils de conception assistee par ordinateur des circuits ITGE. Travaux pratiques en laboratoire (3 heures/semaine).

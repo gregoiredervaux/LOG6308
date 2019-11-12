@@ -1,0 +1,2 @@
+TitreCours: Models and Decision Making
+DescriptionCours: This course is an introduction to basic concepts of operations research. A special attention is given to linear programming (LP) and its extensions as a decision support tool. Students will be trained to express real problems as mathematical models, solve them with a computer and interpret the results. Several large-scale industrial and research lab applications will also be presented.

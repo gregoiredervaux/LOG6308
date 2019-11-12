@@ -1,0 +1,2 @@
+TitreCours: Innocuite pre-clinique et toxicite
+DescriptionCours: Notions et principes d'innocuite pre-clinique et de toxicologie. Tests pour materiaux de fabrication. Selection des modeles. Études de toxicite : aigue, sub-aigue, chronique. Études d'immunotoxicite, de carcinogenicite, etc. Reglementation. Éthique.

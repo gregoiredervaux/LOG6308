@@ -1,0 +1,2 @@
+TitreCours: Histoire economique du monde occidental
+DescriptionCours: Ce cours pose les questions suivantes. Comment la taille des unites politiques et le degre de decentralisation de leur vie economique ont-ils change ? Quelle relation y a-t-il entre ces changements et les innovations technologiques ?

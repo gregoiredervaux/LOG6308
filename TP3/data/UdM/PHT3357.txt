@@ -1,0 +1,2 @@
+TitreCours: Stage clinique 3
+DescriptionCours: Developpement des competences en regard des connaissances theoriques et pratiques acquises dans differents domaines en physiotherapie. Ce stage sera evalue par la mention Succes ou Échec.

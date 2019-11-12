@@ -1,0 +1,2 @@
+TitreCours: Practicum en intervention de groupe
+DescriptionCours: Ce cours vise a assurer chez les futurs intervenants la maitrise des techniques d'intervention en groupe et leur utilisation appropriee en fonction de la nature du goupe (groupe-famille, groupe-classe, groupe-tache) et des besoins identifies. Analyse des besoins de groupes reels. Plan d'intervention. Interventions supervisees sur des groupes. Activites de retroaction.

@@ -1,0 +1,2 @@
+TitreCours: Logiciels statistiques
+DescriptionCours: Structure et organisation des logiciels statistiques. Presentation et organisation des donnees. Statistique descriptive. Estimation et intervalles de confiance. Tests d'hypotheses.

@@ -1,0 +1,2 @@
+TitreCours: Normalite et deviance
+DescriptionCours: Laboratoire d'etude clinique: a partir de situations concretes (exemples: observation, jeu de role), apprendre la methodologie de l'evaluation de la normalite et de la deviance dans le contexte de la relation d'aide.

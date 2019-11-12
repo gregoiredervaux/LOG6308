@@ -1,0 +1,2 @@
+TitreCours: Atelier thematique en theologie
+DescriptionCours: Exploration d'une thematique theologique specifique en lien avec les besoins d'une clientele particuliere ou d'un milieu professionnel.

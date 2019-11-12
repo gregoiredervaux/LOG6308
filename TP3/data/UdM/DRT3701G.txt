@@ -1,0 +1,2 @@
+TitreCours: Fondements du regime fiscal
+DescriptionCours: Principes de politique fiscale. Notions de base concernant l'impot sur le revenu, les taxes sur les produits et services (T.P.S. et T.V.Q.) et certaines autres taxes.

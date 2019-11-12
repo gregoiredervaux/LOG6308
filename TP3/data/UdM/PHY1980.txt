@@ -1,0 +1,2 @@
+TitreCours: Les sciences nucleaires et la societe
+DescriptionCours: Impact social des sciences nucleaires. Noyau atomique, particules constituantes et interactions. Moyens de produire l'energie nucleaire. Effets biologiques des rayonnements et utilisation en medecine. Nucleaire et environnement. Armes nucleaires.

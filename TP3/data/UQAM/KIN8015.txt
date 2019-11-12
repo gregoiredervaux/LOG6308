@@ -1,0 +1,2 @@
+TitreCours: Neurocinetique 3
+DescriptionCours: Seminaires portant sur des questions relatives a l'apport de la neurocinetique, aux activites physiques et a la pratique professionnelle. Formulation de problemes pratiques determines conjointement par les etudiants et le professeur. Demonstration de l'integration des connaissances theoriques en neurocinetique a partir de l'analyse de ces problematiques.

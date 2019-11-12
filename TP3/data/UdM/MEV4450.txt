@@ -1,0 +1,2 @@
+TitreCours: Dermatologie canine et feline
+DescriptionCours: Maladies de la peau et des teguments chez les chiens et les chats.

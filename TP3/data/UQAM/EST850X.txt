@@ -1,0 +1,2 @@
+TitreCours: Atelier
+DescriptionCours: Ce travail d'atelier a contenu variable privilegie un aspect pratique du theatre. Il peut porter sur le jeu, la mise en scene, le mouvement, la voix, la scenographie, l'ecriture, l'enseignement, etc. Selon le cas, et a la discretion de l'enseignant, cet atelier peut ou non etre suivi d'un laboratoire. Trois heures d'atelier hebdomadaire, eventuellement suivi de trois heures de laboratoire.

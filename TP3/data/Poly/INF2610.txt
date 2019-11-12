@@ -1,0 +1,2 @@
+TitreCours: Noyau d'un systeme d'exploitation
+DescriptionCours: Concepts, composantes, fonctions, services et structures des systemes d'exploitation. Gestion de processus : synchronisation, communication et ordonnancement. Processus leger (threads). Interblocage. Gestion de la memoire principale et de la memoire virtuelle. Caracteristiques d'un systeme temps reel. Gestion de processus dans un contexte temps reel. Ordonnancement preemptif. Études de cas.

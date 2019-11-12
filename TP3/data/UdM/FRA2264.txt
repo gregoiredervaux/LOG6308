@@ -1,0 +1,2 @@
+TitreCours: Dramaturgie quebecoise
+DescriptionCours: Étude de textes de theatre de 1945 a nos jours.

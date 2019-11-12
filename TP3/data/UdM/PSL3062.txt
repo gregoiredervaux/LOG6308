@@ -1,0 +1,2 @@
+TitreCours: Base neuronale des fonctions cerebrales
+DescriptionCours: Études des mecanismes neuronaux responsables des fonctions specialisees du systeme nerveux. Approche neurophysiologique du fonctionnement des circuits neuronaux impliques dans l'analyse, le traitement et la modification de l'information nerveuse.

@@ -1,0 +1,2 @@
+TitreCours: Psychologie humaniste
+DescriptionCours: Ce cours a pour objectif d'initier l'etudiant aux fondements historiques en philosophie et a l'evolution du concept de l'intervention. La tradition humaniste: de la philosophie a la psychologie. Contrastes entre l'approche des sciences naturelles et l'approche humaniste. Étude de certains phenomenes: la personne, la rencontre, la quete de sens, les croyances, les valeurs.

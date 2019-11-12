@@ -1,0 +1,2 @@
+TitreCours: Didactique des langues au secondaire 2
+DescriptionCours: Crit. des approches en did. de la grammaire et du vocabulaire. Étude des contenus et demarches d'ens. Anal. des formes et des outils d'eval. Strat. d'app. et techn. d'ens. Rech. et trav. d'application. Élab. et anal. d'act.

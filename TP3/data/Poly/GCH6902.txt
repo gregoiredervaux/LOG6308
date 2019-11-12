@@ -1,0 +1,2 @@
+TitreCours: Conception des reacteurs gaz-solide
+DescriptionCours: Revue du reacteur homogene tubulaire. Transport de matiere et d'energie a l'interieur d'un catalyseur poreux et entre la phase fluide et la surface externe du catalyseur. Reacteur catalytique en lit fixe : le reacteur isotherme, le reacteur adiabatique, le reacteur non isotherme. Fluidisation : phenomenes et regimes de fluidisation. Hydrodynamique des lits fluidises. Conversion catalytique en regime de bullage. Design des systemes a lits fluidises et a lits fluidises circulants.

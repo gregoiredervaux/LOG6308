@@ -1,0 +1,2 @@
+TitreCours: Problematiques psychoeducatives
+DescriptionCours: Cours ou laboratoire permettant de repondre a des besoins de formation specifiques a un milieu de pratique.

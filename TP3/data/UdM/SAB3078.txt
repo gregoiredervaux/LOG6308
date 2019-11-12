@@ -1,0 +1,2 @@
+TitreCours: Dentisterie pediatrique clinique 1
+DescriptionCours: Seances cliniques au cours desquelles l'etudiant, sous la supervision de professeurs cliniciens, traite des patients.

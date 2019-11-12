@@ -1,0 +1,2 @@
+TitreCours: Travaux pratiques
+DescriptionCours: Ce cours a pour but la mise a l'epreuve de concepts ou methodes semiotiques dans divers champs d'application. Ainsi, l'etudiant est amene a travailler sur des objets singuliers (texte litteraire, photographie, morceau de musique, architecture, etc.) afin de verifier la portee et la pertinence des notions acquises en formation.

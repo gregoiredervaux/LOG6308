@@ -1,0 +1,2 @@
+TitreCours: Histoire de la musique 1
+DescriptionCours: Histoire musicale de l'Antiquite hellenique a la fin du Moyen Age.

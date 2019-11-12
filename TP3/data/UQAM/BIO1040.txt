@@ -1,0 +1,2 @@
+TitreCours: Zoologie evolutive
+DescriptionCours: Morphologie fonctionnelle et classification evolutive des grands groupes animaux. Étude d'invertebres et surtout de vertebres choisis en fonction de leur interet pratique ou scientifique. Phylogenie des principaux embranchements d'invertebres. Interrelation de la structure et de la fonction dans les principaux systemes, les processus vitaux et l'evolution des vertebres. Examen au laboratoire de representants des principaux embranchements ; dissection d'un poisson, d'un amphibien et d'un mammifere.

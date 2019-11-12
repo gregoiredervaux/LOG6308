@@ -1,0 +1,2 @@
+TitreCours: T.P. de biodiversite 2
+DescriptionCours: Illustration par des exemples concrets de la matiere vue au cours theorique pour permettre de reconnaitre les representants des Plantes vasculaires, des Animaux invertebres et vertebres.

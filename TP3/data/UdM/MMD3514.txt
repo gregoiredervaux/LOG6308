@@ -1,0 +1,2 @@
+TitreCours: Stages rotatifs
+DescriptionCours: Stage clinique comportant une rotation dans plus d'une discipline.

@@ -1,0 +1,2 @@
+TitreCours: Methodes quantitatives en neurocinetique
+DescriptionCours: Étude des methodes quantitatives appliquees specialement au domaine de la neurocinetique. Inference statistique, statistique non parametrique, analyse de variance et de covariance. Schemas experimentaux et statistiques pertinents. Travaux realises sur micro-ordinateur et appliques a des problemes relatifs a la neurocinetique.

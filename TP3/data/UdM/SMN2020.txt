@@ -1,0 +1,2 @@
+TitreCours: Pratiques posthospitalieres
+DescriptionCours: Transformation des liens avec les services hospitaliers, communautaires et prives. Partage des responsabilites. Utilisation des ressources du milieu et orientation vers les services necessaires. Évaluation de la qualite et de la performance.

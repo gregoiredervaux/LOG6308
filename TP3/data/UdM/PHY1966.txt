@@ -1,0 +1,2 @@
+TitreCours: Archeometrie
+DescriptionCours: Methodes nucleaires de datation : potassium-argon, radiocarbone, thermoluminescence. Determination de provenance par mesure des abondances des elements : activation neutronique, PIXE. Illustration par quelques projets de recherche.

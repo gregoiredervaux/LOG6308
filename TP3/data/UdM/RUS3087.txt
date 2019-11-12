@@ -1,0 +1,2 @@
+TitreCours: Les grands ecrivains russes
+DescriptionCours: Étude de l'oeuvre d'un auteur en particulier ou d'un nombre restreint d'auteurs mis en parallele et en confrontation.

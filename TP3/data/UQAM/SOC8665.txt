@@ -1,0 +1,2 @@
+TitreCours: Analyse du discours
+DescriptionCours: Étude des problemes epistemologiques, theoriques et methodologiques de l'analyse du discours. Role du discours dans la production des rapports sociaux et de la relation de l'individu a la societe. Construction de l'objet discours en tant que materialite effective. Plus specifiquement: analyse de contenu (quantitative et qualitative), analyse du discours (paralinguistique, enonciative, pragmatique, rhetorique, argumentative, etc.), analyse de texte par ordinateur.

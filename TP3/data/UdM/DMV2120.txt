@@ -1,0 +1,2 @@
+TitreCours: Infectiologie veterinaire
+DescriptionCours: Caracteristiques, habitats, pathogenecite, diagnostic et controle des principaux agents responsables des affections cliniques veterinaires.

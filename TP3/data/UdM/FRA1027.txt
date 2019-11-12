@@ -1,0 +1,2 @@
+TitreCours: Histoire de la litterature
+DescriptionCours: Vue d&rsquo;ensemble des litteratures de langue francaise sous la forme d&rsquo;un parcours chronologique des periodes, mouvements, ecoles ; etudes de textes appartenant a des genres, a des periodes et a des aires de la francophonie differents.

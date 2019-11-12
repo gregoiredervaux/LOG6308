@@ -1,0 +1,2 @@
+TitreCours: Fondements conceptuels
+DescriptionCours: Épistemologie du design; coherence methodologique et fluidite du passage de la theorie a la pratique; modes de conception : de l'esprit pragmatique a l'esprit intuitif; complexite et modelisation; etudes de programmation sur des segments specialises.

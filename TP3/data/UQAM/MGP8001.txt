@@ -1,0 +1,2 @@
+TitreCours: Le contexte organisationnel et strategique de la gestion de projet
+DescriptionCours: Ce cours a comme objectif general de presenter le domaine de la gestion de projet et d'en cerner le contexte organisationnel et strategique. Les principaux elements de contenu sont: les fondements conceptuels de la gestion de projet et le contexte organisationnel et strategique.

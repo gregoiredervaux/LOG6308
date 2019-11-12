@@ -1,0 +1,2 @@
+TitreCours: Contrat individuel de travail
+DescriptionCours: Relation juridique employeur-salarie : sources, evolution, competences legislatives. Nature, formation, caracteristiques et terminaisons du contrat de travail. Contenu obligationnel et normes du travail. Droits et libertes. Recours.

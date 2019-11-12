@@ -1,0 +1,2 @@
+TitreCours: Systemes de signes et semiotiques
+DescriptionCours: Introduction aux principaux concepts utilises dans la description des systemes de signes, que ces systemes soient de communication ou de signification. Presentation des textes fondamentaux. Initiation a l'analyse semiotique.

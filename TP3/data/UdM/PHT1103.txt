@@ -1,0 +1,2 @@
+TitreCours: Biomecanique
+DescriptionCours: Introduction a la biomecanique. Notions de mecanique applicables a l'etude du mouvement. La machine humaine. L'analyse biomecanique. Notions sur la resistance des materiaux.

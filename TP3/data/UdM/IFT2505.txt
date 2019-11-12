@@ -1,0 +1,2 @@
+TitreCours: Techniques d'optimisation 1
+DescriptionCours: Modeles lineaires. Methode du simplexe. Dualite. Postoptimisation. Jeux matriciels. Problemes de flot a coût minimum. Problemes a structures particulieres. Methode de points interieurs.

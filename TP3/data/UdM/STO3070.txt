@@ -1,0 +1,2 @@
+TitreCours: Chirurgie buccale et maxillo-faciale
+DescriptionCours: Principes de chirurgie buccale. Liens avec les disciplines connexes. Principes de diagnostic. Exodontie et traitement des complications. Pharmacologie pertinente a la chirurgie buccale et maxillo-faciale. Anesthesie regionale.

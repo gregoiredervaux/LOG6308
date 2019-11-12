@@ -1,0 +1,2 @@
+TitreCours: Victimologie
+DescriptionCours: Le role de la victime dans la dynamique du crime et dans l'administration de la justice.

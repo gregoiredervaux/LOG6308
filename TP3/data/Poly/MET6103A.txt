@@ -1,0 +1,2 @@
+TitreCours: Techniques de caracterisation des materiaux I
+DescriptionCours: Introduction aux principes et aux applications des techniques experimentales de caracterisation. Sujets traites : optique electronique, interactions electrons-matiere et signaux emis, microscopie electronique a balayage (MEB) et en transmission (MET), spectroscopie des rayons X et des electrons Auger, imagerie MET, interpretation des images, definition des conditions de diffraction, obtention des spectres RX, quantification des rayons X obtenus en MET.

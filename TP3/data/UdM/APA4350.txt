@@ -1,0 +1,2 @@
+TitreCours: Introduction au projet de fin d'etude
+DescriptionCours: Énonce et developpement de la problematique du projet de fin d'etude. Reflexion sur le projet et definition des cadres methodologique et programmatique. Cueillette et analyse des donnees de base pour la conception du projet.

@@ -1,0 +1,2 @@
+TitreCours: Stage : Nephrologie pediatrique
+DescriptionCours: Stage aupres de patients d'age pediatrique en nephrologie pediatrique.

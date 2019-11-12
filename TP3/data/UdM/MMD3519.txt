@@ -1,0 +1,2 @@
+TitreCours: Stage : Anesthesie-reanimation
+DescriptionCours: Stage favorisant un approfondissement des connaissances en anesthesiologie, en douleur et en medecine perioperatoire.

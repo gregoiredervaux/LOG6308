@@ -1,0 +1,2 @@
+TitreCours: Radiologie
+DescriptionCours: Stage de 2 semaines permettant a l&rsquo;etudiant de se preparer a utiliser efficacement les ressources de la radiologie diagnostique et de la medecine nucleaire et a poser un diagnostic provisoire dans certaines situations urgentes.

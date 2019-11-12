@@ -1,0 +1,2 @@
+TitreCours: Medecine des ruminants
+DescriptionCours: Étude des principales maladies affectant les ruminants. Diagnostic, traitements et prevention des principales maladies.

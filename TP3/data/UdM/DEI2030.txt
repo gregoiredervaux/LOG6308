@@ -1,0 +1,2 @@
+TitreCours: Materiaux et methodes
+DescriptionCours: Étude detaillee des principaux materiaux de finition utilises pour l'amenagement des espaces interieurs. Processus de selection. Performance, echelle des valeurs, usage et fonction.

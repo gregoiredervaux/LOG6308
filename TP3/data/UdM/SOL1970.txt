@@ -1,0 +1,2 @@
+TitreCours: Sociologie du Quebec
+DescriptionCours: Organisation sociale et culture de la province de Quebec.

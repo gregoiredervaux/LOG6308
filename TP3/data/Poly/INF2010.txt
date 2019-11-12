@@ -1,0 +1,2 @@
+TitreCours: Structures de donnees et algorithmes
+DescriptionCours: Structures de donnees sequentielles : listes, piles, files, vecteurs. Manipulation des structures de donnees sequentielles : insertion, recherche et retrait d'elements. Algorithmes de tri. Arbres binaires. Algorithmes de recherche dans un arbre. Mise en oeuvre des arbres equilibres. Files de priorite. Structures de donnees pour manipulation de texte. Algorithmes de filtrage de chaines de caracteres. Implementation de graphes. Algorithmes de parcours de graphes. Ensembles.

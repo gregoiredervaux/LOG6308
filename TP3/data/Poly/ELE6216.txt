@@ -1,0 +1,2 @@
+TitreCours: Compl. de teledetection: realisation,applic.
+DescriptionCours: Systemes imageurs : radiometres a balayage, cameras CCD, radar. Caracteristiques principales : rayonnement utilise, resolutions spatiale et spectrale, sensibilite. Évaluation de l'information contenue dans les images enregistrees par les differents types de capteurs.

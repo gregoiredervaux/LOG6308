@@ -1,0 +1,2 @@
+TitreCours: Medecine porcine industrielle
+DescriptionCours: Deux semaines de travaux cliniques en medecine des elevages de porcs.

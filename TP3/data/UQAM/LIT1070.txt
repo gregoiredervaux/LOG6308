@@ -1,0 +1,2 @@
+TitreCours: Initiation pratique au travail de recherche
+DescriptionCours: Utilisation des instruments, initiation a la methodologie et presentation des travaux. La bibliotheque comme instrument de recherche: ouvrages de references, fichier, informatique, phototheque, videotheque. Le travail de recherche: lectures prealables, mise sur fiches, hypotheses de travail, methodologies. La presentation des travaux: page de titre, citations, references, notices bibliographiques.

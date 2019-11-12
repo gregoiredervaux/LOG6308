@@ -1,0 +1,2 @@
+TitreCours: Hydrologie
+DescriptionCours: Introduction  l'hydrologie paramtrique. Mesures et acquisition des donnes en hydrologie. Analyse des frquences et du risque en hydrologie. Modlisation hydrologique : bassins urbains, bassins ruraux, petits bassins, grands bassins. Design en hydrologie : structures mineures et structures majeures. tudes spciales de quelques phnomnes : influence des changements climatiques sur le rgime hydrologique des cours d'eau, dveloppement durable. Fonte de neige. Gestion des eaux et source des conflits.

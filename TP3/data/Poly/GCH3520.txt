@@ -1,0 +1,2 @@
+TitreCours: Projets de phenomenes d'echanges
+DescriptionCours: Realisation d'un projet d'experimentation visant l'application des lois fondamentales de transfert de quantite de mouvement, de transfert de chaleur et de matiere. Conception et usage de protocoles experimentaux permettant la determination des coefficients d'echanges dans les trois domaines de transfert. Validation de calculs et d'hypotheses. Modelisation par analyse dimensionnelle. Application des bilans macroscopiques de masse, de quantite de mouvement et d'energie.

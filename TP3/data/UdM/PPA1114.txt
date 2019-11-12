@@ -1,0 +1,2 @@
+TitreCours: TIC et adaptation scolaire
+DescriptionCours: Developpement, mise a l'essai et analyse de situations en adaptation scolaire ou sont integrees les technologies de l'information et de la communication. Reflexion critique. Approches en adaptation scolaire faisant appel aux TIC.

@@ -1,0 +1,2 @@
+TitreCours: Physique medicale
+DescriptionCours: Radioactivite et interaction particules-matiere. Radiologie diagnostique. Medecine nucleaire. Ultrasons. Imagerie medicale. Radio-oncologie.

@@ -1,0 +1,2 @@
+TitreCours: Interfaces personne-machine
+DescriptionCours: Concept et langages des interfaces. Programmation par evenements. Modele de l&rsquo;usager. Design et programmation d&rsquo;interfaces graphiques. Impact sur les multi-media, la collaboration et la communication.

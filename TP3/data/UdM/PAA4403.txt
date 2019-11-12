@@ -1,0 +1,2 @@
+TitreCours: Enseignement de la medecine veterinaire
+DescriptionCours: Parametres de base de l'enseignement universitaire en contexte veterinaire. Ce qui fait un bon enseignant universitaire. Preparation du contenu. Prestation. Methodes interactives. Évaluations.

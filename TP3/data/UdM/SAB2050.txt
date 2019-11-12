@@ -1,0 +1,2 @@
+TitreCours: Éducation sanitaire bucco-dentaire 1
+DescriptionCours: Étude des facteurs socioculturels qui influencent les comportements sanitaires de la population en general et de certains groupes communautaires en particulier. Éducation et motivation de groupes specifiques.

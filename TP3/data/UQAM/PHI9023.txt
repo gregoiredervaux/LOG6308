@@ -1,0 +1,2 @@
+TitreCours: Seminaire de recherche en ethique
+DescriptionCours: Recherches relatives a un secteur ou un probleme particulier de l'ethique. Ce secteur ou ce probleme, qui sera determine par le professeur, peut concerner soit l'analyse du discours moral (la metaethique), soit les fondements de l'ethique normative, soit encore un domaine ou l'autre de l'ethique appliquee (bioethique, ethique des affaires, ethique environnementale...).

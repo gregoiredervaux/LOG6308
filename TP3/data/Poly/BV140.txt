@@ -1,0 +1,2 @@
+TitreCours: L'utilisation de l'nergie dans les btiments
+DescriptionCours: March de l'nergie au Qubec. Sources d'nergie distribues par les entreprises de services publiques ou prives (lectricit, gaz naturel, etc.). Profil de consommation nergtique du btiment Qubcois. Systmes mcaniques et lectriques utiliss dans les btiments. Rpartition de la consommation nergtique associe aux diffrents usages d'un btiment. Bonnes pratiques d'exploitation des btiments. Contexte d'affaire du btiment.

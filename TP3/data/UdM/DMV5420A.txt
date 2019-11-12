@@ -1,0 +1,2 @@
+TitreCours: Urgentologie et medecine equines
+DescriptionCours: Deux semaines de stages dans le service d'urgentologie equine.

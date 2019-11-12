@@ -1,0 +1,2 @@
+TitreCours: Chirurgies speciales des bovins
+DescriptionCours: Étude approfondie des conditions chirurgicales frequemment rencontrees en pratique bovine.

@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'endodontie
+DescriptionCours: Notions theoriques et demonstrations en vue de connaitre, comprendre et realiser les differentes etapes d'un traitement de canal sur des dents humaines extraites et sur des canaux simules dans des blocs en plastique.

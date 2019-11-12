@@ -1,0 +1,2 @@
+TitreCours: Analyse numerique matricielle
+DescriptionCours: Solution numerique des systemes d'equations lineaires; inversion; triangularisation. Methodes directes, methodes d'iteration, etc. Approximation des valeurs propres. Applications diverses.

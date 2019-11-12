@@ -1,0 +1,2 @@
+TitreCours: Physique mathematique II
+DescriptionCours: Étudier les symetries en physique et les lois d'invariance qui en decoulent. Theorie des transformations. Coordonnees curvilignes. Analyse tensorielle. Derivee covariante. Application a la relativite. Symetries, lois de conservation, invariance. Groupes de permutations. Groupes continus. Groupes de rotations. Groupes de Lorentz. Application aux spectres d'energie en physique moleculaire, atomique et nucleaire. Spin isotopique. Matrices de Pauli. Application a la cristallographie et a la physique de l'etat solide.

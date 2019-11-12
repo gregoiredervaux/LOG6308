@@ -1,0 +1,2 @@
+TitreCours: Senior Seminar
+DescriptionCours: Seminaire de synthese et de recherche. Sujet variable, en fonction de la recherche des professeurs.

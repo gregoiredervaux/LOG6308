@@ -1,0 +1,2 @@
+TitreCours: Mcanique statique
+DescriptionCours: Mthodes de solution des systmes de force. Application aux structures et aux machines. Frottement sec. Centrodes et centres de gravit des corps composs. Moments d'inertie des corps composs. Moments et axes principaux. Cercle de Mohr.

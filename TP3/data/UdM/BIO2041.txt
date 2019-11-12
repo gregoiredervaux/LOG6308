@@ -1,0 +1,2 @@
+TitreCours: Biostatistique 1
+DescriptionCours: Statistique biologique. Parametres d'une distribution. Lois de distribution. Intervalles de confiance. Theorie de la decision. Comparaison de deux echantillons. Correlation. Analyse de variance. Tests khi-carre. Regression.

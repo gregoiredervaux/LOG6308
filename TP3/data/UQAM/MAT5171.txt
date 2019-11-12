@@ -1,0 +1,2 @@
+TitreCours: Probabilites III
+DescriptionCours: Theorie axiomatique des probabilites: espaces probabilises, theorie de la mesure associee et de l'integration, variables aleatoires, probabilites transportees, independance et esperance conditionnelle par rapport a une tribu.

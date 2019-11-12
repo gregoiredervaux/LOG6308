@@ -1,0 +1,2 @@
+TitreCours: Éleves en difficulte au secondaire
+DescriptionCours: Éducation et reeducation des eleves presentant des difficultes d'adaptation et d'apprentissage. Integration des eleves a besoins particuliers. Cheminements particuliers au secondaire. Apercu de la recherche recente.

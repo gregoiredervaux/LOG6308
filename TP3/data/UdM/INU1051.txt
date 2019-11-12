@@ -1,0 +1,2 @@
+TitreCours: Information et sites Web
+DescriptionCours: Navigateurs. Role du W3C. Langages HTML, XHTML, XML. Contenus multimedias. Autres formats (ex. PDF). Cadres, graphisme, ergonomie avancee. Élements de scriptage. Referencement. Securite.

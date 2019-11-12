@@ -1,0 +1,2 @@
+TitreCours: Survey of American Literature
+DescriptionCours: Introduction a la litterature americaine de la revolution a nos jours; ses grands mouvements et ses contextes sociaux.

@@ -1,0 +1,2 @@
+TitreCours: Philosophie de l
+DescriptionCours: Étude des theories de l'esprit telles que developpees dans les philosophies de l'esprit et dans les sciences cognitives. Approfondissement de themes comme la dualite corps/esprit, la representation, la conscience, l'intentionnalite, les relations entre langage et pensee, la nature des etats mentaux, les qualia. Analyse des tentatives de naturalisation de l'esprit et des problemes epistemologiques souleves par les sciences cognitives et le developpement de l'intelligence artificielle.

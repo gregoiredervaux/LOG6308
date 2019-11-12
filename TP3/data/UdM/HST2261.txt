@@ -1,0 +1,2 @@
+TitreCours: Societe francaise d'Ancien Regime
+DescriptionCours: Ce cours examine la societe urbaine et rurale, la politique, l'economie, la religion et la culture de l'Ancien Regime francais de 1515 a 1789.

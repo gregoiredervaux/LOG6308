@@ -1,0 +1,2 @@
+TitreCours: La France
+DescriptionCours: Les institutions politiques : rappel historique, origines de la Cinquieme Republique, ses grands traits constitutionnels. Les partis et les courants politiques. Les elections en France.

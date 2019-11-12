@@ -1,0 +1,2 @@
+TitreCours: Biostatistique
+DescriptionCours: Statistiques descriptives. Notions de probabilite et d'echantillonnage. Introduction a l'inference statistique. Tests d'hypothese. Analyse de tableaux de contingence. Correlation et regression. Analyse de variance.

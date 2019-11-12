@@ -1,0 +1,2 @@
+TitreCours: Evaluation des aptitudes physiques
+DescriptionCours: Mesure et evaluation des habiletes motrices et psychomotrices des eleves au primaire et au secondaire. Theories sous-jacentes aux differentes methodes d'evaluation. Prescription d'exercices en fonction des resultats.

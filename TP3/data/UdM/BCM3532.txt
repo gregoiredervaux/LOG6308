@@ -1,0 +1,2 @@
+TitreCours: Stage en laboratoire de recherche
+DescriptionCours: Stage de recherche dans un laboratoire dans le domaine de la biochimie ou de la medecine moleculaire. Inclut la redaction d'un plan de recherche, d'un rapport de recherche ainsi qu'une presentation orale lors d'un minisymposium.

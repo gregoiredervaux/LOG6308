@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de didactique du francais
+DescriptionCours: Analyse et planification de sequences didactiques. Integration des differentes dimensions de l'enseignement du francais. Évaluation critique de materiel didactique.

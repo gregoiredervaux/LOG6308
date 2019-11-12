@@ -1,0 +1,2 @@
+TitreCours: Aeroelasticite des plaques et des coques
+DescriptionCours: Geometries de surface. Équations de mouvement du systeme. Avantages et inconvenients des theories de coques et plaques minces existantes. Comportement physique du phenomene aeroelastique. Aeroelasticite statique. Modele aeroelastique bidimensionnel des coques et des plaques. Aeroelasticite dynamique. Theorie de l'ecoulement potentiel aerodynamique. Theorie du piston. Reponse des coques soumises a un ecoulement turbulent. Methodes numeriques d'analyse. Applications industrielles.

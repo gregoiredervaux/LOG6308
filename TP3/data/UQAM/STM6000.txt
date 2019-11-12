@@ -1,0 +1,2 @@
+TitreCours: Activites de synthese II
+DescriptionCours: Activite de recherche de fin de baccalaureat. Elle permet un travail individuel, sous la responsabilite d'un chercheur. (Voir STM5000).

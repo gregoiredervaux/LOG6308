@@ -1,0 +1,2 @@
+TitreCours: Atelier de recherche en gestion des ressources humaines
+DescriptionCours: Le seminaire Atelier de recherche vise a ameliorer la comprehension des differentes methodes de recherche utilisees en gestion des ressources humaines. Il s'agit principalement (1) de porter un regard critique sur les moyens methodologiques mis en oeuvre par les chercheurs en gestion des ressources humaines pour faire avancer les connaissances et (2) de comprendre l'importance d'adopter une demarche rigoureuse pour resoudre les problemes de gestion des ressources humaines.

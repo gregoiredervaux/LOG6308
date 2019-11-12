@@ -1,0 +1,2 @@
+TitreCours: Stage en laboratoire
+DescriptionCours: Ce stage est destin aux tudiants dsirant travailler sur un projet de recherche ou de dveloppement dans un laboratoire de l'cole Polytechnique. Il s'adresse exclusivement aux tudiants admis dans le cadre d'un programme d'change ou d'une entente interuniversitaire. Le travail en stage doit tre approuv par un professeur du laboratoire. Le stage doit s'tendre sur une priode d'au moins 150 heures de travail en laboratoire.  la fin du stage, l'tudiant doit dposer un rapport  son ou ses superviseurs

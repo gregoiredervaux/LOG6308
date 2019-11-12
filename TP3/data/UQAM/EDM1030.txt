@@ -1,0 +1,2 @@
+TitreCours: Stage et production IV
+DescriptionCours: Meme description que le cours EDM1000.

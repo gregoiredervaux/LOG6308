@@ -1,0 +1,2 @@
+TitreCours: Analyses quantitatives en psychologie 1
+DescriptionCours: Analyses statistiques utilisees en psychologie : statistique descriptive et inferentielle. Distribution normale, correlation et regression, verification d&rsquo;hypotheses, tests parametriques (test t et analyse de la variance).

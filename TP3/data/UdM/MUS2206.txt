@@ -1,0 +1,2 @@
+TitreCours: Solfege 3
+DescriptionCours: Acquisition d'automatismes de lecture vocale, tonale, atonale et metrique. Ce cours comporte uniquement des matieres de solfege.

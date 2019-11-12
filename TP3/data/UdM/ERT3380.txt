@@ -1,0 +1,2 @@
+TitreCours: Travail dirige
+DescriptionCours: Travail personnel d'approfondissement d'un sujet, au choix de l'etudiant et en accord avec le professeur concerne.

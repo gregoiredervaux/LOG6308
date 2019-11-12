@@ -1,0 +1,2 @@
+TitreCours: Traduction juridique et administrative
+DescriptionCours: Analyse et traduction de textes juridiques et administratifs tels que contrats, conventions collectives et baux.

@@ -1,0 +1,2 @@
+TitreCours: Pratique factuelle en ergotherapie
+DescriptionCours: Bases methodologiques et statistiques de l'approche factuelle en ergotherapie. Formulation d'un probleme clinique, recherche et analyse de donnees factuelles, application a la pratique clinique. Autoevaluation de l'apprentissage.

@@ -1,0 +1,2 @@
+TitreCours: Prvention de la cybercriminalit
+DescriptionCours: Historique des programmes de prvention Internet existants et leurs valuations. Notions de base en matire de prvention. Techniques d'valuation de l'information en ligne. valuation des logiciels de filtrage de contenus illicites et prjudiciables. Enjeux, avantages et inconvnients relis  la mise en place d'un programme de prvention. tapes pour dvelopper un programme de prvention; de l'analyse des besoins  l'valuation du programme. Comptences  dvelopper pour former des internautes aviss et responsables.

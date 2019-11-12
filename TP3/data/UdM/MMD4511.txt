@@ -1,0 +1,2 @@
+TitreCours: Medecine communautaire
+DescriptionCours: Stage de quatre semaines qui offre une formation de base dans les domaines de la sante publique, de la sante du travail et de l'administration de la sante.

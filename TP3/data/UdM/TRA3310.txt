@@ -1,0 +1,2 @@
+TitreCours: Redaction professionnelle
+DescriptionCours: Étude de la communication ecrite en entreprise. Planification et structuration de differents types de textes techniques et commerciaux (resumes, syntheses, notices, rapports...).

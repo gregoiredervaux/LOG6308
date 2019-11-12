@@ -1,0 +1,2 @@
+TitreCours: Tech. de modelis. en biomecan. (GBM8214)
+DescriptionCours: Reconstruction 3D via imagerie medicale. Caracterisation des tissus cartilagineux et osseux. Modelisation: systeme musculo-squelettique, controle moteur, adaptation des tissus osseux, systeme cardio-vasculaire. Validation.

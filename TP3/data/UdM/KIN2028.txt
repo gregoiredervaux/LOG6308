@@ -1,0 +1,2 @@
+TitreCours: Entrainement musculaire
+DescriptionCours: Principes generaux et specifiques de l&rsquo;entrainement (intensite, duree, frequence, modalites, planification). Approche diverses. Outils de controle (1-RM, series, repetitions). Appareils : fonctionnement et caracteristiques.

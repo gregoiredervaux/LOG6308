@@ -1,0 +1,2 @@
+TitreCours: Vente, louage et mandat
+DescriptionCours: Étude de trois des contrats nommes regis par le Code civil et des lois particulieres : la vente mobiliere et immobiliere; le louage mobilier et immobilier (residentiel et commercial); le mandat.

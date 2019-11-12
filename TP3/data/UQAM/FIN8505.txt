@@ -1,0 +1,2 @@
+TitreCours: Marche des capitaux
+DescriptionCours: L'objectif general est de maitriser les institutions et les mecanismes de fonctionnement des marches financiers. Le modele economique et financier neo-keynesien. Les emetteurs de titres au Canada et aux États-Unis. Le role des intermediaires financiers sur les marches des capitaux. La regulation des banques et la gestion bancaire. Les aspects institutionnels des marches monetaire, obligataire et boursier au Canada et aux États-Unis. Les marches financiers internationaux. L'ingenierie financiere.

@@ -1,0 +1,2 @@
+TitreCours: Droit judiciaire prive 1
+DescriptionCours: Introduction au droit judiciaire. Competence des tribunaux. Notions de litige et d'action. Le proces : roles du juge et des parties, la contradiction. Procedures ordinaires et speciales en premiere instance. Jugement et voies d'execution.

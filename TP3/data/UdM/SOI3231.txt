@@ -1,0 +1,2 @@
+TitreCours: Éval. de la sante en situation d'urgence
+DescriptionCours: Acquisition d'habiletes a evaluer la sante des adultes en situation d'urgence.

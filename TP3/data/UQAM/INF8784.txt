@@ -1,0 +1,2 @@
+TitreCours: Circuits integres analogiques avances
+DescriptionCours: Amplificateurs operationnels integres bipolaire et MOS, references de courant et de tension, methodes avancees de conception des amplificateurs operationnels, modelisation des amplificateurs et des systemes analogiques, comparateurs, echantillonneur-bloqueur, circuits analogiques a condensateurs commutes, conception dediee aux applications a basse tension et a basse puissance. Convertisseurs analogiques-numeriques et numeriques-analogiques.

@@ -1,0 +1,2 @@
+TitreCours: Introduction a la robotique
+DescriptionCours: Ce cours vise a familiariser l'etudiant avec la problematique de la robotique. Historique des automatismes et de la robotique. Classifications des robots industriels. Manipulateurs et telemanipulateurs. Structure des robots et leurs constituants: capteurs, actionneurs, organes de prehension. Modeles dynamiques et commande des robots. Vision et reconnaissance des formes. L'intelligence artificielle. Modes de programmation. Aspects economiques et sociaux de l'utilisation des robots.

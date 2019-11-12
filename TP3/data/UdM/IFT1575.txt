@@ -1,0 +1,2 @@
+TitreCours: Modeles de recherche operationnelle
+DescriptionCours: Programmation lineaire. Simplexe. Dualite. Programmation en nombres entiers. Problemes de reseaux. Methodes PERT/CPM. Plus court chemin. Programmation dynamique deterministe et probabiliste. Modeles stochastiques.

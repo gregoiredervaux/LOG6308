@@ -1,0 +1,2 @@
+TitreCours: La Chine imperiale
+DescriptionCours: Histoire de la Chine des debuts jusqu'en 1911.

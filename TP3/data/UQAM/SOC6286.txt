@@ -1,0 +1,2 @@
+TitreCours: Atelier de methodologie quantitative 2
+DescriptionCours: Suite du cours SOC5286 Atelier de methodologie quantitative 1 Ce cours permet aux etudiants d'effectuer une demarche de methodologie quantitative dans son ensemble.

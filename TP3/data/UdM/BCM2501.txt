@@ -1,0 +1,2 @@
+TitreCours: Macromolecules biologiques
+DescriptionCours: Structure des macromolecules. Principes de purification et caracterisation. Interactions des macromolecules. Integration des connaissances en chimie organique, thermodynamique et physico-chimie a l'etude des macromolecules.

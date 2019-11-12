@@ -1,0 +1,2 @@
+TitreCours: Atelier de recherche
+DescriptionCours: Dirige, sous forme d'atelier, par le directeur de recherche de l'etudiant et oriente par le sujet de these de celui-ci, cet atelier a pour but d'arreter le corpus, d'approfondir l'hypothese theorique et methodologique en prevision de l'approbation, par le Comite de these, du projet de recherche detaille. Ce projet, assorti d'un calendrier, doit etre depose a la fin de la premiere annee.

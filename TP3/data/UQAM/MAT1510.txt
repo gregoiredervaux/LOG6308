@@ -1,0 +1,2 @@
+TitreCours: Calcul
+DescriptionCours: Cours destine aux etudiants de la faculte des sciences leur permettant d'acquerir les bases mathematiques necessaires a la pratique de leur science. Fonctions a une variable, integrales impropres. Fonctions scalaires a plusieurs variables, derivees partielles, differentielles, gradient. Fonctions implicites, jacobiens, integrales multiples. Équations differentielles. Solutions diverses incluant solution en series.

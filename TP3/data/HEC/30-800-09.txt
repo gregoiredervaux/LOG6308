@@ -1,0 +1,2 @@
+TitreCours: Conjoncture
+DescriptionCours: Ce cours initie a la prevision des principales variables macroeconomiques (PIB, inflation, taux d'interet, taux de change, etc.). Pour ce faire, l'etudiant se doit de suivre l'evolution de l'economie internationale et en particulier de l'economie americaine. L'examen des marches financiers et des marches a terme s'avere essentiel.&nbsp; Une bonne comprehension des politiques fiscale et monetaire ainsi que du role central joue par le dollar americain est egalement necessaire pour parfaire l'exercice de prevision.

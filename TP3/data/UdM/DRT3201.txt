@@ -1,0 +1,2 @@
+TitreCours: Assurances
+DescriptionCours: Importance et specificite du contrat d'assurance terrestre. Formation du contrat, risque, interet d'assurance, declarations de risque, principes indemnitaires et compensatoires.

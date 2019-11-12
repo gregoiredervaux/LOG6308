@@ -1,0 +1,2 @@
+TitreCours: Sociologie de la sante
+DescriptionCours: Revue des enjeux et des debats en sociologie de la sante et du bien-etre. Attention particuliere a la situation quebecoise. Interrelation entre les phenomenes epidemiologiques, professionnels, culturels, politiques et economiques.

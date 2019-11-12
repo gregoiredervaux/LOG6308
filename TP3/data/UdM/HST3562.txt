@@ -1,0 +1,2 @@
+TitreCours: Sciences, techniques et societes
+DescriptionCours: Étude des rapports qu'entretiennent les sciences et les techniques dans diverses societes.

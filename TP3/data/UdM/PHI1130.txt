@@ -1,0 +1,2 @@
+TitreCours: Philosophie des sciences
+DescriptionCours: La science comme entreprise rationnelle : specificite de l'explication scientifique. Notions d'hypothese, de loi, de theorie. Le developpement de la science : modeles continuistes et discontinuistes.

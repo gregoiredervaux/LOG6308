@@ -1,0 +1,2 @@
+TitreCours: Circulation
+DescriptionCours: Composantes fondamentales de la circulation : le conducteur, le vhicule, la route. Techniques d'tudes et d'analyse : tude des temps de dplacement, des retards, des vitesses, des dbits, tude des mouvements pitonniers, du stationnement et des accidents. Gestion de la circulation : les carrefours, sens unique, voies rserves, coordination des feux. Dispositifs de contrle : panneaux, marquage, lois. Introduction  la capacit des routes.

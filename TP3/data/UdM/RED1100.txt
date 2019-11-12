@@ -1,0 +1,2 @@
+TitreCours: L'edition informatisee
+DescriptionCours: Livres et imprimes, editique et graphisme. Styles en typographie. Iconographie. Les logiciels d'editique. Utilisation d'un logiciel de mise en pages. Production de textes pour impression.

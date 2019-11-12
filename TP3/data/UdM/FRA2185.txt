@@ -1,0 +1,2 @@
+TitreCours: Histoire de la litterature populaire
+DescriptionCours: Recherches sur la litterature populaire dans une perspective historique.

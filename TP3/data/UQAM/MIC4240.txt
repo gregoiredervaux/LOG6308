@@ -1,0 +1,2 @@
+TitreCours: Principes des communications II
+DescriptionCours: Étude de la modulation numerique et de ses applications. Transmission des signaux numeriques. Principes et methodes de modulation et de demodulation numeriques: PWM, PAM, PPM, PCM, FSK, PSK, DM. Applications et comparaison des differentes methodes; rapport signal/bruit. Multiplexage et demultiplexage. Introduction a la theorie de l'information. Exercices diriges et travaux pratiques en laboratoire (3 heures/semaine).

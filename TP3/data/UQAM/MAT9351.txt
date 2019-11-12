@@ -1,0 +1,2 @@
+TitreCours: Combinatoire II
+DescriptionCours: Étude approfondie des series generatrices en combinatoire. Caracterisation des series rationnelles algebriques. D-finies. Series associees aux especes de structures: series generatrices et series indicatrices, theoremes de substitution. Application au denombrement de types de structures et de structures asymetriques. Theoreme de dissymetrie pour les arbres. Decompositions moleculaire et atomique d'une espece. Foncteurs analytiques. Liens avec les fonctions symetriques et les representations lineaires du groupe symetrique.

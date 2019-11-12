@@ -1,0 +1,2 @@
+TitreCours: Situations critiques de sante 1
+DescriptionCours: Situations critiques de sante chez des personnes de tous ages : urgences respiratoires, traumato pediatrique, autres. Sciences fondamentales et pharmaco. Plan therapeutique infirmier et jugement clinique : surveillance, monitorage, prise de decision.

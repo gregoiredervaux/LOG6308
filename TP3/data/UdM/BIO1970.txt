@@ -1,0 +1,2 @@
+TitreCours: Notions de biologie pour enseignants
+DescriptionCours: Approfondissement des concepts a la base de la biologie et de leurs rapports aux applications technologiques modernes.

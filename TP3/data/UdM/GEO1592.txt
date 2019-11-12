@@ -1,0 +1,2 @@
+TitreCours: Commentaire de cartes et photos
+DescriptionCours: Destine aux futurs enseignants. Évolution des regards sur le monde et de la cartographie. Espace cartographique : echelle et contenu. Projections et representations. Introduction a la photographie aerienne et a la teledetection.

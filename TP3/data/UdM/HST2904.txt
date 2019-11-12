@@ -1,0 +1,2 @@
+TitreCours: Histoire du Quebec contemporain
+DescriptionCours: Aspects demographiques, culturels, economiques, politiques et sociaux de l'histoire recente du Quebec.

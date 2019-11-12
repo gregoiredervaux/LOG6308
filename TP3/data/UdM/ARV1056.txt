@@ -1,0 +1,2 @@
+TitreCours: Diffusion, communication et exploitation
+DescriptionCours: Methodologie des etudes de clienteles. Mise en valeur des archives. Exploitation des outils de reperage. Conception d'outils de diffusion. Éthique et deontologie. Legislation. Archives en environnement reseaute. Bases de donnees du reseau.

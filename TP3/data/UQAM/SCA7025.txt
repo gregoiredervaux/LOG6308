@@ -1,0 +1,2 @@
+TitreCours: Couche limite
+DescriptionCours: Bilan d'energie a la surface: echanges radiatifs, transfert de chaleur sensible et de chaleur latente. Diffusion de la chaleur et de l'humidite dans le sol. Theories de l'ecoulement et de la turbulence. Structure thermique et cinematique de la couche limite de surface: role de la turbulence dans les transferts d'energie. Études des transferts d'energie et de matiere en fonction de la nature de la surface (exemple: forets, villes, cultures, gazon, eau, glace, neige).

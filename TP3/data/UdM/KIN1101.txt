@@ -1,0 +1,2 @@
+TitreCours: Athletisme
+DescriptionCours: Developpement de la competence agir en ÉPS. Savoirs, savoir-etre, savoir-faire, savoir-agir dans des activites a actions uniques tels les lancers, les sauts et les courses a relais.

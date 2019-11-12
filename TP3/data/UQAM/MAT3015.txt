@@ -1,0 +1,2 @@
+TitreCours: Resolution de problemes
+DescriptionCours: Pratique de la resolution de problemes en faisant appel a l'ordinateur, et en parallele, consideration sur la methodologie de la resolution de problemes. Representations, heuristiques, apports de l'ordinateur. Diverses approches: de Polya aux methodes de l'intelligence artificielle.

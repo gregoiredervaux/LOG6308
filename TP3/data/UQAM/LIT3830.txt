@@ -1,0 +1,2 @@
+TitreCours: Semiologie
+DescriptionCours: Explorer certaines avenues recentes de la semiologie, approfondir la connaissance des systemes de signes et mettre en pratique diverses theories semiotiques. Examen de la posterite de Saussure et de Peirce a la lumiere de problematiques telles que la semiosis, la semiosphere, les seuils de l'interpretation, le fonctionnement de l'abduction, les processus de lecture, les rapports entre connotation et denotation.

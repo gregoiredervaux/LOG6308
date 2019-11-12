@@ -1,0 +1,2 @@
+TitreCours: Études d'impacts
+DescriptionCours: Évaluations environnementales dans une perspective de developpement durable. Processus quebecois d'etudes d'impacts. Role et fonctions des acteurs. Theorie et methodologie. Limites et contraintes pratiques.

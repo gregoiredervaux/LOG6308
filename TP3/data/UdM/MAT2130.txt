@@ -1,0 +1,2 @@
+TitreCours: Variable complexe
+DescriptionCours: Fonctions holomorphes d'une variable complexe. Representation conforme. Équations de Cauchy-Riemann. Theoreme de Cauchy. Series de Laurent. Theoreme fondamental des residus.

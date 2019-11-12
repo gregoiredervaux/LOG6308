@@ -1,0 +1,2 @@
+TitreCours: Implantation d'un processus de genie logiciel
+DescriptionCours: Élements qui composent un processus de genie logiciel. Normes reliees aux cycles de vie et aux processus. Processus en usage dans le milieu industriel. Methodes d'analyse et d'evaluation des processus de genie logiciel. Strategies d'implementation et d'adaptation des processus. Mesure des activites dans le cadre de processus de genie logiciel. Relations entre les processus, l'assurance qualite et la certification ISO. Meta-modele pour la conception de processus de genie logiciel.

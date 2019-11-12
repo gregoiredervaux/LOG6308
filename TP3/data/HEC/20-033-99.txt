@@ -1,0 +1,2 @@
+TitreCours: Francais ecrit - Orthographe usuelle et grammaticale
+DescriptionCours: Faciliter la redaction de textes par la revision des principales regles de grammaire. Apprendre a douter, a se mefier de son orthographe usuelle par le recours frequent aux dictionnaires et par la decouverte de pieges, d'anomalies orthographiques, etc.

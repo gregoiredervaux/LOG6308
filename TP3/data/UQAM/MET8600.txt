@@ -1,0 +1,2 @@
+TitreCours: Gestion de l
+DescriptionCours: Gestion de l'informatique: planification et controle, direction et motivation, conception de la fonction informatique et gestion des ressources humaines et materielles propres a l'informatique. Formes economiques d'organisation: propriete, reseau et impartition. Defis internes et externes du gestionnaire de l'informatique: partenariat avec le domaine d'affaires, recuperation des benefices, gestion de la decentralisation, formation des professionnels et des usagers et gestion du changement.

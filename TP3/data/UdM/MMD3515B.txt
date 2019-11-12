@@ -1,0 +1,2 @@
+TitreCours: Stage : Pediatrie du nourrisson
+DescriptionCours: Stage clinique offrant une vue globale de la pediatrie chez le nourrisson et l'enfant d'age prescolaire.

@@ -1,0 +1,2 @@
+TitreCours: Verification
+DescriptionCours: Étude approfondie des concepts importants en verification, de leurs interrelations et de leurs impacts sur le processus de verification. Orientation potentielle future des concepts utilises par les verificateurs. Comprehension de l'influence de l'environnement du verificateur sur son travail. Comparaison des elements theoriques de verification avec la pratique suggeree par les ordres comptables. Étude de la mise en application des notions reliees a la verification.

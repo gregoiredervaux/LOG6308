@@ -1,0 +1,2 @@
+TitreCours: Litterature et informatique
+DescriptionCours: Reflexion sur les effets du developpement de l&rsquo;informatique, et particulierement d&rsquo;Internet, sur les etudes litteraires.

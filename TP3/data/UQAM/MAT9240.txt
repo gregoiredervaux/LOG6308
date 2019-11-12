@@ -1,0 +1,2 @@
+TitreCours: Codes correcteurs d
+DescriptionCours: Codes lineaires et codes de Hamming, codes de Bose-Chaudhuri-Hocquenghem, corps finis et polynomes irreductibles, codes cycliques, factorisation des polynomes sur un corps fini, bornes, algorithmes de codages, decodages. Codes de Reed-Solomon, codes geometriques, codes de convolution. Bornes sur la distance.

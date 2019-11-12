@@ -1,0 +1,2 @@
+TitreCours: Soins preventifs primaires 1
+DescriptionCours: Prise en charge de patients qui doivent etre conditionnes aux soins de prevention, instruction en matiere d'hygiene dentaire personnelle et du controle de la plaque dentaire, conseils alimentaires et evaluation des conseils donnes aux patients.

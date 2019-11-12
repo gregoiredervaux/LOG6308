@@ -1,0 +1,2 @@
+TitreCours: Travaux diriges en biomedecine vet. 4
+DescriptionCours: Approche multidisciplinaire a l'aide de problemes par l'utilisation des modeles d'animaux de la faune pour approfondir certaines connaissances et en acquerir de nouvelles dans les sciences biomedicales veterinaires.

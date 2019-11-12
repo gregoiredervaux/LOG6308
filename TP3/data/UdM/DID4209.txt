@@ -1,0 +1,2 @@
+TitreCours: Did. de la geometrie, adapt. scol. prim.
+DescriptionCours: Étude des concepts, procedures, attitudes et raisonnement en geometrie et en mesure. Problemes de representation de l'espace. Situations adaptees aux eleves du primaire en difficulte, ingenieries et evaluation.

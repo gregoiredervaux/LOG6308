@@ -1,0 +1,2 @@
+TitreCours: Mathematiques financieres III
+DescriptionCours: Ce cours vise a initier les etudiants aux concepts et methodes de la finance avec des applications a l'actuariat. Theorie de la decision et des marches efficients. Élements de finance corporative, actions, obligations et dividendes. Niveau de capital et de dette. Introduction aux options et aux produits derives. Formule de Black-Scholes. Ce cours comporte une seance d'exercices de 2 heures par semaine.

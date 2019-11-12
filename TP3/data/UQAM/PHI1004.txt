@@ -1,0 +1,2 @@
+TitreCours: Introduction a la philosophie du langage
+DescriptionCours: Les principaux courants de la philosophie du langage et les domaines qui en sont constitutifs (syntaxe, semantique et semiotique, pragmatique); les concepts et problemes majeurs qui y sont traites (actes de langage, sens, reference, signe, structure, regles, etc.); la place de la philosophie du langage a l'interieur des entreprises philosophiques et par rapport a d'autres theories du langage.

@@ -1,0 +1,2 @@
+TitreCours: Statistiques et prise de decision
+DescriptionCours: Ce cours a pour objectif d'offrir a l'etudiant des methodes de resolution des problemes de gestion. Il donne aux etudiants cadres les outils necessaires pour la prise de decisions et prepare la personne cadre a prendre des decisions a partir de l'information provenant des statistiques, de la financement et des autres fonctions de l'entreprise. On utilise des outils pour l'aide a la prise de decisions.

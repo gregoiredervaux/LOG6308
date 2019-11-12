@@ -1,0 +1,2 @@
+TitreCours: Atelier Virtuose
+DescriptionCours: L'atelier Virtuose permet aux nouveaux etudiants de se familiariser avec l'environnement et les ressources technologiques de l'École. Vous pourrez, grace a l'atelier Virtuose, en savoir davantage sur Zone Cours, explorer toutes les possibilites de l'intranet HEC en ligne, decouvrir l'agenda electronique et bien plus encore.

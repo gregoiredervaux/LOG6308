@@ -1,0 +1,2 @@
+TitreCours: Économie publique
+DescriptionCours: Ce cours constitue une introduction a l'etude du role economique de l'État et a la l'analyse de ses instruments d'intervention dans le cadre des economies de marche. L'importance de l'État, ses roles et fonctions; historique de l'evolution des fonctions des differents niveaux de gouvernement au Canada. Analyse empirique et theorique de la structure des depenses publiques et des recettes fiscales. Les principes d'equite, d'efficacite et d'incidence. Études de cas. Le federalisme fiscal canadien.

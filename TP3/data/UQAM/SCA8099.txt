@@ -1,0 +1,2 @@
+TitreCours: Transport des polluants atmospheriques
+DescriptionCours: Étude quantitative des methodes de prediction et de dispersion des polluants atmospheriques. Les phenomenes de dispersion etudies couvrent plusieurs echelles depuis la couche limite jusqu'aux echelles synoptiques. Les themes discutes incluent les traitements theoriques de diffusion de materiel, les approches experimentales presentement utilisees ainsi que l'estimation de la qualite de l'air a partir des donnees meteorologiques.

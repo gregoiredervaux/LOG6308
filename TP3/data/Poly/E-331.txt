@@ -1,0 +1,2 @@
+TitreCours: Commande et protection
+DescriptionCours: Conception d'un rseau de distribution lectrique 600V et son circuit de contrle et de commande faisant appel aux lments ; relais et contacteurs c.a./c.c, dmarreurs conventionnels et lectronique de puissance, protection, interfaces manuelles et automatiques. Introduction aux notions de protection d'un rseau 25 kV. Ralisation d'un programme d'automatisme squentiel GRAFCET.

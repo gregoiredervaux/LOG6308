@@ -1,0 +1,2 @@
+TitreCours: Mathematiques des elements finis
+DescriptionCours: Espaces fonctionnels. Distributions. Formulations variationnelles. Theoreme de Lax-Milgram. Methode de Ritz. Élements finis unidimensionnels. Élements finis bidimensionnels et multidimensionnels. Analyse de convergence. Problemes non lineaires. Problemes transitoires. Systemes d'equations aux derivees partielles. Methodes stabilisees. Projet de programmation d'un resoluteur elements-finis.

@@ -1,0 +1,2 @@
+TitreCours: Chimie physique III
+DescriptionCours: Introduction a l'electrochimie. Solutions electrolytiques. Conductance, Mobilite, vitesse des ions. Nombre de transports. Thermodynamique des solutions electrolytiques. Coefficient d'activite. Thermodynamique des piles galvaniques. Électrolyse. Applications de mesures electrochimiques.

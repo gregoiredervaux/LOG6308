@@ -1,0 +1,2 @@
+TitreCours: Physiotherapie et geronto-geriatrie
+DescriptionCours: Physiologie, pathologie et psychologie du vieillissement. Aspects intellectuel et socio-economiques. Preparation a la retraite. Institutionnalisation; maintien a domicile; services offerts. Physiotherapie et troisieme age.

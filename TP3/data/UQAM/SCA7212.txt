@@ -1,0 +1,2 @@
+TitreCours: Methodes numeriques de calcul I
+DescriptionCours: Étude des methodes numeriques de calcul et application en physique atmospherique. Équations differentielles partielles. Conditions frontieres. Methodes aux differences finies. Inversion integrale. Instabilite numerique. Analyse objective.

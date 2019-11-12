@@ -1,0 +1,2 @@
+TitreCours: Didactique des arts plastiques 2
+DescriptionCours: Experiences des arts plastiques. Experimentation et evaluation d'activites d'enseignement. Integration des arts plastiques aux matieres scolaires.

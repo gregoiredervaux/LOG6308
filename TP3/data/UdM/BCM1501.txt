@@ -1,0 +1,2 @@
+TitreCours: Origine biochimique de la vie
+DescriptionCours: Caracteristiques de la vie. Conditions physico-chimiques. Structure et proprietes des glucides, lipides, acides amines, proteines, nucleotides, vitamines. Des molecules organiques aux premieres cellules. Évolution.

@@ -1,0 +1,2 @@
+TitreCours: Anesthesie
+DescriptionCours: Principes fondamentaux de l'anesthesie. Periodes preoperatoire, peroperatoire et postoperatoire. Anesthesie regionale. Physiologie et conduite anesthesique par systeme. Problemes specifiques.

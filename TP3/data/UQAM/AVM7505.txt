@@ -1,0 +1,2 @@
+TitreCours: Intervention educative dirigee
+DescriptionCours: Realisation du projet d'intervention dans un milieu de travail sous la supervision d'un tuteur choisi en accord avec le comite de programme. Bilan ecrit de l'intervention.

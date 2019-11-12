@@ -1,0 +1,2 @@
+TitreCours: Pedologie
+DescriptionCours: Morphologie et physique des sols. Concept de pedogenese. Facteurs et processus.

@@ -1,0 +1,2 @@
+TitreCours: Fondements de la chimie appliquee
+DescriptionCours: Introduction a l'utilisation de notions de chimie dans divers domaines des sciences appliquees. Échanges energetiques et notions de cinetique. Expressions de concentration, pH, constantes d'equilibre. Électrolytes en solution, notions d'electrochimie. Colloides et proprietes de surface. Notions de macromolecules.

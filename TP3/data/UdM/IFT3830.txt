@@ -1,0 +1,2 @@
+TitreCours: Systemes d'exploitation : administration
+DescriptionCours: Gestion d'un centre informatique : installation, configuration, partage de ressources et de donnees, systemes heterogenes, securite et tolerance aux pannes. Exemples bases sur les systemes recents tels UNIX ou Windows.

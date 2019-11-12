@@ -1,0 +1,2 @@
+TitreCours: Combustion et pollution atmospherique
+DescriptionCours: Les combustibles : description, classification, production et consommation. Notions de combustion, point de rosee des fumees, rendement de combustion. Équilibre chimique, temperature de flamme adiabatique. Dynamique des jets, description et calcul des flammes. Description et calcul des brûleurs. Fours industriels, description et calculs. Classification et effets des polluants. Étude des processus generant les polluants. Techniques de mesure et methodes de reduction des polluants.

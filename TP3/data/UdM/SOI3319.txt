@@ -1,0 +1,2 @@
+TitreCours: Soins en chirurgie cardiovasculaire
+DescriptionCours: Dimensions biopsychosociales du client en periodes postoperatoires immediates, intermediaires et eloignees. Demarches de soins.

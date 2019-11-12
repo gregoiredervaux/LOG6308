@@ -1,0 +1,2 @@
+TitreCours: Projet de design III a
+DescriptionCours: Atelier intensif de production ayant pour objectif de permettre aux etudiants de se familiariser avec le developpement et les aspects significatifs du projet a l'echelle de l'objet. Exploration des moyens de representation en deux et trois dimensions comme modes d'expression et de communication des propositions formelles et des idees qu'elles traduisent. Exercices et conception d'un projet d'objet a caractere utilitaire, unique ou repetitif, a partir des notions de materiaux, de fonction et de signe.

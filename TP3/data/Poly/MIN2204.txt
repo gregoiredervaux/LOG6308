@@ -1,0 +1,2 @@
+TitreCours: Caracterist. des sols et des massifs rocheux
+DescriptionCours: Caracterisation des sols et des massifs rocheux et stabilite des travaux miniers. Proprietes mecaniques des sols et des roches reliees aux proprietes physico-chimiques. Types et caracterisations physiques et mecaniques des discontinuites. Essais en laboratoire et en place servant a determiner les proprietes mecaniques des sols et des roches et des discontinuites. Modeles empiriques de caracterisation des massifs rocheux.

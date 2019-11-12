@@ -1,0 +1,2 @@
+TitreCours: Introduction a la recherche
+DescriptionCours: Formulation d'un probleme de recherche en soins infirmiers. Étude des differentes etapes du processus de la recherche.

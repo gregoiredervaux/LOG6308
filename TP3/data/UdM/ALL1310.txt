@@ -1,0 +1,2 @@
+TitreCours: Civilisation allemande
+DescriptionCours: Panorama de l'histoire politique, culturelle et artistique de l'Allemagne, de la Reforme a la Reunification (1517-1989).

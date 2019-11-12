@@ -1,0 +1,2 @@
+TitreCours: Developpement economique
+DescriptionCours: Ce cours pose la question : dans quelle mesure le mecanisme du marche peut-il assurer le developpement des pays du Tiers-Monde? Les structures internes de ces economies, ainsi que leurs relations externes, sont analysees en detail.

@@ -1,0 +1,2 @@
+TitreCours: Methodes de projet en design
+DescriptionCours: Seminaire qui a pour objet les methodes de projet en design. Étude de differentes approches dans le but d'en tirer des observations generales permettant une comprehension du processus de conception et de realisation du projet en design. Le cours favorise l'etude des demarches rigoureuses et reflexives presentees sous la forme de lectures et de conferences.

@@ -1,0 +1,2 @@
+TitreCours: Introduction a la demographie
+DescriptionCours: Introduction aux phenomenes majeurs modifiant les populations humaines, dans leur structure et dans leur mouvement : fecondite, nuptialite, mortalite, migration. Histoire des populations et croissance demographique. Perspectives de populations.

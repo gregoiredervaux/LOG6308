@@ -1,0 +1,2 @@
+TitreCours: Anesthesie-reanimation
+DescriptionCours: Stage d'une semaine permettant a l'etudiant d'acquerir la formation scientifique necessaire a l'exercice de la reanimation cardiorespiratoire et une connaissance de base en anesthesiologie.

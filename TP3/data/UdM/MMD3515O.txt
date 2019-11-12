@@ -1,0 +1,2 @@
+TitreCours: Stage : Endocrinologie pediatrique
+DescriptionCours: Stage aupres de patients d'age pediatrique en endocrinologie pediatrique.

@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Étude des differents aspects de l'industrie agroalimentaire et de leurs impacts sur l'environnement. Occupation des sols, production, transformation et distribution : description, processus relies a ces activites et leurs impacts sur l'environnement. Caracterisation des polluants dans l'air, l'eau et le sol. Controle et recyclage des dechets. Aspects economiques.

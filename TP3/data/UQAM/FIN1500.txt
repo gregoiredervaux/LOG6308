@@ -1,0 +1,2 @@
+TitreCours: Concepts elementaires de finance
+DescriptionCours: Initier l'etudiant a la gestion financiere et lui donner un bref apercu de la theorie de portefeuille. Mathematiques financieres. Choix des investissements et du financement. Structure du capital. Coût du capital. Risque et rendement. Gestion des ressources financieres a court terme. Ce cours comporte aussi 30 heures de laboratoires (exercices).

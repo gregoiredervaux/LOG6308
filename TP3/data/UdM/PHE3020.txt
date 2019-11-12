@@ -1,0 +1,2 @@
+TitreCours: Atelier thematique lie a la philanthrop.
+DescriptionCours: Cours destine a l'etude d'une thematique et a l'acquisition de competences propres au domaine de la philanthropie.

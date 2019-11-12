@@ -1,0 +1,2 @@
+TitreCours: Projet de recherche appliquee en ÉPS
+DescriptionCours: Realisation en contexte scolaire ou parascolaire du projet de recherche-action planifie dans le cours KIN 1406.

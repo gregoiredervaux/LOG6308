@@ -1,0 +1,2 @@
+TitreCours: Sem. de gestion de cas pratiques
+DescriptionCours: Aspects relationnels de la pratique du droit dans un secteur specifique d'activites. Solutions de cas pratiques. Recherche et redaction.

@@ -1,0 +1,2 @@
+TitreCours: Étude pratique du francais oral 4
+DescriptionCours: Permettre a l'etudiant ayant une bonne connaissance du francais de revoir et d'approfondir les connaissances linguistiques et socioculturelles indispensables a la communication orale dans des echanges assez complexes.

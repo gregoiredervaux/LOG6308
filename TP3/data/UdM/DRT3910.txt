@@ -1,0 +1,2 @@
+TitreCours: Sem. de recherche et redaction
+DescriptionCours: Recherches sur diverses thematiques et exposes des resultats par ecrit.

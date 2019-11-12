@@ -1,0 +1,2 @@
+TitreCours: Restauration des sols contamins
+DescriptionCours: Problmatique de la restauration des sols contamins. Dispositions lgislatives et rglementaires qui rgissent les sols contamins au Qubec. Proprits des sols. Proprits des contaminants organiques et inorganiques. Dgradation microbienne des contaminants. Interactions sols-contaminants-microorganismes. tudes de caractrisation et traitabilit. Techniques de restauration et de biorestauration des sols et des eaux souterraines. tudes de cas.

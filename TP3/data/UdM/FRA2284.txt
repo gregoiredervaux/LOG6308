@@ -1,0 +1,2 @@
+TitreCours: Paralitteratures
+DescriptionCours: Études de textes aux marges des genres litteraires canoniques : le roman policier et d&rsquo;espionnage, la litterature fantastique et la science-fiction, la bande dessinee et le photo-roman, etc.

@@ -1,0 +1,2 @@
+TitreCours: Matriaux de gnie civil
+DescriptionCours: Caractristiques et mthodes d'essais pour les matriaux de construction utiliss en gnie civil. Aciers, proprits mcaniques. Btons de ciment : constituants, prparation et mise en oeuvre, cure, proprits mcaniques, dformations diffres, durabilit. Units de maonnerie et mortiers. Bitumes et enrobs bitumineux : fabrication, formulation et mise en place des enrobs. Bois de construction : caractristiques physiques et proprits mcaniques. Gosynthtiques : proprits mcaniques et hydrauliques, applications. Essais en laboratoire.

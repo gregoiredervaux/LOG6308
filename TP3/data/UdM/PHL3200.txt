@@ -1,0 +1,2 @@
+TitreCours: Methodes de decouverte des medicaments
+DescriptionCours: Description des phases precliniques et cliniques du developpement des medicaments. Conception du medicament; evaluation in vitro et in vivo de son efficacite et de sa toxicite; reglementation, commercialisation, pharmacovigilance.

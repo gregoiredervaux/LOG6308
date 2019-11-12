@@ -1,0 +1,2 @@
+TitreCours: Chimie inorganique III
+DescriptionCours: Introduction a la chimie des composes de coordination et a la chimie inorganique avancee. Theories de la liaison de valence, du champ cristallin, du champ des coordinats et des orbitales moleculaires. Spectres electroniques. Theorie des groupes et spectres vibrationnels des composes de coordination. Composes organometalliques. Composes binaires avec le monoxyde de carbone. Stereochimie et isomeres des composes de coordination. Mecanismes de reactions inorganiques. Stabilite des complexes. Les lanthanides.

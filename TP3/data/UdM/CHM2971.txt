@@ -1,0 +1,2 @@
+TitreCours: Chimie bioanalytique
+DescriptionCours: Cours et travaux pratiques sur les methodes physiques d'analyse utilisables en milieux biologiques. Theorie de la separation. Chromatographie et electrophorese capillaire. Methodes spectroscopiques d'analyse chimique. Domaines d'application.

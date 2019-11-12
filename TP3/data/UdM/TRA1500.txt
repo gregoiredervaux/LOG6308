@@ -1,0 +1,2 @@
+TitreCours: Methodologie de la traduction
+DescriptionCours: Definition et criteres de la traduction; modes et genres. Principes de base, processus et methode. Exercices d'application.

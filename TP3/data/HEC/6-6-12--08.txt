@@ -1,0 +1,2 @@
+TitreCours: Methodes statistiques en ingenierie financiere
+DescriptionCours: Il n'y a pas de description disponible pour ce cours.

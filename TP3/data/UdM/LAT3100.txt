@@ -1,0 +1,2 @@
+TitreCours: Poesie didactique latine
+DescriptionCours: Lecture d'extraits representatifs de Lucrece, des Georgiques de Virgile et (eventuellement) d'autres textes. L'accent sera porte sur Virgile et sur les procedes qui le definissent comme un "poete savant".

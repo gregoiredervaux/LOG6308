@@ -1,0 +1,2 @@
+TitreCours: Analyse ergonomique du travail mental
+DescriptionCours: Cours relevant de l'École Polytechnique. Definition et historique. Caracteristiques du travail mental. Approche et etapes du processus d'analyse. Methodes et formalismes d'analyse (ex.: GOMS, TAG, MAD). Techniques de recueil de donnees objectives subjectives. Étude de taches mentales dans divers systemes humains-machines.

@@ -1,0 +1,2 @@
+TitreCours: Techniques de base du piano III
+DescriptionCours: Suite du cours MUS3306 Techniques de base du piano II

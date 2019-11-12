@@ -1,0 +1,2 @@
+TitreCours: Analyse experimentale du comportement
+DescriptionCours: Étude des comportements humains complexes, selon l'approche de l'analyse experimentale du comportement. Les comportements interieurs et d'autodirection. Problemes ethiques, sociaux et politiques de la mise en place de contingences experimentales.

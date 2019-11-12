@@ -1,0 +1,2 @@
+TitreCours: Parodontie theorique
+DescriptionCours: Ce cours donne a l'etudiant de 4e annee les notions qui lui font connaitre la parodontie en tant que specialite et le met au courant des relations interdisciplinaires qui la lie etroitement aux autres specialites.

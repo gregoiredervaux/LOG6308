@@ -1,0 +1,2 @@
+TitreCours: Économie de l'industrie des mineraux
+DescriptionCours: Distribution geographique des ressources minerales. Production, consommation et prix des mineraux. Structure des marches de certains mineraux. Élements d'evaluation economique : teneur-tonnages; estimation des coûts en capital et des coûts d'operation; estimation de l'etat des marches; estimation des revenus; systemes de taxation; analyses de risques et de sensibilite; optimisation economique du developpement et de l'exploitation des mines.

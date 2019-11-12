@@ -1,0 +1,2 @@
+TitreCours: Langage et communication en catechese
+DescriptionCours: Catechese et communication d'experience de foi. L'univers du langage, de la symbolique, de la gestuelle. Exploration de moyens de communication en catechese : chant, theatre, bande dessinee, multimedia, internet, etc.

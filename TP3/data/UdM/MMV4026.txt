@@ -1,0 +1,2 @@
+TitreCours: Nutrition clinique des chiens et chats
+DescriptionCours: Principes de nutrition clinique des chiens et des chats. Étude des principaux facteurs nutritionnels impliques dans les maladies. Role des dietes comme traitement primaire ou complementaire.

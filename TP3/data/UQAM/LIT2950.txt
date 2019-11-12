@@ -1,0 +1,2 @@
+TitreCours: Litteratures europeennes
+DescriptionCours: Initiation a une des litteratures nationales europeennes avec contextualisation historique. Étude de textes majeurs choisis dans un ou plusieurs genres litteraires (prose, poesie, dramaturgie, etc.).

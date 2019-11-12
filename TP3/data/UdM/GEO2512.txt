@@ -1,0 +1,2 @@
+TitreCours: Systemes d'information geographique
+DescriptionCours: Les SIG et leurs fonctions. Acquisition et stockage des donnees. Analyse des donnees avec accent sur l'analyse en mode matriciel. Sortie des resultats. Sources et propagation de l'erreur. Importance en geographie et en environnement.

@@ -1,0 +1,2 @@
+TitreCours: Semiotique philosophique
+DescriptionCours: Les differentes conceptions du signe et des ensembles signifiants qui, des stoiciens a nos jours, ont ete developpees dans la tradition philosophique. Les concepts et modeles d'une semiotique generale, ainsi que les questions d'interpretation qui y sont associees.

@@ -1,0 +1,2 @@
+TitreCours: Laboratoire d'actuariat
+DescriptionCours: Étude de problemes complexes en actuariat. Codes de conduite professionnelle. Presentation orale et travaux sur ordinateurs.

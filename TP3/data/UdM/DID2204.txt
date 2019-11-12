@@ -1,0 +1,2 @@
+TitreCours: Didactique de l'arithmetique 2
+DescriptionCours: Étude de concepts, procedures, attitudes et raisonnement en arithmetique et statistique (apprentissages subsequents). Reperes historiques, epistemologiques et didactiques. Situations didactiques, ingenieries et evaluation.

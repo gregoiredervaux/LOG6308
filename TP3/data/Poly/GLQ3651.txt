@@ -1,0 +1,2 @@
+TitreCours: Geologie miniere
+DescriptionCours: Loi des mines. Échantillonnages miniers. Sondage au diamant : deviations, arpentage et mise en plan. Theorie d'echantillonnage de Gy. Notions de ressources, reserves et teneurs de coupure : methode de Taylor et Lane. Methodes conventionnelles d'estimation des ressources. Estimation des ressources par geostatistique. Effet support et effet information. Variogrammes experimentaux et modeles. Variances de bloc, de dispersion et d'estimation. Problemes d'homogeneisation. Krigeages : simple et ordinaire; ressources recuperables.

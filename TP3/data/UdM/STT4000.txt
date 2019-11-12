@@ -1,0 +1,2 @@
+TitreCours: Memoire de fin d'etudes
+DescriptionCours: Un projet est suggere a chaque etudiant lui permettant de faire une synthese de ses connaissances en statistique. L'etudiant soumet un rapport et fait un expose oral a la fin du trimestre.

@@ -1,0 +1,2 @@
+TitreCours: Gestion financiere
+DescriptionCours: Budget d'investissement. Financement par location. Levier financier et risque. Decisions concernant la structure de capital. Politique de dividendes. Marches des capitaux.

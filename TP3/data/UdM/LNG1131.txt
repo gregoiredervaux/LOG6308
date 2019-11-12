@@ -1,0 +1,2 @@
+TitreCours: Linguistic Introduction to English
+DescriptionCours: Introduction a la structure de la langue anglaise : sa phonologie, sa morphologie et sa syntaxe.

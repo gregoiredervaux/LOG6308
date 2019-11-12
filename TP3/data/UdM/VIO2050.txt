@@ -1,0 +1,2 @@
+TitreCours: Atelier thematique
+DescriptionCours: Activite pedagogique explorant une question relative au probleme de la violence. Sujet a determiner.

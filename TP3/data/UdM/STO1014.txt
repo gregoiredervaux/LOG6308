@@ -1,0 +1,2 @@
+TitreCours: Anatomie de la tete et du cou
+DescriptionCours: Étude de l'anatomie systemique et topographique de la region de la tete et du cou, particulierement la region des maxillaires. Chaque cours sera suivi de seances d'instructions informatisees.

@@ -1,0 +1,2 @@
+TitreCours: Espagnol moderne
+DescriptionCours: Familiarisation de l'etudiant avec les nouvelles tendances de la linguistique hispanique. Vision synchronique de l'espagnol moderne et de sa situation dans le monde.

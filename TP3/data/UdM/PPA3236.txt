@@ -1,0 +1,2 @@
+TitreCours: Modeles de gestion de classe au sec.
+DescriptionCours: Principes, strategies et habiletes de gestion de classe. Rapports entre la gestion de classe et l'apprentissage scolaire et social de l'eleve. Integration des eleves en difficulte.

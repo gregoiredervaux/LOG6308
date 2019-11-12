@@ -1,0 +1,2 @@
+TitreCours: Seminaire de didactique des mathematiques
+DescriptionCours: Élaboration de projets individuels permettant a l'etudiant de prolonger sa formation mathematique soit du point de vue theorique, soit du point de vue pratique: analyse de materiel didactique, participation a une equipe de recherche, stage specialise en mathematiques dans un organisme scolaire, etc. Presentation des projets.

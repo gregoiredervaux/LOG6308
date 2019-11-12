@@ -1,0 +1,2 @@
+TitreCours: Genetique medicale
+DescriptionCours: Concepts fondamentaux de la genetique humaine. Transmission de l'heredite et ses applications medicales. Notions de cytogenetique et les applications de l'analyse chromosomique. Descriptions de quelques syndromes cliniques.

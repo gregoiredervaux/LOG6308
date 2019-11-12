@@ -1,0 +1,2 @@
+TitreCours: Enseignement clinique 2
+DescriptionCours: Enseignement clinique dirige en milieu communautaire.

@@ -1,0 +1,2 @@
+TitreCours: Projet final
+DescriptionCours: Realisation d'un objet ou d'un systeme, si possible en collaboration avec le milieu industriel ou institutionnel. Le projet peut s'arrimer au contexte industriel et commercial actuel ou a des recherches des professeurs.

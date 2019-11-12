@@ -1,0 +1,2 @@
+TitreCours: Initiation a la diplomatique medievale
+DescriptionCours: Le cours se veut une initiation aux methodes de la diplomatique : forme, elaboration et transmission des actes ecrits medievaux. Il comporte une partie pratique consacree a la lecture et a la critique diplomatique et historique d'actes originaux.

@@ -1,0 +1,2 @@
+TitreCours: Processus cognitifs 1
+DescriptionCours: Étude des processus attentionnels et mnesiques de l'etre humain. Apercu des principaux resultats et des principales theories concernant l'acquisition, la retention et la recuperation des connaissances et des souvenirs.

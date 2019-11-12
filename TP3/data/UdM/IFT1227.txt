@@ -1,0 +1,2 @@
+TitreCours: Architecture des ordinateurs 1
+DescriptionCours: Jeu d'instructions : RISC vs CISC. Modes d'adressage. Exceptions. Dispositifs d'entree/sortie, bus, interruptions. Controle cable et microprogramme. Acceleration du traitement : pipelines et parallelisme. Évolution des technologies.

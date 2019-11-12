@@ -1,0 +1,2 @@
+TitreCours: Équations aux derivees partielles
+DescriptionCours: Équations du premier ordre et du second ordre. Caracteristiques et classification. Équations elliptiques : de Laplace, de Poisson. Équation des ondes. Équation de la chaleur. Introduction aux distributions et fonctions de Green.

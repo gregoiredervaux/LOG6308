@@ -1,0 +1,2 @@
+TitreCours: Methodes de recherche et traitement des donnees en comptabilite
+DescriptionCours: Familiarisation avec les differentes methodes de recherche et techniques d'analyse statistique propres aux approches quantitative et qualitative utilisees en recherche en comptabilite, controle, audit. La partie pratique du cours sera consacree a l'apprentissage de certains logiciels et autres outils statistiques.

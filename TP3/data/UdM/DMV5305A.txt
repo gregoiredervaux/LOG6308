@@ -1,0 +1,2 @@
+TitreCours: Veterinaire et aquaculture
+DescriptionCours: Deux semaines de travaux en medecine aquatique.

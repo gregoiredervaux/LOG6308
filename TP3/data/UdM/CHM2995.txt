@@ -1,0 +1,2 @@
+TitreCours: Physicochimie generale 2
+DescriptionCours: Theorie du lien chimique. Étude experimentale de la structure moleculaire : spectroscopies d'absorption electronique, vibrationnelle (IR et Raman) et rotationnelle, RMN, RPE.

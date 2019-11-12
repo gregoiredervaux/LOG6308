@@ -1,0 +1,2 @@
+TitreCours: Stage : Hemato., oncologie pediatriques
+DescriptionCours: Stage aupres de patients d'age pediatrique en hematologie et oncologie pediatriques.

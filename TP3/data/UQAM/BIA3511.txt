@@ -1,0 +1,2 @@
+TitreCours: Specialisation II en ecologie
+DescriptionCours: L'activite abordera differents themes relies a l'ecologie terrestre et a l'ecologie aquatique. En ecologie terrestre, seront abordes les themes suivants : la faune, la flore, l'ecologie forestiere, urbaine et agricole, en tenant compte de l'individu, d'une approche evolutive et de la dynamique des populations. En ecologie aquatique, on abordera les themes de la faune et de la flore en adoptant les perspectives de productivite, de communaute et de lieux biophysiques. Suite de l'activite BIA3510.

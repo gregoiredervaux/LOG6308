@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'APP
+DescriptionCours: Initiation aux methodes d'apprentissage par probleme, travail en petit groupe. Familiarisation avec l'environnement pedagogique.

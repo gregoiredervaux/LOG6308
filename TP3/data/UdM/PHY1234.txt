@@ -1,0 +1,2 @@
+TitreCours: Introduction a la physique numerique
+DescriptionCours: Élements de programmation scientifique. Integration numerique. Systemes deterministes simples. Phenomenes stochastiques : modele de Ising, marches aleatoires, agregation, etc. Complexite : avalanches, fractales, chaos, etc.

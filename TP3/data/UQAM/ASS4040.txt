@@ -1,0 +1,2 @@
+TitreCours: Éducation dans la famille
+DescriptionCours: Le processus de socialisation de l'enfant dans sa famille: la transmission des valeurs, des attitudes; l'apprentissage des roles sociaux.

@@ -1,0 +1,2 @@
+TitreCours: Introduction a la demographie historique
+DescriptionCours: Initiation a la lecture des documents relatifs aux populations du passe. Techniques elementaires appliquees a la population canadienne.

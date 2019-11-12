@@ -1,0 +1,2 @@
+TitreCours: Physique et applications cliniques
+DescriptionCours: Notions fondamentales de principes physiques des ultrasons et leurs applications pratiques en echocardiographie. Étude de l'anatomie et la physiopathologie cardiaque par l'apprentissage des examens d'exploration et des coupes echocardiographiques.

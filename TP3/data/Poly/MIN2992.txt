@@ -1,0 +1,2 @@
+TitreCours: Stage industriel II
+DescriptionCours: Periode de travail de quatre mois dans une exploitation miniere, un laboratoire ou une compagnie de service reliee a l'industrie miniere. Le stagiaire travaille dans une fonction technique ou de production sous la supervision d'un cadre de l'entreprise. Un rapport de stage est exige et l'evaluation de l'etudiant sera faite conjointement par le superviseur industriel et le coordonnateur de stage.

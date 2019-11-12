@@ -1,0 +1,2 @@
+TitreCours: Études specialisees en finance I
+DescriptionCours: Ce cours porte sur les theories avancees de gestion de portefeuille et d'analyse du risque de taux d'interet. Le contenu du cours met l'accent sur: les theories des marches des capitaux; l'analyse moyenne-variance; le CAPM et l'APT; les theories de la repartition des actifs; les theories du chaos et des neurones; l'evaluation de la gestion de portefeuille; les theories de la structure a terme des taux d'interet; les theories de la couverture d'un portefeuille.

@@ -1,0 +1,2 @@
+TitreCours: La paleontologie humaine
+DescriptionCours: Introduction aux theories, fossiles et donnees contextuelles a la base des scenarios des origines de l'homme. Cours et laboratoires documentent notre histoire des transformations morphologiques et leur interpretation.

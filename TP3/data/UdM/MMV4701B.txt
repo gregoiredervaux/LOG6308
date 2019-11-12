@@ -1,0 +1,2 @@
+TitreCours: Initiation a la recherche veterinaire
+DescriptionCours: Une semaine complementaire aux stages MMV 4501 et MMV 4601.

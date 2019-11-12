@@ -1,0 +1,2 @@
+TitreCours: Audiovisuel
+DescriptionCours: Introduction aux techniques et au langage audiovisuels. Étude de l'audiovisuel comme moyen de communication graphique. Initiation a la conception et a la production pour le diaporama, le cinema et la television.

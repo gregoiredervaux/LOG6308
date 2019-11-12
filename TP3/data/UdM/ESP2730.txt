@@ -1,0 +1,2 @@
+TitreCours: Traduction francais-espagnol
+DescriptionCours: Traductions et critique de traductions de textes varies, du francais vers l'espagnol.

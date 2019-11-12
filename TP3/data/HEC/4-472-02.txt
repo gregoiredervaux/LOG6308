@@ -1,0 +1,2 @@
+TitreCours: Atelier en gestion: le management dans la societe d
+DescriptionCours: Cet atelier de gestion vise un double objectif.&nbsp; Dans un premier temps, il s'agit de se donner un cadre d'analyse des organisations puis, dans un deuxieme temps, nous mettrons a l'epreuve ce cadre en le confrontant a la realite du management dans la societe d'information.

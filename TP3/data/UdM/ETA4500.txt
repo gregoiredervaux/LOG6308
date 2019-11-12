@@ -1,0 +1,2 @@
+TitreCours: Pratique de l'evaluation a l'ecole
+DescriptionCours: Politiques en matiere d'evaluation des apprentissages. Problemes relies a l'application des instruments de mesure et d'evaluation en milieu scolaire. Aspects ethiques de l'evaluation. Nouvelles tendances dans le domaine.

@@ -1,0 +1,2 @@
+TitreCours: Gestion de la protection des ressources informatiques
+DescriptionCours: Acquisition des connaissances de base dans la planification, la conception, l'implantation et l'evaluation d'un programme de protection des ressources informatiques. Identification des menaces informatiques et de leurs consequences. Apercu de la legislation canadienne et quebecoise dans le domaine. Conception d'un programme de protection de recours informatique. Mesures et techniques de protection des equipements et du personnel. Mesures d'urgence.

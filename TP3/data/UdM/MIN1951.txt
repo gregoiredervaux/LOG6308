@@ -1,0 +1,2 @@
+TitreCours: Diction lyrique francaise 1
+DescriptionCours: Étude des principes de la diction lyrique francaise.

@@ -1,0 +1,2 @@
+TitreCours: Travaux pratiques de plasturgie
+DescriptionCours: Étude en laboratoire des principaux procedes de transformation des thermoplastiques tels que l'injection, l'extrusion et l'extrusion soufflage. Apprentissage des processus et des parametres d'operation. Rapports techniques ecrits.

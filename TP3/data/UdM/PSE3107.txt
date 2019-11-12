@@ -1,0 +1,2 @@
+TitreCours: Interventions en milieu scolaire
+DescriptionCours: Modalites d'intervention dans le contexte scolaire. Composantes du milieu qui influencent la mise en place et la conduite d'interventions. Dimension pluridisciplinaire.

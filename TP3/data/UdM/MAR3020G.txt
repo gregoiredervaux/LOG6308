@@ -1,0 +1,2 @@
+TitreCours: Environnement, maladies resp., therapies
+DescriptionCours: Pollution atmospherique, maladies industrielles, asthme, MPOC. Pathologie perioperatoire, ventilation mecanique, fatigue musculaire et sevrage. Chambre hyperbare, apnee du sommeil et son traitement.

@@ -1,0 +1,2 @@
+TitreCours: Approche systemique
+DescriptionCours: Fondements theoriques. Concepts, modeles relationnels. Pratiques d'intervention systemiques.

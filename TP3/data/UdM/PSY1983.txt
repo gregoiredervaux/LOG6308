@@ -1,0 +1,2 @@
+TitreCours: Psychologie et comportement
+DescriptionCours: Theorie et methodes en psychologie. Les bases biologiques du comportement, l'activite cognitive, la vie affective, le developpement, les differences individuelles, le changement, la psychologie sociale.

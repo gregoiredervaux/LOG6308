@@ -1,0 +1,2 @@
+TitreCours: Projet de recherche honor
+DescriptionCours: Encadrement personnalise d'une recherche sur une problematique elaboree par l'etudiant, de concert avec un professeur de son choix. Peut etre l'amorce d'un futur memoire ou l'occasion d'une synthese theologique personnelle.

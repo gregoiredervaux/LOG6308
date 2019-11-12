@@ -1,0 +1,2 @@
+TitreCours: Analyse de marches
+DescriptionCours: Les grands objectifs du cours d'Analyse de marches sont :a) de familiariser l'etudiant aux sources de donnees secondaires publiques et privees; b) &nbsp;de rendre operationnels chez l'etudiant des concepts de base en marketing tels ceux d'estimation de la taille d'un marche, de segmentation de marche, de cycle de vie du produit et du marche; c) d'integrer ces divers concepts et outils d'analyse dans le cadre de la gestion du marketing.

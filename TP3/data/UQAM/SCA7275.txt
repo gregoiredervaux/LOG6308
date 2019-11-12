@@ -1,0 +1,2 @@
+TitreCours: Meteorologie et teledetection
+DescriptionCours: Étude de la propagation d'ondes electromagnetiques dans l'atmosphere. Sources, antennes dipolaires et radar. Absorption, diffusion de Rayleigh, attenuation, reflectivite. Milieu ionospherique. Effets des elements de precipitation. Telemesure de proprietes atmospheriques: precipitation, vent, profil de temperature et d'humidite, turbulence.

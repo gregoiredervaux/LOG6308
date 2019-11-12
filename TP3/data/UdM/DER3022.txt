@@ -1,0 +1,2 @@
+TitreCours: Endodontie theorique
+DescriptionCours: Étude et maintien de la vitalite d'une pulpe saine. Étude et traitement des affections pulpaires et periradiculaires.

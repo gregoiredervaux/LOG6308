@@ -1,0 +1,2 @@
+TitreCours: Geophysique appliquee II
+DescriptionCours: Methodes electriques, electromagnetiques et sismiques : principes theoriques, appareillage et techniques de leves. Facteurs affectant les reponses a ces methodes Corrections, techniques de traitement et d'interpretation des donnees. Modelisations analytique et numerique. Applications aux domaines de l'exploration, de l'etude structurale, du genie et de l'environnement.

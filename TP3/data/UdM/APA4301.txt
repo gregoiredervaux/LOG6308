@@ -1,0 +1,2 @@
+TitreCours: Projet de fin d'etude
+DescriptionCours: Projet de design portant sur une problematique specifique de l'amenagement (public ou prive) en milieu urbain ou rural (echelles locale a regionale). Activite synthese de fin d'etude.

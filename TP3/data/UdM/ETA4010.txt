@@ -1,0 +1,2 @@
+TitreCours: Recherches appliquees en education
+DescriptionCours: Introduction aux thematiques de la recherche en education. Initiation a la recherche documentaire. Familiarisation aux methodes de recherche. Analyse critique d'ecrits.

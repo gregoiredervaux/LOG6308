@@ -1,0 +1,2 @@
+TitreCours: Traduction (generale et scientifique) 2
+DescriptionCours: Analyse et traduction de l'allemand vers le francais de textes de specialite et initiation aux recherches terminologiques qu'ils supposent.

@@ -1,0 +1,2 @@
+TitreCours: Medecine equine
+DescriptionCours: Une semaine complementaire aux stages MEV 4504 et MEV 4604. Stage d'ete hors programme entre la 4e et la 5e annee.

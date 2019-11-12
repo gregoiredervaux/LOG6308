@@ -1,0 +1,2 @@
+TitreCours: Le pharmacien gestionnaire
+DescriptionCours: Gestion des services pharmaceutiques; gestion des ressources humaines; legislation et organisation de la pratique; prevention des erreurs medicamenteuses; marketing des services.

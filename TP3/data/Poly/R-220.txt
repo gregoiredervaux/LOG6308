@@ -1,0 +1,2 @@
+TitreCours: Propulsion
+DescriptionCours: Revision des cycles thermodynamiques. Systemes de propulsion. Rendements. Turbines axiales et radiales. Compresseurs axiaux et centrifuges. Calculs des pertes de charge. Chambre de combustion. Entree d'air et tuyeres. Helices. Performance globale du systeme de propulsion.

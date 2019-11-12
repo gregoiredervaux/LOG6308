@@ -1,0 +1,2 @@
+TitreCours: Reconnaissance des formes
+DescriptionCours: Cours relevant de l'I.N.R.S. Base mathematique pour la reconnaissance des formes, methodes syntaxiques et statistiques, applications en reconnaissance de la parole et reconnaissance de caracteres.

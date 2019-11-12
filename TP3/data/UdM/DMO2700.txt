@@ -1,0 +1,2 @@
+TitreCours: Histoire de la population
+DescriptionCours: Presentation des principales connaissances relatives a l'histoire des idees et des faits demographiques dans le monde, des origines a nos jours.

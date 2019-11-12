@@ -1,0 +1,2 @@
+TitreCours: Comportement et rsistance des constructions
+DescriptionCours: Systmes structuraux. Introduction aux critres de conception et tats limites. Calcul des dformations de poutres. Moments d'inertie et axes principaux (rappels). Flexion bi-axiale et flexion gauche. Barres et poutres mixtes. Torsion uniforme des sections fermes et ouvertes. Introduction aux cbles, arcs et membranes. Flambement et stabilit des barres comprimes. Introduction  la vibration des poutres.

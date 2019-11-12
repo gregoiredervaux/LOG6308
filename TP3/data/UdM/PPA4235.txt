@@ -1,0 +1,2 @@
+TitreCours: L'enseignement et la creativite
+DescriptionCours: Sensibilisation au processus createur de l'enseignant et de l'eleve. Le rapport de l'enseignant a son propre champ de creativite. Pratiques, analyse de techniques de creativite dans des situations d'enseignement au primaire.

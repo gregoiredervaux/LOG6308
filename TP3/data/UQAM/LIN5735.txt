@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Ce cours vise a initier l'etudiant a la didactique de l'ecriture dans une demarche qui tient compte des processus cognitifs des eleves de cet age. La production de textes dans le cadre de projets, l'enseignement de la grammaire et de l'orthographe grammaticale et lexicale seront les aspects principalement abordes dans le cadre de ce cours.

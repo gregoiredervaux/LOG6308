@@ -1,0 +1,2 @@
+TitreCours: Éthique et gestion de projet
+DescriptionCours: Ce cours porte sur la dimension deontologique du role du gestionnaire de projet. Il traite en particulier d'ethique professionnelle (notion et code d'ethique, gestion des problemes d'ethique), de responsabilite sociale du gestionnaire de projet et de son entreprise.

@@ -1,0 +1,2 @@
+TitreCours: Rapports collectifs de travail
+DescriptionCours: Étude des lois federales et provinciales sur les rapports collectifs de travail. Associations syndicales et patronales. Conventions collectives et decrets. Reglement des conflits. Responsabilite civile et penale des parties.

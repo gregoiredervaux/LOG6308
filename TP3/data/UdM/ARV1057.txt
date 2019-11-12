@@ -1,0 +1,2 @@
+TitreCours: Stage
+DescriptionCours: D'une duree de 25 jours ouvrables realises dans un milieu de travail, le stage est accompagne d'activites pedagogiques a l'Universite.

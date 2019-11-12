@@ -1,0 +1,2 @@
+TitreCours: Activites de synthese et d'integration
+DescriptionCours: Activites pedagogiques ayant pour objectif d'amener l'etudiant a faire la synthese de ses apprentissages, a demontrer leur integration, y compris par le biais d'un stage realise dans un milieu dedie a l'intervention en deficience intellectuelle.

@@ -1,0 +1,2 @@
+TitreCours: Projets speciaux sur la violence
+DescriptionCours: Mise en pratique des connaissances acquises dans le programme par la realisation d'un projet personnel sur la violence : recherche-action, activites de prevention, etc.

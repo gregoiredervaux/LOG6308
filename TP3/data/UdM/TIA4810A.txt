@@ -1,0 +1,2 @@
+TitreCours: Stage en innocuite des aliments
+DescriptionCours: Travaux sur le terrain ou visites dans des fermes ou usines de production des aliments placant l'etudiant dans la realite de la production afin d'eviter la contamination des aliments et de definir les moyens d'en assurer l'innocuite.

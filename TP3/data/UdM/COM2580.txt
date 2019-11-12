@@ -1,0 +1,2 @@
+TitreCours: Applications Internet
+DescriptionCours: Preparation des images pour la diffusion multimedia. Conception et production de sites Internet. Ergonomie, scenarisation interactive et integration des medias. Production d'animations et programmation d'interactions simples.

@@ -1,0 +1,2 @@
+TitreCours: Methodes d'entrevue en sante
+DescriptionCours: Bases de psychopathologie generale et principales methodes d'entrevue. Variables en cause dans une entrevue. Techniques d'investigation, de communication et d'information. Applications en sante : annonce de diagnostic, gestion de cas difficiles.

@@ -1,0 +1,2 @@
+TitreCours: Pathologie veterinaire
+DescriptionCours: Quatre semaines de stages en pathologie veterinaire. Formation pratique en pathologie clinique, medecine de laboratoire, necropsie et medecine reglementee.

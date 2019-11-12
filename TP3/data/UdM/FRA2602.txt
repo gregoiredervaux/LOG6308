@@ -1,0 +1,2 @@
+TitreCours: Presse et litterature
+DescriptionCours: Problematiques liees aux rapports entre la presse et la litterature.

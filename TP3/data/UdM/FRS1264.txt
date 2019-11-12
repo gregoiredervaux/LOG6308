@@ -1,0 +1,2 @@
+TitreCours: L'information: comprehension et synthese
+DescriptionCours: Permettre a l'etudiant non francophone de developper les habiletes necessaires a la prise de notes a la suite d'une presentation orale structuree et a la synthese de l'information sous forme de compte rendu oral ou ecrit.

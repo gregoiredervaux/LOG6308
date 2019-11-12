@@ -1,0 +1,2 @@
+TitreCours: Litterature et psychanalyse
+DescriptionCours: Acquerir les notions de base pour analyser la dimension psychanalytique d'un texte litteraire. Examiner les rapports entre litterature et inconscient. Les concepts freudiens (le Moi, le Ca, le Surmoi, l'ideal du moi, l'OEdipe, le travail du reve, etc.) et lacaniens (le stade du miroir, l'imaginaire, le symbolique, le Sujet, etc.). L'inconscient et la comprehension des mecanismes de la creation litteraire. Les methodes de l'interpretation psychanalytique des textes.

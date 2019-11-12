@@ -1,0 +1,2 @@
+TitreCours: Philologie latine
+DescriptionCours: Notions fondamentales de phonetique et de morphologie historiques du latin. La flexion nominale et la flexion verbale.

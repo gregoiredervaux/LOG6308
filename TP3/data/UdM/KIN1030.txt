@@ -1,0 +1,2 @@
+TitreCours: Introduction a la biomecanique
+DescriptionCours: Application des principes et des lois de la mecanique a la description de la gestuelle humaine et des activites sportives. Analyse du mouvement, etude des forces qui le generent. Influence du materiel sportif. Laboratoires.

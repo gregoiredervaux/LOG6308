@@ -1,0 +1,2 @@
+TitreCours: Biologie cellulaire
+DescriptionCours: Étude de la structure et des fonctions de la cellule, denominateur commun de la matiere vivante. Notions generales. Methodes d'etude. Les membranes et la permeabilite cellulaire. La fonction energetique: les chloroplastes et les mitochondries. Les mouvements cellulaires. La fonction genetique : le noyau et les acides nucleiques. Reproduction cellulaire: cycle cellulaire, mitose et meiose. Differenciation cellulaire. Aspects evolutifs. Effets de l'environnement sur la cellule. Ce cours comprend des travaux pratiques.

@@ -1,0 +1,2 @@
+TitreCours: Seminaire sur la recherche en gestion des operations
+DescriptionCours: Activite de meme type que ADM9922.

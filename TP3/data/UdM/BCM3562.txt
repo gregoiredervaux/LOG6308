@@ -1,0 +1,2 @@
+TitreCours: Biochimie clinique
+DescriptionCours: Ce cours decrit l'utilisation du laboratoire pour le diagnostic et le suivi de diverses pathologies selon les organes ou selon diverses fonctions metaboliques. Valeur diagnostique des analyses, pharmacologie, toxicologie, diagnostic moleculaire.

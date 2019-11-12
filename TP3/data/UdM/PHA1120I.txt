@@ -1,0 +1,2 @@
+TitreCours: Fonctionnement normal du corps humain 2
+DescriptionCours: Approche par systeme integrant la biochimie, la biologie cellulaire et moleculaire, l¹anatomie et la physiologie visant a expliquer le fonctionnement normal du corps humain. Neurologie, systemes nerveux central et autonome, appareil locomoteur.

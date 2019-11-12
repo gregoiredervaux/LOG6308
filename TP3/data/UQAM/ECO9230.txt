@@ -1,0 +1,2 @@
+TitreCours: Sujets en macroeconomie
+DescriptionCours: Cours a contenu variable abordant divers themes de recherche actuels en theorie macroeconomique.

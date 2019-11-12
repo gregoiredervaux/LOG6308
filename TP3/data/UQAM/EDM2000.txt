@@ -1,0 +1,2 @@
+TitreCours: Stages en television
+DescriptionCours: Les stages sont des activites de formation orientees autour des metiers de la television et de la realisation de projets. Ils sont suivis en entreprise (TVA, TQ, TQS, SRC, etc.) ou a l'interne.

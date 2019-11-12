@@ -1,0 +1,2 @@
+TitreCours: Relativite generale
+DescriptionCours: Fondements mathematiques: analyse tensorielle, geometrie tensorielle. Fondements conceptuels: principe d'equivalence, principe de covariance generale. Lois du mouvement: equations geodesiques. Équations du champ d'Einstein: tenseur d'energie-impulsion, solutions interieure et exterieure de Schwarzschild. Approximation newtonienne et tests classiques. Équations linearisees et rayonnement gravitationnel.

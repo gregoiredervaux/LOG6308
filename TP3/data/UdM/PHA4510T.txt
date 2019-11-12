@@ -1,0 +1,2 @@
+TitreCours: Pratique pharmaceutique communautaire 2
+DescriptionCours: Stage de consolidation des competences reliees a la pratique pharmaceutique en milieu communautaire; interventions aupres des patients, des aidants naturels et des professionnels.

@@ -1,0 +1,2 @@
+TitreCours: Instrument ancien 6
+DescriptionCours: Contenu a preciser au moment de l'inscription.

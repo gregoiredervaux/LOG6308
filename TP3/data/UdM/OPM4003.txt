@@ -1,0 +1,2 @@
+TitreCours: Stage clinique-premiere ligne de soins 2
+DescriptionCours: Ce stage destine aux etudiants visiteurs vise l'acquisition d'une experience pratique en premiere ligne des soins oculo-visuels.

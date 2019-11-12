@@ -1,0 +1,2 @@
+TitreCours: Geometrie differentielle
+DescriptionCours: Courbes dans R3 : courbure, torsion, equations de Frenet. Surfaces dans R3 : premiere et seconde formes fondamentales, courbures de Gauss et moyenne. Isometries et theorema egregium.

@@ -1,0 +1,2 @@
+TitreCours: Recherche documentaire et terminologique
+DescriptionCours: Initiation aux techniques documentaires. Types d'information et de supports. Sources d'information. Évaluation de la documentation. Dictionnaires. Terminologie ponctuelle.

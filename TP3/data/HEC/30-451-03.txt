@@ -1,0 +1,2 @@
+TitreCours: Psychologie de la decision
+DescriptionCours: Le cours Psychologie de la decision poursuit deux objectifs fondamentaux. Tout d'abord, il presente aux etudiants les mecanismes psychologiques permettant la comprehension du processus decisionnel et l'utilisation subsequente d'un modele de prise de decision a la fois contingent et robuste. Puis, le cours offre aux etudiants la possibilite de developper leur esprit critique en egard a certaines propensions idiosyncrasiques ou certains apriorismes occultant la complexite intrinseque de l'acte de decider.

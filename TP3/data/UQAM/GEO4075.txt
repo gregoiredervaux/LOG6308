@@ -1,0 +1,2 @@
+TitreCours: Introduction a la bioclimatologie
+DescriptionCours: L'objectif de ce cours est de demontrer l'importance des interrelations entre le milieu biophysique et le climat. Les methodes de la climatologie. Les classifications climatiques mondiales. Étude de l'atmosphere, du rayonnement et du bilan thermique. Le role du climat dans la diversite ecologique. Notions de biocenose et d'ecosysteme. La place de l'homme dans les ecosystemes et ses relations avec l'environnement. Travaux de laboratoire: 2 heures. Sorties sur le terrain.

@@ -1,0 +1,2 @@
+TitreCours: Éthique
+DescriptionCours: Étude des problemes, concepts et courants de pensee en philosophie morale. Examen d'approches historiques ou contemporaines comme l'intuitionnisme, le perfectionnisme, l'utilitarisme ou le contractualisme. Examen des conceptions de la moralite et de l'ethique et des positions qu'elles peuvent entrainer, comme le relativisme, l'objectivisme ou le scepticisme. Étude de themes moraux particuliers, comme l'egalite, l'autonomie, la justice. Étude de positions metaethiques relatives au statut et aux methodes de la philosophie morale.

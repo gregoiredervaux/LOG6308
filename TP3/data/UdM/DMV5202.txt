@@ -1,0 +1,2 @@
+TitreCours: Clinique des animaux de consommation
+DescriptionCours: Quatre semaines de travaux en clinique ambulatoire et clinique bovine. Prise de l'anamnese, examens cliniques, soins medicaux et consultations.

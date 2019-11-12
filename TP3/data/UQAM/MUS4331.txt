@@ -1,0 +1,2 @@
+TitreCours: Organologie
+DescriptionCours: Étude des instruments de musique de l'Occident. Classification de Curt Sachs: idiophones, membranophones, cordophones, aerophones. Étude specifique d'instruments de chaque categorie: origine, fabrication, maniere de jouer, principes acoustiques. Connaissance des sources: ecrits theoriques, documents iconographiques. Étude des instruments depuis 1945: instruments electroniques (orgues, synthetiseurs), ordinateurs, etc.

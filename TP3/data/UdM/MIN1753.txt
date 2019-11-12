@@ -1,0 +1,2 @@
+TitreCours: Litterature d'instruments d'orchestre 1
+DescriptionCours: Description des instruments a cordes : histoire de la lutherie; leur repertoire et leurs virtuoses, les types de composition et les formations qui leur sont generales et particulieres.

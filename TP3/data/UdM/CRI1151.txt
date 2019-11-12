@@ -1,0 +1,2 @@
+TitreCours: Justice criminelle 1
+DescriptionCours: Principes generaux du droit penal. Les elements de l'infraction. La participation criminelle. Les moyens de defense. Les peines. Infractions particulieres.

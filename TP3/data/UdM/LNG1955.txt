@@ -1,0 +1,2 @@
+TitreCours: Notions generales de linguistique
+DescriptionCours: Ce cours vise a donner une formation linguistique de base.

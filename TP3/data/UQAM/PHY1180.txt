@@ -1,0 +1,2 @@
+TitreCours: Optique
+DescriptionCours: Introduction a l'optique theorique et instrumentale. Optique geometrique: systemes centres. Optique ondulatoire: origine du rayonnement, interference, diffraction, dispersion, polarisation. Optique quantique: principe d'emission et d'absorption. Applications: banc d'optique: systemes de lentilles. Ondes centimetriques: klystrom, interference, polarisation. Ondes lumineuses: tubes a decharge HgmH, Na, sources lasers, interferometrie, appareils dispersifs, spectroscopie, activite optique.

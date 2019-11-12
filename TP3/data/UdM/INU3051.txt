@@ -1,0 +1,2 @@
+TitreCours: Information et sites Web
+DescriptionCours: Historique du Web. Normes du W3C. Methodologie de developpement. Langage XHTML. Integration de contenu multimedia. Feuilles de style CSS. Ergonomie et accessibilite. Design et graphisme. Integration de JavaScript. Referencement. Securite.

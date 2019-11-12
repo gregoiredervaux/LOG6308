@@ -1,0 +1,2 @@
+TitreCours: Histoire de l'architecture moderne
+DescriptionCours: Perspective d'ensemble. Introduction a l'analyse critique des avant-gardes et des tendances dominantes depuis la revolution industrielle.

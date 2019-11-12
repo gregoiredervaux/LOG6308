@@ -1,0 +1,2 @@
+TitreCours: Histoire economique
+DescriptionCours: L'histoire economique depuis la Revolution industrielle. Textes scientifiques sur des thematiques telles la fin du colonialisme, le developpement des economies emergentes, l'integration economique et financiere en Europe et en Amerique du Nord.

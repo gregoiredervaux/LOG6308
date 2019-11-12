@@ -1,0 +1,2 @@
+TitreCours: Physique moderne
+DescriptionCours: Étude des concepts fondamentaux des sciences physiques, presentation des formalismes et des experiences en cours de la recherche contemporaine. Énergie et matiere. Dualite ondes et quanta. Lois de conservation de l'infiniment grand a l'infiniment petit. Les domaines de la recherche contemporaine aux frontieres de la connaissance. Les grandes experiences en cours: les technologies et les idees.

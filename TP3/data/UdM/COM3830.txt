@@ -1,0 +1,2 @@
+TitreCours: Labo communication et technologie
+DescriptionCours: Dans le cadre d'un seminaire, l'etudiant est invite a concevoir et realiser un projet de recherche dans le cadre d'une thematique generale suggeree par le professeur relativement a la communication et aux technologies.

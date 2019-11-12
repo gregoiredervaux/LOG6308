@@ -1,0 +1,2 @@
+TitreCours: Endocrinologie et reproduction
+DescriptionCours: Cours integre d'anatomie, biochimie et physiologie, du systeme endocrinien, du metabolisme et du systeme reproducteur. Étude des manifestations cliniques, de la pathologie, et de la physiopathologie des anomalies de ces differents systemes.

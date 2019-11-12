@@ -1,0 +1,2 @@
+TitreCours: Atelier de design 2
+DescriptionCours: Atelier regroupant trois projets de conception d&rsquo;un objet technique privilegiant une approche methodologique particuliere : 1) le contexte d&rsquo;intervention; 2) la technologie et 3) l&rsquo;esthetique.

@@ -1,0 +1,2 @@
+TitreCours: Entretien planifie
+DescriptionCours: Definition de base, objectifs et concepts de l'entretien. Structures bibliothecaires requises pour la gestion de l'entretien : materiel, main-d'oeuvre, la formation academique, les historiques. L'approvision-nement, les theories economiques et statistiques. Systemes informatiques d'entretien.

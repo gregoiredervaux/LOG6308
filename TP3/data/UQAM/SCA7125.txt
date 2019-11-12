@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de synoptique approfondie
+DescriptionCours: Application des theories aux systemes synoptiques. Techniques d'analyses objectives. Verification numerique des theories synoptiques. Experiences avec modeles barotrope et barocline. Analyse des systemes de la meso-echelle.

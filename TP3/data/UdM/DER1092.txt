@@ -1,0 +1,2 @@
+TitreCours: Prothese complete preclinique 1
+DescriptionCours: Travaux pratiques sur mannequin et articulateur Hanau. Technique pour la confection de protheses completes, de la prise d'empreintes a la cuisson des pieces. L'etudiant est initie a l'utilisation de l'articulateur.

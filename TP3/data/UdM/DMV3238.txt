@@ -1,0 +1,2 @@
+TitreCours: Intro. a la medecine des animaux de labo
+DescriptionCours: Maladies importantes des animaux de laboratoire. Regie des animaleries.

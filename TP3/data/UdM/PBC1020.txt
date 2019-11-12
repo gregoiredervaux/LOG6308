@@ -1,0 +1,2 @@
+TitreCours: Pathologie generale en dentisterie
+DescriptionCours: Étude des lesions cellulaires elementaires et des lesions parenchymateuses au cours des desordres hemodynamiques, de l'inflammation, des lesions physiques, chimiques et immunologiques, des desordres de la genetique, neoplasie, vieillissement.

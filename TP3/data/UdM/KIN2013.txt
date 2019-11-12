@@ -1,0 +1,2 @@
+TitreCours: Éducation somatique, gestion du stress
+DescriptionCours: Conceptions du corps et pratiques corporelles. Analyses d'approches alternatives, methodes de relaxation et de leurs roles dans la gestion du stress. Laboratoire d'experimentation.

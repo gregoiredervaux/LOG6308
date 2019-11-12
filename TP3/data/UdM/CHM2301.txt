@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de chimie organique
+DescriptionCours: Techniques modernes de chimie organique. Utilisation de reactifs sensibles a l'air et l'humidite. Caracterisation spectroscopique des composes organiques. Methodes contemporaines de synthese. Synthese asymetrique. Chimie combinatoire.

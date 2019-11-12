@@ -1,0 +1,2 @@
+TitreCours: Civilisation hispano-americaine 1
+DescriptionCours: Étude des grands traits des civilisations des pays de l'Amerique espagnole. Les mouvements ideologiques et culturels qui ont eu une influence capitale sur ces pays.

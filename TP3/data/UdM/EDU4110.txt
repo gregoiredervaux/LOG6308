@@ -1,0 +1,2 @@
+TitreCours: Stage 4 en adapt. scol. au secondaire
+DescriptionCours: Enseignement et exercice autonome des fonctions dans un milieu scolaire au secondaire.

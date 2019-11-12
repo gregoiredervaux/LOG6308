@@ -1,0 +1,2 @@
+TitreCours: Mathematiques actuarielles III
+DescriptionCours: Ce cours vise a permettre a l'etudiant d'effectuer une synthese des mathematiques actuarielles et lui permettre d'utiliser les outils et techniques necessaires pour resoudre des problemes de mathematiques actuarielles. L'accent du cours sera mis sur la resolution de problemes. Revision et approfondissement des notions d'assurance et de rentes sur une ou plusieurs tetes. Reserves, depenses et participations. Étude de cas et resolution de problemes en mathematiques actuarielles.

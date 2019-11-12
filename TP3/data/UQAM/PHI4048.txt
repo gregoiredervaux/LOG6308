@@ -1,0 +1,2 @@
+TitreCours: Esthetique
+DescriptionCours: Étude des paradigmes selon lesquels la question du beau et celle de la realite de l'oeuvre d'art ont ete pensees dans l'histoire de la philosophie. Les attaches du discours esthetique a une anthropologie et a une metaphysique; les approches de l'esthetique philosophique contemporaine (hermeneutique, pragmatique, analytique, semiotique, etc.).

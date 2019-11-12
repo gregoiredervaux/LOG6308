@@ -1,0 +1,2 @@
+TitreCours: Histoire de la litterature de jeunesse
+DescriptionCours: Recherches sur la litterature de jeunesse dans une perspective historique.

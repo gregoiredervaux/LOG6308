@@ -1,0 +1,2 @@
+TitreCours: Droit administratif
+DescriptionCours: Cours relevant de l'E.N.A.P. Le cours constitue une introduction au droit de l'administration publique quebecoise. Il vise a faire connaitre a l'etudiant l'existence des regles de droit qui regissent cette administration et a lui permettre d'assimiler celles qui sont susceptibles de regir ses activites de fonctionnaire, c'est-a-dire d'agent de l'administration. L'enseignement met l'accent sur l'organisation et l'activite de l'administration ainsi que sur la facon de controler cette activite.

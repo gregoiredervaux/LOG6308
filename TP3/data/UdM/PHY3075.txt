@@ -1,0 +1,2 @@
+TitreCours: Modelisation numerique en physique
+DescriptionCours: Approximations et erreurs. Techniques numeriques. Applications en mecanique classique et quantique, transferts de chaleur et de masse, electromagnetisme, physique statistique. Assimilation des donnees.

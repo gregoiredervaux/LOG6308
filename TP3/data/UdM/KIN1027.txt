@@ -1,0 +1,2 @@
+TitreCours: Évaluation de l'aptitude aerobie
+DescriptionCours: Concepts et composantes de la puissance, de l'endurance et du rendement mecanique; composante corporelle et unites de mesure. Tests : procedures, validite, fidelite, normes.

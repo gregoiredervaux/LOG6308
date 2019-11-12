@@ -1,0 +1,2 @@
+TitreCours: Materiaux et procedes en aeronautique
+DescriptionCours: Utilisation des differents materiaux. Introduction aux traitements des materiaux. Procedes metallurgiques. Procedes chimiques. Materiaux composites. Adhesifs pour applications structurales. Scellants et me¬thodes d'etancheite. Essais non destructifs.

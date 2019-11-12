@@ -1,0 +1,2 @@
+TitreCours: Genomique et proteomique
+DescriptionCours: Approfondissement de l'etude des fonctions cellulaires au niveau moleculaire. Biologie moleculaire de l'ADN. Recombinaison et plasticite du genome, aspects evolutifs. Genomique: etat actuel et perspectives futures. Phylogenie moleculaire. Biotechnologies. Utilisation des banques de donnees de genes et de proteines. Analyse et comparaison de sequences. Modelisation moleculaire. Pharmacogenomique et pharmacoproteomique. Ce cours comprend des travaux pratiques.

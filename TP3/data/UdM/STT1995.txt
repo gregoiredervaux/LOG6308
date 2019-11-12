@@ -1,0 +1,2 @@
+TitreCours: Analyses statistiques
+DescriptionCours: Statistiques descriptives. Loi normale. Estimation ponctuelle et par intervalle. Tests d'hypotheses. Comparaison entre deux groupes, test du khi-deux. Correlation et regression. Analyse de la variance. Introduction a un progiciel statistique.

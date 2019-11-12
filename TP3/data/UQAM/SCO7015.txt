@@ -1,0 +1,2 @@
+TitreCours: Reglement de litige
+DescriptionCours: Étude du travail effectue dans les cas de litiges ou en matiere de juricomptabilite. Par exemple, on examinera la redaction d'une demande d'indemnite d'assurance, la negociation avec les autorites gouvernementales, la position de temoin-expert, l'impact fiscal d'un divorce. Certains contextes specifiques d'application comme l'arbitrage, les fraudes et detournements de fonds, les sinistres, poursuites, conflits contractuels, mises a pied et licenciements, etc. seront examines par domaine d'expertise.

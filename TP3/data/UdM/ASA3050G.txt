@@ -1,0 +1,2 @@
+TitreCours: Activite d'integration
+DescriptionCours: Apprentissage a partir d'etudes de cas permettant a l'etudiant de faire un bilan des competences, d'approfondir les notions abordees. Élaboration d'un plan personnel afin de poursuivre le developpement de competences de gestion.

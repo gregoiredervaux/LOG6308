@@ -1,0 +1,2 @@
+TitreCours: Atelier d'opera
+DescriptionCours: Mise en application du comportement et jeu scenique du chanteur a travers le repertoire d'operas de chambre traditionnels et actuels.

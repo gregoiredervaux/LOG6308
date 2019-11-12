@@ -1,0 +1,2 @@
+TitreCours: Conception des routes
+DescriptionCours: Introduction  la capacit des lments routiers. lments de circulation. Classification des routes. Statistiques. Vhicule et conducteur. Localisation du trac : consultation des citoyens, protection de l'environnement, esthtique. Analyse conomique. Gomtrie du trac : alignements horizontal et vertical; signalisation, clairage, marquage. Conception des chausses. Drainage. Rsistance au gel et  la fissuration. Techniques de construction. Techniques et gestion de l'entretien des chausses.

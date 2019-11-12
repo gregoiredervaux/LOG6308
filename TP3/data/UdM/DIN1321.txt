@@ -1,0 +1,2 @@
+TitreCours: Materiaux 1 : bois et autres materiaux
+DescriptionCours: Nature et proprietes du bois et autres materiaux utilises en design industriel (derives du bois, ceramiques, verres, textiles, etc.). Procedes de mise en forme et d'assemblage. Principales applications.

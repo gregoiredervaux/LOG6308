@@ -1,0 +1,2 @@
+TitreCours: Introduction a la physique experimentale
+DescriptionCours: Apprentissage des methodes de physique experimentale par l'etude de phenomenes physiques varies tires de la mecanique classique, de la mecanique quantique et de l'electromagnetisme.

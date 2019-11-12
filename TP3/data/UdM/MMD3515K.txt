@@ -1,0 +1,2 @@
+TitreCours: Stage : Pediatrie ambulatoire
+DescriptionCours: Stage clinique offrant une vue globale de la pediatrie en pediatrie ambulatoire.

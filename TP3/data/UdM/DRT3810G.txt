@@ -1,0 +1,2 @@
+TitreCours: Droit de la sante
+DescriptionCours: Étude des diverses normes gouvernant la gestion des services de sante, les etablissements, le personnel et les usagers. Regime d'assurance-maladie.

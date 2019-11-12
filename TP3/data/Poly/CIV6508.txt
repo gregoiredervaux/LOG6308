@@ -1,0 +1,2 @@
+TitreCours: Analyse dynamique des structures
+DescriptionCours: Systme  un degr de libert en rgimes lastique et plastique sous sollicitations dynamiques. Matrices de masse et de rigidit pour les systmes  plusieurs degrs de libert. Mthodes de calculs des valeurs et vecteurs propres. Mthodes d'intgration directe des quations de mouvement. Analyse dans le domaine des frquences. Analyse modale. Techniques de rduction des degrs de libert pour les grands systmes. Modlisation des btiments. Analyses spectrale et temporelle des btiments soumis aux tremblements de terre.

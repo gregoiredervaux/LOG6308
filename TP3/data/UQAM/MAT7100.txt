@@ -1,0 +1,2 @@
+TitreCours: Theorie des anneaux
+DescriptionCours: Generalites sur les anneaux: ideaux et homomorphismes, somme sous-directe. Anneaux et modules. Radical premier. Theoreme de Wedderburn-Artin. Radical de Jacobson.

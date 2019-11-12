@@ -1,0 +1,2 @@
+TitreCours: Civilisation russe
+DescriptionCours: Apercu de la vie sociale et culturelle russe du Moyen Age jusqu'a la revolution de 1917.

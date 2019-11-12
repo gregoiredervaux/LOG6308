@@ -1,0 +1,2 @@
+TitreCours: P
+DescriptionCours: Familiariser l'etudiant avec les enjeux, opportunites et difficultes associees a l'introduction et la gestion des technologies de l'information en milieu de P.M.E. Definition de P.M.E et specificite. Bref survol des principales technologies de l'information. Technologies de l'information et opportunites strategiques. Gestion et implantation des technologies de l'information dans les P.M.E. Technologies de l'information et gestion des ressources humaines, financieres et technologiques.

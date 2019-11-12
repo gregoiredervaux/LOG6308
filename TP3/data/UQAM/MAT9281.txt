@@ -1,0 +1,2 @@
+TitreCours: Series chronologiques avancees
+DescriptionCours: Methodes recentes en prevision de qualite. Étude de processus evolutifs: Holt-Winter, Box-Jenkins. Methode de Kalman et methodes econometriques. Filtre lineaire. Modele de fonction de transfert. Modeles avec retroaction.

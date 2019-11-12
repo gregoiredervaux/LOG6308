@@ -1,0 +1,2 @@
+TitreCours: L'organisation du travail enseignant
+DescriptionCours: Contribution des enseignants a la gestion des activites de l'ecole, participation a la prise de decision et au conseil d'etablissement, relations de travail et comportements dans l'organisation scolaire.

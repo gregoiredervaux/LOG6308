@@ -1,0 +1,2 @@
+TitreCours: Typologie des archives
+DescriptionCours: Categories, types de documents et particularites. Assises legales ou administratives. Modes de creation. Étude de corpus specifiques. Production informatique de documents analogiques et numeriques.

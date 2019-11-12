@@ -1,0 +1,2 @@
+TitreCours: Cours a themes variables
+DescriptionCours: Étude approfondie d'un theme faisant ou non partie d'une des orientations ou d'un domaine d'activites des professionnels en exercice. Ce cours pourrait toucher, entre autres, la juricomptabilite, les instruments financiers, la verification interne, l'environnement, le comptable et la societe, les systemes d'information comptable, la comptabilite et les technologies de l'information, etc.

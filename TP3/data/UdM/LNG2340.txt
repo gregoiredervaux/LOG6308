@@ -1,0 +1,2 @@
+TitreCours: Langues secondes
+DescriptionCours: Principes linguistiques de l'enseignement des langues etrangeres. Examen des programmes et des methodes d'enseignement des langues secondes. Contenu linguistique. Observation de classes si possible.

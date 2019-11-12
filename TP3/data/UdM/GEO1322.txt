@@ -1,0 +1,2 @@
+TitreCours: Geographes et geographies
+DescriptionCours: Grecs et mesure de la terre, empire romain, voyageurs arabes et chinois, exploration, grandes decouvertes, arpenteurs, geographie moderne, geographie nationale, enigmes et societes, revolution quantitative, metier et discours du geographe.

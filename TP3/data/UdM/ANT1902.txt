@@ -1,0 +1,2 @@
+TitreCours: Élements d'anthropologie
+DescriptionCours: Ce cours effectue un survol des quatre champs de l'anthropologie : l'archeologie, l'anthropologie biologique, l'ethnologie et l'ethnolinguistique, par le biais de l'examen de questions particulieres auxquelles les chercheurs se sont interesses.

@@ -1,0 +1,2 @@
+TitreCours: Artaud et Grotowski
+DescriptionCours: Initiation aux theories dramatiques d'Artaud et de Grotowski. Étude des textes et analyse de quelques realisations exemplaires.

@@ -1,0 +1,2 @@
+TitreCours: Enseignement du francais aux allophones
+DescriptionCours: Les eleves allophones a besoins particuliers en milieu scolaire. Facteurs, etapes et difficultes relies a l'apprentissage du francais langue seconde. Methodes d'enseignement. Activites de reeducation et d'evaluation.

@@ -1,0 +1,2 @@
+TitreCours: Langue ecrite, enseignement sur mesure 2
+DescriptionCours: Exercices individualises par ordinateur sur l'orthographe, les accords, la construction des phrases et le choix des termes.

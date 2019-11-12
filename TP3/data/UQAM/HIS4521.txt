@@ -1,0 +1,2 @@
+TitreCours: Histoire du Quebec
+DescriptionCours: Étude des grands phenomenes et des transformations majeures qui ont marque le Quebec et la societe quebecoise depuis 1867, sur les plans politique, economique, social et culturel. Initiation aux principaux debats interpretatifs.

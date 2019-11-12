@@ -1,0 +1,2 @@
+TitreCours: Comptabilite financiere III
+DescriptionCours: L'objectif de ce cours est de comprendre les fondements conceptuels et de maitriser les normes et pratiques comptables de certains sujets specialises en comptabilite financiere avancee. Instruments financiers. Impots sur les benefice des societes. Conversion et consolidation des etats financiers de filiales etrangeres. L'information financiere des organismes sans but lucratif. Avantages sociaux futurs. Contrats de location. Resultat par action.

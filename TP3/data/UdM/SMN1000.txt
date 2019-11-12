@@ -1,0 +1,2 @@
+TitreCours: Services a domicile
+DescriptionCours: Orientation des services. Contexte social; politiques. Structure, organisation, articulation des services public, prive et benevole. Programmes-cadres, coordinations regionale et nationale. Complementarite des services centree sur l'usager.

@@ -1,0 +1,2 @@
+TitreCours: Stage
+DescriptionCours: Les stages sont des activites de formation orientees autour de la realisation de projets. Dans le cas du stage de nature «integration en entreprise», on s'attendra a etre place dans des situations de productions conforme a celles de l'industrie. Les commandes seront le resultat d'ententes prealables avec des firmes externes et impliqueront la constitution de petites equipes mobiles. La supervision du projet se fera sous la double tutelle de l'enseignant et du repondant en entreprise.

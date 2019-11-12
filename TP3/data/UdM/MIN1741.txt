@@ -1,0 +1,2 @@
+TitreCours: Litterature du clavecin
+DescriptionCours: Survol de la litterature du clavecin a travers des oeuvres de grands maitres.

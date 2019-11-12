@@ -1,0 +1,2 @@
+TitreCours: Mecanique des roches II
+DescriptionCours: Instrumentation. Remaniement des echantillons. Dispersion des resultats. Investigation de sites. Essais en place. Pressions de terrains : techniques de mesure, choix des techniques, modeles de calcul des contraintes. Releves structuraux : orientation preferentielle, dispersion, ecart. Instabilites structurales : analyses de stabilite par projection stereographique, talus, souterrains. Pressions hydrauliques. Conduites forcees. Fondations. Modelisation numerique.

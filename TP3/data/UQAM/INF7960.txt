@@ -1,0 +1,2 @@
+TitreCours: Estimation et revision du produit logiciel
+DescriptionCours: Intervention possible au niveau du cycle de vie du logiciel: en amont (conception) vs. en aval (maintenance). Abstractions du produit logiciel. Interets des abstractions. Modeles d'estimation de la qualite. Techniques de construction des modeles, retro-ingenierie, re-ingenierie, comprehension de programmes.

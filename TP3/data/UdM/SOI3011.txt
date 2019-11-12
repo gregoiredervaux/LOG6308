@@ -1,0 +1,2 @@
+TitreCours: Recherche clinique: role de l'infirmiere
+DescriptionCours: Introduction au role de l'infirmiere-coordonnatrice d'etudes cliniques. Seront traites, entre autres : dossier patient, responsabilites legales, pharmacovigilance, effets secondaires, developpement continu de la qualite.

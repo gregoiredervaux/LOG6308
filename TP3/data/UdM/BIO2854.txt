@@ -1,0 +1,2 @@
+TitreCours: Stage d'ecologie des animaux terrestres
+DescriptionCours: Travaux a la Station de biologie des Laurentides en mai. Élaboration d'un projet de recherche, recolte et analyse des donnees, redaction de rapport. Connaissances en biostatistiques (BIO 2041) recommandees.

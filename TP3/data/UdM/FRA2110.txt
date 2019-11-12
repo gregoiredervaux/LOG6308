@@ -1,0 +1,2 @@
+TitreCours: Litterature francaise du XVIIe siecle
+DescriptionCours: Étude de l'evolution des textes, genres et formes de la litterature francaise du XVIIe siecle.

@@ -1,0 +1,2 @@
+TitreCours: C.Spec.:aeroports et secur. de l'aviat. civil
+DescriptionCours: Introduction aux differents systemes du transport aerien et roles des ingenieurs. Developpement economique des aeroports, transport intermodal, politiques de gestion aeroportuaire. Exploitation et optimisation logistique et certification des aerodromes. Entretien des aeroports et de certains systemes et environnement. Securite et annexes de l'OACI. Historique de l'evolution de la reglementation et du droit. Responsabilite des ingenieurs. Cargo et fret aerien incluant les matieres dangereuses.

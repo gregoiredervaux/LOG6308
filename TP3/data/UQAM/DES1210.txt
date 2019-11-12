@@ -1,0 +1,2 @@
+TitreCours: Design
+DescriptionCours: Introduction generale aux concepts du design. Étude du design comme reponse formelle a un probleme. Analyse theorique et pratique de la participation du designer dans la societe.

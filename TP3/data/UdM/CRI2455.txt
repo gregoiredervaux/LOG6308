@@ -1,0 +1,2 @@
+TitreCours: Personnalite criminelle 1
+DescriptionCours: La personnalite criminelle dans son unite : etudes des caracteristiques constantes observees chez les criminels et justification de leur specification.

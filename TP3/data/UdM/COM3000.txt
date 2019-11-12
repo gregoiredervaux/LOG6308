@@ -1,0 +1,2 @@
+TitreCours: Stage en communication 1
+DescriptionCours: Activites supervisees de communication en milieu professionnel qui visent l'integration de la formation academique acquise. Production d'un rapport de stage.

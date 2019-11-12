@@ -1,0 +1,2 @@
+TitreCours: Harmonie au clavier
+DescriptionCours: Realisation au clavier de l'accompagnement de melodies tonales donnees, non modulantes et modulantes.

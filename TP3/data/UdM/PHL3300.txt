@@ -1,0 +1,2 @@
+TitreCours: Travaux pratiques en pharmacologie
+DescriptionCours: Methodes utilisees pour definir l'action des medicaments sur le systeme nerveux, la musculature lisse vasculaire et extravasculaire, le muscle strie squelettique et cardiaque, et sur les systemes cardiovasculaire et urinaire.

@@ -1,0 +1,2 @@
+TitreCours: Statistique sociale avancee
+DescriptionCours: Les notions d&rsquo;inference et les principes d&rsquo;echantillonnage. La logique de l&rsquo;analyse a trois variables : analyse de variance, regression multiple et logistique. Modelisation a l&rsquo;aide de STATA en utilisant des bases de donnees disponibles publiquement.

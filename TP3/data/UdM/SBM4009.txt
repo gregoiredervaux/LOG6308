@@ -1,0 +1,2 @@
+TitreCours: Stage honor en pharmacologie
+DescriptionCours: Realisation d'un projet de recherche en pharmacologie dans un milieu approuve par le responsable de l'orientation.

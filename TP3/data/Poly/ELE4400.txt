@@ -1,0 +1,2 @@
+TitreCours: lectronique industrielle
+DescriptionCours: lectronique industrielle et lectronique de puissance dans la conversion et l'utilisation efficace de l'nergie lectrique. Semi-conducteurs de puissance et leur environnement. Caractristiques structurelles et analyse fonctionnelle des convertisseurs  commutation naturelle et  commutation force: redresseurs, hacheurs, onduleurs, variateurs. Modlisation de convertisseurs et valuation par exprimentation et par simulation numrique du comportement rel de convertisseurs statiques.

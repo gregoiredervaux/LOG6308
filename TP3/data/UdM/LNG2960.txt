@@ -1,0 +1,2 @@
+TitreCours: Phonetique experimentale 2
+DescriptionCours: Analyse instrumentale des aspects segmental et (surtout) suprasegmental de la parole en relation avec l'analyse linguistique de l'enonce. Enseignement theorique et travaux pratiques sur logiciels d'analyse et de synthese de la parole en laboratoire.

@@ -1,0 +1,2 @@
+TitreCours: Approche theorique
+DescriptionCours: Étude de notions theoriques et de concepts inherents aux experiences de sante d'une clientele cible.

@@ -1,0 +1,2 @@
+TitreCours: La sante et les groupes ethniques
+DescriptionCours: Conception et systeme de representation de la sante et de la maladie qui se traduisent par des comportements, des connaissances et des realites sociosanitaires culturellement differents.

@@ -1,0 +1,2 @@
+TitreCours: Projets speciaux en milieu multiethnique
+DescriptionCours: Activites pedagogiques destinees a permettre a l'etudiant de mettre en pratique les connaissances acquises d'un projet personnel (recherche, stage, etc.).

@@ -1,0 +1,2 @@
+TitreCours: Stage applique ou projet de recherche 2
+DescriptionCours: Manipulations avancees et (ou) mise au point d'un systeme experimental dans un des domaines de la specialisation envisagee.

@@ -1,0 +1,2 @@
+TitreCours: Le Quebec preindustriel
+DescriptionCours: Discuter les acquis de la litterature scientifique sur les structures sociales du Quebec preindustriel. Concevoir et realiser un court projet de recherche a partir des sources imprimees ou manuscrites.

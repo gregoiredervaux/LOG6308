@@ -1,0 +1,2 @@
+TitreCours: Science des aliments
+DescriptionCours: Étude des aliments : caracteristiques, achat, cuisson et conservation. Proprietes fonctionnelles physicochimiques des matieres premieres. Principes de base de l'analyse sensorielle des aliments.

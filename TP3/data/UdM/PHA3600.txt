@@ -1,0 +1,2 @@
+TitreCours: Atelier thematique
+DescriptionCours: Approfondissement de certains themes d'interet ou d'actualite dans le domaine de la pratique pharmaceutique.

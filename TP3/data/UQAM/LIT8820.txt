@@ -1,0 +1,2 @@
+TitreCours: Methodologie et projets
+DescriptionCours: Ce seminaire obligatoire presente les exigences methodologiques liees au memoire de maitrise et permet un examen critique des outils de recherche en etudes litteraires. Il contribue a aider l'etudiant a se trouver un directeur de recherche et a definir son projet de memoire.

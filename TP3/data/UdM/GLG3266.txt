@@ -1,0 +1,2 @@
+TitreCours: Gisements metalliferes
+DescriptionCours: Environnement geologique, forme, mineralogie et mode de mise en place des differents types de gisements metalliferes. Études petrographiques megascopiques des minerais et des roches encaissantes.

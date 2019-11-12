@@ -1,0 +1,2 @@
+TitreCours: Arts anciens au Quebec
+DescriptionCours: L'architecture, la peinture, la sculpture et les arts decoratifs comme expression des ideologies dominantes depuis la Nouvelle-France jusqu'a la fin du XIXe siecle.

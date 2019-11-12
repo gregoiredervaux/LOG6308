@@ -1,0 +1,2 @@
+TitreCours: Methodes et outils en theologie
+DescriptionCours: Panorama des methodologies theologiques. Techniques de composition et de presentation d'un travail. Étapes de recherche: problematique, hypothese, analyse et synthese. Outils de travail: ouvrages de reference, collections, revues, etc.

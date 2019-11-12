@@ -1,0 +1,2 @@
+TitreCours: Études specialisees en finance II
+DescriptionCours: Le cours vise a transmettre aux etudiants une comprehension solide des nouveaux instruments financiers, des principes d'evaluation qui leur sont applicables, des liens qui les unissent aux titres sous-jacents, et des strategies de couverture, de speculation, d'arbitrage et d'assurance de portefeuille. Les principaux paradigmes qui caracterisent l'evaluation des produits derives comme axe fondamental de la finance sont egalement etudies.

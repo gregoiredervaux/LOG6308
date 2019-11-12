@@ -1,0 +1,2 @@
+TitreCours: Radiocommunications mobiles:syst. et concept.
+DescriptionCours: Caracteristiques physiques du canal radio-mobile et des modeles de propagation. Modele cellulaire et problemes afferents. Reutilisation des frequences, procedures de releve entre les cellules et localisation des mobiles. Modeles de trafic et dimensionnement des systemes. Problemes d'allocations des frequences. Exemples de systemes en operation (AMPS, GSM, DECT). Systemes de la prochaine generation a spectre etale et a communication radio de paquets.

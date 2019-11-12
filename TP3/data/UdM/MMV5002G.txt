@@ -1,0 +1,2 @@
+TitreCours: Ateliers de formation clinique
+DescriptionCours: Participation a des activites pratiques ayant pour but d'ameliorer la maitrise des techniques de pointe utilisees en medecine veterinaire.

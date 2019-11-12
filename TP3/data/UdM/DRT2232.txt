@@ -1,0 +1,2 @@
+TitreCours: Droit judiciaire prive 2
+DescriptionCours: Recevabilite des elements de preuve : pertinence, droits fondamentaux, informations confidentielles. Fardeau de preuve et connaissance judiciaire. Moyens de preuve. Acces aux elements et aux moyens de preuve. Production de la preuve.

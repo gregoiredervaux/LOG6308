@@ -1,0 +1,2 @@
+TitreCours: Interaction humain
+DescriptionCours: Étude des modeles et des recherches sur l'interaction humain-ordinateur dans divers domaines de communication mediatisee : mondes virtuels, e-commerce, formation a distance, partage des connaissances et des ressources, technologies adaptees, intelligence et personnalisation des systemes. Principes de conception et d'evaluation des interfaces en ergonomie cognitive.

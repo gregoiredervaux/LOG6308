@@ -1,0 +1,2 @@
+TitreCours: Methodes asymptotiques en statistique
+DescriptionCours: Theorie et methodes recentes en approximation asymptotique. Étude approfondie de la fonction de repartition echantillonale et de ses applications.

@@ -1,0 +1,2 @@
+TitreCours: Physique subatomique
+DescriptionCours: Composition de la matiere. Techniques experimentales : accelerateurs, detecteurs. Interactions fondamentales. Élements de physique nucleaire. Symetries et lois de conservation. Modele de Glashow-Weinberg-Salam.

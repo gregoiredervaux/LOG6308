@@ -1,0 +1,2 @@
+TitreCours: Conc. des oper. d'agitation et de melange
+DescriptionCours: Problematique des operations industrielles de melange pour des milieux newtoniens et rheologiquement complexes. Principes fondamentaux de l'homogeneisation solide-liquide et gaz-liquide. Criteres de conception, de dimensionnement et d'extrapolation des melangeurs. Performance des equipements industriels. Logiciels de conception.

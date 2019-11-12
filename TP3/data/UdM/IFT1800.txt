@@ -1,0 +1,2 @@
+TitreCours: Initiation a l'informatique
+DescriptionCours: Information et informatique. Concepts et vocabulaire de base. Acces a l'information via Internet. Applications diverses : arts, sciences, gestion, sante, education, etc.

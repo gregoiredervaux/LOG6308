@@ -1,0 +1,2 @@
+TitreCours: La Seconde Guerre mondiale
+DescriptionCours: Ce cours couvrira les origines, le deroulement et les repercussions de la Seconde Guerre mondiale. Les themes abordes sont la guerre froide ayant precede les hostilites, la naissance de l'Allemagne nazie, la politique d'apaisement, etc.

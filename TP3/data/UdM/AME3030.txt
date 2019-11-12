@@ -1,0 +1,2 @@
+TitreCours: Atelier multidisciplinaire
+DescriptionCours: Developpement d'un projet en reponse a un programme precis portant sur un secteur specifique de l'activite humaine.

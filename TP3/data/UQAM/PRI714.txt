@@ -1,0 +1,2 @@
+TitreCours: Application des connaissances I
+DescriptionCours: Amener l'etudiant a definir son role et ses limites en tant que gestionnaire ou intervenant dans le domaine de la prevention d'incapacite et a maintenir a jour ses competences. Cours d'integration des trois premiers cours. Il vise l'acquisition d'habiletes d'identification des sources d'informations et des strategies optimales pour avoir acces a l'information valable ainsi que la capacite d'analyse et de synthese.

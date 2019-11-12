@@ -1,0 +1,2 @@
+TitreCours: Le theatre latin
+DescriptionCours: Les origines des principaux genres dramatiques et leur evolution; les conditions physiques de la representation; etude approfondie d'une ou deux comedies.

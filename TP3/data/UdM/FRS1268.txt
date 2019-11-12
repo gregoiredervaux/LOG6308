@@ -1,0 +1,2 @@
+TitreCours: Projet special
+DescriptionCours: Permettre a l'etudiant de niveau avance de completer ses apprentissages par des projets speciaux lies a ses interets, son champ professionnel ou son domaine d'etudes.

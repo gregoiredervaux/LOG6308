@@ -1,0 +1,2 @@
+TitreCours: La maison aux energies douces
+DescriptionCours: Étude des principes, applications et limites des systemes de chauffage solaire passifs et actifs, energie eolienne, accumulation d'energie sous forme de chaleur sensible, pompes a chaleurs pour le chauffage des batiments et des maisons individuelles au Canada.

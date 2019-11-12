@@ -1,0 +1,2 @@
+TitreCours: Science et ingenierie des polymeres
+DescriptionCours: Introduction aux polymeres industriels incluant les polymeres techniques, les caoutchoucs et les biopolymeres. Caracteristiques des macromolecules, polymerisation, structure a l'etat solide, rheologie, proprietes physiques et mecaniques. Polymeres composites, melanges polymeres (adjuvants, renforts, alliages).

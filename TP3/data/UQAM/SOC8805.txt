@@ -1,0 +1,2 @@
+TitreCours: Sociologie de la famille
+DescriptionCours: Étude des dynamiques et des transformations de la famille et de la parentalite dans le contexte des societes occidentales. Analyse des consequences de ces transformations sur les relations parentales et intergenerationnelles, et des enjeux sociaux, ethiques, politiques et economiques.

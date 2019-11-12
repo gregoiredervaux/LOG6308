@@ -1,0 +1,2 @@
+TitreCours: Didactique des mathematiques en L2
+DescriptionCours: Problematique specifique de l'enseignement des mathematiques a des eleves non francophones. Principaux savoirs arithmetiques et geometriques enseignes au primaire. Situation didactique. Évaluation.

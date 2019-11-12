@@ -1,0 +1,2 @@
+TitreCours: Modalites electrotherapeutiques 2
+DescriptionCours: Theorie de l'electrotherapie : electrodiagnostic et therapie du muscle denerve, ondes courtes, micro-ondes, infrarouges, ultra-violets, courant continu constant. Selection des modalites appropriees. Methodes d'application et d'evaluation.

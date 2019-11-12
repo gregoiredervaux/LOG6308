@@ -1,0 +1,2 @@
+TitreCours: Les arts de la couleur 1
+DescriptionCours: Sensibilisation aux theories, aux techniques et aux arts de la couleur. Experimentation des divers procedes, techniques et materiaux utilises en couleur. Role de la couleur et son application dans divers champs d'action.

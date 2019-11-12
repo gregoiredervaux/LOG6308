@@ -1,0 +1,2 @@
+TitreCours: Stage : Recherche
+DescriptionCours: Participation sous supervision appropriee, a un travail de recherche, soit au sein de la Faculte de medecine, soit dans un autre milieu universitaire reconnu.

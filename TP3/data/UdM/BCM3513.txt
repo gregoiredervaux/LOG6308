@@ -1,0 +1,2 @@
+TitreCours: Pathophysiologie moleculaire
+DescriptionCours: Concepts fondamentaux de biologie cellulaire et moleculaire integres a la pathophysiologie des systemes cardiovasculaire, neuro-endocrinien et immunitaire, ainsi qu'au cancer et au vieillissement. Apprentissage par problemes.

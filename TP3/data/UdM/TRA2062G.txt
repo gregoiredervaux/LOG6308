@@ -1,0 +1,2 @@
+TitreCours: Traduction medico-pharmaceutique
+DescriptionCours: Analyse et traduction de textes medicaux, paramedicaux et relatifs a la pharmacologie.

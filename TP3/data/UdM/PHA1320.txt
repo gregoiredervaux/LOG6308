@@ -1,0 +1,2 @@
+TitreCours: Laboratoire - pratique professionnelle 2
+DescriptionCours: Simulations de situations cliniques simples. Obtention et organisation de l&rsquo;information; identification des problemes; execution d&rsquo;une ordonnance de preparation extemporanee; preparation et distribution de medicaments; conseils au patient.

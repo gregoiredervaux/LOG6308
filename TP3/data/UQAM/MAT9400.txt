@@ -1,0 +1,2 @@
+TitreCours: Algebre et combinatoire
+DescriptionCours: Monoides et algebres libres. Inversion de Mobius dans les monoides de commutation; theorie des empilements. Applications a l'algebre lineaire. Tableaux de Young, algorithme de Robinson-Schensted, partitions planes, formules des equerres. Fonctions symetriques, series indicatrices. Étude de certains themes parmi les suivants: anneaux, theorie des invariants, combinatoire et algebre commutative.

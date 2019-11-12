@@ -1,0 +1,2 @@
+TitreCours: Systemes politiques canadiens
+DescriptionCours: Étude comparee des provinces et des regions du Canada. Le cours utilise l'approche comparee pour etudier la specificite du Canada en Amerique du Nord, la diversite des societes qui composent le pays, et les differents systemes politiques provinciaux.

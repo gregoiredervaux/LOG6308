@@ -1,0 +1,2 @@
+TitreCours: Methodes mathematiques de la physique I
+DescriptionCours: Fonctions d'une variable complexe. Fonctions analytiques. Formule de Cauchy. Series de Laurent. Calcul des residus. Distribution de Dirac. Series de Fourier. Coefficients d'Euler. Conditions de Dirichlet. Identite de Parseval. Transformees de Fourier. Convolution. Principe d'incertitude. Applications aux equations differentielles ordinaires.

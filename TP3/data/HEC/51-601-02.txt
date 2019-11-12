@@ -1,0 +1,2 @@
+TitreCours: Statistique
+DescriptionCours: L'objectif de ce cours est de presenter aux etudiants du M.B.A. quelques techniques statistiques utiles pour prendre des decisions eclairees en gestion. Les applications de la matiere seront presentees dans un contexte de situations d'affaires pratiques, permettant a l'etudiant d'acquerir une certaine perspective.

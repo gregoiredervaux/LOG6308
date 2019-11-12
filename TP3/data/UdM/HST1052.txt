@@ -1,0 +1,2 @@
+TitreCours: Histoire du Canada depuis 1850
+DescriptionCours: Ce cours aborde des themes fondamentaux de l'histoire du Canada depuis 1850 : la definition de la nation, le Canada comme État federal, l'economie nationale, le Canada sur la scene internationale, la diversite culturelle.

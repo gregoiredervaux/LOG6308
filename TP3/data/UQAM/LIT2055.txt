@@ -1,0 +1,2 @@
+TitreCours: Litterature et philosophie
+DescriptionCours: Comparer les pratiques discursives de la philosophie et de la litterature. Comprendre les enjeux critiques des conceptions philosophiques de la litterature. Parcours historique des rapports entre philosophie et litterature depuis Platon et Aristote en passant par l'esthetique des Lumieres et le Romantisme allemand. Les concepts philosophiques relatifs a la fiction litteraire : imitation, representation, simulacre, imagination, sensibilite, fabulation, ecriture.

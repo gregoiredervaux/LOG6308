@@ -1,0 +1,2 @@
+TitreCours: Stage d'intervention
+DescriptionCours: Activites pedagogiques destinees a permettre aux etudiants de mettre en pratique les connaissances acquises par le biais d'un stage realise dans un milieu d'intervention aupres des jeunes.

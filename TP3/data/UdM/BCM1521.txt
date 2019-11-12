@@ -1,0 +1,2 @@
+TitreCours: Travaux pratiques de biochimie 1
+DescriptionCours: Introduction a l'instrumentation et aux methodes de la biochimie qui seront illustrees par des travaux pratiques portant sur l'isolement et la caracterisation du glycogene, des lipides, des peptides et de l'ADN.

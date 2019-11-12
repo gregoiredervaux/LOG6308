@@ -1,0 +1,2 @@
+TitreCours: Amenagement des espaces museaux
+DescriptionCours: Cours relevant de l'Universite de Montreal Sensibisation des participants aux problemes d'amenagement. Les multiples aspects (techniques et esthetiques) de l'architecture interne du musee: securite, acces et circulation; controle de l'ambiance sonore, lumineuse, atmospherique; espaces, formes, textures et couleurs; installations fixes et mobiles; equipements et espaces de service. Relations de l'edifice avec la ville et le milieu environnant. Étude de cas.

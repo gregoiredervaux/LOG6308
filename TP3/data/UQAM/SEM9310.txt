@@ -1,0 +1,2 @@
+TitreCours: Stage d
+DescriptionCours: Sous la supervision d'un professeur du programme, l'etudiant dispense un cours a orientation semiologique dans un des departements collaborant au programme ou, avec l'approbation du Sous-comite d'admission et d'evaluation, dans un autre departement. Cette activite est evaluee selon la notation succes-echec.

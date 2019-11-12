@@ -1,0 +1,2 @@
+TitreCours: Prothese complete theorique 3
+DescriptionCours: Étude comparative des techniques et des principes regissant les etapes de la confection des protheses completes. Lien direct entre la theorie et la clinique. Cas speciaux.

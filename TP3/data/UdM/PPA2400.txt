@@ -1,0 +1,2 @@
+TitreCours: Éleves en difficultes d'apprentissage
+DescriptionCours: Problematique de l'intervention aupres des eleves en DA. Contexte scolaire et caracteristiques de ces eleves au primaire et au secondaire. Évaluation descriptive et diagnostique. Methodes et strategies d'intervention.

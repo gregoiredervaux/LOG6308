@@ -1,0 +1,2 @@
+TitreCours: Introduction : dentisterie pediatrique
+DescriptionCours: Examen de l'enfant. Approche psychologique. Diagnostic, plan de traitement, prevention. Materiaux dentaires, traitements pulpaires, traumatismes. Habitudes orales. Maladies parodontales. Enfants handicapes et les maladies systemiques.

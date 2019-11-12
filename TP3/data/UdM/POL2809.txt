@@ -1,0 +1,2 @@
+TitreCours: Methodes quantitatives d'analyse
+DescriptionCours: Apprentissage de methodes frequemment utilisees en science politique : utilisation des bases de donnees, mesures d'associations, regression, analyses multivariees. Realisation d'une recherche originale.

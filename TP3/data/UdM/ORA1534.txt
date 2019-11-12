@@ -1,0 +1,2 @@
+TitreCours: Langage 1
+DescriptionCours: Acquerir une comprehension de la morphologie, du lexique et de la semantique.

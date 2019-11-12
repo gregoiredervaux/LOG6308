@@ -1,0 +1,2 @@
+TitreCours: Environnement et gestion des rejets miniers
+DescriptionCours: Effets de l'exploitation d'une mine sur le milieu : generalites, ecologie, legislation, effluents et rejets, impacts environnementaux. Drainage minier acide (DMA) : prediction, traitement, prevention, controle. Agents de traitement mineralurgique. Rejets miniers solides. Restauration et fermeture de sites. Auscultation et suivi. Aspects economiques. Pratiques environnementales.

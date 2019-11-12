@@ -1,0 +1,2 @@
+TitreCours: Instrumentation et travaux pratiques II
+DescriptionCours: Realisation d'experiences avec divers instruments de mesure atmospheriques et hydriques et analyse des donnees de teledetection: les precipitations, l'evaporation, les aerosols, l'ecoulement atmospherique et hydrique.

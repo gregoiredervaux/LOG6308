@@ -1,0 +1,2 @@
+TitreCours: Problemes actuels en administration publique
+DescriptionCours: Identification et analyse des problemes administratifs et politiques auxquels sont confrontees les administrations publiques. Étude des questions particulieres d'organisation, de productivite, d'efficacite, d'imputabilite et de representativite du personnel du secteur public.

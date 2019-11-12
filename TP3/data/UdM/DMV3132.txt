@@ -1,0 +1,2 @@
+TitreCours: Anesthesie,analgesie et reanimation vet.
+DescriptionCours: Principes d'anesthesie appliques a diverses especes animales. Controle de la douleur aigue. Fluidotherapie. Urgences anesthesiques et reanimation.

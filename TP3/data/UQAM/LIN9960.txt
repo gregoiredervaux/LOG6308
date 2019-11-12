@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique B
+DescriptionCours: Activite de meme type que LIN9950.

@@ -1,0 +1,2 @@
+TitreCours: Modelisation et mecanique quantique
+DescriptionCours: Calcul des structures electroniques et des proprietes des molecules a l'aide de logiciels de modelisation bases sur la mecanique quantique.

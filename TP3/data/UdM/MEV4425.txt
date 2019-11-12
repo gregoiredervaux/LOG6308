@@ -1,0 +1,2 @@
+TitreCours: Alimentation pratique des bovins laitier
+DescriptionCours: Principes generaux et aspects pratiques en alimentation bovine ; evaluation d'une ration et utilisation des diverses methodes diagnostiques comme outil d'evaluation.

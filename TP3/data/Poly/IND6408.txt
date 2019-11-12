@@ -1,0 +1,2 @@
+TitreCours: Ergonomie du controle de processus
+DescriptionCours: Definition et problematique du travail de controle et de surveillance de processus technologiques. Performance humaine. Modeles de l'operateur humain. Analyse et organisation du travail. Automatisation, formation technique, charge de travail et assistance a l'operateur. Postes de travail. Normes et securite. Interfaces humains-machines.

@@ -1,0 +1,2 @@
+TitreCours: Troubles du langage chez l'enfant
+DescriptionCours: Familiarisation avec les principales approches a l'evaluation et a la reeducation des problemes de langage chez l'enfant.

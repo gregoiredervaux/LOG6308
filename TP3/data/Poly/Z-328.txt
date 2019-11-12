@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'informatique et ordinateurs
+DescriptionCours: Ce cours s'adresse a des personnes n'ayant aucune connaissance prealable de l'informatique. Il donne une formation generale sur le materiel informatique et les logiciels de facon a developper une connaissance des differents concepts associes a l'informatique individuelle (micros) ainsi qu'a l'informatique d'entreprise. Les travaux pratiques sur ordinateur serviront a inculquer quelques notions de programmation.

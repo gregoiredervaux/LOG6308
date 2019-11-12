@@ -1,0 +1,2 @@
+TitreCours: Institutions musicales au Quebec
+DescriptionCours: Presentation des institutions musicales quebecoises et de leur histoire au cours de la seconde moitie du XXe siecle en lien avec les politiques culturelles federales et provinciales.

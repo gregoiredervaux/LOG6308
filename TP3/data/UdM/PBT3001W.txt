@@ -1,0 +1,2 @@
+TitreCours: Publicite pour commerces de detail
+DescriptionCours: Structure, contexte et particularites des commerces de detail. Approches publicitaires et styles de campagne pour commerces et arteres commerciales.

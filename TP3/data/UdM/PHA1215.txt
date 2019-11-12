@@ -1,0 +1,2 @@
+TitreCours: Le pharmacien et la loi
+DescriptionCours: Encadrement juridique et normatif de la pratique pharmaceutique au Quebec; organisation de la sante; organisation de la pratique professionnelle et de la pharmacie; tenue de pharmacie; mise en marche et distribution du medicament.

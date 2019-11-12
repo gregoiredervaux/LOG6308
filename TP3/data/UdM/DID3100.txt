@@ -1,0 +1,2 @@
+TitreCours: Didactique de l'histoire au secondaire 1
+DescriptionCours: Problematique de l'enseignement de l'histoire. Differentes approches en didactique de l'histoire. Analyse des programmes. Contenus, demarches d'enseignement, formes d'evaluation. Analyse et production de scenarios d'enseignement.

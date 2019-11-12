@@ -1,0 +1,2 @@
+TitreCours: Lecture et conception du paysage
+DescriptionCours: Exercices et projets visant l'apprentissage de la lecture du paysage, l'analyse et l'organisation des fonctions et des formes de l'espace public exterieur (place, parc, passage, jardin).

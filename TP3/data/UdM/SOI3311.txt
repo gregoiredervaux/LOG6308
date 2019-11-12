@@ -1,0 +1,2 @@
+TitreCours: Soins infirmiers en cardiologie 1
+DescriptionCours: Dimensions biopsychosociales du client presentant des problemes de rythme, de conduction ou d'ordre vasculaire.

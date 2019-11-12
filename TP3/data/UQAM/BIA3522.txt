@@ -1,0 +1,2 @@
+TitreCours: Specialisation II en biologie moleculaire et biotechnologie
+DescriptionCours: Les objectifs de cette unite sont de permettre a l'etudiant de connaitre la structure des virus et les criteres taxonomiques, les mecanismes de replication virale et les effets de l'infection sur le metabolisme cellulaire, le mode de transmission des virus, la pathogenese virale, la reponse immunitaire et les dereglements du systeme immunitaire specifiques a certaines infections virales et finalement les differentes approches de lutte antivirale.

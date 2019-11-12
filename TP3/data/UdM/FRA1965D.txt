@@ -1,0 +1,2 @@
+TitreCours: La phrase
+DescriptionCours: Nature et fonction des mots; mots variables et invariables; fonctions liees au verbe; attribut; complement du nom. Types et formes de phrases, types de subordonnees; coordination, juxtaposition, ellipse. Relations logiques.

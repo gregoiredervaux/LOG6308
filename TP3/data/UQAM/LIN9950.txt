@@ -1,0 +1,2 @@
+TitreCours: Seminaire thematique A
+DescriptionCours: Seminaire a contenu variable portant sur les domaines principaux de recherche departementale, ou sur un theme de pointe en linguistique.

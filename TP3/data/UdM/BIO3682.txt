@@ -1,0 +1,2 @@
+TitreCours: Endocrinologie animale
+DescriptionCours: Caracteristiques du systeme endocrinien. Role des hormones dans la differenciation sexuelle, la reproduction, le stress, la morphologie, l'alimentation, les rythmes biologiques. Hormones synthetiques utilisees par l'humain. Agents endocrinotoxiques.

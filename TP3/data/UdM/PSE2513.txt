@@ -1,0 +1,2 @@
+TitreCours: Étude d'un programme d'intervention 1
+DescriptionCours: Initiation a un programme ou modele specifique d'intervention et a ses differentes composantes. Preparation a la mise en oeuvre d'un projet special. A titre d'exemples : clientele TED, modalites en intervention de crise, etc.

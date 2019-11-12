@@ -1,0 +1,2 @@
+TitreCours: Acquisition du langage de 0 a 5 ans
+DescriptionCours: Acquisition normale de la communication verbale : stades, comportements communicatifs et mecanismes d'apprentissage typiques chez l'enfant d'age prescolaire.

@@ -1,0 +1,2 @@
+TitreCours: Pathogenese microbienne
+DescriptionCours: Introduction aux maladies bacteriennes; diagnostic, vaccination; facteurs de virulence : regulation et identification; interaction hote-pathogene; mecanismes moleculaires de diverses maladies bacteriennes.

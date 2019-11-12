@@ -1,0 +1,2 @@
+TitreCours: Problemes d'ethique
+DescriptionCours: Analyse des principaux debats en ethique normative (consequentialisme et deontologisme) et en metaethique (realisme et irrealisme, cognitivisme et non-cognitivisme, descriptivisme et prescriptivisme).

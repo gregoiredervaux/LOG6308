@@ -1,0 +1,2 @@
+TitreCours: Mise en oeuvre de SIG
+DescriptionCours: Developpement de programmes associes aux differentes boites a outils propres aux logiciels utilises en systemes d'information geographique. Adaptation de logiciels afin de developper des outils clef en main. Diffusion des donnees et informations (georepertoires) par les NTIC. Fonctionnement et implication des serveurs. Processus d'implantation d'un SIG: etudes de cas (aspects humains et techniques). Fonctionnement du SIG: gestion des operations et des transactions. Periodes de laboratoire. Sorties sur le terrain.

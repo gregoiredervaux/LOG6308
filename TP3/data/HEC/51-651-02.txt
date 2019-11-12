@@ -1,0 +1,2 @@
+TitreCours: Statistics
+DescriptionCours: The objective of this course is to present to M.B.A. students some of the fundamental techniques of using data to make informed management decisions. Much of the material will be presented in the context of practical business situations from various settings, allowing the student to gain some perspective.

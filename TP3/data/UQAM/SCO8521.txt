@@ -1,0 +1,2 @@
+TitreCours: Comptabilite strategique
+DescriptionCours: Étude de nouveaux courants en comptabilite de management dans une perspective strategique. Reflexion sur le renouvellement de la discipline a la lumiere de problematiques telles la gouvernance d'entreprise, la gestion de la qualite et les transformations organisationnelles.

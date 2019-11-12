@@ -1,0 +1,2 @@
+TitreCours: Geomathematiques
+DescriptionCours: Application des statistiques aux problemes geologiques. Description statistique des donnees geologiques. Interpolation et extrapolation. Lissage de donnees. Modelisation des donnees. Analyse factorielle. Composantes principales. Estimation des parametres. Intervalles de confiance. Élements d'analyse spectrale. Application aux donnees geologiques et geophysiques. Travaux pratiques: informatisation et analyse de donnees geologiques. Laboratoire (2 heures)

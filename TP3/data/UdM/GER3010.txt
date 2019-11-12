@@ -1,0 +1,2 @@
+TitreCours: Techniques d'evaluation et etude de cas
+DescriptionCours: Familiariser l'etudiant avec les principaux elements des techniques d'evaluation de cas et a reconstituer les etapes d'un projet d'etude de cas dans le travail aupres des personnes agees.

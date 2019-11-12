@@ -1,0 +1,2 @@
+TitreCours: Endodontie clinique 1
+DescriptionCours: Seances cliniques sur patients couvrant les differentes etapes d'un traitement endodontique pouvant etre prises en charge par un dentiste generaliste.

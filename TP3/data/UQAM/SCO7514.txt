@@ -1,0 +1,2 @@
+TitreCours: Comptabilite financiere I
+DescriptionCours: Introduction a la normalisation au Canada et a l'echelle internationale. Les objectifs de ce cours sont les suivants: se familiariser avec le contenu des differents etats financiers; connaitre et appliquer les traitements comptables de differents postes aux etats financiers. Cadre theorique, actifs a court et a long terme, passif a court terme, dette a long terme, capitaux propres, constatation des produits, etat des flux de tresorerie.

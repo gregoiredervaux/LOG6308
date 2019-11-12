@@ -1,0 +1,2 @@
+TitreCours: Stage industriel II
+DescriptionCours: Ce stage de 15 semaines a temps complet en milieu industriel, pour travailler sur un projet de recherche et developpement, s'adresse exclusivement aux candidats inscrits a un programme de maitrise cours. Il se fait sous la supervision conjointe d'un professeur de l'École et d'un ingenieur de l'entreprise. Les participants doivent remettre un rapport a la fin du stage.

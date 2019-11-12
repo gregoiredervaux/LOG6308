@@ -1,0 +1,2 @@
+TitreCours: Commande de systemes incertains
+DescriptionCours: Classification des systemes incertains, perturbations structurees et non structurees, stabilite interne, factorisation irreductible, parametrisation de controleurs, valeur singuliere structuree, stabilite et performance robuste, methodes de H&amp;#61605;, theoreme de Kharitonov, familles polytopiques, applications guardiennes.

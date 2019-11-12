@@ -1,0 +1,2 @@
+TitreCours: Neurocognition musicale
+DescriptionCours: Introduction a la demarche experimentale en neurosciences cognitives et a differents aspects de la cognition musicale : perception, memoire, emotions/action, langage/musique, effets de la musique sur stress/douleur, plasticite cerebrale.

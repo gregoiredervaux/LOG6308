@@ -1,0 +1,2 @@
+TitreCours: Seminaire lie aux activites de recherche III
+DescriptionCours: Étude des problemes associes aux etapes de recherche qui font l'objet de l'activite de recherche en cours.

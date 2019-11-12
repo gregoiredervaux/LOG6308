@@ -1,0 +1,2 @@
+TitreCours: Communication scientifique veterinaire
+DescriptionCours: Methodes de lecture critique des documents scientifiques pertinents a la medecine veterinaire. Formes de communication scientifique. Preparation des rapports ou d'articles scientifiques. Preparation et presentation de conferences.

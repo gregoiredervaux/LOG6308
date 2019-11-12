@@ -1,0 +1,2 @@
+TitreCours: Photogeologie
+DescriptionCours: Élements de teledetection; spectre electromagnetique; notions multispectrales. Photos noir et blanc, infrarouge, couleurs. Photogrammetrie. Interpretation geologique des photos.

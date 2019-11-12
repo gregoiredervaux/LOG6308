@@ -1,0 +1,2 @@
+TitreCours: Pensee politique
+DescriptionCours: Les principales inflexions de la pensee politique au XXe siecle. On traitera, par exemple, des developpements du liberalisme et du socialisme, des redefinitions du conservatisme, du feminisme, de la theorie democratique, des remises en cause du politique.

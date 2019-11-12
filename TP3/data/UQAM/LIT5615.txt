@@ -1,0 +1,2 @@
+TitreCours: Semiotique
+DescriptionCours: Probleme de la construction d'un objet de connaissance applicable a un texte litteraire. Analyse des relations constitutives d'un texte a partir d'un point de vue semiotique. Application pratique: analyse du discours.

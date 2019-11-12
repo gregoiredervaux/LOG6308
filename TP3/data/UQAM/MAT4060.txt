@@ -1,0 +1,2 @@
+TitreCours: Programmation non lineaire et programmation dynamique
+DescriptionCours: Programmation en nombres entiers, algorithme de Gomorin. Programmation non lineaire: conditions necessaires et suffisantes d'optimalite, methode du gradient et ses diverses variantes. Programmation dynamique: le principe d'optimalite; verification a posteriori; applications a la recherche du plus court chemin, a la programmation lineaire ou non lineaire; difficulte d'utilisation de la methode.

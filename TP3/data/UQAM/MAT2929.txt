@@ -1,0 +1,2 @@
+TitreCours: Utilisation de l
+DescriptionCours: Ce cours porte sur l'integration d'outils informatiques dans l'enseignement des mathematiques au primaire. Il s'articule autour de deux grand themes: introduction a l'utilisation d'un logiciel-outil (parmi HyperCard, MicroWorld, Excel, Logo...) dans un contexte de pedagogie par projets et examen des implications de telles activites pour le developpement logico-mathematique; construction de scenarios d'integration de l'ordinateur a l'enseignement de contenus mathematiques specifiques au primaire.

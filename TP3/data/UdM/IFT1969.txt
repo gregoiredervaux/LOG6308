@@ -1,0 +1,2 @@
+TitreCours: Programmation scientifique en langage C
+DescriptionCours: Élements de base de la programmation. Fonctions, tableau, structures de donnees dynamiques, recursivite. Utilisation du langage C pour resoudre des problemes scientifiques.

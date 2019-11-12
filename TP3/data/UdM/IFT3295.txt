@@ -1,0 +1,2 @@
+TitreCours: Bio-informatique
+DescriptionCours: Notions de biologie moleculaire. Algorithmes de recherches et d'alignement de sequences. Programmation dynamique. Arbres phylogenetiques. Genomique comparative. Expression, modeles et reseaux genetiques. Prediction de structures d'ARN et de proteine.

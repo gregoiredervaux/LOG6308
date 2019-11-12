@@ -1,0 +1,2 @@
+TitreCours: lments d'lectrotechnique et d'lectronique
+DescriptionCours: Rappel des concepts fondamentaux des circuits. Circuits  courant alternatif monophas et triphas. Transformateur et moteur  courant alternatif. Distribution industrielle et utilisation de l'nergie lectri-que. lments d'lectronique: diodes, transistors, thyristors, amplificateurs oprationnels. Introduction  l'lectronique industrielle et de puissance. Variateurs lectroniques de puissance.

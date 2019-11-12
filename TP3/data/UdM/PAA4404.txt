@@ -1,0 +1,2 @@
+TitreCours: Les souris transgeniques
+DescriptionCours: Le role des souris transgeniques dans la recherche medicale : theorie, pratique, implications.

@@ -1,0 +1,2 @@
+TitreCours: Philosophie de l'esprit
+DescriptionCours: Introduction aux principales doctrines philosophiques contemporaines concernant la nature et la variete des phenomenes mentaux et leurs relations aux phenomenes physiques : materialisme, fonctionnalisme, externalisme.

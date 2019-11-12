@@ -1,0 +1,2 @@
+TitreCours: Exploitation des systemes d'information
+DescriptionCours: Traitement des bases de donnees de la criminalite a l'aide d'outils technologiques. Analyse cybernetique de la criminalite. Gestion de l'information.

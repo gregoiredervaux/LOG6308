@@ -1,0 +1,2 @@
+TitreCours: Projets speciaux
+DescriptionCours: Preparation, planification operationnelle et realisation d'un projet de gestion qui permettra aux etudiants d'etudier des problemes reels de gestion, d'en faire l'analyse et de proposer des alternatives de solutions concretes et pratiques. Le projet doit etre realise dans la mesure du possible en relation avec l'exterieur et etre supervise. Chaque projet doit faire l'objet d'un ou plusieurs rapports qui seront presentes dans le cadre d'un seminaire.

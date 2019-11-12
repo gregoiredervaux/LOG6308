@@ -1,0 +1,2 @@
+TitreCours: Litterature russe du 20e siecle 2
+DescriptionCours: Litterature des annees 30 jusqu'a 1956. Serafinovitch, Fadeev, Cholokhov, Tolstoi, Tvardovski, Platonov. Litterature de 1956 a nos jours. Pasternak, Aksionov, Soljenitsyne, Raspoutine, Choukchine, Vampilov.

@@ -1,0 +1,2 @@
+TitreCours: Archeologie et technique de l'image
+DescriptionCours: Étude des developpements dans l'histoire des outils de fabrication de l'image. Analyse des conceptions de la representation associees a l'invention de ces outils. Apprentissage des techniques de prise de vue, d'eclairage et de traitement de l'image.

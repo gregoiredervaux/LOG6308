@@ -1,0 +1,2 @@
+TitreCours: Phonetique : theorie et description
+DescriptionCours: Introduction aux theories et aux methodes de la phonetique experimentale. Travaux en laboratoire. Élaboration par les etudiants d'un devis d'experience et redaction d'un bref rapport en APA.

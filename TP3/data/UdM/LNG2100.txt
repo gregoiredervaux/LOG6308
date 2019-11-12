@@ -1,0 +1,2 @@
+TitreCours: Francais quebecois
+DescriptionCours: Aspects synchroniques du francais quebecois : phonetique/phonologie, lexique, syntaxe, morphologie.

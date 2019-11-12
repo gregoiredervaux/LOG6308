@@ -1,0 +1,2 @@
+TitreCours: Atelier
+DescriptionCours: Experimenter de nouvelles formes et des applications techniques novatrices en scenographie. Recherche et apprentissage des specificites liees au theatre de marionnettes actuel. Reflexion et experimentation des divers rapports existants entre les composantes scenographiques, les genres de marionnettes et les types de manipulation. Cours pratique suivi d'un laboratoire. Exploration et experimentation de la conception scenographique et de la fabrication de genres de marionnettes reliees aux approches nouvelles en scenographie.

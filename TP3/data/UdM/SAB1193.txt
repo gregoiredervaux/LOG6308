@@ -1,0 +1,2 @@
+TitreCours: Vieillissement et sante dentaire
+DescriptionCours: Étude de la problematique de la sante dentaire des personnes agees dans le cadre d'une approche globale du vieillissement.

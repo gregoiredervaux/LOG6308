@@ -1,0 +1,2 @@
+TitreCours: Comptabilite strategique
+DescriptionCours: Étude des nouveaux courants en comptabilite de management. Comptabilite par activites, tableaux de bord et performance organisationnelle; strategie, remuneration, gestion et controle. Fixation des prix, problemes et limites de la gestion budgetaire. Aspects comportementaux lies a l'information comptable. Comptabilite et planification strategique.

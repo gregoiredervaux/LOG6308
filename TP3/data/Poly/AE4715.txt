@@ -1,0 +1,2 @@
+TitreCours: Avionique
+DescriptionCours: Systmes avioniques civils modernes de base tant du point de vue conception qu'oprationnel. Normes et rglements aronautiques. Cabine de pilotage et instruments de bord. Systmes de communication. Systmes de navigation. Systmes de centrale d'alarme et d'indications moteurs. Le systme de protection contre le dcrochage. Systme transpondeur radar secondaire. Compatibilit lectromagntique.

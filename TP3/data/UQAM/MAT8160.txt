@@ -1,0 +1,2 @@
+TitreCours: Theorie des systemes
+DescriptionCours: Pourquoi une theorie des systemes generaux. Les diverses tendances. Le probleme de la stabilite, stabilite de Liapunov, hyperstabilite, stabilite structurelle. Notions sur les varietes, introduction a la theorie des catastrophes et applications. Theorie de l'information de Shannon. Theorie relativiste de l'information, information negative. Application a la physique, la mecanique et la biologie. Le postulat de maximisation de l'entropie et consequence. Problemes ouverts.

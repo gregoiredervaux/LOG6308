@@ -1,0 +1,2 @@
+TitreCours: Actuariat et finance I
+DescriptionCours: Analyse des caracteristiques des divers types de vehicules d'investissements utilises pour provisionner les programmes de securite financiere. Recentes innovations financieres, fonctionnement des marches financiers canadiens et americains. Analyse des valeurs mobilieres, theorie des marches de capitaux, processus decisionnel base sur la contrainte risque/rendement et etablissement des objectifs d'un portefeuille.

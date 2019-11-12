@@ -1,0 +1,2 @@
+TitreCours: Atelier 3 en design d'interieur
+DescriptionCours: Conception de projets integrant la notion du lieu : analyse, formulation d'intention et representation de celle-ci; besoins, contraintes et criteres de determination du projet associes au bien-etre et confort de l'occupant.

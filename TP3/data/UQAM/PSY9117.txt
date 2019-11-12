@@ -1,0 +1,2 @@
+TitreCours: Diagnostic neuropsychologique
+DescriptionCours: Cours-atelier d'evaluation en neuropsychologie clinique. Diagnostic et localisation des dysfonctions neuropsychologiques. Étude de la validite et des normes des tests neuropsychologiques. Seuil de discrimination et puissance diagnostique des tests et des batteries. Interpretation et critique des differents tests et batteries. L'expertise neuropsychologique.

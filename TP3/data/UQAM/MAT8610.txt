@@ -1,0 +1,2 @@
+TitreCours: Sujets speciaux en mathematiques financieres
+DescriptionCours: Sujets choisis en fonction des developpements recents dans le domaine.

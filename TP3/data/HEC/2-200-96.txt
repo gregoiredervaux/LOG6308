@@ -1,0 +1,2 @@
+TitreCours: Finance
+DescriptionCours: Le cours de finance vise essentiellement a initier l'etudiant a la finance corporative. L'accent est donc mis sur l'apprentissage des outils de base en finance ainsi que sur la comprehension des concepts les plus importants de ce domaine. Plus precisement, le cours a pour objectif de familiariser l'etudiant aux sujets suivants : les fondements de l'evaluation, la decision d'investissement, le coût du capital et du financement des entreprises ainsi que les aspects pratiques du financement des entreprises.

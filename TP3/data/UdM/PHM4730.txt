@@ -1,0 +1,2 @@
+TitreCours: Ateliers de pharmacotherapie
+DescriptionCours: Presentation de cas de malades, de mises en situation et d'etudes de dossiers sur des sujets traites dans les cours : dermopharmacie, antibiotiques et infectiologie, anticancereux et immunomodulateurs et pharmacotherapie 1 et 2.

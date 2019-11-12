@@ -1,0 +1,2 @@
+TitreCours: Theories et recherches en gestion de projet
+DescriptionCours: Ce cours porte sur la gestion de projet organisationnelle, la gestion d'une organisation qui realise ses objectifs strategiques par la poursuite de projet. Le cours vise a permettre a des personnes ayant deja une bonne connaissance du domaine de la gestion de projet de faire le point sur les developpements recents dans le domaine et d'elaborer une problematique de recherche.

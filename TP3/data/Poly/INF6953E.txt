@@ -1,0 +1,2 @@
+TitreCours: C.Spec.:traitem. analys. donnees multimedias
+DescriptionCours: Modeles probabilistes et algorithmes d'apprentissage pour le traitement et l'analyse de donnees multimedias. Applications informatiques en photographie numerique et aux systemes multimedias interactifs. Perception artificielle, reconnaissance et synthese de la parole. Recherche multimedia et analyse de textes.

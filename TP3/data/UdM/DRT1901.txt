@@ -1,0 +1,2 @@
+TitreCours: Developpement des habiletes du juriste 1
+DescriptionCours: Initiation au raisonnement juridique, aux techniques de recherche documentaire et informatisee et aux regles de la redaction d'ecrits juridiques.

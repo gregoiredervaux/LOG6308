@@ -1,0 +1,2 @@
+TitreCours: Reacteurs polyphases
+DescriptionCours: Reacteurs polyphases. Classification et applications industrielles. Hydrodynamique, melange, transferts thermique et massique, reactions. Lits fixes a ruissellement. Reacteurs agites mecaniquement. Reacteurs a suspension solide, colonnes a bulles et reacteurs a boucle. Lits fluidises a trois phases. Conception des reacteurs polyphases.

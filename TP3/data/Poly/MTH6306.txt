@@ -1,0 +1,2 @@
+TitreCours: Analyse statistique des series chronologiques
+DescriptionCours: Considerations generales sur les series chronologiques. Presentation de l'approche Box-Jenkins pour la modelisation et l'analyse d'une serie chronologique. Étude detaillee des modeles de type moyenne mobile, autoregressif et mixte ARIMA ainsi que ceux comportant une composante saisonniere. Approche pratique pour l'identification des differents modeles et leur utilisation pour le calcul de previsions

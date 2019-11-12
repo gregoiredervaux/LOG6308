@@ -1,0 +1,2 @@
+TitreCours: Theorie des categories
+DescriptionCours: Categories. Foncteurs. Transformations naturelles. Limites et foncteurs adjoints. Monades, categories algebriques. Prefaisceaux et faisceaux. Topos. 2-categories.

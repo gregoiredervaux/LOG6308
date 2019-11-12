@@ -1,0 +1,2 @@
+TitreCours: Investigations specialisees clin. bovine
+DescriptionCours: Deux semaines de stage comprenant des activites d'imagerie d'intervention et des chirurgies de routine.

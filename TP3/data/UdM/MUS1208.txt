@@ -1,0 +1,2 @@
+TitreCours: Perception auditive 1
+DescriptionCours: Apprentissage auditif visant l'appreciation et l'analyse des objets sonores a partir de criteres perceptifs de la typo-morphologie. Application a de courts extraits du repertoire des differentes epoques et traditions.

@@ -1,0 +1,2 @@
+TitreCours: Programme d'education en nutrition
+DescriptionCours: Étude des programmes d'education et du processus de leur elaboration. Notion d'evaluation et implications au plan pratique. Examen de programmes en cours. Élaboration et mise en oeuvre d'un programme d'education en nutrition.

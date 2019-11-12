@@ -1,0 +1,2 @@
+TitreCours: Geologie glaciaire
+DescriptionCours: Formation, mouvement et structure des glaciers. Érosion, drainage, transport et sedimentation glaciaires et proglaciaires. Petrologie et geomorphologie des depots glaciaires, proglaciaires et marins.

@@ -1,0 +1,2 @@
+TitreCours: Theorie des modeles
+DescriptionCours: Ce cours est une introduction a la theorie des modeles classique. Completude et compacite de la logique du premier ordre. Équivalence elementaire. Extensions elementaires et theoremes de Lowenheim-Skolem. Diagrammes. Theories modele-completes. Espaces de types. Theoreme d'omission des types. Theories omega-categoriques. Theoremes de preservation. Definissabilite. Ultraproduits. Structures saturees. Theoreme de categoricite de Morley.

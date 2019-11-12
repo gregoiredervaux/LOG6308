@@ -1,0 +1,2 @@
+TitreCours: Économetrie appliquee honor
+DescriptionCours: Experimentation a l'aide d'exemples et en manipulant des donnees concretes, des problemes d'econometrie appliquee dans le cadre de la demarche scientifique. Initiation a la methodologie des modeles empiriques en sciences humaines et sociales.

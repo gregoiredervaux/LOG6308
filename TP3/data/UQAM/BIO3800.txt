@@ -1,0 +1,2 @@
+TitreCours: Production biologique
+DescriptionCours: Application de principes ecologiques a l'optimisation de la production animale et vegetale en agriculture, sylviculture et aquaculture. Élements de biotechnologies appliques a la production biologique. Concepts energetiques, niveaux trophiques d'utilisation de l'energie. Homeostasie du milieu de production et son utilisation en production integree. Notions de physiologie animale et vegetale appliquees a la production biologique utilisee a des fins alimentaires.

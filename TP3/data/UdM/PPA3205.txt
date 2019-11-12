@@ -1,0 +1,2 @@
+TitreCours: La classe en milieu urbain
+DescriptionCours: Adaptation de l'intervention educative a la diversite socioeconomique, ethnique et culturelle des eleves. Gestion des conflits de valeurs. Communication interculturelle. Partenariat ecole-familles.

@@ -1,0 +1,2 @@
+TitreCours: Stage : Laboratoire des lipides
+DescriptionCours: Stage clinique aupres des malades ambulants ou hospitalises dans la specialite laboratoire des liquides.

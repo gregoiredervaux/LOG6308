@@ -1,0 +1,2 @@
+TitreCours: Compl. de bio. mol. et el. de genomique
+DescriptionCours: Proteine, Metho. immunochimim. Purification, formation, structures prediction et conception, correl. Sequence-structure. Interation, prot. Membranaire. Transcription et transduction : org. et expression du genome des procaryotes et eucaryotes.

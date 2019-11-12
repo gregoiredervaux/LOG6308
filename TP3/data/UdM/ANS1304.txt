@@ -1,0 +1,2 @@
+TitreCours: Reading
+DescriptionCours: Permettre a l'etudiant qui est fonctionnel en anglais d'elargir son vocabulaire et d'acquerir les strategies facilitant la comprehension des textes sur une variete de sujets.

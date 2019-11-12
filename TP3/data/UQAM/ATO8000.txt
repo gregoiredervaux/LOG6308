@@ -1,0 +1,2 @@
+TitreCours: Seminaire de recherche en ATO
+DescriptionCours: Cours relevant du Centre A.T.O. Le seminaire de recherche en ATO est un seminaire thematique dont le theme annuel est defini en etroite relation avec les activites de recherche specialisees du Centre. Sous la direction d'un ou de deux chercheurs du Centre, il permet, autant aux etudiants en formation qu'aux chercheurs actifs, d'acquerir des connaissances nouvelles, de faire progresser des hypotheses de travail et de debattre les questions importantes du domaine de l'analyse de textes par ordinateur.

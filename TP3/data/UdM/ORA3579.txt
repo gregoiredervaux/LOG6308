@@ -1,0 +1,2 @@
+TitreCours: Orthophonie - enfant 2
+DescriptionCours: Modalites d'evaluation et de reeducation langagieres aupres de populations particulieres d'enfants necessitant une intervention orthophonique; strategies d'intervention en contexte de vie particuliere chez le jeune enfant.

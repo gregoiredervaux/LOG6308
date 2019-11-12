@@ -1,0 +1,2 @@
+TitreCours: Did. de la grammaire et de l'orthographe
+DescriptionCours: Contenus, approches et demarches. Grammaire de la phrase et grammaire du texte. Programmes d'etudes, moyens d'enseignement. Diagnostic, difficultes, evaluation. Analyse et production de sequences didactiques.

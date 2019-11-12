@@ -1,0 +1,2 @@
+TitreCours: Laboratoire d'informatique appliquee
+DescriptionCours: Apprentissage de la modelisation et de la representation en 2D et 3D. Montage informatique de plans techniques pour la realisation de projets d'architecture de paysage.

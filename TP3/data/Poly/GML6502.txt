@@ -1,0 +1,2 @@
+TitreCours: Tectonophysique
+DescriptionCours: Élasticite du globe terrestre : seismes, mecanisme au foyer, vitesse des ondes elastiques, anisotropie sismique et structure interne du globe. Plasticite du globe terrestre : defauts cristallins, zones du cisaillement, convection du manteau, isostasie et stabilisation des cratons. Conductivite thermique et structures lithospheriques. Dynamique des systemes solide-fluide : fusion de roches, extraction et ascension des magmas, dorsales oceaniques et points chauds. Processus orogeniques et mecaniques des plaques de lithosphere.

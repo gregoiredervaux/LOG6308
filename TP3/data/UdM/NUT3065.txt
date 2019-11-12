@@ -1,0 +1,2 @@
+TitreCours: Éducation et consultation en nutrition
+DescriptionCours: Initiation a l'education en nutrition par l'application de notions pedagogiques : planification de programme, preparation de materiel educatif, consultation en nutrition. Application des techniques d'entrevue.

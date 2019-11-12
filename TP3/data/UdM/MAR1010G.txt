@@ -1,0 +1,2 @@
+TitreCours: Le systeme cardiovasculaire
+DescriptionCours: Le sang. L'hemostase. Anatomie du coeur et des gros vaisseaux. Systeme de conduction et debit cardiaque. Anatomie du reseau arterio-veineux. Introduction a la physiopathologie et aux medicaments cardiovasculaires.

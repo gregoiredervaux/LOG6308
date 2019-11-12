@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Dans ce seminaire, on approfondira l'analyse des fondements des choix en incertitude avec ou sans problemes d'information. On couvrira les fondements de l'utilite; l'aversion au risque; les variations de risque; la gestion du risque; les choix optimaux de portefeuille, d'assurance et d'epargne, et la determination endogene de differents contrats observes dans plusieurs marches : dette, franchise, option, coassurance, etc.&nbsp;  &nbsp;  A chaque annee des sujets specifiques seront traites en fonction des besoins et des goûts des etudiants.

@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de diagnostic en med. vet.
+DescriptionCours: Stages veterinaires de trois semaines de travaux dans un laboratoire de diagnostic. Stage10.

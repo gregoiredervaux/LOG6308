@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de meteorologie I
+DescriptionCours: Introduction aux methodes d'analyses des systemes meteorologiques. Lecture et analyse des cartes meteorologiques: surface, altitude, tephigramme, radar, photo-satellite et modeles numeriques. Études de la structure des systemes synoptiques et meso-echelle. Applications des modeles frontaux et quasi-geostrophiques.

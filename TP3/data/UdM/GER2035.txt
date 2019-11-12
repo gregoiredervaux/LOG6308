@@ -1,0 +1,2 @@
+TitreCours: Intervention individuelle
+DescriptionCours: Étude theorique et pratique d'approches, de methodologies et de techniques dans l'optique relationnelle. Analyse de differents types d'intervention individuelle avec des personnes agees (information, consultation, traitement, formation).

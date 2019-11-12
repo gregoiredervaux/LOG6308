@@ -1,0 +1,2 @@
+TitreCours: Design et anal. structur. de vehic. spatiaux
+DescriptionCours: Application des methodes de calcul des charges statiques et des excitations dynamiques courantes dans l'environnement spatial. Analyse de la reponse dynamique de composantes spatiales et methodes d'analyse modale. Étude des notions de fatigue due aux environnements dynamiques et thermiques. Introduction a l'etude des charges d'impact subies par les composantes d'un satellite. Materiaux composites et introduction a un logiciel d'elements finis (NASTRAN).

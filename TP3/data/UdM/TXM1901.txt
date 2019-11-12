@@ -1,0 +1,2 @@
+TitreCours: Toxicomanies
+DescriptionCours: Introduction aux dimensions biologiques, psychologiques et sociales du phenomene de l'usage et de l'abus des drogues ainsi qu'aux philosophies et ressources d'intervention en vigueur dans ce domaine.

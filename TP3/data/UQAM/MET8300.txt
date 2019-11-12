@@ -1,0 +1,2 @@
+TitreCours: Fondements des systemes d
+DescriptionCours: Roles essentiels des systemes et des technologies de l'information dans l'entreprise. Roles de leurs specialistes. Application pratique de fondements epistemologiques, ontologiques, ethiques, cognitifs et economiques dans l'analyse et la specification des systemes d'information. Le role de l'informatique dans l'evolution et dans l'application des theories de gestion de pointe.

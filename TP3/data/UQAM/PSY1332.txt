@@ -1,0 +1,2 @@
+TitreCours: Theories et techniques de l
+DescriptionCours: Étude des principales orientations theoriques de l'entrevue. Les divers types d'entrevue. Les variables en cause: langage, prejuges, roles reactions personnelles, etc. Problemes particuliers: le debut et la fin de l'entrevue, les silences, les resistances, etc.

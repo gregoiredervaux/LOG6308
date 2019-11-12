@@ -1,0 +1,2 @@
+TitreCours: Mesure de qualite et de productivite
+DescriptionCours: Criteres de qualite et de productivite des systemes logiciels. Normes et metriques de mesure. Modeles algorithmiques d'estimation de la qualite et de la productivite des systemes logiciels. Modeles evolutifs de la maturite des processus logiciels. Profil et role du qualiticien. Impacts des processus de developpement lourds et legers sur la qualite et la productivite.

@@ -1,0 +1,2 @@
+TitreCours: Pratique du fra. ecrit. Intermediaire 1
+DescriptionCours: Permettre a l'etudiant ayant une connaissance de base du francais de consolider et d'approfondir les strategies de comprehension de textes de difficulte moyenne et de produire des textes simples respectant le code linguistique.

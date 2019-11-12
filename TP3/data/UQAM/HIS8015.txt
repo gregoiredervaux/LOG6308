@@ -1,0 +1,2 @@
+TitreCours: Projet de memoire II
+DescriptionCours: Activite individuelle realisee sous la direction du comite de memoire et visant a produire le texte du projet de memoire. Celui-ci doit comprendre le sujet de memoire, la problematique generale, un survol historiographique, la bibliographie, un inventaire des sources, le plan du memoire et le programme de travail de l'etudiant.

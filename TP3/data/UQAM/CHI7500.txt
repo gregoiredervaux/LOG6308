@@ -1,0 +1,2 @@
+TitreCours: Sujets de pointe en biochimie
+DescriptionCours: Ce cours portera sur des sujets de pointe dans le domaine de la biochimie. Les sujets traites seront choisis en fonction de leur importance tant au niveau fondamental qu'au niveau de leurs applications. D'une annee a l'autre, le contenu pourra varier.

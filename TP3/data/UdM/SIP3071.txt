@@ -1,0 +1,2 @@
+TitreCours: Question de securite interieure
+DescriptionCours: Seminaire permettant a l'etudiant d'approfondir certaines matieres du domaine de la securite interieure.

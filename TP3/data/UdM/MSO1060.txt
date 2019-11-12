@@ -1,0 +1,2 @@
+TitreCours: Intr. a la biostat.: appl. en pharmacie
+DescriptionCours: Description de donnees. Concept de probabilite. Notions d'echantillonnage et de randomisation. Estimations ponctuelles et par intervalle. Principaux tests d'hypothese rencontres en recherche en pharmacie.

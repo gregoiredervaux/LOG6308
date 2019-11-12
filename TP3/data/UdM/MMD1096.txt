@@ -1,0 +1,2 @@
+TitreCours: ITSS : intervention et prevention
+DescriptionCours: Permettre aux intervenants d'integrer leurs connaissances et de developper des habilites de prevention et de prise en charge des personnes qui sont affectees par les ITSS (Infections transmissibles sexuellement et par le sang).

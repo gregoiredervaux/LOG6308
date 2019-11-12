@@ -1,0 +1,2 @@
+TitreCours: Élements finis, concepts et applications
+DescriptionCours: Approche directe d'analyse matricielle, principe d'energie potentielle minimum et methode de Rayleigh-Ritz. Fonctions d'interpolation. Formulations compatibles de divers types d'elements : solide, poutre, plaque et coque. Corps axisymetriques. Problemes aux valeurs propres : analyses de vibration et de stabilite. Analyses non lineaires. Divers problemes de champ. Problemes avec contraintes. Formulations variationnelles : mixte, generalisee et hybride.

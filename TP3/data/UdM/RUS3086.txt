@@ -1,0 +1,2 @@
+TitreCours: Prose russe du 19e siecle 2
+DescriptionCours: Litterature de la deuxieme moitie du XIXe siecle (excepte Tolstoi et Dostoievski). Tourgueniev, Gontcharov, Leskov, Tchekov. Litterature du debut du XXe siecle : Gorki, Bounine, Kouprine.

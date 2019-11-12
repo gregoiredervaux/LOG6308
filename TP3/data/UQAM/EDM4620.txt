@@ -1,0 +1,2 @@
+TitreCours: Synthese sonore et interactivite
+DescriptionCours: Atelier abordant de facon specifique le materiau sonore et son organisation dans un contexte interactif. Aspects esthetiques, techniques et methodologiques de la composition interactive et des differents types de generation sonore (synthese). Formalisation et structuration des processus dynamiques en temps reel. Étude des domaines dynamique, spectral et temporel du son.

@@ -1,0 +1,2 @@
+TitreCours: T.P. de biodiversite 1
+DescriptionCours: Illustration par des exemples concrets de la matiere vue au cours theorique pour permettre de reconnaitre les representants de Moneres, Protistes, Mycetes et des Plantes invasculaires.

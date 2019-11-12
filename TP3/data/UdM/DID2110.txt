@@ -1,0 +1,2 @@
+TitreCours: Didactique des sciences et technologies
+DescriptionCours: Apprentissages propres aux sciences et a la technologie au prescolaire et au primaire. Conceptions des eleves et demarche didactique. Resolution de problemes et autres activites. Évaluation des apprentissages et du curriculum.

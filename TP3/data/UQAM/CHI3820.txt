@@ -1,0 +1,2 @@
+TitreCours: Gestion de l
+DescriptionCours: Études des principaux outils et techniques de gestion de l'eau. Les differents niveaux de gestion. Organismes de gestion. Modelisation de la quantite et de la qualite de l'eau. Indices de qualite de l'eau: structures, utilisations, limites. Autres indices. Outils legaux, economiques, techniques. Gestion des ouvrages hydriques. Gestion sectorielle et integree.

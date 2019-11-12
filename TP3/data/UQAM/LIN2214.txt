@@ -1,0 +1,2 @@
+TitreCours: Éthique et sciences du langage
+DescriptionCours: Le cours vise a developper un sens de l'ethique professionnelle et sociale chez l'etudiant et a lui donner des references ethiques pour aborder certains problemes par la suite dans le programme. Le cours porte sur des problemes d'ethique specifiques aux sciences du langage; la deontologie de la recherche dans les sciences du langage; le role des sciences du langage dans notre societe.

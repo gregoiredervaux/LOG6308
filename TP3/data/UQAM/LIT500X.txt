@@ -1,0 +1,2 @@
+TitreCours: Sujets speciaux I
+DescriptionCours: Étude de textes, de thematiques ou de discours particuliers au gre de circonstances ponctuelles.

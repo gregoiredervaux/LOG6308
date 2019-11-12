@@ -1,0 +1,2 @@
+TitreCours: Controle budgetaire
+DescriptionCours: Planification a court terme et a long terme des activites a incidence budgetaire d'une organisation. Controle des operations par rapport au plan budgetaire. Analyse des concepts et processus financiers et budgetaires: controle des operations. Utilisation de budgets non conventionnels.

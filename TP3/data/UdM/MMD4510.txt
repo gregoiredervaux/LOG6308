@@ -1,0 +1,2 @@
+TitreCours: Ophtalmologie
+DescriptionCours: Stage d'une semaine au cours duquel l'etudiant acquiert les connaissances et developpe les habiletes requises pour resoudre les problemes oculo-visuels courants.

@@ -1,0 +1,2 @@
+TitreCours: Seminaire ouvert
+DescriptionCours: Ce seminaire a contenu variable porte sur des themes de recherche developpes par les professeurs du departement ou des collegues invites. L'etudiant est mis en situation par rapport a des recherches de pointe en geographie dans le but de lui procurer les donnees les plus recentes sur les themes abordes et de developper ses capacites de chercheur dans un contexte nouveau.

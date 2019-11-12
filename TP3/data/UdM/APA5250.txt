@@ -1,0 +1,2 @@
+TitreCours: Stage d'arpentage
+DescriptionCours: Initiation aux techniques d'arpentage. Utilisation des instruments de mesure pour effectuer des releves topographiques.

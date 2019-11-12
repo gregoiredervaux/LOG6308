@@ -1,0 +1,2 @@
+TitreCours: Theme
+DescriptionCours: Perfectionnement et consolidation des connaissances en espagnol langue etrangere. Amelioration de l'expression ecrite des etudiants a partir d'exercices de traduction du francais vers l'espagnol de textes non specialises.

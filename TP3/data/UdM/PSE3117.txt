@@ -1,0 +1,2 @@
+TitreCours: Stages
+DescriptionCours: Experience de pratique supervisee aupres d'une clientele en difficulte et visant l'integration des competences professionnelles notamment la planification, l'animation, l'utilisation et l'evaluation d'intervention.

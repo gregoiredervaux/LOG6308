@@ -1,0 +1,2 @@
+TitreCours: Pathologies des maladies specifiques
+DescriptionCours: Étiopathogenie et lesions macroscopiques et microscopiques des maladies propres aux especes domestiques suivantes : ruminants, equins, canins et felins.

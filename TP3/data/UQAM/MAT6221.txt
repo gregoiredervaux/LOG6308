@@ -1,0 +1,2 @@
+TitreCours: Histoire des mathematiques
+DescriptionCours: Percevoir et traiter les mathematiques comme une activite humaine dans le temps, en s'occupant principalement du deroulement des faits. Breves considerations sur l'histoire des mathematiques comme discipline intellectuelle. Developpement chronologique et thematique, des origines jusque vers 1700. Survol rapide de la suite, jusqu'a nos jours. Bibliographie.

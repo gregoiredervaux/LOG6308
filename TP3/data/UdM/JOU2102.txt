@@ -1,0 +1,2 @@
+TitreCours: Atelier de presse ecrite 2
+DescriptionCours: Developpement des habiletes de redaction dans les differents genres de la presse ecrite : reportage, enquete, magazine, chronique.

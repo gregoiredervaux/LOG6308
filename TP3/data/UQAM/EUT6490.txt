@@ -1,0 +1,2 @@
+TitreCours: Recherche dirigee
+DescriptionCours: Cette activite de synthese est destinee aux etudiants qui desirent effectuer une recherche individuelle ou collective ou un voyage d'etude sous la direction d'un enseignant.

@@ -1,0 +1,2 @@
+TitreCours: Systmes hydrauliques et pneumatiques
+DescriptionCours: Principe de la transmission de puissance par fluide. Symboles graphiques hydrauliques et pneumatiques. Pompes, moteurs, vrins, robinets, filtres, accumulateurs, changeurs de chaleur, fluides hydrauliques. Circuits : conception, analyse et calcul. Applications aux systmes industriels et d'quipements mobiles.

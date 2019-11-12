@@ -1,0 +1,2 @@
+TitreCours: Interfaces et scenarisation
+DescriptionCours: Apprentissage des principes de scenarisation interactive et du processus de conception et d'evaluation des applications de communication informatisee, en utilisant diverses theories ergonomiques.

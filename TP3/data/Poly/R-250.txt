@@ -1,0 +1,2 @@
+TitreCours: Statique et resistance des materiaux
+DescriptionCours: Forces subies par les avions. Inertie des surfaces. Équilibre des forces et moments des forces. Notions de contraintes et de deformations. Sollicitation unidirectionnelle. Flexion pure. Cisaillement et efforts tranchants.

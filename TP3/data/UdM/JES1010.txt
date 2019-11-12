@@ -1,0 +1,2 @@
+TitreCours: Processus d'evaluation et d'intervention
+DescriptionCours: Approches theoriques et modeles d'intervention permettant d'evaluer un probleme, une situation et son contexte. Études de cas et strategies d'intervention.

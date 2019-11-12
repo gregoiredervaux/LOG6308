@@ -1,0 +1,2 @@
+TitreCours: Materiaux 2 : materiaux metalliques
+DescriptionCours: Nature et proprietes des materiaux metalliques utilises en design industriel. Procedes de mise en forme et d'assemblage. Principales applications.

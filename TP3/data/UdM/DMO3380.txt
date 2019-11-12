@@ -1,0 +1,2 @@
+TitreCours: Élements de demographie mathematique
+DescriptionCours: Analyse des phenomenes demographiques en continu. Utilisation du calcul matriciel pour l'analyse demographique multidimensionnelle.

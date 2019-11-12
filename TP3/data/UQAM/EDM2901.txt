@@ -1,0 +1,2 @@
+TitreCours: Atelier d
+DescriptionCours: Étude et utilisation de l'equipement micro-informatise de generation, de production et de diffusion sonores: le studio M.I.D.I. Concepts et roles de la micro-informatique en echantillonnage, synthese, traitement sonore et commande. Applications dans des productions originales (en liaison avec la videographie dans la mesure des possibilites).

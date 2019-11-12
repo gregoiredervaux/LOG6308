@@ -1,0 +1,2 @@
+TitreCours: Metallurgie extractive
+DescriptionCours: Introduction aux grands procedes pyrometallurgiques d'extraction des metaux. Calcination, grillage, smeltage (fusion), convertissage, affinage. Procedes pyrometallurgiques d'elaboration des metaux: plomb, cuivre, nickel, aluminium (carbothermie), titane, magnesium et fer (siderurgie). Vue d'ensemble des filieres de production des aciers. Étude des principales reactions d'acierage a la fusion, a la mise a la nuance, a la solidification. Description des outils de production.

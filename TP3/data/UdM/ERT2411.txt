@@ -1,0 +1,2 @@
+TitreCours: Ergotherapie aupres de l'adulte
+DescriptionCours: Analyse de problemes de sante chez l'adulte et leurs consequences sur le quotidien. Specificite au sein de l'equipe interprofessionnelle.

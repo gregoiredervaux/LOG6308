@@ -1,0 +1,2 @@
+TitreCours: Arodynamique de l'avion I
+DescriptionCours: coulements visqueux. Couches limites laminaires en coulement plan. Stabilit des couches limites, transition du rgime laminaire au rgime turbulent. coulements turbulents. Couches limites turbulentes incompressibles. Solutions analytiques et numriques des quations de couche limite.

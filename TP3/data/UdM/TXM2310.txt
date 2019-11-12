@@ -1,0 +1,2 @@
+TitreCours: Pratiques novatrices en prevention
+DescriptionCours: Historique des programmes de prevention. Meilleures pratiques en intervention preventive. Analyse critique des programmes en fonction des facteurs de reussite.

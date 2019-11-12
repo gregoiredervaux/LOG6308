@@ -1,0 +1,2 @@
+TitreCours: Comportement mecan. des mater. composites
+DescriptionCours: Mecanique des materiaux composites. Lois de la micromecanique. Mecanique de la monocouche. Theorie des stratifies. Application des criteres de rupture aux composites. Essais mecaniques statiques. Traction, compression, cisaillement plan, flexion et cisaillement interlaminaire. Comportement au choc et a la fatigue des materiaux composites.

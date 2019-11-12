@@ -1,0 +1,2 @@
+TitreCours: Plans d
+DescriptionCours: Theorie et applications des modeles lineaires generaux. Analyse de variance des modeles a effets fixes et des modeles a effets variables. Construction de plans d'experiences et application aux problemes de recherche experimentale.

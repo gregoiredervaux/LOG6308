@@ -1,0 +1,2 @@
+TitreCours: Histoire de l'aliment et de la nutrition
+DescriptionCours: Les aliments et la sante, de l'Antiquite au XIXe siecle. Theories empiriques. Évolution de la physiologie de la nutrition. Debuts de la nutrition comme science. Grandes decouvertes en nutrition.

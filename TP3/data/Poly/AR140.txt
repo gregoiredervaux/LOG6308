@@ -1,0 +1,2 @@
+TitreCours: Systmes de contrle de vol
+DescriptionCours: Systmes de contrle rversibles : composantes mcaniques ; roulis, tangage et lacet. Systmes de contrle irrversibles signals mcaniquement et lectriquement : actuateurs hydrauliques et lectriques.  Systmes Fly-by-Wire et Fly-by-Light : capteurs, actuateurs et calculateurs.

@@ -1,0 +1,2 @@
+TitreCours: Composition assistee par ordinateur 1
+DescriptionCours: Apprentissage des principaux outils de composition assistee par ordinateur Open Music. Application de ces outils au travail du compositeur.

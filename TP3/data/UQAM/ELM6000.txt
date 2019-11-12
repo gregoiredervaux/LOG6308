@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese
+DescriptionCours: Élaboration et realisation d'un projet de recherche de dimension moyenne en fonction d'une problematique precise, liee aux champs d'interet et a la formation de l'etudiant. L'activite de synthese clot le programme; le cours est donne en tutorat.

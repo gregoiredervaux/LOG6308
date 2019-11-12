@@ -1,0 +1,2 @@
+TitreCours: Technologie JSP
+DescriptionCours: Notions de JSP, apprentissage des balises JSP. Creation de sites Web dynamiques en JSP. « Cookies » et messages d'erreur. JSP et bases de donnees.

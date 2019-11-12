@@ -1,0 +1,2 @@
+TitreCours: Problemes de criminologie
+DescriptionCours: Approfondissement de certaines matieres criminologiques. Activites speciales (sessions, colloques, etc.) portant sur des problemes de criminologie.

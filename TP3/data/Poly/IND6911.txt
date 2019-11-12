@@ -1,0 +1,2 @@
+TitreCours: Seminaires de genie industriel
+DescriptionCours: Exposes et discussions de themes choisis en rapport avec les cours et les travaux de recherche en genie industriel. Vision d'ensemble touchant tous les axes de recherche en genie industriel a l'École Polytechnique. Presentation des aspects methodologiques, des ecoles de pensee, des concepts et des tendances.

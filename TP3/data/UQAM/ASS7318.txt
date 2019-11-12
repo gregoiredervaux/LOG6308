@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Apprentissage, developpement et adaptation scolaire: etude de l'echec et de la situation d'echec sous divers angles. L'echec scolaire et sa signification. Analyse de situations pedagogiques particulieres: troubles d'apprentissage, debilite, instabilite. L'echec et l'enseignant. Le depassement de l'echec.

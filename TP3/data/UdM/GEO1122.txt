@@ -1,0 +1,2 @@
+TitreCours: Geodynamique externe
+DescriptionCours: Geographie physique 2 : les equilibres morpho-bioclimatiques zonaux. Les ruptures d'equilibres anthropiques et climatiques. Les paysages : des palimpsestes et des systemes.

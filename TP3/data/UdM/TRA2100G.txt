@@ -1,0 +1,2 @@
+TitreCours: General Translation
+DescriptionCours: Introduction to translation from French to English. Reinforcement of English grammar and syntax rules. Development of writing skills. Mastering the translation of general French texts into accurate and concise English.

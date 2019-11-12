@@ -1,0 +1,2 @@
+TitreCours: Stages pratiques
+DescriptionCours: Experience pratique dans un des secteurs d'intervention ou d'analyse criminologique.

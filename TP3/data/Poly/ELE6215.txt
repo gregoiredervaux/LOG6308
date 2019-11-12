@@ -1,0 +1,2 @@
+TitreCours: Commande stochastique
+DescriptionCours: Modeles stochastiques. Commande stochastique sur horizon fini. Formalisme de la programmation dynamique stochastique. Cas d'observations d'etat completes ou partielles. Commande duale. Filtres de Kalman, Levinson, Wiener. Prediction des charges d'electricite. Commande optimale. Theoreme de separation. Chaines de Markov commandees. Identification des systemes.

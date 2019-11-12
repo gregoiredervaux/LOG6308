@@ -1,0 +1,2 @@
+TitreCours: Essai de synthese
+DescriptionCours: Accroitre chez l'etudiant la capacite de structurer des connaissances geologiques depassant les marges de sa specialisation. Dans le cadre de cette activite, l'etudiant approfondit un probleme lie aux ressources minerales. Le probleme investigue doit etre choisi en dehors de la specialisation immediate de l'etudiant. Ce dernier est appele a presenter oralement et par ecrit le fruit de ses travaux.

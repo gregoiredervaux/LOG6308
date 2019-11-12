@@ -1,0 +1,2 @@
+TitreCours: Seminaire de stage de 3e annee
+DescriptionCours: Analyse reflexive des pratiques d'enseignement propres au secondaire en FLS.

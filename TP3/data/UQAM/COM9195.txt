@@ -1,0 +1,2 @@
+TitreCours: Technologie et organisations
+DescriptionCours: Analyse et critique des differentes approches theoriques qui rendent compte du rapport technologies-organisation. Reflexion communicationnelle sur les phenomenes associes a la presence des technologies d'information et de communication dans les organisations.

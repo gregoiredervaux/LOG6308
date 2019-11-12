@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de geophysique avancee
+DescriptionCours: Mesure des proprietes physiques des roches, des minerais et des sols. Appareillage geophysique. Études sur modeles reduits. Exercices d'interpretation.

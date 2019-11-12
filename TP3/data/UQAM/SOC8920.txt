@@ -1,0 +1,2 @@
+TitreCours: Lecture dirigee
+DescriptionCours: A titre exceptionnel et sous l'autorisation du directeur du programme et du professeur concerne, un etudiant pourra faire une lecture dirigee. Les modalites du contenu, de l'evaluation et l'echeancier devront etre precisees avant le debut du cours.

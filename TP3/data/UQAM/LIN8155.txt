@@ -1,0 +1,2 @@
+TitreCours: Description linguistique et enseignement du francais 1
+DescriptionCours: Ce cours vise a fournir des connaissances linguistiques liees a la didactique du francais. Il portera sur les principaux concepts utilises en phonetique, en phonologie, en morphologie, en syntaxe, en semantique ainsi qu'en analyse textuelle et discursive, et en montrera leur pertinence dans l'enseignement.

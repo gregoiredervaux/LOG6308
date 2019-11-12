@@ -1,0 +1,2 @@
+TitreCours: L'Europe a la Renaissance
+DescriptionCours: Étude de l'Europe entre 1450 et 1600 sous l'angle politique, socio-economique, religieux, intellectuel et artistique.

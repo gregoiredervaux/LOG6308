@@ -1,0 +1,2 @@
+TitreCours: lectrotechnique
+DescriptionCours: Circuits magntiques: flux, pertes, contacteurs magntiques. Transformateurs: courant de magntisation, circuit quivalent, rendement et chute de tension, valeurs unitaires (p.u.), autotransformateur, transformateurs de mesure. Circuits triphass quilibrs et dsquilibrs, puissance et correction du facteur de puissance, application des composantes symtriques, transformateurs en triphas. Moteurs asynchrones triphass et monophass: principes, types, circuits quivalents, caractristiques en rgime permanent.

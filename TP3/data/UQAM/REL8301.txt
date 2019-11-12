@@ -1,0 +1,2 @@
+TitreCours: Examen de synthese I
+DescriptionCours: Cet examen a pour sujet le champ de recherche particulier choisi par le candidat et permet de verifier ses connaissances a ce propos.

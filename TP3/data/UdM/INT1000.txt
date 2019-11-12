@@ -1,0 +1,2 @@
+TitreCours: Introduction aux etudes internationales
+DescriptionCours: Initiation aux methodes de travail propres a l'etude des phenomenes internationaux : recherche bibliographique, definition d'une problematique, analyse de documents et de donnees, presentation d'un travail. Orientation.

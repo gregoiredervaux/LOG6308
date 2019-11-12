@@ -1,0 +1,2 @@
+TitreCours: Activite physique, nutrition et sante
+DescriptionCours: Roles de l'activite physique et de la nutrition comme determinants de la sante. Facteurs de prevention et facteurs de risque. Principes generaux en activite physique et nutrition.

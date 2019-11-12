@@ -1,0 +1,2 @@
+TitreCours: Interventions dans la communaute
+DescriptionCours: Modalites d'intervention dans la communaute. Composantes des ressources communautaires qui influencent la mise en place et la conduite d'interventions. Dimension pluridisciplinaire.

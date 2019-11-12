@@ -1,0 +1,2 @@
+TitreCours: Mecanique classique I
+DescriptionCours: Étude systematique des lois et concepts fondamentaux de la mecanique a l'aide du calcul et de l'analyse vectorielle. Dynamique d'une particule. Mouvement en milieu resistant. Énergie potentielle. Conservation de la quantite de mouvement du moment cinetique et de l'energie. Oscillateur harmonique libre, amorti, force. Forces centrales, lois de Kepler. Systemes elastiques. Rotation autour d'un axe fixe. Pendule compose. Moment d'inertie. Équations de Lagrange. Variables cycliques.

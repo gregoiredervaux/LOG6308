@@ -1,0 +1,2 @@
+TitreCours: Instrumentation automatisee en micro-ondes
+DescriptionCours: Utilisation des ordinateurs dans les mesures automatisees en hyperfrequences, evaluation, calcul d'erreurs. Protocole de communication entre appareils. Analyseurs de reseaux conventionnels. Analyseur a six-ports, etalonnage. Analyseur de spectre, applications. Reflectometrie dans le domaine du temps et caracterisation des materiaux. Automatisation des mesures dans les cavites resonnantes. Caracterisation des materiaux absorbants aux micro-ondes. Dispositifs a effet Faraday.

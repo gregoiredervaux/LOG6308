@@ -1,0 +1,2 @@
+TitreCours: Droit de la consommation
+DescriptionCours: Étude des normes legislatives et reglementaires visant la protection du consommateur axee autour de differents themes tels le credit, la qualite des biens et des services et la publicite.

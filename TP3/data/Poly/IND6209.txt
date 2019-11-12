@@ -1,0 +1,2 @@
+TitreCours: Implantation et manutention
+DescriptionCours: Implantation : revue des differentes methodes de conception, evaluation, suivi, conception integree avec la manutention. Manutention : gestion, evaluation des besoins, equipements, selection d'equipements, redaction de cahiers des charges, palettisation.

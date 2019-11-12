@@ -1,0 +1,2 @@
+TitreCours: Histologie animale
+DescriptionCours: Structure microscopique des tissus et des organes. Comparaison entre groupes d'animaux choisis.

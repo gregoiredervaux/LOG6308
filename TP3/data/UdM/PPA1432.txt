@@ -1,0 +1,2 @@
+TitreCours: Apprent. scol. et eleves en difficulte
+DescriptionCours: Introduction a l'education des eleves handicapes ou en difficultes d'adaptation et d'apprentissage (EHDAA). Processus d'apprentissage et de traitement de l'information en lien avec les caracteristiques des eleves HDAA.

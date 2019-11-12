@@ -1,0 +1,2 @@
+TitreCours: Teleinformatique
+DescriptionCours: Architecture des systemes repartis. Modele de reference OSI. Introduction aux moyens physiques de transmission de donnees. Protocoles de lien, de routage et de controle de flux. Introduction aux reseaux d'ordinateurs et a leurs protocoles.

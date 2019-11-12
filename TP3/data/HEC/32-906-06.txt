@@ -1,0 +1,2 @@
+TitreCours: Comptabilite financiere avancee
+DescriptionCours: Le cours "Comptabilite financiere avancee" constitue un tour d'horizon des questions de constatation, de mesure et de presentation de l'information financiere decoulant des decisions economiques suivantes : regroupements d'entreprises, creation de coentreprises, diversification des activites, poursuite d'operations en devises ou en pays etrangers, offre d'avantages sociaux aux employes, structuration des operations sur une base a but non lucratif, comptabilite par fonds.

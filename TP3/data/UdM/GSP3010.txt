@@ -1,0 +1,2 @@
+TitreCours: Resolution des problemes en sec. int.
+DescriptionCours: Integrer le processus. Rassembler, analyser et contextualiser les donnees. Formuler le diagnostic. Choisir les avenues de solutions. Élaborer le plan d'action. Coordonner la mise en oeuvre. Évaluer la mise en oeuvre et l'atteinte des resultats.

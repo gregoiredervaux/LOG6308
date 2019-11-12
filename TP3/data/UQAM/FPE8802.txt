@@ -1,0 +1,2 @@
+TitreCours: Synthese
+DescriptionCours: Ce cours applique vise a ce que l'etudiant puisse mettre au point un projet d'evaluation d'un programme de formation, en concertation avec un milieu de pratique, qui s'articule aux elements et composantes de la formation recue dans le programme court de deuxieme cycle en evaluation de programmes de formation. Plan pour initier la mise en operation du projet. Modeles; indicateurs; collecte de donnees; production de resultats; elaboration de recommandations; meta-evaluation.

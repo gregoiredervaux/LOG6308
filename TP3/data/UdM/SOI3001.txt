@@ -1,0 +1,2 @@
+TitreCours: Écoles de la pensee infirmiere
+DescriptionCours: Étude des courants de pensee qui ont marque les conceptions actuelles en sciences infirmieres. Analyse des modeles conceptuels selon leur origine paradigmatique. Comparaison de l'ecole du « caring » et des autres ecoles de pensee.

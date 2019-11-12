@@ -1,0 +1,2 @@
+TitreCours: Physiologie de l'exercice 2
+DescriptionCours: Systemes physiologiques de support du muscle a l'activite physique : systemes respiratoire, cardiovasculaire, sanguin, renal et thermoregulateur. Adaptations a l'activite physique aigue et chronique.

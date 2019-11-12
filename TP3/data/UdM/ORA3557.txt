@@ -1,0 +1,2 @@
+TitreCours: Problemes de la fluidite
+DescriptionCours: Ce cours s'interesse aux troubles de begaiement, leur evaluation et reeducation.

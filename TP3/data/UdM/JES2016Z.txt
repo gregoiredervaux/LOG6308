@@ -1,0 +1,2 @@
+TitreCours: Le decrochage scolaire
+DescriptionCours: Facteurs contribuant a l'apparition et au maintien du phenomene. Outils de depistage et d'intervention aupres des decrocheurs potentiels. Strategies d'intervention et de prevention axees sur le developpement de partenariats ecole-communaute.

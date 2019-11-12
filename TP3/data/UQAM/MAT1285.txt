@@ -1,0 +1,2 @@
+TitreCours: Analyse de variance et comparaison de moyennes
+DescriptionCours: Ce cours aborde les principales notions necessaires a l'analyse des experiences quantitatives. Analyse de variance a un et deux criteres de classification, conditions d'application, plans d'experiences, et tests de comparaison multiple. Une partie de ce cours se donnera en laboratoire d'informatique. Ce cours necessite l'utilisation d'un logiciel specialise (JMP).

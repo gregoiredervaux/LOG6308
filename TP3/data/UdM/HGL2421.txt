@@ -1,0 +1,2 @@
+TitreCours: Stage pratique en archeologie
+DescriptionCours: Initiation pratique a la fouille archeologique et a ses methodes d'enregistrement et d'analyse. Étude de l'architecture et du mobilier archeologique du monde greco-romain.

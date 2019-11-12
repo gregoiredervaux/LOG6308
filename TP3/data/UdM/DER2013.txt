@@ -1,0 +1,2 @@
+TitreCours: Dentisterie operatoire pratique
+DescriptionCours: Travaux de laboratoire qui illustrent le cours DER 2010 et permettent a l'etudiant de mettre en pratique ses notions theoriques.

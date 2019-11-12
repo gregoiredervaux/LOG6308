@@ -1,0 +1,2 @@
+TitreCours: Developpement du medicament 3
+DescriptionCours: Conception et elabo. D'un essai clinique de Phase 3. Bioethique. BPC. Strategies d'analyse statistique en recherche biomedicale 3, Marketing. Pharmacoeconomie, Reglementation.

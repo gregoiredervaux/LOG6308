@@ -1,0 +1,2 @@
+TitreCours: Fiscalite et decisions
+DescriptionCours: Les objectifs du cours sont de permettre aux etudiants d'acquerir et d'integrer les connaissances techniques sur les reorganisations d'entreprise afin de les aider a prendre des decisions eclairees dans les contextes suivants&nbsp;:  &nbsp;  1. Distribution de surplus  2. Utilisation d'attributs fiscaux a l'interieur d'un groupe  3. Regroupement et Repartition de societes  4. Achat et vente d'une entreprise 5. Utilisation de l'exoneration pour gains en capital (purification et planification)

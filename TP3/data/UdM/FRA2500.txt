@@ -1,0 +1,2 @@
+TitreCours: La litterature et les autres arts
+DescriptionCours: Étude des rapports entre la litterature et les divers arts : peinture, photographie, musique, etc.

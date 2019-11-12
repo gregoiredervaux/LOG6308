@@ -1,0 +1,2 @@
+TitreCours: Camp de leves geologiques
+DescriptionCours: Excursions illustrant les principaux phenomenes geologiques etudies en 2e annee. 5 jours dans les Appalaches.

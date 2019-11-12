@@ -1,0 +1,2 @@
+TitreCours: Structures discretes en informatique
+DescriptionCours: Élements de logique propositionnelle. Ensembles. Suites et fonctions. Algorithmes. Matrices booleennes. Raisonnement mathematique. Induction. Combinatoire. Relations de recurrence. Graphes, Arbres.

@@ -1,0 +1,2 @@
+TitreCours: Questions de theologie evangelique
+DescriptionCours: Étude d'une oeuvre, d'un auteur ou d'un theme particulier.

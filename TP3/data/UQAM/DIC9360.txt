@@ -1,0 +1,2 @@
+TitreCours: Communications verbales
+DescriptionCours: Production de la parole humaine: descriptions acoustiques et de l'articulation; modeles de production de la parole; perception de la parole; traitement numerique du signal de la parole; «vocoders» (formant, a prediction lineaire, cepstral); reconnaissance automatique de la parole par ordinateur; synthese de la parole basee sur l'application de regles; reconnaissance/verification du parleur.

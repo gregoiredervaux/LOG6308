@@ -1,0 +1,2 @@
+TitreCours: Les technologies
+DescriptionCours: Outillages et procedes techniques des societes non industrielles, leur contribution au fonctionnement de systemes culturels et a notre connaissance du passe des regions et des ethnies ou on les trouve.

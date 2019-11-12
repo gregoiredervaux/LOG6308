@@ -1,0 +1,2 @@
+TitreCours: Lectures dirigees II
+DescriptionCours: Ces lectures portent sur des textes susceptibles d'aider l'etudiant a definir son sujet de recherche et a identifier les differentes perspectives d'analyse. Elles serviront aussi a approfondir ses connaissances dans des domaines connexes a son memoire. Elles se font sous la supervision du directeur de recherche.

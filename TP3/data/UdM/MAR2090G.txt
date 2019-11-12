@@ -1,0 +1,2 @@
+TitreCours: Soins a domicile et inhalotherapie
+DescriptionCours: Intervention en inhalotherapie a domicile : principes, pratiques, contexte d'intervention, besoins de la clientele et technologies disponibles.

@@ -1,0 +1,2 @@
+TitreCours: Atelier d
+DescriptionCours: Le cours consiste a planifier et a realiser des collectes de donnees en lien avec l'enseignement des mathematiques permettant d'identifier, de decrire et d'analyser des phenomenes didactiques. La demarche s'appuiera sur les interets et experiences des etudiants tout en s'assurant de couvrir un territoire suffisamment large. Les donnees recueillies pourront provenir de comportements individuels d'eleves en situation de classe, de tests administres collectivement, de manuels scolaires, de programmes.

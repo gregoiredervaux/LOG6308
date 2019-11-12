@@ -1,0 +1,2 @@
+TitreCours: Projet d'evolution d'un logiciel
+DescriptionCours: Évolution et maintenance d'un systeme logiciel. Ce cours-projet integre les connaissances acquises en ingenierie des exigences, en analyse et conception et en validation et test de logiciel. Il met en pratique les notions acquises sur le processus de developpement du logiciel. Tous les travaux sont realises en equipe.

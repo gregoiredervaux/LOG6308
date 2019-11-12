@@ -1,0 +1,2 @@
+TitreCours: L'audit des pratiques de SST
+DescriptionCours: Definition, caracteristiques et analyse critique des modeles d'audit applicables aux pratiques de SST. Les etapes de l'audition : cueillette de l'information, mesures, analyse, propositions d'actions. L'audit dans l'ensemble des pratiques de gestion.

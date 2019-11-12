@@ -1,0 +1,2 @@
+TitreCours: Microbiologie generale
+DescriptionCours: Introduction aux methodes d'etude des bacteries, des levures et des virus. Morphologie, physiologie, genetique. Introduction a l'immunologie; antigenes, anticorps, applications.

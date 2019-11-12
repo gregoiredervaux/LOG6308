@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Amener l'etudiant a identifier et a reconnaitre la diversite des determinants de l'incapacite au travail. Connaissances des cadres theoriques et bilan des connaissances scientifiques: les mecanismes d'action et les effets des determinants de l'incapacite sur la personne et les activites de travail; connaissances des pathologies causales de l'incapacite: etiologie, evolution et traitement; connaissances des mecanismes de douleur persistante; connaissances du portrait du systeme de prise en charge des individus souffrant d'incapacites.

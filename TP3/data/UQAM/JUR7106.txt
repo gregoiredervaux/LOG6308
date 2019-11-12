@@ -1,0 +1,2 @@
+TitreCours: Activite d
+DescriptionCours: Cette activite est menee sur une base individuelle, c'est-a-dire sous la forme d'un «tutorat». L'etudiant dont le sujet de recherche repose sur une approche methodologique interdisciplinaire doit s'entendre avec un professeur pour definir un programme de lecture qui lui permette de faire le point sur la litterature pertinente a la methodologie choisie. Le travail exige de l'etudiant consiste a elaborer de maniere consistante l'approche methodologique retenue pour bien mener a terme la recherche sur son sujet.

@@ -1,0 +1,2 @@
+TitreCours: Techniques d'analyse economique 2
+DescriptionCours: Problemes d'optimisation economique sans et avec contraintes. Methode de Lagrange. Methode de Kuhn-Tucker. Applications economiques de l'integration. Methodes d'analyse dynamique en economique. Stabilite de l'equilibre.

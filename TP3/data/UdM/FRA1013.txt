@@ -1,0 +1,2 @@
+TitreCours: La redaction
+DescriptionCours: Exercices individuels et analyse collective de problemes concrets particuliers dans la mise au point de texte.

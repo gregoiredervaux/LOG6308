@@ -1,0 +1,2 @@
+TitreCours: Theatre in Montreal
+DescriptionCours: Ce cours a pour but de faire connaitre aux etudiants les differents aspects du theatre : du texte a la production et a l'interpretation.

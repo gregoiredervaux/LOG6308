@@ -1,0 +1,2 @@
+TitreCours: Intervention audiologique 2
+DescriptionCours: Étude approfondie des notions de calibrage et de metrologie des appareils utilises en audiologie. Fonctionnement des differentes aides techniques.

@@ -1,0 +1,2 @@
+TitreCours: Modeles probabilistes et stochastiques de la gestion
+DescriptionCours: Il n'y a pas de description disponible pour ce cours.

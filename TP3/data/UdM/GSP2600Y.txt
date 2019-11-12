@@ -1,0 +1,2 @@
+TitreCours: Gestion integree des operations
+DescriptionCours: Delimiter la zone d'execution des activites operationnelles sur le terrain. Diriger, controler le deroulement des activites. Appliquer le cadre normatif. Detecter les conflits. Exercer un leadership efficace. Expliquer les decisions et realisations.

@@ -1,0 +1,2 @@
+TitreCours: Chimie physique des polymeres
+DescriptionCours: Generalites sur les polymeres synthetiques. Principe de la synthese des polymeres. Aspects theoriques, cinetiques et statistiques de la polymerisation et de la copolymerisation. Transition et cristallinite. Proprietes : rheologie, physicochimie, mecanique. Structure configurationnelle et architecture moleculaire : isometrie, ramifications. Caracterisation : identification (methodes spectroscopiques), masses moleculaires et distribution de masses. Thermodynamique des solutions et melanges polymeres.

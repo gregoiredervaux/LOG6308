@@ -1,0 +1,2 @@
+TitreCours: Cinema et technologies numeriques
+DescriptionCours: Étude des usages contemporains des technologies numeriques dans le domaine elargi des images en mouvement. Analyse d'une thematique ou d'un corpus choisi : interactivite, immersion, realite virtuelle, cinema web, jeu video, arts mediatiques, etc.

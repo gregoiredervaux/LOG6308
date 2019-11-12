@@ -1,0 +1,2 @@
+TitreCours: L'argumentation
+DescriptionCours: Definition du projet d'argumentation. Selection et evaluation des strategies correspondantes. Analyse des rapports entre les divers arguments en fonction des objectifs vises par le texte. Exercices d'application.

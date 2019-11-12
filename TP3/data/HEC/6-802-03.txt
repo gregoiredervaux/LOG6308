@@ -1,0 +1,2 @@
+TitreCours: Microeconomie appliquee
+DescriptionCours: Ce cours portera principalement sur l'analyse et l'utilisation des instruments de la microeconomie moderne appliquee a la prise de decision et aux interactions entre firmes et consommateurs.

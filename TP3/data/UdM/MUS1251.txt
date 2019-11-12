@@ -1,0 +1,2 @@
+TitreCours: Sujets speciaux en musique 1
+DescriptionCours: Cours offert de facon intermittente, parfois sous forme intensive, sur des sujets speciaux lies aux travaux de recherche de la Faculte, ou a l'occasion de stages de specialistes reputes.

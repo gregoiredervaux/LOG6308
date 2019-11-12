@@ -1,0 +1,2 @@
+TitreCours: Stylistique comparee
+DescriptionCours: Analyse comparative des outils linguistiques propres au francais et a l'allemand ; etude de leur utilisation stylistique dans differents types de textes.

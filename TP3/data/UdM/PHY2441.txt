@@ -1,0 +1,2 @@
+TitreCours: Optique et ondes electromagnetiques
+DescriptionCours: Materiaux, fonction dielectrique, susceptibilite magnetique. Équations de Maxwell, de Fresnel. Ondes dans les milieux infinis. Polarisation. Interferences et diffraction. Couches optiques.

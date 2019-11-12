@@ -1,0 +1,2 @@
+TitreCours: Anatomie fonctionnelle et enseignement
+DescriptionCours: Composantes de l'appareil locomoteur (systemes osseux, musculaire et articulaire). Application en laboratoire (gymnase).

@@ -1,0 +1,2 @@
+TitreCours: Pensee politique premoderne
+DescriptionCours: Lecture de textes classiques, pour la plupart anciens mais aussi du Moyen Age, afin d'en comprendre le contenu politique.

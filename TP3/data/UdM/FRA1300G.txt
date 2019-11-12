@@ -1,0 +1,2 @@
+TitreCours: Revision de textes
+DescriptionCours: Initiation a la revision de textes et a la correction d'epreuves sur fichiers electroniques. Travaux pratiques visant a rendre l'etudiant apte a assurer la qualite de la langue dans un projet d'edition.

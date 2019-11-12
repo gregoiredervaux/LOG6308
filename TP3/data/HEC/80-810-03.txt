@@ -1,0 +1,2 @@
+TitreCours: Organisation industrielle
+DescriptionCours: Le seminaire d'organisation industrielle (OI) a pour objectif de familiariser les etudiants avec les techniques, outils et problemes contemporains en OI. Une couverture exhaustive des principaux sujets etant exclue a cause de l'importance du domaine, certains themes sont choisis et presentes pour discussion. La participation active des etudiants au seminaire est recherchee.

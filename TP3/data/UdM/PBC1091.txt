@@ -1,0 +1,2 @@
+TitreCours: Embryologie et histologie en optometrie
+DescriptionCours: Histologie fonctionnelle des tissus fondamentaux et des principaux organes. Histologie de l'oeil et de ses annexes. Embryologie generale, de la tete, du systeme nerveux, et de l'oeil.

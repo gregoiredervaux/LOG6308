@@ -1,0 +1,2 @@
+TitreCours: Philosophie des mathematiques
+DescriptionCours: Étude des philosophies traditionnelles des mathematiques, realisme (ou platonisme), structuralisme, logicisme, formalisme, intuitionnisme, etc., dans la perspective du constructivisme.

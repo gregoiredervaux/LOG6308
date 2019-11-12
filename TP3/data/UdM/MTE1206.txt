@@ -1,0 +1,2 @@
+TitreCours: Analyse d'oeuvres du XXe siecle 2
+DescriptionCours: Analyse d'oeuvres representant un eventail des principaux courants esthetiques du XXe siecle. Le cours portera plus specifiquement sur la deuxieme moitie de ce siecle.

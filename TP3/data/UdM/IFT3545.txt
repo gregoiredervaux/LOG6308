@@ -1,0 +1,2 @@
+TitreCours: Graphes et reseaux
+DescriptionCours: Notions de base en theorie des graphes. Parcours euleriens et hamiltoniens. Problemes d'optimisation sur les graphes. Arbres et arborescences. Plus courts chemins. Problemes d'optimisation de reseaux.

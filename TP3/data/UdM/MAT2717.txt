@@ -1,0 +1,2 @@
+TitreCours: Processus stochastiques
+DescriptionCours: Chaines de Markov. Processus de Galton-Watson. Processus de Poisson. Processus de mort et de naissance. Étude naive du mouvement brownien. Applications diverses.

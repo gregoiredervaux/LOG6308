@@ -1,0 +1,2 @@
+TitreCours: L
+DescriptionCours: Cours de sensibilisation au domaine de l'eau et a ses multiples facettes. Rappel des principales proprietes de l'eau. Anomalies de l'eau. Le cycle de l'eau et les relations entre ses composantes. L'eau a l'echelle mondiale, nationale, provinciale, regionale, municipale et individuelle. Usages et utilisations de l'eau. Conflits entre ces usages et utilisations. Aspects quantitatifs et qualitatifs. Les problemes de l'eau et les solutions a ces problemes.

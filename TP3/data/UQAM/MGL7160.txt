@@ -1,0 +1,2 @@
+TitreCours: Methodes formelles et semi
+DescriptionCours: Introduction a certaines notations formelles pour decrire les exigences et les specifications de systemes logiciels. Methodes pour les systemes sequentiels (tel que le langage Z ou la notation de Mills) et pour les systemes concurrents et reactifs (tels que les machines d'etats et les reseaux de Petri avec certaines extensions concernant les donnees). Utilisation des methodes formelles pour l'analyse des proprietes et du fonctionnement des systemes au niveau de la specification, de la conception ou de l'implantation.

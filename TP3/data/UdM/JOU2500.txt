@@ -1,0 +1,2 @@
+TitreCours: Le journaliste-pupitreur
+DescriptionCours: L'edition dans l'information ecrite : coordination du travail des journalistes, fabrication d'un media ecrit, mise en page, choix editoriaux.

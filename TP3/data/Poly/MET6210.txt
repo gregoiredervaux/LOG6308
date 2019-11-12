@@ -1,0 +1,2 @@
+TitreCours: Cinetique des reactions d'electrodes
+DescriptionCours: Mecanismes d'electrode en milieu aqueux et sels fondus. Corrosion. Phenomene de double couche. Modeles de circuit electrique analogue, determination experimentale des capacites (methode electrocapillaire, impedance ac, impulsionnelle, autres methodes).

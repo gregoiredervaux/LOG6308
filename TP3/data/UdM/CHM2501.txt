@@ -1,0 +1,2 @@
+TitreCours: Chimie biologique
+DescriptionCours: Notions de l'organisation chimique dans les systemes biologiques.Structure, proprietes physiques, reactivite, analyse et applications des biomolecules. Introduction aux domaines de la chimie biophysique, bioanalytique, bioorganique et bioinorganique.

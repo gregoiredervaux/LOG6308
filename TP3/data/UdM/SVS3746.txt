@@ -1,0 +1,2 @@
+TitreCours: Pratiques specifiques : sujets speciaux
+DescriptionCours: Problematiques, politiques et pratiques propres a un champ nouveau ou a un champ non couvert par le programme. Approfondissement de la problematique et des modes d'intervention relies a ce champ.

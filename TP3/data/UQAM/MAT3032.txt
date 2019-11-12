@@ -1,0 +1,2 @@
+TitreCours: Calcul mathematique informatise
+DescriptionCours: Introduire des outils informatiques et/ou logiciels utiles en mathematiques et statistique. Illustrer ces methodes par la resolution de problemes concrets de mathematiques et de statistique rencontres dans divers cours. On suppose que les etudiants sont familiers avec les bases du calcul, de l'analyse, de l'algebre, des probabilites et de l'inference statistique. Modalites : seances d'exercices de 2 heures par semaine dans les laboratoires d'ordinateurs.

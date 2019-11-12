@@ -1,0 +1,2 @@
+TitreCours: Systemes de gestion en alimentation
+DescriptionCours: Analyse des aspects specifiques des systemes de gestion de divers segments de l'industrie de services d'alimentation de collectivite; besoins de la clientele, approvisionnement, production, distribution. Applications aux services d'alimentation.

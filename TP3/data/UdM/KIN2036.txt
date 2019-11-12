@@ -1,0 +1,2 @@
+TitreCours: Entrainement des qualites musculaires
+DescriptionCours: Principes generaux et specifiques au developpement de la force, de l'endurance, de la puissance musculaire et de la flexibilite. Methodes d'entrainement. Prescription d'entrainement a partir de resultats d'evaluation.

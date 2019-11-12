@@ -1,0 +1,2 @@
+TitreCours: Dentisterie pediatrique preclinique
+DescriptionCours: Serie d'exercices de laboratoire et de clinique ayant pour but de preparer l'etudiant aux traitements preventifs et correctifs chez les enfants.

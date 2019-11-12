@@ -1,0 +1,2 @@
+TitreCours: Managing and Evaluating Investments
+DescriptionCours: The course is designed to allow students to develop skills in:   the financial evaluation of investment projects from risk/reward point of view;  the handling of tax and inflation issues in project evaluation;  the utilization of Excel spreadsheets in investment evaluation;  placing the investment decision in a strategic perspective.

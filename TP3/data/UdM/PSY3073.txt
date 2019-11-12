@@ -1,0 +1,2 @@
+TitreCours: Psychologie des groupes et equipes
+DescriptionCours: Analyse du comportement social dans les groupes restreints et les organisations : processus d'interactions et de communications en jeu, elaboration de structures et cultures specifiques.

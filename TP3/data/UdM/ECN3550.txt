@@ -1,0 +1,2 @@
+TitreCours: Économie de la sante
+DescriptionCours: Analyse microeconomique des systemes de sante; incitations; financement.

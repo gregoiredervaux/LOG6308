@@ -1,0 +1,2 @@
+TitreCours: Methodes sismiques
+DescriptionCours: Principes fondamentaux des ondes sismiques : reflexion et refraction des ondes planes, ondes de la surface. Sismique reflexion: methodes d'acquisition, traitement des donnees, estimation des vitesses RMS sismiques, introduction a l'interpretation, application a l'exploration minerale et petroliere. Sismique refraction : estimations des vitesses des roches, inversion 1-D, introduction a la tomographie. Applications a la structure de la croûte, a l'exploration petroliere, au genie et a l'environnement.

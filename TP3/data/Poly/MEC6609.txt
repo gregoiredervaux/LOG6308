@@ -1,0 +1,2 @@
+TitreCours: Aerodynamique instationnaire et decrochage
+DescriptionCours: Profils aerodynamiques en ecoulement instationnaire. Ailes minces en mouvement harmonique. Aeroelasticite statique et dynamique. Decrochage dynamique et methodes de calcul. Decrochage dynamique des profils en mouvement de rotation. Applications aux eoliennes en regime de decrochage dynamique.

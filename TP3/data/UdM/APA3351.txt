@@ -1,0 +1,2 @@
+TitreCours: Espace regional
+DescriptionCours: Lecture des paysages ruraux axee sur la comprehension de leur dynamique. Mise en application des outils et techniques d'evaluation des paysages ruraux et regionaux. Élaboration de scenarios de mise en valeur.

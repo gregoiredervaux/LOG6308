@@ -1,0 +1,2 @@
+TitreCours: Principes de phylogenie et systematique
+DescriptionCours: Introduction aux principes, methodes et applications de la systematique: reconstruction phylogenetique, systematique moleculaire, applications en biologie de l'evolution, pour la classification taxonomique, la biogeographie et l'ecologie.

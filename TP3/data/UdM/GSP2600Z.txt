@@ -1,0 +1,2 @@
+TitreCours: Analyse criminologique:enquete policiere
+DescriptionCours: Mettre en contexte les tendances theoriques. Saisir les possibilites et limites de diverses methodes d'analyse. Analyser des situations d'enquete criminelle. Évaluer les impacts des resultats sur les pratiques. Argumenter l'utilite de l'analyse.

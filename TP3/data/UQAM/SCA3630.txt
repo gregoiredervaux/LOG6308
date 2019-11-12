@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de meteorologie I
+DescriptionCours: Apprentissage des methodes pratiques d'analyse des phenomenes meteorologiques. Observations et codes. Nephanalyse. Cartes de surface et d'altitude. Analyse frontologique preliminaire. Coupes verticales.

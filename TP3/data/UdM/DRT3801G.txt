@@ -1,0 +1,2 @@
+TitreCours: Droit de la concurrence
+DescriptionCours: Normes civiles, penales et administratives relatives a la concurrence dans le commerce et l'industrie. Aspects constitutionnels et proceduraux.

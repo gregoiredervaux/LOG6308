@@ -1,0 +1,2 @@
+TitreCours: Projets de circuits lectroniques
+DescriptionCours: Phnomnes de rsonance et filtrage slectif. Oscillateurs  relaxation; gnration d'ondes carres, et d'ondes triangulaires. Oscillateurs sinusodaux  rsistance ngative. Deux projets de conception utilisant des amplificateurs oprationnels : projet de synthse de filtres actifs (Butterworth, Chebychev...); projet intgrateur  caractre plus gnral.

@@ -1,0 +1,2 @@
+TitreCours: Écriture et analyse 2
+DescriptionCours: Élaboration de la syntaxe harmonique tonale (ornements, accords alteres, enchainements plus complexes). Écriture de phrases et de periodes. Analyse harmonique et structurelle de pieces de forme binaire et ternaire des XVIIIe et XIXe siecles.

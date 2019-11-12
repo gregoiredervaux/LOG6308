@@ -1,0 +1,2 @@
+TitreCours: Physique du globe
+DescriptionCours: Proprietes physiques du globe terrestre. Élasticite, seismologie, mecanisme au foyer, anisotropie sismique, refraction et reflexion des rais, structure interne du globe. Rotation de la Terre, gravite et isostasie. Chaleur terrestre et structures lithospheriques. Rheologie des roches, deformation des chaines de montagnes et convection du manteau. Geomagnetisme, paleomagnetisme et archeomagnetisme. Mouvement des coques de lithosphere, zones de subduction et tectonique des plaques.

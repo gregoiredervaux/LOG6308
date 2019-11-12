@@ -1,0 +1,2 @@
+TitreCours: Sujets speciaux 1
+DescriptionCours: Cours touchant diverses disciplines et divers aspects de la decouverte et du developpement du medicament.

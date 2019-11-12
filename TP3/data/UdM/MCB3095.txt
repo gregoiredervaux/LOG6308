@@ -1,0 +1,2 @@
+TitreCours: Microbiologie environnementale appliquee
+DescriptionCours: Procedes microbiens de controle des pollutions de l'eau et de l'air, des dechets, et de degradation des produits xenobiotiques dans les sols contamines. Procedes biotechnologiques alternatifs dans les secteurs agricole, forestier, chimique et minier.

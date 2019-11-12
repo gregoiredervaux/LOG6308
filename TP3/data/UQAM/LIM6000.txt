@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese
+DescriptionCours: Permettre a l'etudiant d'appliquer ses connaissances dans le cadre d'un projet concret. Ce projet devra etre encadre par un ou plusieurs tuteurs.

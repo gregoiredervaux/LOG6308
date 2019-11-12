@@ -1,0 +1,2 @@
+TitreCours: Adolescence
+DescriptionCours: Analyse des taches genetiques propres a l'adolescence : le developpement pubertaire, l'evolution de la socialisation, l'acces a l'identite psychosociale. Psychopathologie propre a l'adolescence.

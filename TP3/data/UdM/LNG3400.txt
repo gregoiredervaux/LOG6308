@@ -1,0 +1,2 @@
+TitreCours: Morphologie : theorie et description
+DescriptionCours: Le mot comme objet central de la morphologie. Significations, moyens, combinatoire, signes morphologiques. Modeles morphologiques. Typologie morphologique.

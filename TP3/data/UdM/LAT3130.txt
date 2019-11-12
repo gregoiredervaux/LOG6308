@@ -1,0 +1,2 @@
+TitreCours: Poesie lyrique et elegiaque latine
+DescriptionCours: La poesie epigrammatique, lyrique, bucolique et elegiaque de Catulle a l'epoque de Domitien; la satire de Lucilius a Juvenal.

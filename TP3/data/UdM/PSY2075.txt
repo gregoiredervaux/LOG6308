@@ -1,0 +1,2 @@
+TitreCours: Psychologie de l'environnement
+DescriptionCours: Presentation du domaine en fonction des processus psychosociaux qui sous-tendent les transactions avec l'environnement : espace personnel et regulation de l'intimite, comportement territorial et densite sociale.

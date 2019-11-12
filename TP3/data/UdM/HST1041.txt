@@ -1,0 +1,2 @@
+TitreCours: L'Europe moderne
+DescriptionCours: Cours d'introduction a l'histoire de l'Europe du XVe siecle jusqu'a la Revolution francaise.

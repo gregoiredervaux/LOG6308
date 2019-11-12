@@ -1,0 +1,2 @@
+TitreCours: Sante
+DescriptionCours: La sante des presocratiques a l'organisation mondiale de la sante; sante physique, sante psychologique, sante sociale. Geographie de la sante, geographie des maladies, geographie des systemes de soins. Sante et structure demographique. Mesures de la sante publique - methodologie des enquetes de sante et grands indicateurs de sante. Disparites sociales et spatiales de la sante. Sante et environnement; sante et niveau socioeconomique; sante et developpement.

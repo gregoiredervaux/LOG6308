@@ -1,0 +1,2 @@
+TitreCours: Travail dirige III
+DescriptionCours: Étude clinique decoulant de la problematique precisee durant les Travaux diriges I et II et associee a une activite du stage d'intervention. Doit etre pris concurremment avec le PSY8330.

@@ -1,0 +1,2 @@
+TitreCours: Seminaires
+DescriptionCours: Exposes et discussions par l'etudiant des sujets de memoires et de theses, de meme que des sujets choisis en rapport avec les cours ou les travaux de recherches de l'Institut. Discussions de publications recentes.

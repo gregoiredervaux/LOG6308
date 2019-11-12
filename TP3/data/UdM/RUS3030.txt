@@ -1,0 +1,2 @@
+TitreCours: Stylistique russe
+DescriptionCours: Cours de perfectionnement de russe ecrit a travers un nombre de sujets et de textes. Étude de la phraseologie, des idiomes et des niveaux de style de la langue litteraire.

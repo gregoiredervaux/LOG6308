@@ -1,0 +1,2 @@
+TitreCours: Projet de recherche Honor
+DescriptionCours: Seminaire laboratoire portant sur la planification et l'elaboration d'une recherche avancee en psychologie.

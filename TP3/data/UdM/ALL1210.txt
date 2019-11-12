@@ -1,0 +1,2 @@
+TitreCours: Textes litteraires et scientifiques
+DescriptionCours: Initiation a la lecture de textes litteraires et scientifiques. Apprentissage des theories de lecture. Pratique du commentaire de texte.

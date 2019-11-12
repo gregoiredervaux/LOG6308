@@ -1,0 +1,2 @@
+TitreCours: Projet de memoire
+DescriptionCours: Cette activite a pour but d'amener l'etudiant a definir le projet de recherche qui fera l'objet de son memoire en tenant compte des considerations ethiques. L'etudiant devra rediger une proposition ou il enonce sa question de recherche, fait un premier survol de la litterature pertinente, expose les grandes lignes de sa methodologie et propose un plan de travail avec echeancier.

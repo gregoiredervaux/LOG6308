@@ -1,0 +1,2 @@
+TitreCours: Fonctionnement normal du corps humain 3
+DescriptionCours: Approche par systeme integrant la biochimie, la biologie cellulaire et moleculaire, l'anatomie et la physiologie visant a expliquer le fonctionnement normal du corps humain. Hematologie, immunologie, systemes cardiovasculaire, respiratoire, renal.

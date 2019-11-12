@@ -1,0 +1,2 @@
+TitreCours: Atelier de recherche
+DescriptionCours: Ce cours a pour objectif l'integration des notions methodologiques et des elements de formation generale. L'etudiant devra mener une recherche portant sur une question de politique scientifique ou technologique, d'evaluation de la technologie ou d'evaluation de la recherche et rediger un rapport a caractere analytique, diagnostic ou prospectif.

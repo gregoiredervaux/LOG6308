@@ -1,0 +1,2 @@
+TitreCours: Genetique des microorganismes d
+DescriptionCours: Cours relevant de l'I.N.R.S. Rappel des notions de base en genie genetique. Developpement des techniques de clonage et de transfert de genes chez certains micro-organismes d'importance industrielle en rapport avec leur genetique respective. Les levures, les streptomycetes, les pseudomonades et le genre bacillus seront examines plus specifiquement.

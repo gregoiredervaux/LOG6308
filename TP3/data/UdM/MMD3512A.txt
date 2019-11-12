@@ -1,0 +1,2 @@
+TitreCours: Stage : Chir. cardiovascul. thoracique
+DescriptionCours: Stage clinique aupres de malades ambulants ou hospitalises en chirurgie cardiovasculaire thoracique.

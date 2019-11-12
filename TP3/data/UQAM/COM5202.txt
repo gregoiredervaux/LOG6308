@@ -1,0 +1,2 @@
+TitreCours: Atelier de recherche ou d
+DescriptionCours: Contenu determine chaque annee en fonction des questions prioritaires soulevees par la problematique actuelle des communications, les axes de developpement et de recherche du departement, les preoccupations des professeurs et des etudiants.

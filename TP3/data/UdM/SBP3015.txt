@@ -1,0 +1,2 @@
+TitreCours: Projet d'integr. : notions et compet. 1
+DescriptionCours: Projet integrateur des connaissances et des competences associees a la phase I du developpement clinique du medicament. Travail d'equipe et gestion de projet.

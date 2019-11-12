@@ -1,0 +1,2 @@
+TitreCours: Moteurs de recherche
+DescriptionCours: Nouvelles technologies de l'information. Historique des techniques de recherches. Prsentation des diffrents types de recherches sur Internet. Notions de techniques d'indexation des moteurs de recherche. Libert d'expression, contrle et censure des contenus. Scurit et protection de l'information sur Internet. Les recherches par catgories, les mta-moteurs, les moteurs de recherches spcialiss : librairies virtuelles, les recherches gographiques, les recherches locales.

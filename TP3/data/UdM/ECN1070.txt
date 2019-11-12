@@ -1,0 +1,2 @@
+TitreCours: Techniques d'analyse economique 1
+DescriptionCours: Representations fonctionnelles des relations economiques. Calcul differentiel, integration et applications economiques. Theoreme des fonctions implicites. Calcul matriciel et applications economiques. Analyse statique comparee.

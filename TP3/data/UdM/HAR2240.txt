@@ -1,0 +1,2 @@
+TitreCours: Le musee d'art
+DescriptionCours: Specificite et origines du musee d'art. Fonctions et questions legales. Types de musee d'art et etudes de cas. Rencontres de professionnels de musees.

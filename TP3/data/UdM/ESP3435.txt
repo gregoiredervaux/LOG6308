@@ -1,0 +1,2 @@
+TitreCours: Theatre hispanique du Siecle d'or
+DescriptionCours: Étude des traits fondamentaux qui caracterisent les oeuvres dramatiques des XVIe et XVIIe siecles dans les pays de langue espagnole.

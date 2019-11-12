@@ -1,0 +1,2 @@
+TitreCours: Memoire humaine
+DescriptionCours: Principales approches a l'etude de la memoire. Systeme de traitement, d'entreposage, de recouvrement d'information. Memoire a court terme, a long terme, episodique, semantique. Mnemotechniques, plans, scripts et schemas. Theories de l'oubli.

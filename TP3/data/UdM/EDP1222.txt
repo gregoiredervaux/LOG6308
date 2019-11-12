@@ -1,0 +1,2 @@
+TitreCours: Francais ecrit : grammaire et redaction
+DescriptionCours: Rappel des notions fondamentales du systeme grammatical et lexical francais : nature et fonction des mots, structure de la phrase, orthographe grammaticale et usuelle, ponctuation, lexique. Exercices divers et travaux de redaction.

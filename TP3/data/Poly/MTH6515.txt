@@ -1,0 +1,2 @@
+TitreCours: Analyse mathematique avancee pour ingenieurs
+DescriptionCours: Coordonnees curvilignes. Tenseurs contravariants, covariants et mixtes. Produit tensoriel. Symboles de Christoffel. Derivee covariante. Calcul des variations. Équations d'Euler. Problemes avec contraintes. Hamiltonien. Conditions de transversalite. Analyse fonctionnelle. Espaces de Banach. Espaces de Sobolev. Espaces de Hilbert. Formulation variationnelle de problemes aux limites, solution faible. Theoreme de Riesz. Theoreme de Lax-Milgram.

@@ -1,0 +1,2 @@
+TitreCours: Comm. orale, adapt. scol. primaire
+DescriptionCours: Modeles et fonctions de la communication orale. Developpement et troubles de la communication. Comportements langagiers de l'enseignant et de l'eleve du primaire. Approches d'interventions. Évaluation.

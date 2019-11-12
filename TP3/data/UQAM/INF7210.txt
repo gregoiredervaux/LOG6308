@@ -1,0 +1,2 @@
+TitreCours: Nouvelles perspectives en bases de donnees
+DescriptionCours: Concepts avances des bases de donnees. Gestion de transactions. Controle et optimisation des performances. Bases de donnees paralleles et reparties. Developpement d'applications de bases de donnees Web et multitiers. Bases de donnees objet et objet-relationnel. Gestion de donnees semi-structurees et multimedia. Entrepots de donnees et analyse de donnees (OLAP). Fouille de donnees (data mining). Bases de donnees deductives. Reperage de l'information.

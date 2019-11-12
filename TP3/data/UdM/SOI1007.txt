@@ -1,0 +1,2 @@
+TitreCours: Methodes d'evaluation de la sante
+DescriptionCours: Initiation de l'etudiante a l'evaluation de la sante globale des personnes de tout age et des familles. Apprentissage de l'approche heuristique et developpement d'habiletes psychomotrices.

@@ -1,0 +1,2 @@
+TitreCours: Remblais miniers
+DescriptionCours: Caracteristiques des principaux types de remblais miniers : hydrauliques, rocheux et en pate. Chimie des remblais. Comportement mecanique. Transport des remblais de l'usine aux chantiers remblayes. Rheologie des remblais hydraulique et en pate. Utilisation du remblai en pate en surface. Comportement environnemental du remblai. Methodologie pour le design d'usine de remblais.

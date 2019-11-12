@@ -1,0 +1,2 @@
+TitreCours: Histoire du Canada jusqu'en 1850
+DescriptionCours: Cours d'introduction a l'histoire du Canada des origines a 1850.

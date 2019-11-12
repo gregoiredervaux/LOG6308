@@ -1,0 +1,2 @@
+TitreCours: Économie urbaine et regionale
+DescriptionCours: A) Theorie de la localisation. B) Le phenomene regional. C) Le phenomene urbain.

@@ -1,0 +1,2 @@
+TitreCours: Activites d'integration en pharmacie 4
+DescriptionCours: Activites visant a consolider les apprentissages et developper les competences transversales des etudiants dans un contexte multidisciplinaire.

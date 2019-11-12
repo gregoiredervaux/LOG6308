@@ -1,0 +1,2 @@
+TitreCours: Mesure et observation de l'usage
+DescriptionCours: Outillage technique et conceptuel pour l'observation et la production de donnees sur l'usage. Mesure, enquetes discursive, photographique, videographique. Statistique descriptive et graphique. Notions d'espace, d'effort, de plaisir et d'erreur.

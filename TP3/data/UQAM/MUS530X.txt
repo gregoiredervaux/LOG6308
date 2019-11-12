@@ -1,0 +1,2 @@
+TitreCours: Instrument principal V a
+DescriptionCours: Preparation d'un programme de concert d'environ soixante minutes, en vue des examens publics prevus aux cours MUS531X et MUS630X. Lecons individuelles (quinze heures).

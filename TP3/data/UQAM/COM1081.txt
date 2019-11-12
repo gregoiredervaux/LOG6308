@@ -1,0 +1,2 @@
+TitreCours: Stage d
+DescriptionCours: Activite de formation supervisee visant a permettre a l'etudiant de developper une synthese de son cheminement academique. Cette activite s'articule autour de l'integration des apprentissages et de la realisation, en equipe, d'un projet concret d'intervention psychosociale, dans un milieu organisationnel, communautaire ou autres types de regroupement.

@@ -1,0 +1,2 @@
+TitreCours: La metaphysique d'Aristote
+DescriptionCours: Étude de questions et d'apories developpees dans la Metaphysique d'Aristote, telles que la science de l'etre en tant qu'etre, l'equivocite de l'etre, la primaute de la substance, les premiers principes.

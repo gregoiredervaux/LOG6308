@@ -1,0 +1,2 @@
+TitreCours: Stage : Readaptation pediatrique
+DescriptionCours: Stage aupres de patients d'age pediatrique en readaptation pediatrique.

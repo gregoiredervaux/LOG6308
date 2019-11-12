@@ -1,0 +1,2 @@
+TitreCours: Poesie epique latine
+DescriptionCours: L'epopee et l'epyllion a Rome; insistance sur Virgile et sur l'omnipresence du modele homerique.

@@ -1,0 +1,2 @@
+TitreCours: La lecture
+DescriptionCours: Ce cours presentera differents modeles de comprehension en lecture. Il abordera egalement les questions suivantes: des aspects physiologiques de la lecture (vitesse de lecture, empan visuel, fixation, etc.); l'importance de la memoire en lecture et celle des connaissances anterieures; les inferences; la theorie des schemas; la notion de rappel en lecture; la lisibilite des textes; le role du vocabulaire. Il y sera egalement question de traitement de l'information ainsi que des principes de lecture strategique.

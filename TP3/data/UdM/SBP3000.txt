@@ -1,0 +1,2 @@
+TitreCours: Dev. prof. et plan de carriere
+DescriptionCours: Bilan de competences. Competences developpees et competences recherchees. Marche du travail. Besoins et attentes. Options et specialites. Études superieures. Conditions de progression de carriere. Outils de recherche d'emploi.

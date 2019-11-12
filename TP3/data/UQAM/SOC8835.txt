@@ -1,0 +1,2 @@
+TitreCours: Conflits sociaux
+DescriptionCours: Presentation des diverses theories sur la notion de conflits. Croisement des dimensions theoriques et empiriques a partir d'exemples specifiques: affrontements entre États (guerre), groupes (nationaux, religieux, ethniques, generationnels), institutions (eglises, partis, entreprises, organisations, associations, syndicats), individus (statut et role differents).

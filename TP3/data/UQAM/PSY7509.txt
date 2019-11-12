@@ -1,0 +1,2 @@
+TitreCours: Stage d
+DescriptionCours: Observation par l'etudiant de diverses interventions comportementales et structurees. Utilisation de divers instruments d'observation. Observation d'interventions a differentes etapes. Discussions en groupe des interventions observees et analyse critique.

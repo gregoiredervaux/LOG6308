@@ -1,0 +1,2 @@
+TitreCours: Stage en entreprise II
+DescriptionCours: Le stage en entreprise a une duree variant entre 8 et 16 mois. La nature du travail attendu du stagiaire ainsi que la duree du stage sont approuvees conjointement par le departement et par l'entreprise impliquee; celle-ci doit identifier une personne responsable de l'encadrement du stagiaire. Le stagiaire devra rediger un carnet de bord hebdomadaire, des rapports d'etapes et un rapport final qui pourrait, en fonction de la politique du departement, faire l'objet d'une presentation orale.

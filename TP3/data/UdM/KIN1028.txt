@@ -1,0 +1,2 @@
+TitreCours: Entrainement de l'aptitude aerobie
+DescriptionCours: Principes generaux et specifiques de l&rsquo;entrainement (intensite, duree, frequence, modalites, planification). Approches diverses. Outils de controle. Entrainement continu et intermittent.

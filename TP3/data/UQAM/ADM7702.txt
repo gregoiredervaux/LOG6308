@@ -1,0 +1,2 @@
+TitreCours: Systemes et technologies d
+DescriptionCours: Rappel des fonctions principales de production et de support a la production de biens ; activites de planification et de controle de la production et des inventaires et exigences specifiques en matiere d'information; systemes de gestion manufacturiere; systemes MRP, MRP II et autres ; systemes et technologies de CAO/DAO et de robotique ; caracteristiques fonctionnelles, organisationnelles, financieres et economiques de ces systemes et technologies.

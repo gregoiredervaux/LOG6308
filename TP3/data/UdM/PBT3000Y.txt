@@ -1,0 +1,2 @@
+TitreCours: Projets publicitaires pour PME
+DescriptionCours: Projets publicitaires a l'intention des PME : briefing, creation, coordination, devis et echeancier, aspects promotionnels, production et presentation.

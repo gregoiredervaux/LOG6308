@@ -1,0 +1,2 @@
+TitreCours: Appr. et modeles d'ens. en adapt. scol.
+DescriptionCours: Dynamique de l'apprentissage sous l'angle de differentes theories. Modeles d'enseignement, procedes et strategies d'intervention au regard de ces theories. Applications en adaptation scolaire.

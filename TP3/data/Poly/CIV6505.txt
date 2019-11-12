@@ -1,0 +1,2 @@
+TitreCours: Techniques du bton
+DescriptionCours: Ciment Portland : fabrication, normes, signification d'une analyse chimique. Droulement de la prise et du durcissement. Structure et caractristiques physiques du gel. Bton normal et bton de fibre : mcanismes de fissuration et de rupture. Retrait et fluage : mcanismes  l'origine des dformations et modlisation. Cure : mthodes, influence de la temprature, maturit. Transfert de la chaleur. Proprits de transport de l'eau dans les btons. Problmes de durabilit. Dveloppement.

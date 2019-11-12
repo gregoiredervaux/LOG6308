@@ -1,0 +1,2 @@
+TitreCours: Seminaires thematiques I
+DescriptionCours: Ce cours vise l'acquisition de connaissances d'une part sur des themes d'actualite touchant le design, le transport et la mobilite, d'autre part, sur la problematique developpee par l'etudiant a travers son projet de design (DES7570). L'etudiant est amene a approfondir ses reflexions et a developper son esprit critique et de synthese en participant a des recherches bibliographiques ciblees, conferences, congres ou seminaires, puis a presenter des resultats partiels de sa recherche.

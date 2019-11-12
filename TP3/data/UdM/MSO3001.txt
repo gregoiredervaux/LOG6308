@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'epidemiologie
+DescriptionCours: Techniques et methodes de base de l'analyse epidemiologique. Introduction aux recherches sur l'etiologie des maladies et a la recherche evaluative.

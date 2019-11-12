@@ -1,0 +1,2 @@
+TitreCours: Analyse avec informateur d
+DescriptionCours: Ce cours vise a initier l'etudiant a la prononciation, a la grammaire, au vocabulaire et aux structures syntaxiques de base de la langue en question. Analyse phonologique, morphologique et syntaxique d'une langue a partir de donnees elicitees aupres d'informateurs. Techniques d'elicitation et organisation des donnees. Identification des problemes d'ordres descriptif et theorique. Pour ce cours a contenu variable, la langue etudiee est determinee avant chaque trimestre.

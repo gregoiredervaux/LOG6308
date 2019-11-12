@@ -1,0 +1,2 @@
+TitreCours: La physique des interactions et des echanges
+DescriptionCours: Approfondissement des connaissances preparant a l'enseignement de la physique au secondaire (II). Étude des interactions entre les systemes physiques, l'explication des phenomenes optiques, electriques, sonores et thermiques de notre quotidien; Systemes climatiques: Terre-Ocean-Atmosphere. Applications aux perceptions sensorielles de l'etre humain, en interaction avec le milieu materiel (ou abiotique). Ce cours comprend des travaux pratiques.

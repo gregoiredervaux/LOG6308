@@ -1,0 +1,2 @@
+TitreCours: Stage d'integration
+DescriptionCours: Integration des competences en intervention pastorale. Realisation et evaluation supervisees du projet developpe dans le stage d'exploration. Reflexion theologique, ecclesiologique et pastorale dans l'action.

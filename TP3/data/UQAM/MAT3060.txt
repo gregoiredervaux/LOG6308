@@ -1,0 +1,2 @@
+TitreCours: Programmation lineaire et applications
+DescriptionCours: Programmation lineaire: probleme primal et probleme dual; theoreme primal-dual: methode du simplexe. Application: probleme d'affectation, probleme de transport, problemes divers de gestion. Theorie des jeux de somme nulle, theoreme fondamental, applications a quelques modeles de competition. Programmation lineaire parametrique. Introduction a la programmation en nombres entiers.

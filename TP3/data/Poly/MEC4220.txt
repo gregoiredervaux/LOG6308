@@ -1,0 +1,2 @@
+TitreCours: Aerodynamique
+DescriptionCours: Aerodynamique: definitions et principes de base. Forces et moments aerodynamiques. Écoulements irrotationnels plans. Écoulements axisymetriques. Methodes de panneaux pour le calcul des profils. Aile d'envergure finie. Helices propulsives. Aerodynamique de l'helicoptere. Notions d'aerodynamique experimentale.

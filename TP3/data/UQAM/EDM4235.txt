@@ -1,0 +1,2 @@
+TitreCours: Post
+DescriptionCours: Theorie et pratique des differents aspects du montage applique aux formats televisuels: la teleserie, le reportage, la dramatique, le variete, la mise en forme, etc. Approfondissement des notions abordees dans les cours precedents (montage image et fiction et reportage en television).

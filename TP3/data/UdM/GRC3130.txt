@@ -1,0 +1,2 @@
+TitreCours: Les historiens grecs
+DescriptionCours: Naissance et developpement du genre historique. Analyse de textes d'Herodote, Thucydide, Xenophon, etc. ainsi que des auteurs grecs d'epoque romaine et les historiens chretiens.

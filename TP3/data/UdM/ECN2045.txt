@@ -1,0 +1,2 @@
+TitreCours: Theorie microeconomique 2
+DescriptionCours: Économie de l'incertain : choix en incertitude; marches des actifs financiers : equilibre; elements de theorie des jeux; concurrence imparfaite; modele principal-agent.

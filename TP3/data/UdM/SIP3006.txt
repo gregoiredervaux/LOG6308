@@ -1,0 +1,2 @@
+TitreCours: Stage en intervention
+DescriptionCours: L'etudiant effectue un stage d'intervention dans le milieu de la securite interieure.

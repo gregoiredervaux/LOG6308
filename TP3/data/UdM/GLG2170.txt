@@ -1,0 +1,2 @@
+TitreCours: Tectonique
+DescriptionCours: Zones orogeniques et zones cratoniques. Les Alpes, les Appalaches et le Bouclier canadien. Theorie des geosynclinaux. Tectonique des plaques.

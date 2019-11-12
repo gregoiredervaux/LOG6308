@@ -1,0 +1,2 @@
+TitreCours: Genetique moleculaire
+DescriptionCours: Structure de l'ADN et de l'ARN. Structure, organisation et expression des genes chez les eucaryotes. Mecanismes de regulation. Genome des organites. Retrovirus et virus a ADN. Oncogenes. Techniques et application en genie genetique.

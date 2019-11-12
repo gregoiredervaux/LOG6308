@@ -1,0 +1,2 @@
+TitreCours: Machines virtuelles
+DescriptionCours: Techniques d'execution du code-octet. Gestion et recuperation automatique de la memoire. Parallelisme et synchronisation. Profilage dynamique et systemes d'execution adaptatifs. Mesure de la performance. Les concepts seront illustres a l'aide de machines virtuelles majeures a la fine pointe de la technologie.

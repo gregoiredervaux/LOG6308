@@ -1,0 +1,2 @@
+TitreCours: Traitement et montage video
+DescriptionCours: Introduction au traitement informatique et au montage video non lineaire. Realisation technique de projets video. Notions theoriques portant sur le format des medias et sur les concepts cles de la production video. Adobe Premiere Pro sera utilise.

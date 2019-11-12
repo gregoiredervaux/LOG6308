@@ -1,0 +1,2 @@
+TitreCours: Éthique et education
+DescriptionCours: Presentation a l'etudiant en education de quelques cas caracterises comme moraux. Explicitation des dimensions ethiques en jeu, par exemple: cerner les concepts a l'oeuvre comme justice, valeur, liberte, personne, autorite, responsabilite, devoir, democratie, droit, etc. Identification de theories ethiques telles que l'utilitarisme, le relativisme, le formalisme.

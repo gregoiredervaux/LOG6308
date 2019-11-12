@@ -1,0 +1,2 @@
+TitreCours: Gestion des environnements de soins
+DescriptionCours: Theories et concepts relatifs a la gestion des soins. Étude de la planification et de l'organisation des services infirmiers, des systemes de prestation des soins, d'evaluation des soins, de la gestion des ressources humaines en soins infirmiers.

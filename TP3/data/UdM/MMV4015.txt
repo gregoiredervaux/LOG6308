@@ -1,0 +1,2 @@
+TitreCours: Pharmacother. des animaux de compagnie
+DescriptionCours: Étude des aspects reglementaires, des concepts de therapeutique et des notions de pharmacie reliees a la pratique veterinaire dans le domaine des animaux de compagnie (canins, felins, equins et especes exotiques).

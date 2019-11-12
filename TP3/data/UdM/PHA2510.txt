@@ -1,0 +1,2 @@
+TitreCours: Pratique en etablissement de sante 1
+DescriptionCours: Stage en etablissement de sante visant le developpement de competences relatives a la prestation de soins pharmaceutiques au sein d&rsquo;une equipe multidisciplinaire. Initiation a la gestion de la pratique et des operations en milieu hospitalier.

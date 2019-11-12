@@ -1,0 +1,2 @@
+TitreCours: Projet
+DescriptionCours: Realisation d'un projet permettant aux etudiants d'etudier des problemes concrets, d'en analyser les donnees et de proposer des solutions pratiques. Le projet doit etre realise dans la mesure du possible, en collaboration avec l'exterieur et etre supervise par un professeur ou une personne ressource du milieu. Chaque projet doit faire l'objet d'un rapport qui est presente dans le cadre d'un seminaire.

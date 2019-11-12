@@ -1,0 +1,2 @@
+TitreCours: Techniques d'ecriture
+DescriptionCours: Techniques de redaction transferables; applications a des textes et des disciplines variees. Contraction et resume de textes. Citation, reference, enumeration. Monologue, dialogue, expression directe ou indirecte. Point de vue, recit, description.

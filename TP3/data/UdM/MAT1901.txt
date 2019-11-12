@@ -1,0 +1,2 @@
+TitreCours: Complements de mathematiques
+DescriptionCours: Polynomes. Induction mathematique. Nombres complexes. Analyse combinatoire. Binome de Newton. Geometrie analytique.

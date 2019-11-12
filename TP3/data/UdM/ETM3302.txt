@@ -1,0 +1,2 @@
+TitreCours: Lectures dirigees
+DescriptionCours: Lectures sous la direction d'un professeur et integrees au programme de l'etudiant.

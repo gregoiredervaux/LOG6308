@@ -1,0 +1,2 @@
+TitreCours: Les chantiers de la creation
+DescriptionCours: Reflexion sur le processus createur ; le cours se destine aux etudiants qui souhaitent elaborer et developper un texte de creation dont les composantes et l&rsquo;avancement seront discutes dans le cadre du cours.

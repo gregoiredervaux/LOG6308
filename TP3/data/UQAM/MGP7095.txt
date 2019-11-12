@@ -1,0 +1,2 @@
+TitreCours: Le projet et la strategie de l
+DescriptionCours: Ce cours traite de la strategie d'entreprise dans un environnement projet (formulation, implantation), des liens entre la strategie et le portefeuille de projets, et de la gestion du portefeuille de projets.

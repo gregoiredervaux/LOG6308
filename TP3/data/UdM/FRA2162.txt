@@ -1,0 +1,2 @@
+TitreCours: Histoire du theatre au Quebec
+DescriptionCours: Étude de l&rsquo;evolution des pratiques dramaturgiques et sceniques au Quebec des origines a nos jours.

@@ -1,0 +1,2 @@
+TitreCours: Travail dirige
+DescriptionCours: Sous la direction d'un membre du corps professoral, realisation d'un travail visant a approfondir certaines connaissances ou certaines habiletes inherentes a l'architecture de paysage.

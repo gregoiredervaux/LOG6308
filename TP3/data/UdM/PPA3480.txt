@@ -1,0 +1,2 @@
+TitreCours: Éleves du sec., incapacites intellect.
+DescriptionCours: Autonomie de base, autonomie fonctionnelle et participation sociale. Habiletes essentielles et curriculum de developpement au secondaire. Procedes d'intervention. Amenagements ergonomiques des taches et du milieu.

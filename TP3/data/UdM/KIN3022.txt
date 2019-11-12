@@ -1,0 +1,2 @@
+TitreCours: Vieillissement et performance
+DescriptionCours: Effets du vieillissement sur le controle du mouvement, la posture, la locomotion et les systemes physiologiques a l'exercice. Effets de l'activite physique sur le vieillissement. Principes d'intervention.

@@ -1,0 +1,2 @@
+TitreCours: Seminaire de combinatoire
+DescriptionCours: Ce seminaire a pour but de favoriser les activites de recherche, l'eclosion et la diffusion d'idees nouvelles en mathematiques combinatoires. Il comporte normalement au moins un expose par etudiant inscrit.

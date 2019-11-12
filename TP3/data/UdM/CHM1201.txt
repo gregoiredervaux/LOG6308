@@ -1,0 +1,2 @@
+TitreCours: Chimie inorganique 1
+DescriptionCours: Liaison chimique : notions importantes pour les composes des elements des groupes principaux. Chimie descriptive de l'hydrogene, oxygene, azote et d'autres elements chimiques representatifs. Structure et proprietes des composes de ces elements.

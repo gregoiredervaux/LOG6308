@@ -1,0 +1,2 @@
+TitreCours: Mathematiques de la decision
+DescriptionCours: Cours relevant de l'E.N.A.P. A la fin de ce cours, l'etudiant devrait pouvoir utiliser une approche plus systematique et plus objective a la prise de decision, face a un probleme a solutionner; avoir une bonne idee de la contribution des mathematiques a la prise de decision; utiliser certaines techniques simples de mathematiques decisionnelles et de statistiques; apprecier la valeur de certains travaux statistiques effectues dans son milieu de travail.

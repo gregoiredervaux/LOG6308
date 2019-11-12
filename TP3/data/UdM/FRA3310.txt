@@ -1,0 +1,2 @@
+TitreCours: Litterature et societe
+DescriptionCours: Presentation theorique et critique de travaux relevant de la sociologie de la litterature et de la sociocritique des textes.

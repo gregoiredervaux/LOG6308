@@ -1,0 +1,2 @@
+TitreCours: Évaluation de programmes de formation
+DescriptionCours: Étude des modeles, des strategies et des techniques d'evaluation des programmes et de leurs differentes composantes. Évaluation des besoins, des strategies, des agents d'intervention, des enseignants, des apprentissages, des institutions.

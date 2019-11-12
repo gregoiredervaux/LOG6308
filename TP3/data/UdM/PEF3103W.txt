@@ -1,0 +1,2 @@
+TitreCours: Partenariat avec les parents
+DescriptionCours: Description des dimensions reliees au sentiment de competence parentale. Analyse des facteurs influant sur la communication avec les parents, y compris les mecanismes de defense. Application des strategies appropriees lors de rencontres formelles.

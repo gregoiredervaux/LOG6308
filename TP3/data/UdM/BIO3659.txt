@@ -1,0 +1,2 @@
+TitreCours: Les fonctions du systeme nerveux
+DescriptionCours: Fonction de relation : la physiologie au niveau de la cellule nerveuse et du systeme nerveux central. Integrations sensorielle et motrice.

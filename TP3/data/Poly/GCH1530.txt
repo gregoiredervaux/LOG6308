@@ -1,0 +1,2 @@
+TitreCours: Chimie organique
+DescriptionCours: Proprietes physiques et chimiques des alcanes et alcenes. Acides et bases. Reactions d'addition, de rearrangement, d'elimination et de substitution appliquees aux composes halogenes et cycliques. Stereochimie et activite optique. Spectroscopie infrarouge, spectroscopie de masse et spectroscopie par resonance magnetique nucleaire. Applications industrielles.

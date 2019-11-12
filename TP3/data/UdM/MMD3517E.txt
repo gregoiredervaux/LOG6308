@@ -1,0 +1,2 @@
+TitreCours: Stage: Soins palliatifs
+DescriptionCours: Stage clinique offrant une vue globale de la medecine en soins palliatifs.

@@ -1,0 +1,2 @@
+TitreCours: Prothese partielle fixe clinique 1
+DescriptionCours: Travaux cliniques sur patients permettant de mettre en pratique les concepts qui regissent la realisation de protheses fixes simples.

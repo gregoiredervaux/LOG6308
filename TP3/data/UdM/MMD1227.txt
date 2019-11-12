@@ -1,0 +1,2 @@
+TitreCours: Introduction aux etudes medicales
+DescriptionCours: Vue d'ensemble du programme d'etudes. Initiation aux methodes d'apprentissage par problemes, travail en petits groupes, exposition precoce au milieu clinique. Familiarisation avec l'environnement pedagogique.

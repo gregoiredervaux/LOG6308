@@ -1,0 +1,2 @@
+TitreCours: Activite de stage
+DescriptionCours: Cette activite a pour objectif de permettre a l'etudiant d'appliquer sur le terrain les connaissances d'analyse et de recherche qu'il a acquises. L'etudiant doit remettre un rapport de stage demontrant une reflexion sur l'experience acquise.

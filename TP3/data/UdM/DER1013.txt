@@ -1,0 +1,2 @@
+TitreCours: Dentisterie operatoire pratique
+DescriptionCours: Travaux portant sur la dentisterie operatoire qui permettent l'application des principes qui regissent cette science clinique. Ils sont effectues sur mannequin et conduisent a l'usage de l'instrumentation pertinente.

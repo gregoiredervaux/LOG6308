@@ -1,0 +1,2 @@
+TitreCours: Inference statistique II
+DescriptionCours: Optimalite en theorie des tests: lemme de Neyman-Pearson, tests uniformement les plus puissants et sans biais. Test du rapport de vraisemblance. Proprietes asymptotiques des tests. Modeles non parametriques. Tests de rang pour un et deux echantillons. Estimation robuste. Test de Kolmogorov-Smirnov. Bases de la theorie de la decision: procedures Bayes et minimax. admissibilite.

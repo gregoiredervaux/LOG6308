@@ -1,0 +1,2 @@
+TitreCours: Petrographie
+DescriptionCours: Petrographie et classifications des roches sedimentaires, ignees et metamorphiques. Provinces et sequences.

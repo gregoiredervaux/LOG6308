@@ -1,0 +1,2 @@
+TitreCours: Chimie physique des polymeres
+DescriptionCours: L'aspect «applique» des polymeres sera etudie en profondeur. Proprietes de l'etat solide et de l'etat fondu, principalement des polymeres. Rheologie des polymeres. Correlation entre structure moleculaire et proprietes physiques. Application a quelques techniques de caracterisation. Notions d'extruction et de moulage de matieres plastiques. Notions sur les proprietes des composites.

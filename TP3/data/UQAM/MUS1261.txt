@@ -1,0 +1,2 @@
+TitreCours: Instrument secondaire
+DescriptionCours: Poursuite, en lecons individuelles, des cours d'initiation aux instruments (flûte a bec, percussion, chant et guitare), avec possibilite d'ouverture a leur utilisation a des fins therapeutiques.

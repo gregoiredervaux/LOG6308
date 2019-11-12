@@ -1,0 +1,2 @@
+TitreCours: Design graphique
+DescriptionCours: Entrainement a la creativite, aux structures de grilles graphiques. Études de realisations du point de vue semantique, syntaxique et pragmatique: recherches, analyse et synthese.

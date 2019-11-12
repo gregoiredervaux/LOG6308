@@ -1,0 +1,2 @@
+TitreCours: Geographie
+DescriptionCours: Visualisation de l'etat du monde dans une perspective geographique. Notions fondamentales sur l'etat du monde: perspectives economique, sociale, culturelle, geopolitique et ecologique. La crise des États-nations et les nouveaux conflits regionaux. L'etude des exclus de la croissance.

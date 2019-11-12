@@ -1,0 +1,2 @@
+TitreCours: Financement de projet
+DescriptionCours: L'objectif general du cours consiste a initier les etudiants&nbsp;aux principes et aux&nbsp;methodes du financement de projets.  Plus precisement, apres avoir suivi ce cours, les etudiants sauront&nbsp;:  &nbsp;   reconnaitre&nbsp;ce qu'est le financement de projets et comment il differe des vehicules de financement habituels;  distinguer les principales formes de financement de projets;  comment les bailleurs de fonds determinent les conditions de financement;  utiliser le financement de projets dans differents contextes.

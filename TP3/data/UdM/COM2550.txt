@@ -1,0 +1,2 @@
+TitreCours: Éditique
+DescriptionCours: Principes et techniques de design infographique pour la conception de communications imprimees. Conception et production de logos, de brochures : mise en page, typographie, couleurs, papier, trames, preparation des epreuves pour l'impression.

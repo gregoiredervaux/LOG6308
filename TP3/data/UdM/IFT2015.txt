@@ -1,0 +1,2 @@
+TitreCours: Structures de donnees
+DescriptionCours: Types abstraits pour les structures de donnees, arbres, dictionnaires, files avec priorites, graphes, methodes externes.

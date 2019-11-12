@@ -1,0 +1,2 @@
+TitreCours: Atelier d'integration
+DescriptionCours: Cours visant l'integration des connaissances acquises en cours de formation. Synthese des acquis theoriques et des pratiques d'intervention.

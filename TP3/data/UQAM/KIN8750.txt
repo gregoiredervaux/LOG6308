@@ -1,0 +1,2 @@
+TitreCours: Projet de memoire
+DescriptionCours: L'etudiant doit preparer et presenter de facon satisfaisante, dans un document ecrit, le contexte theorique, les hypotheses et la methodologie de son projet de memoire. Ce projet devra etre presente et accepte avant la quatrieme inscription de l'etudiant. Le projet sera evalue par un comite de trois professeurs, dont le directeur de recherche, selon la notation succes-echec.

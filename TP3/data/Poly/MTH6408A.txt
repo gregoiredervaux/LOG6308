@@ -1,0 +1,2 @@
+TitreCours: Methodes d'optimisation et controle optimal
+DescriptionCours: Optimisation de fonctions avec et sans contraintes. Conditions d'optimalite et algorithmes numeriques. Modelisation de problemes concrets rencontres en genie et resolution numerique par ordinateur. Influence de l'algebre creuse et methodes a memoires limitee. Introduction au controle et au calcul des variations. Resolution de problemes de controle en utilisant l'optimisation. Commande de systemes dynamiques, methodes numeriques de controle, exemples concrets et actuels.

@@ -1,0 +1,2 @@
+TitreCours: Écoles d'ete du CÉRIUM
+DescriptionCours: Seminaire thematique de l'actualite internationale presente dans le cadre des ecoles d'ete du CERIUM.

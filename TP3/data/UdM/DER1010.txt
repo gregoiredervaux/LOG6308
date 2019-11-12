@@ -1,0 +1,2 @@
+TitreCours: Dentisterie operatoire theorique
+DescriptionCours: Principes qui regissent la preparation des dents pour obturations individuelles.

@@ -1,0 +1,2 @@
+TitreCours: Activite physique au prescolaire
+DescriptionCours: Developpement psychomoteur et pratique de l'activite physique. Motricite globale, motricite fine. Jeux moteurs et jeux sensoriels. Évaluation motrice. Gestion de classe en gymnase et securite. Laboratoire d'intervention.

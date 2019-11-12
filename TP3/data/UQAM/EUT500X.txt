@@ -1,0 +1,2 @@
+TitreCours: Cours hors Quebec en etudes urbaines et touristiques
+DescriptionCours: Ce cours s'adresse aux etudiants des programmes de l'ÉSG effectuant un sejour d'etudes hors Quebec (au Canada ou a l'etranger). Il vise a leur permettre de s'inscrire a des activites academiques (cours magistraux, ateliers ou seminaires) dans les domaines des etudes urbaines, de l'urbanisme et des etudes touristiques qui n'ont pas d'equivalent dans le programme.

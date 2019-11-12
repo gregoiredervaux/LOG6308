@@ -1,0 +1,2 @@
+TitreCours: Geochimie : exploration et environnement
+DescriptionCours: Geochimie de l'environnement et de l'exploration minerale. Genese, detection et interpretation d'anomalies causees par la pollution et par les gisements metalliferes.

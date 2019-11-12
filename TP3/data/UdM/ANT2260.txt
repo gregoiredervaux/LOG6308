@@ -1,0 +1,2 @@
+TitreCours: Methodes et concepts en archeologie
+DescriptionCours: Analyse critique des problemes poses par la description, la classification et l'interpretation.

@@ -1,0 +1,2 @@
+TitreCours: Droit de la preuve civile et administrative
+DescriptionCours: Ce cours vise a initier l'etudiant aux notions generales sur les systemes de preuve. Notions generales sur les systemes de preuve. Principes et regles de la preuve civile: l'objet et le fardeau de la preuve, les moyens de preuve et leur recevabilite, les sanctions des regles de preuve. Les principales regles regissant l'administration de la preuve a l'enquete judiciaire et hors de l'enquete. Les regles de preuve devant les tribunaux administratifs.

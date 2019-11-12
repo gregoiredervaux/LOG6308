@@ -1,0 +1,2 @@
+TitreCours: Recherche
+DescriptionCours: Initiation aux problemes et aux processus de recherche rencontres par les consultants et praticiens de la recherche en psychosociologie. Reflexion sur les liens entre l'action et la recherche, et sur les fondements de la recherche-action. Planification d'interventions de type «recherche-action». Avantages et limites aux plans theorique et methodologique.

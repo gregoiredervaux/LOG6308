@@ -1,0 +1,2 @@
+TitreCours: Initiation aux techniques de scenarisation
+DescriptionCours: Introduction aux diverses techniques de scenarisation appliquees aux productions audiovisuelles. Processus de developpement d'une idee depuis la conception jusqu'a l'etape de scenario en passant par le synopsis. Caracteristiques propres aux differents genres (fiction, documentaire ...) et medias (television, cinema...).

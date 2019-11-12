@@ -1,0 +1,2 @@
+TitreCours: Économie et mondialisation
+DescriptionCours: Ce cours vise a fournir aux etudiants une meilleure comprehension des enjeux de la mondialisation a l'aide d'une analyse basee sur une approche economique.

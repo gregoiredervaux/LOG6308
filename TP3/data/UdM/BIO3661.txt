@@ -1,0 +1,2 @@
+TitreCours: T.P. Physiologie nerveuse et musculaire
+DescriptionCours: Étude pratique du systeme nerveux. Sur ordinateur, a partir de modeles mimant l'activite neuronale, analyse des proprietes membranaires et synaptiques. Experience sur le systeme sensoriel et psychophysique.

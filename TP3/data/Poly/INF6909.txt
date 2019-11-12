@@ -1,0 +1,2 @@
+TitreCours: Projet d'etudes superieures
+DescriptionCours: Projet d'etudes superieures accompli sous la direction d'un professeur du departement et comprenant une etude d'application ainsi que la redaction d'un rapport de projet. Le travail comprend au moins un total de 135 heures.

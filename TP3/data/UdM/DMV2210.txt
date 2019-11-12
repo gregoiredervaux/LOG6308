@@ -1,0 +1,2 @@
+TitreCours: Methodes quantitatives en medecine vet.
+DescriptionCours: Importance de la med. factuelle en med. vet. Recherche d'info. et analyse critique de la litterature med. et vet.; essais cliniques randomises, masques; statistiques descriptives et inference stat. dans le cadre d'essais clin. vet.

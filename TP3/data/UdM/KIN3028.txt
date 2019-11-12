@@ -1,0 +1,2 @@
+TitreCours: Planification de l'entrainement sportif
+DescriptionCours: Plans d'entrainement et de competition. Periodicite et organisation cyclique de la charge (cycle, microcycle et macrocycle). Évaluation de la charge (volume, intensite, difficulte). La seance d'entrainement.

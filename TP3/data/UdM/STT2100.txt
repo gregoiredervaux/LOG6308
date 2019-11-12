@@ -1,0 +1,2 @@
+TitreCours: Theorie de la decision
+DescriptionCours: Modele bayesien. Fonction de perte. Loi a priori et a posteriori. Regle de decision. Admissibilite. Solution minimax. Estimation bayesienne. Test sequentiel. Region de credibilite. Modele empirique.

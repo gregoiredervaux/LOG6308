@@ -1,0 +1,2 @@
+TitreCours: Biologie cellulaire 2
+DescriptionCours: Strategies methodologiques en biologie cellulaire; etudes approfondies des relations structure / fonction; morphologie moleculaire.

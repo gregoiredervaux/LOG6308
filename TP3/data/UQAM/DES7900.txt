@@ -1,0 +1,2 @@
+TitreCours: Évenement et patrimoine
+DescriptionCours: Seminaire qui aborde des problematiques communes au design d'evenements et a la conservation du patrimoine. Examen des questions posees par la temporalite et la dimension symbolique des productions culturelles baties ou autres: rapport entre l'ephemere et le durable; l'evenement, l'histoire et l'actualite; l'imaginaire, la memoire et la commomeration; l'expression et l'identite culturelle; l'evenement comme outil de mise en valeur d'objets patrimoniaux; etc.

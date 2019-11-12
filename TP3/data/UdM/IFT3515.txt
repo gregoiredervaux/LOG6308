@@ -1,0 +1,2 @@
+TitreCours: Techniques d'optimisation 2
+DescriptionCours: Programmation non lineaire. Conditions d'optimalite avec et sans contraintes. Optimisation unidimensionnelle. Methodes de directions realisables. Modeles en nombres entiers. Methodes de coupes. Branch and bound.

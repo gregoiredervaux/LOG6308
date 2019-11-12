@@ -1,0 +1,2 @@
+TitreCours: Fondements theoriques en communication humaine
+DescriptionCours: Ce cours vise l'initiation aux principaux fondements theoriques de l'etude de la communication humaine. Les interactions et les relations humaines comme champs d'etude et de pratique. Certains phenomenes et concepts centraux en communication humaine: attitudes,  attributions, competition, dissonance cognitive, groupes de reference, influence sociale, normes, representations et construction sociales, roles, stereotypes, valeurs, etc.

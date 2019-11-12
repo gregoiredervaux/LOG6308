@@ -1,0 +1,2 @@
+TitreCours: Sante des femmes
+DescriptionCours: Analyse de la qualite de vie des femmes et de leur sante. Determination des facteurs socio-economiques et politiques qui influencent la sante et strategies d'intervention en utilisant les concepts en sciences infirmieres.

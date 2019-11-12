@@ -1,0 +1,2 @@
+TitreCours: Politiques gouvernementales en R.I.
+DescriptionCours: Le role de l'État en relations industrielles. Évolution de l'intervention de l'État. Étude multidisciplinaire des grandes politiques de l'État quebecois en relations industrielles.

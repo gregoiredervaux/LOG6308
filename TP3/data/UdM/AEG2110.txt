@@ -1,0 +1,2 @@
+TitreCours: Entrainement au travail en equipe
+DescriptionCours: En reference aux phenomenes de groupes, identifier les etapes de constitution d'une equipe de travail et le partage des roles qui s'y organise. Par des exercices appropries, maitriser la gestion d'une equipe de travail.

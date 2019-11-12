@@ -1,0 +1,2 @@
+TitreCours: Francais ecrit pour futurs enseignants
+DescriptionCours: Problemes textuels, syntaxiques, orthographiques et lexicaux dans les textes des enseignants et des futurs eleves. Description de la langue et norme. Explicitation des connaissances linguistiques. Strategies de revision.

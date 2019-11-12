@@ -1,0 +1,2 @@
+TitreCours: Syntaxe : theorie et description
+DescriptionCours: Étude des developpements recents en syntaxe a travers des lectures et l'analyse de problemes concrets.

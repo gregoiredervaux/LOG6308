@@ -1,0 +1,2 @@
+TitreCours: Actuariat et economie
+DescriptionCours: Revision des principaux concepts de la microeconomie et de la macroeconomie avec une approche actuarielle. Rappel des notions de base en microeconomie: offre et demande, risque, competition, theorie des jeux. Rappel des notions de base en macroeconomie: modele keynesien, monnaie, cycle economique. Resolution de problemes. Ce cours comporte une seance d'exercices de 2 heures par semaine.

@@ -1,0 +1,2 @@
+TitreCours: Structure aronautique I
+DescriptionCours: Revue des charges. Introduction  l'analyse des composantes primaires de la structure : panneaux raidis plans et courbes, longerons, cadres et nervures. Plaques de raccord et de renfort. Instabilit et plasticit des poutres en flexion et torsion. Applications de la mthode des lments finis. Introduction  la tolrance aux dommages applique aux avions.

@@ -1,0 +1,2 @@
+TitreCours: Initiation aux sources orales
+DescriptionCours: Techniques d'enquete orale. Apprentissage des diverses etapes de la realisation d'une enquete. Theorie, pratique et reflexion critique.

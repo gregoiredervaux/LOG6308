@@ -1,0 +1,2 @@
+TitreCours: Chinois elementaire 1
+DescriptionCours: Apprentissage de la grammaire fondamentale et du vocabulaire de base de la langue chinoise. Travail sur la prononciation et sur les tons au laboratoire de langue. Acquisition de 250 caracteres simplifies et non simplifies.

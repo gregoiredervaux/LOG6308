@@ -1,0 +1,2 @@
+TitreCours: Psychologie politique
+DescriptionCours: Explications psychologiques des decisions et comportements politiques des individus et des groupes. Role des perceptions, prejuges, personnalites, emotions, et processus cognitifs.

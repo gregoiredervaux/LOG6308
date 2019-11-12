@@ -1,0 +1,2 @@
+TitreCours: Management compare
+DescriptionCours: Ce cours a comme objectif d'initier l'etudiant aux notions fondamentales caracterisant les principaux systemes de gestion existants dans le monde. On y aborde les philosophies de gestion et les strategies derivees des modeles culturels de pays commercialement concurrents. A la fin du cours, l'etudiant devra avoir compris comment se construisent les relations internationales et comment s'effectuent les transferts de connaissances d'un pays a l'autre.

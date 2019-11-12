@@ -1,0 +1,2 @@
+TitreCours: Concours interne de plaidoiries
+DescriptionCours: Recherche. Redaction d'un memoire d'appel et plaidoirie verbale.

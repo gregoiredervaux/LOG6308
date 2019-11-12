@@ -1,0 +1,2 @@
+TitreCours: Biologie moleculaire et cellulaire pour ing.
+DescriptionCours: Structure des cellules eucaryotes et procaryotes, expression des genes, fonction des organelles, transport transmembranaire, cytosquelette, matrice extracellulaire, interactions cellulaires et systemes multicellulaires. Biologie moleculaire, vecteurs d'expression, clonage, transformation et transfection. Voies de signalisation, differenciation cellulaire, technologies associees a la modification et a la caracterisation des cellules

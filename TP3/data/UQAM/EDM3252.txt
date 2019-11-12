@@ -1,0 +1,2 @@
+TitreCours: Gestion de la production audiovisuelle
+DescriptionCours: La gestion de la production dans l'industrie audiovisuelle: etude des principales lois et convention en vigueur, le role des divers intervenants (producteur, producteur delegue, directeur de production, etc); les diverses ressources disponibles au Quebec (en preproduction, production, post-production, diffusion et distribution); etude de budget-type et exercices de simulation.

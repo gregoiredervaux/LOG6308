@@ -1,0 +1,2 @@
+TitreCours: Le probleme a N corps
+DescriptionCours: La theorie des perturbations appliquee au probleme a N corps. Deuxieme quantification. Modeles a particules independantes. Noyaux, atomes et molecules. Les fluides de Fermi. Matiere nucleaire. Superconductivite. Systemes de bosons. L'helium liquide.

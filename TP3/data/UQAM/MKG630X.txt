@@ -1,0 +1,2 @@
+TitreCours: Seminaire en marketing
+DescriptionCours: A contenu variable, ce seminaire permet, entre autres, de preparer adequatement l'equipe de l'UQAM pour le concours de la «Releve publicitaire» ou l'industrie et les milieux universitaires quebecois collaborent etroitement pour faire connaitre les competences des etudiants en marketing. Ce seminaire peut aussi prendre l'allure d'un cours a themes, determines en collaboration avec l'industrie. Dans ce cas, les equipes formees travailleront le meme theme sur le modele competitif vecu par toute l'entreprise.

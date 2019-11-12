@@ -1,0 +1,2 @@
+TitreCours: Intervention en orthophonie
+DescriptionCours: Introduction aux methodes d'observation, description et mesure des comportements et des environnements de communication de personnes atteintes de troubles de la parole et du langage. Notions de readaptation et de prevention.

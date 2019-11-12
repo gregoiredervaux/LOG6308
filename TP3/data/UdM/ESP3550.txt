@@ -1,0 +1,2 @@
+TitreCours: L'espagnol d'Amerique
+DescriptionCours: Étude des caracteristiques generales de l'espagnol d'Amerique, pour aider l'etudiant a mieux saisir les realites linguistico-litteraires de l'Amerique latine.

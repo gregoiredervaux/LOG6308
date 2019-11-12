@@ -1,0 +1,2 @@
+TitreCours: Methodes d
+DescriptionCours: Ce cours vise a familiariser l'etudiant avec les methodes mathematiques appliquees a l'analyse economique et en particulier avec les methodes d'optimisation dynamique. Les sujets couverts comprennent la solution et la stabilite de systemes d'equations differentielles (deterministes et stochastiques), la theorie de la commande optimale et la programmation dynamique.

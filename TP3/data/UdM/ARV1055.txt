@@ -1,0 +1,2 @@
+TitreCours: Organisation intellectuelle 2
+DescriptionCours: Évolution des pratiques de description des archives. Regles nationales et internationales de description. Application des regles nationales de description. Application informatique specifique aux documents analogiques et numeriques.

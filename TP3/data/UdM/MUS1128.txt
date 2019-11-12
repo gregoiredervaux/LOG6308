@@ -1,0 +1,2 @@
+TitreCours: Édition musicale assistee par ordinateur
+DescriptionCours: Apprentissage d'un logiciel d'edition de partitions. Histoire et evolution de la notation et des techniques d'edition musicale. Formats et conventions de notation. Esthetique de la partition. Notation des modes de jeu contemporains.

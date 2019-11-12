@@ -1,0 +1,2 @@
+TitreCours: Projet de memoire
+DescriptionCours: Depot du projet de memoire. Cette activite est evaluee selon la notation succes/echec.

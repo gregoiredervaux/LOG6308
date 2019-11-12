@@ -1,0 +1,2 @@
+TitreCours: Propedeutique en management
+DescriptionCours: Objectifs du cours :  &nbsp;   S'initier a l'univers theorique du management;  Prendre connaissance du milieu d'action du management, a savoir les organisations;  S'initier a la resolution de problemes concrets de gestion

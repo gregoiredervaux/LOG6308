@@ -1,0 +1,2 @@
+TitreCours: Science et ingenierie des polymeres
+DescriptionCours: Nature et caracteristiques des polymeres. Mecanismes et techniques de polymerisation. Morphologie des polymeres. Reacteurs industriels. Modeles phenomenologiques. Melanges de polymeres. Proprietes physiques et mecaniques.

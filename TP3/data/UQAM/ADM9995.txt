@@ -1,0 +1,2 @@
+TitreCours: Lectures dirigees
+DescriptionCours: Cette activite doit amener l'etudiant a couvrir systematiquement la documentation specialisee associee a un champ de recherche donne. L'etudiant peut egalement utiliser cette activite pour explorer un aspect particulier de sa problematique de recherche si aucun autre cours ne permet de le faire. Modalites: Les lectures suggerees doivent etre supervisees par un professeur appartenant au corps professoral de l'une ou l'autre des quatre universites participant au programme du doctorat conjoint en administration.

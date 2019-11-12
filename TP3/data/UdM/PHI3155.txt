@@ -1,0 +1,2 @@
+TitreCours: Problemes de philosophie des sciences
+DescriptionCours: Themes de la philosophie des sciences contemporaines : realisme/anti-realisme, nature de la verite, modeles du progres scientifique, determinisme, causalite et hasard.

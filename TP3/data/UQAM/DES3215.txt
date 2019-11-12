@@ -1,0 +1,2 @@
+TitreCours: Photographie
+DescriptionCours: Conceptions graphiques pour la photographie. Introduction aux techniques de studio. Prise de vue et eclairage artificiel. Photographie d'objets et de modeles vivants.

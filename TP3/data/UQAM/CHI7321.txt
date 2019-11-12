@@ -1,0 +1,2 @@
+TitreCours: Structure et propriete des metaux
+DescriptionCours: Ce cours de specialisation amene l'etudiant a une meilleure comprehension de l'etat solide et en montre l'importance industrielle. Proprietes physiques et mecaniques des metaux en fonction de leur structure electronique et des perfections du reseau cristallin. Étude detaillee de quelques diagrammes d'equilibre. Diffusion dans les metaux. Cinetique de changements de phases.

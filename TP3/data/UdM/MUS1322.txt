@@ -1,0 +1,2 @@
+TitreCours: Techniques d'enregistrement en studio
+DescriptionCours: Introduction au studio d'enregistrement, a son environnement, ses outils et ses techniques. Apercu des concepts cles touchant la chaine electroacoustique, du microphone au haut-parleur, la transduction, le traitement et la diffusion du signal.

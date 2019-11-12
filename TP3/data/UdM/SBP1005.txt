@@ -1,0 +1,2 @@
+TitreCours: Fonctionnement normal du corps humain
+DescriptionCours: Connaissances essentielles d'anatomie et d'histologie. Principes fondamentaux regulant les divers systemes de l'organisme et les changements physiologiques.

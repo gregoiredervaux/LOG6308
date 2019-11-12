@@ -1,0 +1,2 @@
+TitreCours: Microbiologie buccodentaire
+DescriptionCours: Notions d'ecologie de la cavite buccale et d'immunologie des muqueuses. Étiologie des principales infections buccodentaires. Le controle de l'asepsie et des risques infectieux.

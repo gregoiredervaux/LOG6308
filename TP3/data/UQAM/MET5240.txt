@@ -1,0 +1,2 @@
+TitreCours: Methodologie de la recherche
+DescriptionCours: Developpement de la methode scientifique d'investigation adaptee aux besoins de gestionnaires modernes. Introduction a la methode scientifique; examen de differentes approches de recherche dans les sciences administratives; introduction a certaines techniques de recherche: echantillonnage, confection d'instruments de mesure, analyse statistique.

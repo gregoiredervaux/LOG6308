@@ -1,0 +1,2 @@
+TitreCours: La securite privee
+DescriptionCours: Definitions; services internes; agences de securite; loi; police et securite privee; prevention des pertes; protection des espaces; gardiennage; enquetes et gestion de crise; analyse de risques; planification d&rsquo;un dispositif de securite.

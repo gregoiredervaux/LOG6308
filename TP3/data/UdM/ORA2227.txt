@@ -1,0 +1,2 @@
+TitreCours: Troubles du langage
+DescriptionCours: Introduction aux perturbations du langage chez l'enfant et l'adulte : taxonomie, semiologie, etiologie, epidemiologie et evolution.

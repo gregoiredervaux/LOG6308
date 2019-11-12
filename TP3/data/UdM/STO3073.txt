@@ -1,0 +1,2 @@
+TitreCours: Chirurgie clinique 1
+DescriptionCours: Stages d'initiation a la chirurgie de la cavite buccale. Protocole operatoire. Methode d'asepsie. Assistance technique. Anesthesie regionale.

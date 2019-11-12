@@ -1,0 +1,2 @@
+TitreCours: Le monde lusophone
+DescriptionCours: Identification et analyse des phenomenes culturels les plus marquants dans les pays de la lusophonie.

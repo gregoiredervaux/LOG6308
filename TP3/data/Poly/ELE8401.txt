@@ -1,0 +1,2 @@
+TitreCours: Machines et entrainements electriques
+DescriptionCours: Principes d'operation, classification et diagrammes structurels des systemes d'entrainement. Conversion electromecanique et equations de mouvement. Analyse du fonctionnement des machines a courant alternatif; elaboration structurelle et caracteristiques operationnelles des systemes d'entrainement; notions de commande en vitesse et en couple des machines. Modelisation des systemes d'entrainement aux fins de simulation numerique. Specification fonctionnelle, devis technique, normes et qualite de l'onde.

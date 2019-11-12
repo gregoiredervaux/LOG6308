@@ -1,0 +1,2 @@
+TitreCours: Introduction a l'economie de la sante
+DescriptionCours: Initier les etudiants en medecine aux thematiques couvertes par l'economie de la sante et comprendre les principaux enjeux economiques auxquels sont confrontes les systemes de sante.

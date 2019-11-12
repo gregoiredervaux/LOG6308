@@ -1,0 +1,2 @@
+TitreCours: Stage industriel
+DescriptionCours: Contact des etudiants avec le milieu industriel afin d'acquerir une experience pratique en recherche et developpement. Le stage, organise par le responsable du programme et planifie selon l'industrie d'accueil, sera preferablement realise a temps plein. Le stage et la redaction du rapport ecrit qui en decoule seront l'equivalent du temps normalement consacre a un cours de trois credits. Pour s'inscrire au stage industriel, l'etudiant devra avoir reussi un cours de specialisation dans son domaine de recherche.

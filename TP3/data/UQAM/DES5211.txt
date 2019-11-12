@@ -1,0 +1,2 @@
+TitreCours: Design graphique
+DescriptionCours: Realisations syntheses visant a developper le sens critique de graphismes existants. Compilation des references dans le but d'une proposition conceptuelle concrete.

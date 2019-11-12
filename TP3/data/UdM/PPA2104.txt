@@ -1,0 +1,2 @@
+TitreCours: Laboratoire d'enseignement en FLS
+DescriptionCours: Entrainement a l'observation et a l'analyse de situations d'enseignement du francais langue seconde. Pratiques d'habiletes en situation de micro-enseignement. Videoscopie et entrainement a la pratique reflechie.

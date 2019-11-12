@@ -1,0 +1,2 @@
+TitreCours: Pharmacogenetique
+DescriptionCours: Caracteristiques du genome humain, strategie des etudes pharmacogenetiques, aspects ethiques, analyse des donnees, patrons de resistance / toxicite aux medicaments, applications therapeutiques.

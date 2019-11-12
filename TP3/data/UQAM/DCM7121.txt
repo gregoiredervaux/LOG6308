@@ -1,0 +1,2 @@
+TitreCours: Methodes de recherche et d
+DescriptionCours: Ce cours vise a habiliter l'etudiant a maitriser les differentes etapes du processus de recherche : comme l'enonce du probleme, la definition des hypotheses, des indicateurs et echelles de mesure. L'etudiant sera egalement habilite a developper des instruments de mesures fiables et valides par questionnaire, entrevue individuelle ou de groupe.

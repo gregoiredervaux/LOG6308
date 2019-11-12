@@ -1,0 +1,2 @@
+TitreCours: Langues scientifique et technique
+DescriptionCours: Étude en contexte bilingue des notions, de la terminologie et de la phraseologie propres aux langues S/T. Caracteristiques linguistiques des discours S/T. Demarche d'apprentissage et outils specialises. Problemes specifiques de transfert.

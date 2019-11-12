@@ -1,0 +1,2 @@
+TitreCours: Modelisation
+DescriptionCours: Introduction a la modelisation et simulation de systemes environnementaux. Methodes et approches de la modelisation dynamique et processus d'elaboration d'un modele. Modeles spatio-temporels.

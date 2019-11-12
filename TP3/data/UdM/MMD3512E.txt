@@ -1,0 +1,2 @@
+TitreCours: Stage : Chirurgie plastique
+DescriptionCours: Stage clinique aupres de malades ambulants ou hospitalises en chirurgie plastique.

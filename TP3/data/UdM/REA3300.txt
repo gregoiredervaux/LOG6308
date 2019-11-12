@@ -1,0 +1,2 @@
+TitreCours: Systeme de sante et gestion
+DescriptionCours: Organisation des services de sante. Lois et reglements. Le processus administratif : planification, organisation, controle. Gestion d'un service.

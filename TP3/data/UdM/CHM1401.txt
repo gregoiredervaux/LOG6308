@@ -1,0 +1,2 @@
+TitreCours: Chimie physique 1
+DescriptionCours: Introduction aux concepts de base de la chimie physique moderne dont le centre d'interet est la molecule. Spectroscopie, proprietes electriques et magnetiques des molecules, structure atomique et moleculaire. Les lois de la thermodynamique.

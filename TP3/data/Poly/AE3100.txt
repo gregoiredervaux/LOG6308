@@ -1,0 +1,2 @@
+TitreCours: Matriaux et procds en aronautique
+DescriptionCours: Mtaux utiliss en aronautique et procds de transformation. Analyse de dfaillance. Procds chimiques et prvention de la corrosion. Matriaux composites. Adhsifs pour applications structurales. Procds et mthodes d'tanchement.

@@ -1,0 +1,2 @@
+TitreCours: Entrepreneurship et gestion entrepr.
+DescriptionCours: Cours de l'École Polytechnique.

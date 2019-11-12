@@ -1,0 +1,2 @@
+TitreCours: Traitement du signal
+DescriptionCours: Systemes lineaires. Échantillonnage et reconstruction. Convolution. Notation polaire. Transformees-Z et de Fourier. Analyse spectrale. Filtrage numerique (FIR et IIR). Applications dans les domaines de l'audio, de l'image et de la video.

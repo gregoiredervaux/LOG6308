@@ -1,0 +1,2 @@
+TitreCours: Production en mediatique
+DescriptionCours: Étude et pratique des diverses techniques du traitement de l'image ecran. Les connaissances de base: l'image ecran, la synthese de numerisation, les effets speciaux, les systemes de couleurs, pragmatique de la mediation. Les applications: la synthese de numerisation de l'image, la mediatisation par objet, la schematisation, la mediatisation par memoire topographique, la mediatisation des graphes, gestion des metafichiers graphiques. Utilisation graphique de l'imprimante.

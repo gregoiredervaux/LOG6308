@@ -1,0 +1,2 @@
+TitreCours: Design graphique
+DescriptionCours: Ce cours a pour objet la conception et la realisation de signes graphiques modernes repondant aux criteres pictographiques essentiels: precision, reconnaissance, memorisation, distinction et comprehension.

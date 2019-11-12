@@ -1,0 +1,2 @@
+TitreCours: Applications des groupes en physique
+DescriptionCours: Symetries, invariances et groupes. Theorie des groupes abstraits. Representations des groupes et mecanique quantique. Applications a la physique des solides, a la physique nucleaire et aux particules elementaires.

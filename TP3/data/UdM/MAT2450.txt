@@ -1,0 +1,2 @@
+TitreCours: Mathematiques et technologie
+DescriptionCours: Étude de plusieurs sujets dans des domaines ou les mathematiques jouent un role essentiel pour la technologie : informatique, cryptographie, transports, biotechnologie, pharmacie, traitement d'images, reconnaissances de formes, etc.

@@ -1,0 +1,2 @@
+TitreCours: Stage industriel II
+DescriptionCours: Sous la supervision d'un coordonnateur, l'etudiant vivra pendant quatre mois un apprentissage du travail en entreprise dans une fonction technique reliee a ses etudes. Un rapport de stage sera exige et l'evaluation de l'etudiant sera faite conjointement par le superviseur industriel et le coordonnateur du stage.

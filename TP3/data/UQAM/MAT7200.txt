@@ -1,0 +1,2 @@
+TitreCours: Algebre homologique
+DescriptionCours: Modules; suites exactes; complexes de chaines homologie d'un complexe de chaines; homologie simpliciale et singuliere; cohomologie; formule des coefficients universels; foncteurs Tor et Ext; formule de Kunneth; anneau de cohomologie singuliere.

@@ -1,0 +1,2 @@
+TitreCours: 
+DescriptionCours: Automates finis, langages rationnels. Theorie elementaire des graphes, algebre de Boole et logique propositionnelle. Machines de Turing, notions de complexite. Grammaires hors-contexte, automates a pile. Notions de structures de donnees, arborescences, listes. Analyse d'algorithmes, algorithmes algebriques. Calcul symbolique. Cette activite est evaluee selon la notation Succes-Échec.

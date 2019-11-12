@@ -1,0 +1,2 @@
+TitreCours: Histoire de la France contemporaine
+DescriptionCours: Histoire de la France de 1789 a nos jours. L'evolution politique, economique et sociale.

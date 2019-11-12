@@ -1,0 +1,2 @@
+TitreCours: Pharmacologie 2
+DescriptionCours: Pharmacologie des medicaments du systeme nerveux central. Neuro et psychopharmacologies. Anesthesiques. Analgesiques. Anti-inflammatoires. Mecanismes d'action, indications, precautions, interactions, contre-indications.

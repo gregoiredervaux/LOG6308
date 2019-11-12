@@ -1,0 +1,2 @@
+TitreCours: Techniques de fabrication manufacturieres
+DescriptionCours: Cours et travaux pratiques en laboratoire, destines a etudier, a mettre en oeuvre et a utiliser des techniques tres repandues dans l'industrie manufacturiere: les procedes de mise en forme du metal, les procedes d'usinage par enlevement de copeaux, le controle dimensionnel, les systemes automatises, l'integration des systemes automatises de production.

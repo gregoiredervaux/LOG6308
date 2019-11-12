@@ -1,0 +1,2 @@
+TitreCours: Prevention/therapie : porc et volaille
+DescriptionCours: Notions appliquees d'assainissement, de traitement, de desinfection et de bio-securite des elevages intensifs.

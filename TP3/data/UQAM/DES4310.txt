@@ -1,0 +1,2 @@
+TitreCours: Design et infographie
+DescriptionCours: Familiarisation a des logiciels graphiques de type «vecteur» ou «BIT MAP». Exploration des possibilites offertes par la CAO-2D dans le cadre de projets lies au Design de l'environnement. Introduction aux structures de donnees hierarchisees et aux differents outils de generation, de transformation et d'analyse de ces donnees. Travail de creation et exploitation des rendus specifiques a ces technologies.

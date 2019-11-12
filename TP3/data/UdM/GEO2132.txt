@@ -1,0 +1,2 @@
+TitreCours: Geomorphologie
+DescriptionCours: Les formes a la surface de la terre : leur nature et developpement sous l'effet des agents de meteorisation, de transport et de depot. Role du climat dans la differenciation des formes. Geomorphologie et amenagement du territoire.

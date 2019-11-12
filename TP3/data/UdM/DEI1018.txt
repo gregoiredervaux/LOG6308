@@ -1,0 +1,2 @@
+TitreCours: Atelier 1 en design d'interieur
+DescriptionCours: Principes fondamentaux du processus de design d'interieur. Élements structurants de l'espace interieur et leur representation. Conduite du projet comme processus de transcription et d'evolution de l'idee dans un langage formel propre au design.

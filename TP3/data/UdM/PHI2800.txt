@@ -1,0 +1,2 @@
+TitreCours: Philosophie grecque : Platon
+DescriptionCours: Approche de Platon principalement par l'analyse et la lecture commentee de textes.

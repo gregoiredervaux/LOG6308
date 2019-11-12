@@ -1,0 +1,2 @@
+TitreCours: Systemes graphiques informatises
+DescriptionCours: Ce cours permet d'approfondir les logiciels etudies dans le cours DES4210 et de poursuivre l'etude d'autres logiciels graphiques figurant dans la bibliotheque du service de l'informatique de l'UQAM, en vue de leur utilisation. Il permet d'acquerir une comprehension globale des logiciels graphiques disponibles.

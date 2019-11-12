@@ -1,0 +1,2 @@
+TitreCours: Petrologie des roches metamorphiques
+DescriptionCours: Le metamorphisme et les roches metamorphiques. Les diagrammes ACF, AKF, AFM. Les series de Barrow et Abukuma et leurs caracteristiques. La grille petrogenetique. Metamorphisme des carbonates et le probleme des melanges des deux phases volatiles. Le facies granulite et ses sous-divisions. Formation des migmatites. Techniques de geothermometrie et geobarometrie. Relation entre le metarmophisme et la tectonique. Laboratoire (3 heures).

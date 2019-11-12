@@ -1,0 +1,2 @@
+TitreCours: Memoire de recherche
+DescriptionCours: A partir d'une problematique de recherche portant sur des phenomenes relies a la creation, a l'interpretation, a l'histoire, a l'esthetique, a l'enseignement de la danse, ou a tout autre theme defini en accord avec la direction de recherche, realiser un memoire faisant etat de la demarche de recherche et des resultats.

@@ -1,0 +1,2 @@
+TitreCours: Analyse multivariee en R.I.
+DescriptionCours: Études avancees des methodes quantitatives et qualitatives de recherche en relations industrielles a l'aide de questions concretes.

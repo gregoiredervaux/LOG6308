@@ -1,0 +1,2 @@
+TitreCours: Processus stochastiques
+DescriptionCours: Familiariser l'etudiant avec les principaux modeles mathematiques pertinents a l'etude des processus stochastiques. Processus stochastiques. Chaines de Markov. Matrice de transition. Stationnarite. Promenades aleatoires. Processus de Poisson et de renouvellement. Processus de ramification: fonction generatrice et probabilite d'extinction. Theoreme critique de la moyenne. Processus de Markov continus: mouvement brownien.

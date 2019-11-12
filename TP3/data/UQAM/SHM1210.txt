@@ -1,0 +1,2 @@
+TitreCours: STS
+DescriptionCours: Presentation des grandes dimensions de l'activite scientifique et technologique: l'article comme resultat tangible de la science, les acteurs de la science et de la technologie, la communaute scientifique, les institutions de production et de regulation de la science et de la technologie, le role de la culture scientifique. Rappel des methodes de travail intellectuel et initiation a la demarche scientifique, de la conception d'une recherche a l'analyse des donnees.

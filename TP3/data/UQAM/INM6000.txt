@@ -1,0 +1,2 @@
+TitreCours: Informatique et societe
+DescriptionCours: Cette activite modulaire a pour but de faire prendre conscience aux etudiants du role et des devoirs de l'informaticien. Les sujets abordes seront en particulier les suivants: problemes humains de l'informatique. Place de l'informatique dans la societe actuelle. Problemes moraux et legaux de la securite de l'informatique. Responsabilite et ethique professionnelle de l'informaticien. Deontologie informatique.

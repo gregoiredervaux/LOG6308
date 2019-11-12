@@ -1,0 +1,2 @@
+TitreCours: Demarche pharmaceutique 3
+DescriptionCours: Approfondissement de la demarche de resolution de problemes en pharmacie. Integration des elements necessaires a la prevention et a la resolution de problemes lies a l'utilisation des medicaments. Resolution en temps reel.

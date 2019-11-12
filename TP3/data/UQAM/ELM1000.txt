@@ -1,0 +1,2 @@
+TitreCours: Activite de synthese
+DescriptionCours: Élaboration d'un scenario de moyen metrage a partir des techniques de base de la scenarisation et des contraintes generales de la production. Le type de scenario et le theme sont laisses au libre choix de l'etudiant. Le cours est donne en tutorat.

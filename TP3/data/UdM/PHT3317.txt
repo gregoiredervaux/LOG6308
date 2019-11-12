@@ -1,0 +1,2 @@
+TitreCours: Kinesitherapie 4
+DescriptionCours: Role du physiotherapeute dans la reeducation de l'ampute en phase pre-prothetique et post-prothetique. Ortheses dynamiques du membre inferieur; attelles de repos. Composantes et biomecanique des protheses et ortheses.

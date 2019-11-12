@@ -1,0 +1,2 @@
+TitreCours: Lecture du roman
+DescriptionCours: Initiation a la lecture des textes romanesques : theorie, methodes et techniques du commentaire.

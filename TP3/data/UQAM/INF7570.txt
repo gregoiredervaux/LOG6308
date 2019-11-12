@@ -1,0 +1,2 @@
+TitreCours: Modelisation et verification
+DescriptionCours: Modelisation de systemes informatiques en vue de faire une verification automatique de leurs proprietes. Objectifs de la verification. Introduction a un outil et descriptions de systemes. Formalisation de proprietes a l'aide de logiques. Algorithmes de verification: diagrammes de decision binaires, algorithme DPLL, demonstrateurs de theoremes.

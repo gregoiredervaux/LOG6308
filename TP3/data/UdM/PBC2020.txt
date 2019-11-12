@@ -1,0 +1,2 @@
+TitreCours: Pathologie speciale en pharmacie
+DescriptionCours: Introduction a la pathologie des maladies affectant les divers systemes (cardiaque, respiratoire, renal, digestif, endocrinien, hepatique, genitaux, etc.).

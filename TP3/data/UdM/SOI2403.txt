@@ -1,0 +1,2 @@
+TitreCours: Soins en situation d'urgence 1
+DescriptionCours: Situations de sante a l'urgence chez des personnes de tous ages : cardiorespiratoires, traumatiques, ORL. Sciences biologiques et pharmacologiques. Plan therapeutique infirmier et jugement clinique: surveillance, monitorage, prise de decision.

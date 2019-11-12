@@ -1,0 +1,2 @@
+TitreCours: Examen de projet de these
+DescriptionCours: Redaction du projet de these definitif, d'une longueur d'environ 10 000 mots. Le texte doit exposer la problematique de la these, une revue critique de la bibliographie en rapport avec le sujet, ainsi que les hypotheses de recherche, la methodologie appropriee et un echeancier de travail. L'etudiant doit defendre son projet oralement devant jury et apporter les corrections demandees, s'il y a lieu. Cette activite est evaluee par le jury selon la notation succes/echec.

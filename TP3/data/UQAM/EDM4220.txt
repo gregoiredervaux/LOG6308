@@ -1,0 +1,2 @@
+TitreCours: Animation
+DescriptionCours: Ce cours permet de distinguer les differents genres (reportage, documentaire, documentaire d'auteur, etc.). Les adequations entre les divers modes et les lieux de receptions (chaines generalistes, specialisees, thematiques, etc.). Adaptation de l'ecriture aux publics vises selon l'age et la provenance. Preciser les etapes de la creation: recherche, entrevues, structure de l'oeuvre (document unique, serie) ecriture, demarche d'ecriture, passage du scenario vers la realisation.

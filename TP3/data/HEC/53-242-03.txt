@@ -1,0 +1,2 @@
+TitreCours: Negociation en salle des marches
+DescriptionCours: Ce cours vise a initier l'etudiant(e) a l'utilisation des plates-formes Reuters et Bloomberg, au suivi quotidien des principaux marches financiers, aux interactions existantes entre ces marches et aux operations d'une salle d'arbitrage : le suivi et le rendement d'une position, la prise de position et la decision d'investissement.

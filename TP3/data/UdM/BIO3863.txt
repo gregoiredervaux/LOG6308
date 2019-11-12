@@ -1,0 +1,2 @@
+TitreCours: T.P. d'ethologie
+DescriptionCours: Initiation aux methodes descriptives et experimentales, a l'echantillonnage et a l'analyse quantitative des donnees comportementales. Projet de recherche avec realisation d'un document video.

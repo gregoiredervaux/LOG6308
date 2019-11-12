@@ -1,0 +1,2 @@
+TitreCours: Theorie de Galois
+DescriptionCours: Complements de theorie des groupes. Theorie des corps, groupe de Galois, corps de Galois, resolubilite d'equation par radicaux. Resolution de problemes classiques.

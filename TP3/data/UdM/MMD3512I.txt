@@ -1,0 +1,2 @@
+TitreCours: Stage : Oto-rhino-laryngologie
+DescriptionCours: Stage clinique aupres de malades ambulants ou hospitalises en oto-rhino-laryngologie.

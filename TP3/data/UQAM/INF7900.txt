@@ -1,0 +1,2 @@
+TitreCours: Systemes de reperage de l
+DescriptionCours: Étude des methodes de reperage de l'information. Themes abordes: classification, recherche par mot-cle, thesaurus, analyse du texte, analyse de l'image, indexage automatique, classification automatique, hypertexte, hypermedia.

@@ -1,0 +1,2 @@
+TitreCours: Biopathologie cellulaire et moleculaire
+DescriptionCours: Les cours portent sur les mecanismes physiopathologiques a l'echelon cellulaire, subcellulaire et moleculaire d'etats pathologiques d'etiologies variees. Des lecons sur la morphogenese et le developpement completent l'ensemble.

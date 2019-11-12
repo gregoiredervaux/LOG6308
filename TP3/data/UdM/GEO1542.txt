@@ -1,0 +1,2 @@
+TitreCours: Photo-interpretation et teledetection
+DescriptionCours: Photos aeriennes et images satellitaires. Demonstration des liens avec le terrain, les cartes, les images et les photos. Concepts de base : resolutions - couleur - teinte - texture - patrons. Identification, interpretation et cartographie thematique.

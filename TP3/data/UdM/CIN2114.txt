@@ -1,0 +1,2 @@
+TitreCours: Travaux et enquetes en cinema 1
+DescriptionCours: Étude approfondie d'une question impliquant une recherche specifique sur le terrain.

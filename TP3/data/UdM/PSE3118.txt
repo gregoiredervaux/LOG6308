@@ -1,0 +1,2 @@
+TitreCours: Intervention cognitivo-comportementale
+DescriptionCours: Synthese des theories de l'apprentissage et des techniques d'intervention cognitivo-comportementale qui en decoulent. Applications cliniques de ces approches. Experimentation d'un protocole d'intervention.

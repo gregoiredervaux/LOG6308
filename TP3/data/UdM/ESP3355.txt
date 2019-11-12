@@ -1,0 +1,2 @@
+TitreCours: Litterature hispano-americaine
+DescriptionCours: Étude des litteratures d'une aire hispano-americaine specifique.

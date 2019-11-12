@@ -1,0 +1,2 @@
+TitreCours: Pharmacologie 1
+DescriptionCours: Generalites. Mecanismes d'action. Cinetique. Effets indesirables. Interactions. Pharmacologie du systeme nerveux peripherique et des systemes cardiovasculaire, renal, respiratoire et digestif. Les autacoides. Les vitamines.

@@ -1,0 +1,2 @@
+TitreCours: Évaluation des archives
+DescriptionCours: Valeurs des archives. Processus et criteres d'evaluation. Application a la gestion du cycle de vie: calendrier de conservation, acquisition et versement, elimination. Application informatique specifique aux documents analogiques et numeriques.

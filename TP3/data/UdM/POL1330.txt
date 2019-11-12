@@ -1,0 +1,2 @@
+TitreCours: Administration et politiques publiques
+DescriptionCours: Introduction aux methodes et concepts pertinents a l'etude de l'organisation administrative des États modernes. Dynamique de l'action gouvernementale : determinants, contenu, cheminement et impacts.

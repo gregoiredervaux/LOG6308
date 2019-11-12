@@ -1,0 +1,2 @@
+TitreCours: Mathematiques de la demographie
+DescriptionCours: Introduire l'etudiant aux principaux concepts des mathematiques demographiques et a leurs applications a des problemes actuariels. Mesures de mortalite, de morbidite et de fertilite. Caracteristiques demographiques du Quebec, du Canada et des États-Unis. Évaluation des donnees demographiques. Introduction aux mathematiques d'analyse de population. Projections de populations. Applications actuarielles.

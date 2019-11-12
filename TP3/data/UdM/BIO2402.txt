@@ -1,0 +1,2 @@
+TitreCours: Embryologie animale
+DescriptionCours: Gametogenese, fecondation, developpement embryonnaire et organogenese. Embryologie comparative, evolutive et theorique.

@@ -1,0 +1,2 @@
+TitreCours: Laboratoire pratique equine
+DescriptionCours: Travaux pratiques et courts syllabus sur les principales interventions medicales et chirurgicales utilisees en pratique equine.

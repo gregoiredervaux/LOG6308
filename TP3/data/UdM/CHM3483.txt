@@ -1,0 +1,2 @@
+TitreCours: Caracterisation des materiaux
+DescriptionCours: Introduction aux materiaux modernes. Proprietes physicochimiques des materiaux (nanostructures, surfaces, biomateriaux), proprietes mecaniques, electriques, etc.

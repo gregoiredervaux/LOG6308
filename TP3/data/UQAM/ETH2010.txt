@@ -1,0 +1,2 @@
+TitreCours: Écriture dramatique I
+DescriptionCours: Initiation a l'ecriture dramatique par l'etude de la specificite du texte dramatique. Analyse des contraintes specifiques que la representation pose a l'ecriture. Reconnaissances des rudiments de l'ecriture dramatique dans ses structures. Exercices pratiques d'ecriture.

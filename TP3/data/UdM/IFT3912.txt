@@ -1,0 +1,2 @@
+TitreCours: Developpement, maintenance de logiciels
+DescriptionCours: Introduction a la notion de projet. Organisation de projets. Gestion du developpement : decomposition, estimation, planification, ordonnancement et controle. Gestion des risques. Maintenance et techniques avancees de maintenance.

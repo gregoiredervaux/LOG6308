@@ -1,0 +1,2 @@
+TitreCours: Histoire et theorie du paysage
+DescriptionCours: Lecture thematique et critique de l'histoire de l'architecture de paysage a travers les differents paradigmes de la pensee : modeles visionnaires, symboliques, instrumentaux et environnementaux.

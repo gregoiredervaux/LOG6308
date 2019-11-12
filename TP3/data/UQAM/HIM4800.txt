@@ -1,0 +1,2 @@
+TitreCours: Stage en milieu professionnel
+DescriptionCours: Projet personnalise elabore par l'etudiant et supervise par la direction du programme ou un professeur. Par exemple: participation active a un colloque d'histoire, experience d'enseignement aupres d'un professeur de CEGEP, travail dans un musee, aux archives etc.

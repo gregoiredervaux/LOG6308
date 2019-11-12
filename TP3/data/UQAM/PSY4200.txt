@@ -1,0 +1,2 @@
+TitreCours: Laboratoire de recherche I
+DescriptionCours: Étude approfondie et mise en pratique des concepts et de certaines methodes presentes dans les sections I et II du cours PSY4020.

@@ -1,0 +1,2 @@
+TitreCours: Chimie gnrale
+DescriptionCours: Nomenclature et stoechiomtrie, structure de l'atome et priodicit, les liaisons chimiques, les phases de la matire; solides, liquides et gaz, les mtaux et non-mtaux.

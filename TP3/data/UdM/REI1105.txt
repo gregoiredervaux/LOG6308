@@ -1,0 +1,2 @@
+TitreCours: Techniques statistiques en R.I.
+DescriptionCours: Interpretation des tests d'hypotheses, et de l'estimation statistique et des series chronologiques dans le contexte des relations industrielles. Connaissance des systemes statistiques canadiens et quebecois.

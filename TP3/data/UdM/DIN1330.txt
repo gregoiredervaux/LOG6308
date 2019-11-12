@@ -1,0 +1,2 @@
+TitreCours: Statique et resistance des materiaux
+DescriptionCours: Stabilite geometrique. Systemes de forces en 2D et 3D. Systemes structuraux. Parametres geometriques et mecaniques. Efforts, contraintes et deformations.

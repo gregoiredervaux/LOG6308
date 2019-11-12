@@ -1,0 +1,2 @@
+TitreCours: Équations aux derivees partielles
+DescriptionCours: Équations elliptiques et paraboliques. Équations de Kolmogorov, directe et retrograde. Noyau de la chaleur. Conditions initiales et aux frontieres. Fonctions harmoniques et sous-harmoniques. Probleme de Dirichlet. Solutions probabilistes. Formule de Feynman-Kac. Principe du maximum. Stabilite. Methode de separation des variables. Decomposition spectrale d'un operateur elliptique. Methode des differences finies.

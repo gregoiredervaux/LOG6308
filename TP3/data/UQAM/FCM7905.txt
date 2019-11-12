@@ -1,0 +1,2 @@
+TitreCours: Lectures dirigees
+DescriptionCours: Activite individuelle encadree par un professeur du programme dont les objectifs et les exigences sont equivalents a ceux des cours de formation specifique. Les lectures exigees dans le cadre du plan de lectures elabore au debut du trimestre doivent s'inscrire directement dans le champ de recherche de l'etudiant. Elles visent a le preparer, tant au plan theorique qu'au plan methodologique, a ses travaux de recherche, d'intervention ou de creation et a la redaction de son projet de memoire.

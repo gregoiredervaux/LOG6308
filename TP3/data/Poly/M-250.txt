@@ -1,0 +1,2 @@
+TitreCours: Principes de chauffage
+DescriptionCours: Pertes de chaleur. Corps de chauffe, fournaise. Systemes de chauffage a l'eau chaude, a la vapeur et a l'air chaud. Disposition et calcul du reseau de tuyauterie. Systeme primaire-secondaire. Systeme a haute temperature. Panneaux rayonnants. Chauffage electrique. Projet de chauffage d'un batiment commercial.

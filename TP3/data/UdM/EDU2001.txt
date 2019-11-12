@@ -1,0 +1,2 @@
+TitreCours: Stage d'enseignement en orthopedagogie 1
+DescriptionCours: Developpement d'habiletes de gestion de classe et d'enseignement aupres d'eleves de 3 a 12 ans handicapes ou en difficulte d'adaptation et d'apprentissage integres en classe ordinaire ou en classe a effectif reduit.

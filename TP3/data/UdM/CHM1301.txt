@@ -1,0 +1,2 @@
+TitreCours: Chimie organique 1
+DescriptionCours: Structure, nomenclature et stereochimie des hydrocarbures simples. Reactivite des molecules organiques et parcours reactionnels. Mecanismes SN1, SN2, E1 et E2. Alcanes, alcenes et alcynes. Introduction a la spectroscopie RMN du proton et du 13C.

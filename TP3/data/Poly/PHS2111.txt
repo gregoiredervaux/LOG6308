@@ -1,0 +1,2 @@
+TitreCours: Physique statistique
+DescriptionCours: Revision de la thermodynamique. Espace de phase des etats. Les ensembles statistiques : micro-canonique, canonique et grand-canonique. Fermions et bosons. Distribution de Maxwell-Boltzmann, de Fermi-Dirac et de Bose-Einstein. Theorie du champ moyen. Transition de phase. Fluides classiques. Applications : gaz ideal classique, cristal d'Einstein, paramagnetisme, ferromagnetisme, modele d'Ising en 1D et 2D, corps noir, gaz de photons, d'electrons et de bosons, electron de conduction dans un metal.

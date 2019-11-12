@@ -1,0 +1,2 @@
+TitreCours: Programmation avancee en C++
+DescriptionCours: Structures de donnees avancees. Concepts avances en programmation orientee objet. Librairie de modeles standard STL. Algorithmes generiques. Applications.

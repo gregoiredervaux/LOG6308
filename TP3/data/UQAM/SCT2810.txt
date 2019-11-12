@@ -1,0 +1,2 @@
+TitreCours: Methodologies geologiques de terrain
+DescriptionCours: Methodologie scientifique. Recoltes des donnees analytiques sur le terrain en se servant des techniques usuelles en geologie (topographie; arpentage; manipulation de la boussole). Forage. Mesures physicochimiques, hydrometriques, hydrogeologiques et geophysiques. Pratique de l'echantillonnage. Regles de securite. Deontologie. Époque: debut mai (10 jours). Camp de terrain de fin de 1re annee du baccalaureat en geologie.

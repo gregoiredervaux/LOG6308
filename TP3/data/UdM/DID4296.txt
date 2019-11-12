@@ -1,0 +1,2 @@
+TitreCours: Labo de did. des sciences/technologies
+DescriptionCours: Laboratoire de preparation, de planification et de suivi didactique du cours DST 4010 Projets integres en sciences/technologies 3.

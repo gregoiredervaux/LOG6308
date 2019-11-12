@@ -1,0 +1,2 @@
+TitreCours: Atelier d'integration
+DescriptionCours: Partant d'une problematique specifique, l'etudiant doit demontrer sa capacite a tenir compte d'un ensemble de facteurs susceptibles d'influencer la qualite de vie d'une population dans une perspective d'equite et de developpement durable.

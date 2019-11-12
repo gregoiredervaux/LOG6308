@@ -1,0 +1,2 @@
+TitreCours: Grammaire 1 : analyse grammaticale
+DescriptionCours: La phrase : construction et ponctuation. Nature et fonction des mots et des groupes de mots. Accord dans le groupe du nom. Conjugaison et accord du verbe. Le bon usage des ouvrages de reference. Redaction et revision de courts textes.

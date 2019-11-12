@@ -1,0 +1,2 @@
+TitreCours: Ateliers d'expression
+DescriptionCours: Apprentissage experientiel de techniques d'expression corporelle, musicale, poetique, etc.; analyse des composantes biopsychosociales de ces activites. Applications therapeutiques.

@@ -1,0 +1,2 @@
+TitreCours: Interfaces intelligentes
+DescriptionCours: Caracteristiques, enjeux et limites des interfaces intelligentes. Modeles de l'interaction humain-machine et de l'utilisateur : connaissances, interets et preferences, buts et plans. Recherche d'information semi-structuree : filtres collaboratifs et semantiques, agents de recherche. Aide et assistance : systemes conseils, documents adaptatifs, dialogue cooperatif et tuteurs intelligents. Interfaces sensibles au contexte. Validation des interfaces intelligentes

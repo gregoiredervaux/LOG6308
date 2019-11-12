@@ -1,0 +1,2 @@
+TitreCours: Visualisation et simulation du paysage
+DescriptionCours: Introduction aux multimedias electroniques pour l'analyse visuelle, la simulation des paysages et la visualisation des mesures de mitigation en architecture de paysage.

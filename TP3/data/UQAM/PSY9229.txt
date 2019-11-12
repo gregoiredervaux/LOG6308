@@ -1,0 +1,2 @@
+TitreCours: Analyse fonctionnelle du comportement social
+DescriptionCours: Acquisition de comportements, d'habiletes sociales et de normes au cours du developpement par imitation, modelage et interactions.

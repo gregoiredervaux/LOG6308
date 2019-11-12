@@ -1,0 +1,2 @@
+TitreCours: Évaluation des habiletes et des besoins
+DescriptionCours: Introduction aux notions de psychometrie et d'observation. Principaux instruments et approches utilises: apport et limites. Interpretation de rapports d'evaluation et ethique. Liens avec l'intervention.

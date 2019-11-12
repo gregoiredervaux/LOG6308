@@ -1,0 +1,2 @@
+TitreCours: Bilan audiologique - Adulte
+DescriptionCours: Étude des procedes de mesure de l'audition peripherique chez l'adulte en vue de l'identification d'un site lesionnel. Exploration fonctionnelle par technique de visualisation du conduit auditif, d'immittancemetrie et d'audiometrie.

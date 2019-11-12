@@ -1,0 +1,2 @@
+TitreCours: Biostatistique 2
+DescriptionCours: Analyse avancee de la variation biologique. Regression multiple, regression de modele II, ANOVA a plusieurs criteres de classification et hierarchique, analyse de covariance. Introduction a l'analyse multivariable.

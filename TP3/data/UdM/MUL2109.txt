@@ -1,0 +1,2 @@
+TitreCours: Musiques et images en mouvement
+DescriptionCours: Au moyen d'exemples musicaux systematises, apercu de l'integration des connaissances historiques, technologiques, esthetiques, semiotiques et ideologiques dans les productions audiovisuelles des cent dernieres annees.

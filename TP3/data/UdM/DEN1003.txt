@@ -1,0 +1,2 @@
+TitreCours: Observation clinique
+DescriptionCours: Familiarisation des etudiants avec les protocoles, l'accueil, les dossiers et les travaux cliniques. Observation des activites qui s'y deroulent.

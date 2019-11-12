@@ -1,0 +1,2 @@
+TitreCours: Acoustique industrielle
+DescriptionCours: Ondes acoustiques planes, equation d'onde avec sa solutions energetiques dans les ondes planes. Analogies des parametres acoustiques avec l'electricite et la mecanique; application aux filtres et silencieux acoustiques. Transmission du son a travers 2 ou 3 milieux, application a la transmission a travers une cloison. Étude des sources de bruit et applications: acoustique des salles et enceintes acoustiques.

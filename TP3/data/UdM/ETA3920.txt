@@ -1,0 +1,2 @@
+TitreCours: Analyse du systeme scolaire au Quebec
+DescriptionCours: Étude descriptive du systeme d'education, de son fonctionnement a la lumiere de son histoire et des contingences sociopolitiques actuelles.

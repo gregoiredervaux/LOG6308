@@ -1,0 +1,2 @@
+TitreCours: Innovation
+DescriptionCours: Caracteristiques generales des processus d'innovation, de recherche et de developpement et leurs particularites dans les domaines des technologies et des systemes d'information. Acquisition de la valeur commerciale. Role des normes et de la normalisation.

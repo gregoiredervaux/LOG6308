@@ -1,0 +1,2 @@
+TitreCours: Stage en milieu de travail
+DescriptionCours: Experience pratique en milieu industriel ou gouvernemental. Integration dans l'action des acquis et poursuite du developpement actif des competences specifiques et transversales.

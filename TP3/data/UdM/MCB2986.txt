@@ -1,0 +1,2 @@
+TitreCours: Immunologie generale
+DescriptionCours: Le systeme immunitaire, ses composantes et leurs fonctions. Techniques experimentales de base en immunologie. Utilisation des anticorps.

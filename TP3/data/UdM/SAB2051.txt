@@ -1,0 +1,2 @@
+TitreCours: Pratique professionnelle en med. dent. 1
+DescriptionCours: Developpement du professionnalisme en medecine dentaire. Code de deontologie des dentistes. Études de cas, situations conflictuelles.
