@@ -1,6 +1,7 @@
 library(NLP)
 library(tm)
 library(ggplot2)
+library(Matrix)
 
 get_data <- function(src) {
   corpus <- SimpleCorpus(DirSource(src))
@@ -30,7 +31,15 @@ td_uqam <- to_matrix(corpus_uqam)
 
 td_tot <- to_matrix(corpus_tot)
 
-get_Tf-IDF <- function() {
-  return(FALSE)
+get_Tf_IDF <- function(td) {
+  tf <- as.matrix(td)
+  tf_copy <- tf
+  tf_copy[tf_copy != 0] <- 1
+  n_i <- rowSums(tf_copy)
+  idf <- log(nDocs(td_tot)/n_i)
+  tf_idf = tf * idf
+  return(tf_idf)
 }
+
+tf_idf <- get_Tf_IDF(td_tot)
 
