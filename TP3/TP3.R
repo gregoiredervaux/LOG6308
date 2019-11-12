@@ -41,5 +41,15 @@ get_Tf_IDF <- function(td) {
   return(tf_idf)
 }
 
-tf_idf <- get_Tf_IDF(td_tot)
+# tf_idf <- get_Tf_IDF(td_tot)
+tf_idf_dev <- get_Tf_IDF(td_tot[1:1000, 1:750])
+
+dim_redu = 50
+
+m.svd <- svd(t(tf_idf_dev), nu = nrow(tf_idf_dev), nv = 50)
+reduce_tf_idf <- m.svd$u[, 1:dim_redu] %*% diag(m.svd$d[1:dim_redu])
+rownames(reduce_tf_idf) <- colnames(tf_idf_dev)
+head(reduce_tf_idf[, 1:7])
+
+
 

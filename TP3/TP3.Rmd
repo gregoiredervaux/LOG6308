@@ -2,21 +2,91 @@
 title: "R Notebook"
 output: html_notebook
 ---
+# TP3
 
-This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+## Pré-traitement
 
-Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+### recupération des données
+
+importation des modules
+```{r}
+library(NLP)
+library(tm)
+```
+
+On construit des objects SimpleCorpus du package Text Mining
+
+Sur ces coprus, on supprime les nombres, la ponctuation, et on tranfsorme toutes les majuscules en minuscules
+```{r}
+get_data <- function(src) {
+  corpus <- SimpleCorpus(DirSource(src))
+  corpus <- tm_map(corpus, removeNumbers)
+  corpus <- tm_map(corpus, removePunctuation)
+  corpus <- tm_map(corpus, content_transformer(tolower))
+  return(corpus)
+}
+
+corpus_poly <- get_data('data/Poly')
+corpus_udm <- get_data('data/UdM')
+corpus_hec <- get_data('data/HEC')
+corpus_uqam <- get_data('data/UQAM')
+
+head(data.frame(text = sapply(corpus_poly, as.character)))
+```
+On va ensuite construire un grand corpus regroupant les corpus des 4 écoles
 
 ```{r}
+corpus_tot <- get_data(c('data/Poly', 'data/UdM', 'data/HEC', 'data/UQAM'))
+```
+
+### matrices Termes-Documents
+
+On utilise le package TM pour construire des matrices termes-documents
+
+On supprime avant cela les "stop words", mots très fréquents et que l'on retrouve dans tout les corpus de textes francais. Ces mots ne comportent pas de semantique particulière (comme les prépositions, etc...)
+On supprime aussi les deux groupe nominaux "titrecours" et "descriptioncours" qui seront en quantité égale dans tout les documents et qui par conséquents ne sont pas utiles dans ce travail
+```{r}
+to_matrix <- function(corpus) {
+  corpus <- tm_map(corpus,removeWords, stopwords('french'))
+  corpus <- tm_map(corpus, removeWords, c('titrecours', 'descriptioncours'))
+  return(TermDocumentMatrix(corpus))
+}
+
+td_poly <- to_matrix(corpus_poly)
+td_udm <- to_matrix(corpus_udm)
+td_hec <- to_matrix(corpus_hec)
+td_uqam <- to_matrix(corpus_uqam)
+
+td_tot <- to_matrix(corpus_tot)
+
+```
+
+Une fois la matrice terme-document définie, on va définir la matrice Tf-Idf
+
+```{r}
+get_Tf_IDF <- function(td) {
+  tf <- as.matrix(td)
+  tf_copy <- tf
+  tf_copy[tf_copy != 0] <- 1
+  n_i <- rowSums(tf_copy)
+  idf <- log(nDocs(td_tot)/n_i)
+  tf_idf = tf * idf
+  return(tf_idf)
+}
+
+# tf_idf <- get_Tf_IDF(td_tot)
+tf_idf_dev <- get_Tf_IDF(td_tot[1:1000, 1:750])
+head(tf_idf_dev[, 0:5])
+```
+
+On reduis le nombre de dimention de la matrice. On transposera la matrice auparavant pour obtenir une matrice document-terme
+```{r}
+dim_redu = 50
+
+m.svd <- svd(t(tf_idf_dev), nu = nrow(tf_idf_dev), nv = 50)
+reduce_tf_idf <- m.svd$u[, 1:dim_redu] %*% diag(m.svd$d[1:dim_redu])
+rownames(reduce_tf_idf) <- colnames(tf_idf_dev)
+head(reduce_tf_idf[, 1:7])
 ```
 
 
-```{r}
-plot(cars)
-```
-
-Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
-
-When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
-
-The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
