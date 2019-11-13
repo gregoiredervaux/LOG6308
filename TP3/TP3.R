@@ -3,6 +3,7 @@ library(NLP)
 library(tm)
 library(irlba)
 library(stats)
+library(pROC)
 
 get_data <- function(src) {
   corpus <- SimpleCorpus(DirSource(src))

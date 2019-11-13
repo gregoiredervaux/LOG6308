@@ -212,61 +212,69 @@ Maintenant on peut construire des vecteurs pour fournir à la fonction ROC
 ```{r}
 prediction.class <- rbind(prediction.PHY, prediction.PSY)
 responce.PSY <- roc(prediction.class$is.PSY, prediction.class$pred.PSY, plot=TRUE, auc.polygon=TRUE, max.auc.polygon=TRUE, grid=TRUE,
-            print.auc=TRUE, show.thres=TRUE)
+            print.auc=TRUE, show.thres=TRUE, levels=c(0,1), direction="<")
 responce.PHY <- roc(prediction.class$is.PHY, prediction.class$pred.PHY, plot=TRUE, auc.polygon=TRUE, max.auc.polygon=TRUE, grid=TRUE,
-            print.auc=TRUE, show.thres=TRUE)
+            print.auc=TRUE, show.thres=TRUE, levels=c(0,1), direction="<")
 ```
 On peut remarquer que les deux courbes sont symétrique par rapport à x=-y. C'est normal car les deux probabilitées sont liées: P(psy) = 1 - P(phy)
 
 Nous allons maintenant répeter toutes ces étapes n fois, en fonction du nombre de fold sélectionné
 ```{r}
-results <- sapply(1:nfolds , function(fold) {
-  
-  # construction des ensemble d'apprentissage et de test
-  reduce_tf_idf.PSY.test.i <- (split==fold)
-  reduce_tf_idf.PSY.train.i <- !reduce_tf_idf.PSY.test.i
-  
-  reduce_tf_idf.PSY.train <- reduce_tf_idf.PSY[reduce_tf_idf.PSY.train.i,]
-  reduce_tf_idf.PHY.train <- reduce_tf_idf.PHY[reduce_tf_idf.PHY.train.i,]
-  
-  reduce_tf_idf.PSY.test <- reduce_tf_idf.PSY[reduce_tf_idf.PSY.test.i,]
-  reduce_tf_idf.PHY.test <- reduce_tf_idf.PHY[reduce_tf_idf.PHY.test.i,]
-  
-  # on determine les centroides
-  centroide.PSY <- colMeans(reduce_tf_idf.PSY[reduce_tf_idf.PSY.train.i,])
-  centroide.PHY <- colMeans(reduce_tf_idf.PHY[reduce_tf_idf.PHY.train.i,])
-  
-  # on construit un nouveau data frame pour PSY
-  prediction.PSY <- data.frame(cours = rownames(reduce_tf_idf.PSY.test),
-                                       sim.PSY = as.double(cosinus.vm(centroide.PSY, t(reduce_tf_idf.PSY.test))),
-                                       sim.PHY = as.double(cosinus.vm(centroide.PHY, t(reduce_tf_idf.PSY.test))))
-  
-  prediction.PSY$pred.PSY <- apply(prediction.PSY, 1, function (v) {as.numeric(v['sim.PSY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
-  prediction.PSY$pred.PHY <- apply(prediction.PSY, 1, function (v) {as.numeric(v['sim.PHY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
-  prediction.PSY$is.PSY <- 1
-  prediction.PSY$is.PHY <- 0
-  
-  # on construit un nouveau data frame pour PHY
-  prediction.PHY <- data.frame(cours = rownames(reduce_tf_idf.PHY.test),
-                                       sim.PSY = as.double(cosinus.vm(centroide.PSY, t(reduce_tf_idf.PHY.test))),
-                                       sim.PHY = as.double(cosinus.vm(centroide.PHY, t(reduce_tf_idf.PHY.test))))
-  
-  prediction.PHY$pred.PHY <- apply(prediction.PHY, 1, function (v) {as.numeric(v['sim.PHY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
-  prediction.PHY$pred.PSY <- apply(prediction.PHY, 1, function (v) {as.numeric(v['sim.PSY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
-  prediction.PHY$is.PHY <- 1
-  prediction.PHY$is.PSY <- 0
-  
-  # on recupère la valeur de AUC
-  prediction.class <- rbind(prediction.PHY, prediction.PSY)
-  responce.PSY <- roc(prediction.class$is.PSY, prediction.class$pred.PSY)
-  
-  return(responce.PSY$auc)
-})
-print(results)
-print(mean(results))
-```
 
-## Question 
+get_auc <- function (m.PSY, m.PHY, nfolds) {
+  result <- sapply(1:nfolds , function(fold) {
+  
+    # construction des ensemble d'apprentissage et de test
+    
+    split <- rep(1:nfolds, length.out=nrow(m.PSY))[sample(nrow(m.PSY))]
+    m.PSY.test.i <- (split==fold)
+    m.PSY.train.i <- !m.PSY.test.i
+    
+    m.PSY.test <- m.PSY[m.PSY.test.i,]
+    m.PSY.train <- m.PSY[m.PSY.train.i,]
+    
+    split <- rep(1:nfolds, length.out=nrow(m.PHY))[sample(nrow(m.PHY))]
+    m.PHY.test.i <- (split==fold)
+    m.PHY.train.i <- !m.PHY.test.i
+    
+    m.PHY.test <- m.PHY[m.PHY.test.i,]
+    m.PHY.train <- m.PHY[m.PHY.train.i,]
+    
+    # on determine les centroides
+    centroide.PSY <- colMeans(m.PSY[m.PSY.train.i,])
+    centroide.PHY <- colMeans(m.PHY[m.PHY.train.i,])
+    
+    # on construit un nouveau data frame pour PSY
+    prediction.PSY <- data.frame(cours = rownames(m.PSY.test),
+                                         sim.PSY = as.double(cosinus.vm(centroide.PSY, t(m.PSY.test))),
+                                         sim.PHY = as.double(cosinus.vm(centroide.PHY, t(m.PSY.test))))
+    
+    prediction.PSY$pred.PSY <- apply(prediction.PSY, 1, function (v) {as.numeric(v['sim.PSY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+    prediction.PSY$pred.PHY <- apply(prediction.PSY, 1, function (v) {as.numeric(v['sim.PHY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+    prediction.PSY$is.PSY <- 1
+    prediction.PSY$is.PHY <- 0
+    
+    # on construit un nouveau data frame pour PHY
+    prediction.PHY <- data.frame(cours = rownames(m.PHY.test),
+                                         sim.PSY = as.double(cosinus.vm(centroide.PSY, t(m.PHY.test))),
+                                         sim.PHY = as.double(cosinus.vm(centroide.PHY, t(m.PHY.test))))
+    
+    prediction.PHY$pred.PHY <- apply(prediction.PHY, 1, function (v) {as.numeric(v['sim.PHY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+    prediction.PHY$pred.PSY <- apply(prediction.PHY, 1, function (v) {as.numeric(v['sim.PSY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+    prediction.PHY$is.PHY <- 1
+    prediction.PHY$is.PSY <- 0
+    
+    # on recupère la valeur de AUC
+    prediction.class <- rbind(prediction.PHY, prediction.PSY)
+    responce.PSY <- roc(prediction.class$is.PSY, prediction.class$pred.PSY, levels=c(0,1), direction="<")
+  })
+  return(result)
+}
+
+results <- as.data.frame(t(get_auc(reduce_tf_idf.PSY, reduce_tf_idf.PHY, 10)))
+mean(as.double(results$auc))
+```
+## Question 3
 
 **À partir de la validation croisée de la tâche de classification ci-dessus, déterminez le nombre de dimensions latentes optimal de SVD selon une approche dite wrapper**
 
@@ -274,5 +282,30 @@ A partir de la fonction supérieure, nous allons essayer plusieures dimentions d
 
 ```{r}
 
+get_auc_by_dimention <- function(dim_redu, tf_idf) {
+  
+  m.svd <- irlba(t(tf_idf), dim_redu)
+  reduce_tf_idf <- m.svd$u[, 1:dim_redu] %*% diag(m.svd$d[1:dim_redu])
+  rownames(reduce_tf_idf) <- colnames(tf_idf)
+
+  reduce_tf_idf.PSY <- subset(reduce_tf_idf, grepl("PSY", rownames(reduce_tf_idf)))
+  reduce_tf_idf.PHY <- subset(reduce_tf_idf, grepl("PHY", rownames(reduce_tf_idf)))
+  
+  results <- as.data.frame(t(get_auc(reduce_tf_idf.PSY, reduce_tf_idf.PHY, 10)))
+  return(mean(as.double(results$auc)))
+}
+dim_min = 2
+dim_max = 50
+auc_by_dimentions <- lapply(dim_min:dim_max, get_auc_by_dimention, tf_idf)
+
+plot(dim_min:dim_max, auc_by_dimentions)
 ```
 
+## Question 4
+
+**Effectuez une agglomération par k-means (k=2) et vérifiez si les classes PHY et PSY sont bien séparées par cette méthode**
+
+
+```{r}
+
+```
