@@ -182,3 +182,53 @@ results <- sapply(1:nfolds , function(fold) {
 print(mean(results))
 
 ## Question 3
+reduce_tf_idf.class[is.na(reduce_tf_idf.PSY)]
+
+apply_k_mean <- function(reduce_tf_idf.class) {
+  
+  k_mean_res <- kmeans(reduce_tf_idf.class, 2)
+  
+  prediction.class.kmean <- data.frame(names = rownames(reduce_tf_idf.class), cluster = as.numeric(k_mean_res$cluster))
+  
+  index_PHY = grepl("PHY", prediction.class.kmean$names)
+  index_PSY = grepl("PSY", prediction.class.kmean$names)
+  
+  prediction.class.kmean$is.PHY <- index_PHY
+  prediction.class.kmean$is.PSY <- index_PSY
+  
+  mean_cluster_PHY <- mean(prediction.class.kmean$cluster[index_PHY])
+  mean_cluster_PSY <- mean(prediction.class.kmean$cluster[index_PSY])
+  
+  num_cluster_PHY <- if(mean_cluster_PHY < mean_cluster_PSY) 1 else 2
+  num_cluster_PSY <- if(mean_cluster_PSY < mean_cluster_PHY) 1 else 2
+  
+  prediction.class.kmean$pred.PHY <- apply(prediction.class.kmean, 1, function(v) {v['cluster'] == num_cluster_PHY})
+  prediction.class.kmean$pred.PSY <- apply(prediction.class.kmean, 1, function(v) {v['cluster'] == num_cluster_PSY})
+  
+  prediction.class.kmean$pred.right <- apply(prediction.class.kmean, 1, function(v) {v['is.PHY'] == v['pred.PHY']})
+  
+  acc_on_PHY <- sum(prediction.class.kmean$pred.right[index_PHY]) / sum(index_PHY)
+  acc_on_PSY <- sum(prediction.class.kmean$pred.right[index_PSY]) / sum(index_PSY)
+  acc <- sum(prediction.class.kmean$pred.right) / nrow(prediction.class.kmean)
+  return(c(acc_on_PHY, acc_on_PSY, acc))
+}
+k_mean_acc <- apply_k_mean(reduce_tf_idf.class)
+print("Accuracy on PHY: ")
+print(k_mean_acc[1])
+print("Accuracy on PSY")
+print(k_mean_acc[2])
+print("Accuracy total")
+print(k_mean_acc[3])
+
+
+nb_max_cours = min(sum(grepl("PHY", prediction.class.kmean$names)), sum(grepl("PSY", prediction.class.kmean$names)))
+
+reduce_tf_idf.class.equi <- rbind(reduce_tf_idf.PSY[1:nb_max_cours,], reduce_tf_idf.PHY[1:nb_max_cours,])
+
+k_mean_acc.equi <- apply_k_mean(reduce_tf_idf.class.equi)
+print("Accuracy on PHY: ")
+print(k_mean_acc.equi[1])
+print("Accuracy on PSY")
+print(k_mean_acc.equi[2])
+print("Accuracy total")
+print(k_mean_acc.equi[3])
