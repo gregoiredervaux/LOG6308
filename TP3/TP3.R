@@ -74,7 +74,7 @@ reduce_tf_idf.cos <- cosinus.mm(t(reduce_tf_idf))
 i.sim.cos <- max.nindex(reduce_tf_idf.cos[,i], 11)
 data.frame(Cos=reduce_tf_idf.cos[i.sim.cos, i], Index=i.sim.cos)
 
-
+## Question 2
 reduce_tf_idf.class <- subset(reduce_tf_idf, grepl("PSY|PHY", rownames(reduce_tf_idf)))
 
 reduce_tf_idf.PSY <- subset(reduce_tf_idf, grepl("PSY", rownames(reduce_tf_idf)))
@@ -128,4 +128,56 @@ prediction.PHY$is.PSY <- FALSE
 head(prediction.PHY)
 
 prediction.class <- rbind(prediction.PHY, prediction.PSY)
-responce.PSY <- roc(prediction.PSY$is.PSY, !vector(,nrow(prediction.PSY)))
+responce.PSY <- roc(prediction.class$is.PSY, prediction.class$pred.PSY, plot=TRUE, auc.polygon=TRUE, max.auc.polygon=TRUE, grid=TRUE,
+                    print.auc=TRUE, show.thres=TRUE)
+responce.PHY <- roc(prediction.class$is.PHY, prediction.class$pred.PHY, plot=TRUE, auc.polygon=TRUE, max.auc.polygon=TRUE, grid=TRUE,
+                    print.auc=TRUE, show.thres=TRUE)
+
+prediction.PHY <- data.frame()
+prediction/PSY <- data.frame()
+results <- sapply(1:nfolds , function(fold) {
+  
+  # construction des ensemble d'apprentissage et de test
+  reduce_tf_idf.PSY.test.i <- (split==fold)
+  reduce_tf_idf.PSY.train.i <- !reduce_tf_idf.PSY.test.i
+  
+  reduce_tf_idf.PSY.train <- reduce_tf_idf.PSY[reduce_tf_idf.PSY.train.i,]
+  reduce_tf_idf.PHY.train <- reduce_tf_idf.PHY[reduce_tf_idf.PHY.train.i,]
+  
+  reduce_tf_idf.PSY.test <- reduce_tf_idf.PSY[reduce_tf_idf.PSY.test.i,]
+  reduce_tf_idf.PHY.test <- reduce_tf_idf.PHY[reduce_tf_idf.PHY.test.i,]
+  
+  # on determine les centroides
+  centroide.PSY <- colMeans(reduce_tf_idf.PSY[reduce_tf_idf.PSY.train.i,])
+  centroide.PHY <- colMeans(reduce_tf_idf.PHY[reduce_tf_idf.PHY.train.i,])
+  
+  # on construit un nouveau data frame pour PSY
+  prediction.PSY <- data.frame(cours = rownames(reduce_tf_idf.PSY.test),
+                               sim.PSY = as.double(cosinus.vm(centroide.PSY, t(reduce_tf_idf.PSY.test))),
+                               sim.PHY = as.double(cosinus.vm(centroide.PHY, t(reduce_tf_idf.PSY.test))))
+  
+  prediction.PSY$pred.PSY <- apply(prediction.PSY, 1, function (v) {as.numeric(v['sim.PSY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+  prediction.PSY$pred.PHY <- apply(prediction.PSY, 1, function (v) {as.numeric(v['sim.PHY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+  prediction.PSY$is.PSY <- 1
+  prediction.PSY$is.PHY <- 0
+  
+  # on construit un nouveau data frame pour PHY
+  prediction.PHY <- data.frame(cours = rownames(reduce_tf_idf.PHY.test),
+                               sim.PSY = as.double(cosinus.vm(centroide.PSY, t(reduce_tf_idf.PHY.test))),
+                               sim.PHY = as.double(cosinus.vm(centroide.PHY, t(reduce_tf_idf.PHY.test))))
+  
+  prediction.PHY$pred.PHY <- apply(prediction.PHY, 1, function (v) {as.numeric(v['sim.PHY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+  prediction.PHY$pred.PSY <- apply(prediction.PHY, 1, function (v) {as.numeric(v['sim.PSY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+  prediction.PHY$is.PHY <- 1
+  prediction.PHY$is.PSY <- 0
+  
+  # on recupère la valeur de AUC
+  prediction.class <- rbind(prediction.PHY, prediction.PSY)
+  responce.PSY <- roc(prediction.class$is.PSY, prediction.class$pred.PSY)
+  
+  return(responce.PSY$auc)
+})
+
+print(mean(results))
+
+## Question 3

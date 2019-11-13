@@ -15,6 +15,7 @@ library(NLP)
 library(tm)
 library(irlba)
 library(stats)
+library(pROC)
 ```
 
 On construit des objects SimpleCorpus du package Text Mining
@@ -185,23 +186,23 @@ sim.PSY <- cosinus.vm(centroide.PSY, t(reduce_tf_idf.PSY.test))[1,]
 sim.PHY <- cosinus.vm(centroide.PHY, t(reduce_tf_idf.PSY.test))[1,]
 
 prediction.PSY <- data.frame(cours = rownames(reduce_tf_idf.PSY.test),
-                                     sim.PSY = as.character(cosinus.vm(centroide.PSY, t(reduce_tf_idf.PSY.test))),
-                                     sim.PHY = as.character(cosinus.vm(centroide.PHY, t(reduce_tf_idf.PSY.test))))
+                                     sim.PSY = as.double(cosinus.vm(centroide.PSY, t(reduce_tf_idf.PSY.test))),
+                                     sim.PHY = as.double(cosinus.vm(centroide.PHY, t(reduce_tf_idf.PSY.test))))
 
-prediction.PSY$pred.PSY <- apply(prediction.PSY, 1, function (v) {v['sim.PSY'] > v['sim.PHY']})
-prediction.PSY$pred.PHY <- apply(prediction.PSY, 1, function (v) {v['sim.PHY'] > v['sim.PSY']})
-prediction.PSY$is.PSY <- TRUE
-prediction.PSY$is.PHY <- FALSE
+prediction.PSY$pred.PSY <- apply(prediction.PSY, 1, function (v) {as.numeric(v['sim.PSY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+prediction.PSY$pred.PHY <- apply(prediction.PSY, 1, function (v) {as.numeric(v['sim.PHY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+prediction.PSY$is.PSY <- 1
+prediction.PSY$is.PHY <- 0
 
 
 prediction.PHY <- data.frame(cours = rownames(reduce_tf_idf.PHY.test),
-                                     sim.PSY = as.character(cosinus.vm(centroide.PSY, t(reduce_tf_idf.PHY.test))),
-                                     sim.PHY = as.character(cosinus.vm(centroide.PHY, t(reduce_tf_idf.PHY.test))))
+                                     sim.PSY = as.double(cosinus.vm(centroide.PSY, t(reduce_tf_idf.PHY.test))),
+                                     sim.PHY = as.double(cosinus.vm(centroide.PHY, t(reduce_tf_idf.PHY.test))))
 
-prediction.PHY$pred.PHY <- apply(prediction.PHY, 1, function (v) {v['sim.PHY'] > v['sim.PSY']})
-prediction.PHY$pred.PSY <- apply(prediction.PHY, 1, function (v) {v['sim.PSY'] > v['sim.PHY']})
-prediction.PHY$is.PHY <- TRUE
-prediction.PHY$is.PSY <- FALSE
+prediction.PHY$pred.PHY <- apply(prediction.PHY, 1, function (v) {as.numeric(v['sim.PHY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+prediction.PHY$pred.PSY <- apply(prediction.PHY, 1, function (v) {as.numeric(v['sim.PSY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+prediction.PHY$is.PHY <- 1
+prediction.PHY$is.PSY <- 0
 
 head(prediction.PHY)
 ```
@@ -210,14 +211,68 @@ Maintenant on peut construire des vecteurs pour fournir à la fonction ROC
 
 ```{r}
 prediction.class <- rbind(prediction.PHY, prediction.PSY)
-responce.PSY <- roc(prediction.PSY$is.PSY, !vector(,nrow(prediction.PSY)))
+responce.PSY <- roc(prediction.class$is.PSY, prediction.class$pred.PSY, plot=TRUE, auc.polygon=TRUE, max.auc.polygon=TRUE, grid=TRUE,
+            print.auc=TRUE, show.thres=TRUE)
+responce.PHY <- roc(prediction.class$is.PHY, prediction.class$pred.PHY, plot=TRUE, auc.polygon=TRUE, max.auc.polygon=TRUE, grid=TRUE,
+            print.auc=TRUE, show.thres=TRUE)
+```
+On peut remarquer que les deux courbes sont symétrique par rapport à x=-y. C'est normal car les deux probabilitées sont liées: P(psy) = 1 - P(phy)
+
+Nous allons maintenant répeter toutes ces étapes n fois, en fonction du nombre de fold sélectionné
+```{r}
+results <- sapply(1:nfolds , function(fold) {
+  
+  # construction des ensemble d'apprentissage et de test
+  reduce_tf_idf.PSY.test.i <- (split==fold)
+  reduce_tf_idf.PSY.train.i <- !reduce_tf_idf.PSY.test.i
+  
+  reduce_tf_idf.PSY.train <- reduce_tf_idf.PSY[reduce_tf_idf.PSY.train.i,]
+  reduce_tf_idf.PHY.train <- reduce_tf_idf.PHY[reduce_tf_idf.PHY.train.i,]
+  
+  reduce_tf_idf.PSY.test <- reduce_tf_idf.PSY[reduce_tf_idf.PSY.test.i,]
+  reduce_tf_idf.PHY.test <- reduce_tf_idf.PHY[reduce_tf_idf.PHY.test.i,]
+  
+  # on determine les centroides
+  centroide.PSY <- colMeans(reduce_tf_idf.PSY[reduce_tf_idf.PSY.train.i,])
+  centroide.PHY <- colMeans(reduce_tf_idf.PHY[reduce_tf_idf.PHY.train.i,])
+  
+  # on construit un nouveau data frame pour PSY
+  prediction.PSY <- data.frame(cours = rownames(reduce_tf_idf.PSY.test),
+                                       sim.PSY = as.double(cosinus.vm(centroide.PSY, t(reduce_tf_idf.PSY.test))),
+                                       sim.PHY = as.double(cosinus.vm(centroide.PHY, t(reduce_tf_idf.PSY.test))))
+  
+  prediction.PSY$pred.PSY <- apply(prediction.PSY, 1, function (v) {as.numeric(v['sim.PSY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+  prediction.PSY$pred.PHY <- apply(prediction.PSY, 1, function (v) {as.numeric(v['sim.PHY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+  prediction.PSY$is.PSY <- 1
+  prediction.PSY$is.PHY <- 0
+  
+  # on construit un nouveau data frame pour PHY
+  prediction.PHY <- data.frame(cours = rownames(reduce_tf_idf.PHY.test),
+                                       sim.PSY = as.double(cosinus.vm(centroide.PSY, t(reduce_tf_idf.PHY.test))),
+                                       sim.PHY = as.double(cosinus.vm(centroide.PHY, t(reduce_tf_idf.PHY.test))))
+  
+  prediction.PHY$pred.PHY <- apply(prediction.PHY, 1, function (v) {as.numeric(v['sim.PHY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+  prediction.PHY$pred.PSY <- apply(prediction.PHY, 1, function (v) {as.numeric(v['sim.PSY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+  prediction.PHY$is.PHY <- 1
+  prediction.PHY$is.PSY <- 0
+  
+  # on recupère la valeur de AUC
+  prediction.class <- rbind(prediction.PHY, prediction.PSY)
+  responce.PSY <- roc(prediction.class$is.PSY, prediction.class$pred.PSY)
+  
+  return(responce.PSY$auc)
+})
+print(results)
+print(mean(results))
 ```
 
+## Question 
 
+**À partir de la validation croisée de la tâche de classification ci-dessus, déterminez le nombre de dimensions latentes optimal de SVD selon une approche dite wrapper**
 
+A partir de la fonction supérieure, nous allons essayer plusieures dimentions de SVD.
 
+```{r}
 
-
-
-
+```
 
