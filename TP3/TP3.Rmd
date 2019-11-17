@@ -16,6 +16,7 @@ library(tm)
 library(irlba)
 library(stats)
 library(pROC)
+library(parallel)
 ```
 
 On construit des objects SimpleCorpus du package Text Mining
@@ -152,7 +153,7 @@ On va maintenant calculer l'erreur des deux classes respectives:
 - On sépare les données en entrainement et en test (le code est tiré de la correction du TP 1)
 
 ```{r}
-nfolds = 10
+nfolds = 3
 
 split <- rep(1:nfolds, length.out=nrow(reduce_tf_idf.PSY))[sample(nrow(reduce_tf_idf.PSY))]
 reduce_tf_idf.PSY.test.i <- (split==nfolds)
@@ -271,7 +272,7 @@ get_auc <- function (m.PSY, m.PHY, nfolds) {
   return(result)
 }
 
-results <- as.data.frame(t(get_auc(reduce_tf_idf.PSY, reduce_tf_idf.PHY, 10)))
+results <- as.data.frame(t(get_auc(reduce_tf_idf.PSY, reduce_tf_idf.PHY, 3)))
 mean(as.double(results$auc))
 ```
 ## Question 3
@@ -291,16 +292,14 @@ get_auc_by_dimention <- function(dim_redu, tf_idf) {
   reduce_tf_idf.PSY <- subset(reduce_tf_idf, grepl("PSY", rownames(reduce_tf_idf)))
   reduce_tf_idf.PHY <- subset(reduce_tf_idf, grepl("PHY", rownames(reduce_tf_idf)))
   
-  results <- as.data.frame(t(get_auc(reduce_tf_idf.PSY, reduce_tf_idf.PHY, 10)))
+  results <- as.data.frame(t(get_auc(reduce_tf_idf.PSY, reduce_tf_idf.PHY, 3)))
   return(mean(as.double(results$auc)))
 }
 dim_min = 2
-dim_max = 50
-auc_by_dimentions <- lapply(dim_min:dim_max, get_auc_by_dimention, tf_idf)
-
+dim_max = 200
+auc_by_dimentions <- mclapply(dim_min:dim_max, get_auc_by_dimention, tf_idf, mc.cores = detectCores())
 plot(dim_min:dim_max, auc_by_dimentions)
 ```
-
 ## Question 4
 
 **Effectuez une agglomération par k-means (k=2) et vérifiez si les classes PHY et PSY sont bien séparées par cette méthode**
@@ -334,6 +333,7 @@ apply_k_mean <- function(reduce_tf_idf.class) {
   prediction.class.kmean$pred.PSY <- apply(prediction.class.kmean, 1, function(v) {v['cluster'] == num_cluster_PSY})
   
   prediction.class.kmean$pred.right <- apply(prediction.class.kmean, 1, function(v) {v['is.PHY'] == v['pred.PHY']})
+  print(prediction.class.kmean)
   
   acc_on_PHY <- sum(prediction.class.kmean$pred.right[index_PHY]) / sum(index_PHY)
   acc_on_PSY <- sum(prediction.class.kmean$pred.right[index_PSY]) / sum(index_PSY)
@@ -341,19 +341,10 @@ apply_k_mean <- function(reduce_tf_idf.class) {
   return(c(acc_on_PHY, acc_on_PSY, acc))
 }
 k_mean_acc <- apply_k_mean(reduce_tf_idf.class)
-print("Accuracy on PHY: ")
-print(k_mean_acc[1])
-print("Accuracy on PSY")
-print(k_mean_acc[2])
-print("Accuracy total")
-print(k_mean_acc[3])
-
+data.frame( names = c("acc PHY", "acc PSY", "acc Tot"), mean = as.double(k_mean_acc))
 ```
 On peut voir que l'algorithme K-mean n'arrive pas a départager les deux clusters
 En effet, on peut voir que le cluster PHY a été attribué à presque tout les cours, jusqu'a avoir une accuracy de 100% sur cette classe
-```{r}
-mean(prediction.class.kmean$cluster)
-```
 Cela est due au fait que la classe PHY est beaucoup plus grande que la classe PSY en nombre de cours
  
 Il faudrait équilibrer les deux nombres de cours par matières pour obtenir des meilleures clusters
@@ -367,11 +358,6 @@ reduce_tf_idf.class.equi <- rbind(reduce_tf_idf.PSY[1:nb_max_cours,], reduce_tf_
 On relance le même algorithme
 ```{r}
 k_mean_acc.equi <- apply_k_mean(reduce_tf_idf.class.equi)
-print("Accuracy on PHY: ")
-print(k_mean_acc.equi[1])
-print("Accuracy on PSY")
-print(k_mean_acc.equi[2])
-print("Accuracy total")
-print(k_mean_acc.equi[3])
+data.frame( names = c("acc PHY", "acc PSY", "acc Tot"), mean = as.double(k_mean_acc.equi))
 ```
 Une des deux classe manque cruellement d'accuracy, mais cela impacte moins l'accuracy global
