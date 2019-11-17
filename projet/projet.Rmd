@@ -1,0 +1,84 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+# Projet
+
+## importation des modules
+
+```{r}
+library(igraph)
+```
+
+
+## importation des données
+
+```{r}
+artists <- read.delim('./data/artists.dat', header=TRUE, sep="\t")
+tags <- read.delim('./data/tags.dat', header=TRUE, sep="\t")
+user_artists <- read.delim('./data/user_artists.dat', header=TRUE, sep="\t")
+user_friends <- read.delim('./data/user_friends.dat', header=TRUE, sep="\t")
+user_tagged_artists_timestamps <- read.delim('./data/user_taggedartists-timestamps.dat', header=TRUE, sep="\t")
+user_tagged_artists <- read.delim('./data/user_taggedartists.dat', header=TRUE, sep="\t")
+```
+
+exemple de la matrice des relations entre utilisateurs
+```{r}
+head(user_friends)
+```
+
+
+Construction de la matrice d'adjacence
+```{r}
+user_graph <- graph_from_edgelist(as.matrix(user_friends), directed=FALSE)
+user_adj.sparse <- get.adjacency(user_graph)
+user_adj.sparse[0:5,270:280]
+
+```
+
+
+## essais de page rank
+
+définition de la fonction page rank
+```{r}
+PageRank <- function(m,d=0.85){
+  A = as.matrix(m)
+  n = nrow(m)
+  R = matrix(1.0,1,n)
+  s = rowSums(m) + 1
+  oldR = matrix(0.0,1,n)
+  i = 0
+  while (norm(R-oldR) > 0.0001){
+    oldR = R
+    R = (1-d)/n + d*(R/s)%*%A
+    i = i + 1
+  }
+  print("Nombre d'itérations : ")
+  print(i)
+  return(R)
+}
+```
+
+test
+```{r}
+user_adj.m <- as.matrix(user_adj.sparse)
+# a faire par nicola
+# test <- PageRank(user_adj)
+```
+On utilise l'algorythme de Girvan-Newman
+```{r}
+user_graph.reduce <- graph_from_edgelist(as.matrix(user_friends[0:1000,]), directed=FALSE)
+
+cl_edge_betweenness.reduce <- cluster_edge_betweenness(user_graph.reduce, directed = FALSE)
+plot(user_graph, vertex.color=rainbow(3, alpha=0.6)[cl_edge_betweenness.reduce$membership])
+
+cl_louvain <- cluster_louvain(user_graph.reduce)
+plot(user_graph, vertex.color=rainbow(3, alpha=0.6)[cl_louvain$membership])
+
+cl_infomap <- cluster_infomap(user_graph.reduce)
+plot(user_graph, vertex.color=rainbow(3, alpha=0.6)[cl_infomap$membership])
+```
+```{r}
+test <- as.data.frame(cl_edge_betweenness.reduce$membership)
+```
