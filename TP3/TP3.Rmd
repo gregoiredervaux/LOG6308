@@ -154,24 +154,24 @@ On va maintenant calculer l'erreur des deux classes respectives:
 
 ```{r}
 nfolds = 3
-
-split <- rep(1:nfolds, length.out=nrow(reduce_tf_idf.PSY))[sample(nrow(reduce_tf_idf.PSY))]
-reduce_tf_idf.PSY.test.i <- (split==nfolds)
-reduce_tf_idf.PSY.train.i <- !reduce_tf_idf.PSY.test.i
-
-split <- rep(1:nfolds, length.out=nrow(reduce_tf_idf.PHY))[sample(nrow(reduce_tf_idf.PHY))]
-reduce_tf_idf.PHY.test.i <- (split==nfolds)
-reduce_tf_idf.PHY.train.i <- !reduce_tf_idf.PHY.test.i
+split_data <- function (nfolds, fold, m) {
+  split <- rep(1:nfolds, length.out=nrow(m))[sample(nrow(m))]
+  m.test.i <- (split==fold)
+  m.train.i <- !m.test.i
+  
+  m.train <- m[m.train.i,]
+  m.test <- m[m.test.i,]
+  return(list("train" = m.train, "train.i" = m.train.i, "test" = m.test, "test.i" = m.test.i))
+}
+splited_tf_idf.PSY <- split_data(nfolds, nfolds, reduce_tf_idf.PSY)
+splited_tf_idf.PHY <- split_data(nfolds, nfolds, reduce_tf_idf.PHY)
 ```
 
 On va ensuite calculer le centroides de la classes
 
 ```{r}
-reduce_tf_idf.PSY.train <- reduce_tf_idf.PSY[reduce_tf_idf.PSY.train.i,]
-reduce_tf_idf.PHY.train <- reduce_tf_idf.PHY[reduce_tf_idf.PHY.train.i,]
-
-centroide.PSY <- colMeans(reduce_tf_idf.PSY[reduce_tf_idf.PSY.train.i,])
-centroide.PHY <- colMeans(reduce_tf_idf.PHY[reduce_tf_idf.PHY.train.i,])
+centroide.PSY <- colMeans(splited_tf_idf.PSY$train)
+centroide.PHY <- colMeans(splited_tf_idf.PHY$train)
 ```
 
 On va maintenant calculer l'erreur générée par cet itération
@@ -179,16 +179,9 @@ On va maintenant calculer l'erreur générée par cet itération
 Pour chaque vecteur correspondant à une description de cours, on va calculer sa similarité cosinus avec les deux centroide. On prédira la classe en sélectionnant le centroide le plus proche
 
 ```{r}
-reduce_tf_idf.PSY.test <- reduce_tf_idf.PSY[reduce_tf_idf.PSY.test.i,]
-reduce_tf_idf.PHY.test <- reduce_tf_idf.PHY[reduce_tf_idf.PHY.test.i,]
-
-cours <- rownames(reduce_tf_idf.PSY.test)
-sim.PSY <- cosinus.vm(centroide.PSY, t(reduce_tf_idf.PSY.test))[1,]
-sim.PHY <- cosinus.vm(centroide.PHY, t(reduce_tf_idf.PSY.test))[1,]
-
-prediction.PSY <- data.frame(cours = rownames(reduce_tf_idf.PSY.test),
-                                     sim.PSY = as.double(cosinus.vm(centroide.PSY, t(reduce_tf_idf.PSY.test))),
-                                     sim.PHY = as.double(cosinus.vm(centroide.PHY, t(reduce_tf_idf.PSY.test))))
+prediction.PSY <- data.frame(cours = rownames(splited_tf_idf.PSY$test),
+                                     sim.PSY = as.double(cosinus.vm(centroide.PSY, t(splited_tf_idf.PSY$test))),
+                                     sim.PHY = as.double(cosinus.vm(centroide.PHY, t(splited_tf_idf.PSY$test))))
 
 prediction.PSY$pred.PSY <- apply(prediction.PSY, 1, function (v) {as.numeric(v['sim.PSY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
 prediction.PSY$pred.PHY <- apply(prediction.PSY, 1, function (v) {as.numeric(v['sim.PHY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
@@ -196,9 +189,9 @@ prediction.PSY$is.PSY <- 1
 prediction.PSY$is.PHY <- 0
 
 
-prediction.PHY <- data.frame(cours = rownames(reduce_tf_idf.PHY.test),
-                                     sim.PSY = as.double(cosinus.vm(centroide.PSY, t(reduce_tf_idf.PHY.test))),
-                                     sim.PHY = as.double(cosinus.vm(centroide.PHY, t(reduce_tf_idf.PHY.test))))
+prediction.PHY <- data.frame(cours = rownames(splited_tf_idf.PHY$test),
+                                     sim.PSY = as.double(cosinus.vm(centroide.PSY, t(splited_tf_idf.PHY$test))),
+                                     sim.PHY = as.double(cosinus.vm(centroide.PHY, t(splited_tf_idf.PHY$test))))
 
 prediction.PHY$pred.PHY <- apply(prediction.PHY, 1, function (v) {as.numeric(v['sim.PHY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
 prediction.PHY$pred.PSY <- apply(prediction.PHY, 1, function (v) {as.numeric(v['sim.PSY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
@@ -209,7 +202,6 @@ head(prediction.PHY)
 ```
 
 Maintenant on peut construire des vecteurs pour fournir à la fonction ROC
-
 ```{r}
 prediction.class <- rbind(prediction.PHY, prediction.PSY)
 responce.PSY <- roc(prediction.class$is.PSY, prediction.class$pred.PSY, plot=TRUE, auc.polygon=TRUE, max.auc.polygon=TRUE, grid=TRUE,
@@ -221,7 +213,6 @@ On peut remarquer que les deux courbes sont symétrique par rapport à x=-y. C'e
 
 Nous allons maintenant répeter toutes ces étapes n fois, en fonction du nombre de fold sélectionné
 ```{r}
-
 get_auc <- function (m.PSY, m.PHY, nfolds) {
   result <- sapply(1:nfolds , function(fold) {
   
@@ -275,10 +266,6 @@ get_auc <- function (m.PSY, m.PHY, nfolds) {
 results <- as.data.frame(t(get_auc(reduce_tf_idf.PSY, reduce_tf_idf.PHY, 3)))
 mean(as.double(results$auc))
 ```
-## Question 3
-
-**À partir de la validation croisée de la tâche de classification ci-dessus, déterminez le nombre de dimensions latentes optimal de SVD selon une approche dite wrapper**
-
 A partir de la fonction supérieure, nous allons essayer plusieures dimentions de SVD.
 
 ```{r}
@@ -296,11 +283,11 @@ get_auc_by_dimention <- function(dim_redu, tf_idf) {
   return(mean(as.double(results$auc)))
 }
 dim_min = 2
-dim_max = 200
+dim_max = 50
 auc_by_dimentions <- mclapply(dim_min:dim_max, get_auc_by_dimention, tf_idf, mc.cores = detectCores())
 plot(dim_min:dim_max, auc_by_dimentions)
 ```
-## Question 4
+## Question 3
 
 **Effectuez une agglomération par k-means (k=2) et vérifiez si les classes PHY et PSY sont bien séparées par cette méthode**
 
@@ -310,54 +297,186 @@ reduce_tf_idf.class[is.na(reduce_tf_idf.PSY)]
 ```
 
 On peut donc procéder au K-mean sans se soucier de normaliser
+On va d'abord créer un ensemble de test et d'entrainement
 ```{r}
-apply_k_mean <- function(reduce_tf_idf.class) {
-  
-  k_mean_res <- kmeans(reduce_tf_idf.class, 2)
+# apply_k_mean <- function(reduce_tf_idf.class) {
+nfolds = 3
+splited_tf_idf.class <- split_data(nfolds, nfolds, reduce_tf_idf.class)
+```
 
-  prediction.class.kmean <- data.frame(names = rownames(reduce_tf_idf.class), cluster = as.numeric(k_mean_res$cluster))
+On exécute l'algorithme k-mean sur l'ensemble de test
+```{r}
+k_mean_res <- kmeans(splited_tf_idf.class$train, 2)
+
+cluster.class <- data.frame(names = rownames(splited_tf_idf.class$train), cluster = as.numeric(k_mean_res$cluster))
+print(cluster.class)
+```
+
+On esssaye maintenant de deviner quel cluster correspond le mieux aux classes PHY et PSY:
+- on recupère les indices des classes réelles
+```{r}
+index_PHY = grepl("PHY", cluster.class$names)
+index_PSY = grepl("PSY", cluster.class$names)
+
+cluster.class$is.PHY <- index_PHY
+cluster.class$is.PSY <- index_PSY
+```
+
+- on fait la moyenne des numéro de cluster pour chacune des classes
+```{r}
+mean_cluster_PHY <- mean(cluster.class$cluster[index_PHY])
+mean_cluster_PSY <- mean(cluster.class$cluster[index_PSY])
+data.frame(classe_reelle = c("PHY", "PSY"), moyenne_des_clusters = c(mean_cluster_PHY, mean_cluster_PSY))
+```
+
+On attribut le numéro du cluster à sa classe la plus proche
+```{r}
+num_cluster_PHY <- if(mean_cluster_PHY < mean_cluster_PSY) 1 else 2
+num_cluster_PSY <- if(mean_cluster_PSY < mean_cluster_PHY) 1 else 2
+data.frame(classe_reelle = c("PHY", "PSY"), moyenne_des_clusters = c(num_cluster_PHY, num_cluster_PSY))
+```
+
+On peut maitenant attribuer un centroide aux classes
+```{r}
+centroide.PHY <- k_mean_res$centers[num_cluster_PHY,]
+centroide.PSY <- k_mean_res$centers[num_cluster_PSY,]
+data.frame(centroide.PHY, centroide.PSY)
+```
+
+On peut prévoir comme auparavant les classes par la similarité de chaque element de l'ensemble de test aux deux centroides
+- on calcule la similarité de chaque elements à chaque centroide
+```{r}
+prediction <- data.frame(cours = rownames(splited_tf_idf.class$test),
+                                     sim.PSY = as.double(cosinus.vm(centroide.PSY, t(splited_tf_idf.class$test))),
+                                     sim.PHY = as.double(cosinus.vm(centroide.PHY, t(splited_tf_idf.class$test))))
+prediction
+```
+
+- on normalise entre 0 et 1 pour obtenir une probabilité
+```{r}
+prediction$pred.PSY <- apply(prediction, 1, function (v) {as.numeric(v['sim.PSY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+prediction$pred.PHY <- apply(prediction, 1, function (v) {as.numeric(v['sim.PHY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+prediction
+```
+
+On ajoute une colonne de label des classes réelles pour facilité la construction de la courbe de ROC par la suite
+```{r}
+prediction$is.PSY <- 0
+prediction$is.PHY <- 0
+prediction$is.PSY[grepl("PSY", prediction$cours)] <- 1
+prediction$is.PHY[grepl("PHY", prediction$cours)] <- 1
+prediction
+```
+
+On peut maintenant construire une courbe ROC et une valeur d'AUC
+```{r}
+prediction.roc <- roc(prediction$is.PSY, prediction$pred.PSY, levels=c(0,1), direction="<", plot=TRUE, auc.polygon=TRUE, max.auc.polygon=TRUE, grid=TRUE, print.auc=TRUE, show.thres=TRUE)
+
+```
+
+On va maintenant mettre tout cela dans une fonction et faire des essais pour plusieures valeurs du nombre de dimentions
+```{r}
+apply_k_mean <- function(m, nfolds, fold) {
+  splited_m <- split_data(nfolds, fold, m)
   
-  index_PHY = grepl("PHY", prediction.class.kmean$names)
-  index_PSY = grepl("PSY", prediction.class.kmean$names)
+  k_mean_res <- kmeans(splited_m$train, 2)
   
-  prediction.class.kmean$is.PHY <- index_PHY
-  prediction.class.kmean$is.PSY <- index_PSY
+  cluster.class <- data.frame(names = rownames(splited_m$train), cluster = as.numeric(k_mean_res$cluster))
   
-  mean_cluster_PHY <- mean(prediction.class.kmean$cluster[index_PHY])
-  mean_cluster_PSY <- mean(prediction.class.kmean$cluster[index_PSY])
+  index_PHY = grepl("PHY", cluster.class$names)
+  index_PSY = grepl("PSY", cluster.class$names)
+  
+  cluster.class$is.PHY <- index_PHY
+  cluster.class$is.PSY <- index_PSY
+  
+  mean_cluster_PHY <- mean(cluster.class$cluster[index_PHY])
+  mean_cluster_PSY <- mean(cluster.class$cluster[index_PSY])
   
   num_cluster_PHY <- if(mean_cluster_PHY < mean_cluster_PSY) 1 else 2
   num_cluster_PSY <- if(mean_cluster_PSY < mean_cluster_PHY) 1 else 2
   
-  prediction.class.kmean$pred.PHY <- apply(prediction.class.kmean, 1, function(v) {v['cluster'] == num_cluster_PHY})
-  prediction.class.kmean$pred.PSY <- apply(prediction.class.kmean, 1, function(v) {v['cluster'] == num_cluster_PSY})
+  centroide.PHY <- k_mean_res$centers[num_cluster_PHY,]
+  centroide.PSY <- k_mean_res$centers[num_cluster_PSY,]
   
-  prediction.class.kmean$pred.right <- apply(prediction.class.kmean, 1, function(v) {v['is.PHY'] == v['pred.PHY']})
-  print(prediction.class.kmean)
-  
-  acc_on_PHY <- sum(prediction.class.kmean$pred.right[index_PHY]) / sum(index_PHY)
-  acc_on_PSY <- sum(prediction.class.kmean$pred.right[index_PSY]) / sum(index_PSY)
-  acc <- sum(prediction.class.kmean$pred.right) / nrow(prediction.class.kmean)
-  return(c(acc_on_PHY, acc_on_PSY, acc))
+  prediction <- data.frame(cours = rownames(splited_m$test),
+                                     sim.PSY = as.double(cosinus.vm(centroide.PSY, t(splited_m$test))),
+                                     sim.PHY = as.double(cosinus.vm(centroide.PHY, t(splited_m$test))))
+
+  prediction$pred.PSY <- apply(prediction, 1, function (v) {as.numeric(v['sim.PSY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+  prediction$pred.PHY <- apply(prediction, 1, function (v) {as.numeric(v['sim.PHY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
+
+  prediction$is.PSY <- 0
+  prediction$is.PHY <- 0
+  prediction$is.PSY[grepl("PSY", prediction$cours)] <- 1
+  prediction$is.PHY[grepl("PHY", prediction$cours)] <- 1
+
+  return(prediction)
 }
-k_mean_acc <- apply_k_mean(reduce_tf_idf.class)
-data.frame( names = c("acc PHY", "acc PSY", "acc Tot"), mean = as.double(k_mean_acc))
 ```
-On peut voir que l'algorithme K-mean n'arrive pas a départager les deux clusters
-En effet, on peut voir que le cluster PHY a été attribué à presque tout les cours, jusqu'a avoir une accuracy de 100% sur cette classe
-Cela est due au fait que la classe PHY est beaucoup plus grande que la classe PSY en nombre de cours
- 
+
+On crée une fonction pour effecteur la k-fold cross validation
+```{r}
+cross_validation_k_mean <- function(m, nfolds) {
+  result <- lapply(1:nfolds , function(fold) {
+    prediction <- apply_k_mean(m, nfolds, fold)
+    prediction.roc <- roc(prediction$is.PSY, prediction$pred.PSY, levels=c(0,1), direction="<")
+    return(prediction.roc$auc)
+  })
+}
+
+# prediction.class.kmean <- apply_k_mean(reduce_tf_idf.class)
+results <- cross_validation_k_mean(reduce_tf_idf.class, 5)
+data.frame(essais = 1:5, AUC = as.double(results))
+```
+On peut voir que l'algorithme K-mean n'arrive pas  toujours départager les deux clusters (quelques résultats à 0.70)
+
 Il faudrait équilibrer les deux nombres de cours par matières pour obtenir des meilleures clusters
 ```{r}
 nb_max_cours = min(sum(grepl("PHY", prediction.class.kmean$names)), sum(grepl("PSY", prediction.class.kmean$names)))
-
 reduce_tf_idf.class.equi <- rbind(reduce_tf_idf.PSY[1:nb_max_cours,], reduce_tf_idf.PHY[1:nb_max_cours,])
 ```
 
 
 On relance le même algorithme
 ```{r}
-k_mean_acc.equi <- apply_k_mean(reduce_tf_idf.class.equi)
-data.frame( names = c("acc PHY", "acc PSY", "acc Tot"), mean = as.double(k_mean_acc.equi))
+results.equi <- cross_validation_k_mean(reduce_tf_idf.class.equi, 5)
+data.frame(essais = 1:5, AUC = as.double(results.equi))
 ```
-Une des deux classe manque cruellement d'accuracy, mais cela impacte moins l'accuracy global
+On a singulièrement augmenté l'AUC du model
+
+## Question 4
+
+**À partir de la validation croisée de la tâche de classification ci-dessus, déterminez le nombre de dimensions latentes optimal de SVD selon une approche dite wrapper**
+
+On réalise la même étude sur les dimentions que précedement
+```{r}
+get_auc_by_dimention_kmean <- function(dim_redu, tf_idf) {
+  m.svd <- irlba(t(tf_idf), dim_redu)
+  reduce_tf_idf <- m.svd$u[, 1:dim_redu] %*% diag(m.svd$d[1:dim_redu])
+  rownames(reduce_tf_idf) <- colnames(tf_idf)
+
+  reduce_tf_idf.class <- subset(reduce_tf_idf, grepl("PSY|PHY", rownames(reduce_tf_idf)))
+  
+  results <- cross_validation_k_mean(reduce_tf_idf.class, 10)
+  return(mean(as.double(results)))
+}
+```
+
+
+```{r}
+dim_min = 2
+dim_max = 50
+auc_by_dimentions <- mclapply(dim_min:dim_max, get_auc_by_dimention_kmean, tf_idf, mc.cores = detectCores())
+plot(dim_min:dim_max, auc_by_dimentions)
+```
+On peut maintenant se demander si on peut faire la réduction de dimention sur uniquement les cours PHY et PSY
+¨
+```{r}
+tf_idf.class <- tf_idf[,grepl("PSY|PHY", rownames(t(tf_idf)))]
+
+dim_min = 2
+dim_max = 50
+auc_by_dimentions <- mclapply(dim_min:dim_max, get_auc_by_dimention_kmean, tf_idf.class, mc.cores = detectCores())
+plot(dim_min:dim_max, auc_by_dimentions)
+```
+On peut voir que cela a tendance à rendre notre modèle inconsistant, et le fait légèrement overfitté, pour ne pas dépasser les 0.9 en moyenne
