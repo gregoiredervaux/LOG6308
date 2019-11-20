@@ -386,6 +386,55 @@ prediction$is.PHY[grepl("PHY", prediction$cours)] <- 1
 head(prediction)
 ```
 
+On peut analyser un peu ces résultats
+- on ajoute une colonne pour savoir si la prédiction est bonne
+```{r}
+prediction$pred.right <- apply(prediction, 1, function(v) {(v['pred.PSY'] <= v['pred.PHY'] && v['is.PHY'] == 1) || (v['pred.PHY'] <= v['pred.PSY'] && v['is.PSY'] == 1)})
+head(prediction)
+```
+
+On calcul toutes les données nécessaire à l'obtention de la précision, du rappel et du F1 score
+```{r}
+view_prediction <- function(prediction_m) {
+  prediction_m$pred.right <- apply(prediction_m, 1, function(v) {(v['pred.PSY'] <= v['pred.PHY'] && v['is.PHY'] == 1) || (v['pred.PHY'] <= v['pred.PSY'] && v['is.PSY'] == 1)})
+  
+  TP.PSY <- length(which(prediction_m$pred.right==TRUE & prediction_m$is.PSY == 1))
+  FP.PSY <- length(which(prediction_m$pred.right==FALSE & prediction_m$is.PSY == 0))
+  TN.PSY <- length(which(prediction_m$pred.right==TRUE & prediction_m$is.PSY == 0))
+  FN.PSY <- length(which(prediction_m$pred.right==FALSE & prediction_m$is.PSY == 1))
+    
+  TP.PHY <- length(which(prediction_m$pred.right==TRUE & prediction_m$is.PHY == 1))
+  FP.PHY <- length(which(prediction_m$pred.right==FALSE & prediction_m$is.PHY == 0))
+  TN.PHY <- length(which(prediction_m$pred.right==TRUE & prediction_m$is.PHY == 0))
+  FN.PHY <- length(which(prediction_m$pred.right==FALSE & prediction_m$is.PHY == 1))
+    
+  acc.PHY <- sum(prediction_m$pred.right[prediction_m$is.PHY]) / length(prediction_m$is.PHY)
+  acc.PSY <- sum(prediction_m$pred.right[prediction_m$is.PSY]) / length(prediction_m$is.PSY)
+  acc <- sum(prediction_m$pred.right) / nrow(prediction_m)
+  
+  precision.PSY <- TP.PSY / (TP.PSY + FP.PSY)
+  precision.PHY <- TP.PHY / (TP.PHY + FP.PHY)
+  precision <- (TP.PHY + TP.PSY) / (TP.PHY + FP.PHY + TP.PSY + FP.PSY)
+  
+  recall.PSY <- TP.PSY / (TP.PSY + FN.PSY)
+  recall.PHY <- TP.PHY / (TP.PHY + FN.PHY)
+  recall <- (TP.PSY + TP.PHY) / (TP.PSY + FN.PSY + TP.PHY + FN.PHY)
+  
+  F1_score.PSY <- 2 * precision.PSY * recall.PSY / (precision.PSY + recall.PSY)
+  F1_score.PHY <- 2 * precision.PHY * recall.PHY / (precision.PHY + recall.PHY)
+  F1_score <- 2 * precision * recall / (precision + recall)
+  
+  data.frame(classe = c("PHY", "PSY", "total"), accuracy = c(acc.PHY, acc.PSY, acc), precision = c(precision.PHY, precision.PSY, precision), recall = c(recall.PHY, recall.PSY, recall), F1_score = c(F1_score.PHY, F1_score.PSY, F1_score)) 
+}
+```
+```{r}
+view_prediction(prediction)
+```
+On peut observer plusieurs chose:
+- les deux classes sont deséquilibrées en accuracy, en précision et en recall
+- la précision est de presque 1 pour la classe PSY, mais le recall est médiocre
+- le recall est de presque 1 pour la classe PHY, mais la précision est médiocre
+
 On peut maintenant construire une courbe ROC et une valeur d'AUC
 ```{r}
 prediction.roc <- roc(prediction$is.PSY, prediction$pred.PSY, levels=c(0,1), direction="<", plot=TRUE, auc.polygon=TRUE, max.auc.polygon=TRUE, grid=TRUE, print.auc=TRUE, show.thres=TRUE)
@@ -438,6 +487,26 @@ apply_k_mean <- function(m, nfolds, fold) {
 }
 ```
 
+On peut essayer d'améliorer les valeurs d'accuracy et de précision obtenues précédement
+Une bonne manière d'effectuer cela est d'équilibrer le nombre d'element par classe dans l'ensemble d'entrainement
+```{r}
+nb_max_cours <- min(nrow(reduce_tf_idf.PSY), nrow(reduce_tf_idf.PHY))
+nb_max_cours
+```
+Nous allons donc limiter nos classes à 114 élements par classe
+
+On construit une matrice réduite contenant le même nombre d'élements des deux classes
+```{r}
+reduce_tf_idf.class.equi <- rbind(reduce_tf_idf.PSY[1:nb_max_cours,], reduce_tf_idf.PHY[1:nb_max_cours,])
+```
+
+On applique la fonction définie précédement pour obtenir les prédictions par k-mean
+```{r}
+prediction.equi <- apply_k_mean(reduce_tf_idf.class.equi, 5, 5)
+view_prediction(prediction.equi)
+```
+Cela a grandement amélioré  nos différents indices
+
 On crée une fonction pour effecteur la k-fold cross validation
 ```{r}
 cross_validation_k_mean <- function(m, nfolds) {
@@ -451,9 +520,10 @@ cross_validation_k_mean <- function(m, nfolds) {
 }
 
 results <- cross_validation_k_mean(reduce_tf_idf.class, 5)
-data.frame(essais = 1:5, AUC = as.double(results))
+results.equi <- cross_validation_k_mean(reduce_tf_idf.class.equi, 5)
+data.frame(essais = 1:5, AUC = as.double(results), AUC_equi = as.double(results.equi))
 ```
-On peut voir que l'algorithme K-mean n'arrive pas  toujours départager les deux clusters (quelques résultats à 0.70)
+On peut voir que l'algorithme K-mean n'arrive pas  toujours départager les deux clusters (quelques résultats à 0.70), ce qui n'est plus le cas pour lee données équilibrées en nombre de classe
 
 Il faudrait équilibrer les deux nombres de cours par matières pour obtenir des meilleures clusters
 ```{r}
