@@ -71,8 +71,6 @@ cosinus.vm <- function(v,m) { n <- sqrt(rowSums(m^2)); (m %*% v)/(n * sqrt(sum(v
 dist_eucl.vm <- function(v,m) { sqrt(rowSums((m - v)^2)) }
 
 cor.vm <- function(v, m) {
-  # ici, le parametre 2 indique que nous effectuons la corrélation
-  # sur les colones et non sur les lignes
   apply(m, 1, cor, y=v)
 }
 
@@ -120,103 +118,103 @@ KNN <- function(user_index,n,k,alpha){
 }
 
 
-evaluate1 <- function(user_index,k,alpha){
+
+
+evaluate <- function(user_index,k,alpha,n_recom){
   user <- m_user_artist.sparse[user_index,]
   tot_value <- sum(user)
   n <- length(user[user>0])
   music <- colnames(m_user_artist.sparse)[user>0]
-  recommandations <- KNN(user_index, n, k, alpha)
+  recommandations <- KNN(user_index, n_recom, k, alpha)
+  recom_number <- length(intersect(music,recommandations))
   recom_value <- sum(user[recommandations])
-  return(c(recom_value/tot_value,n))
+  return(c(recom_number,recom_value,n,tot_value))
 }
 
-
-evaluate <- function(user_index,k,alpha,percentage){
-  user <- m_user_artist.sparse[user_index,]
-  n <- ceiling(length(user[user>0]) * percentage)
-  music <- colnames(m_user_artist.sparse)[user>0]
-  recommandations <- KNN(user_index, n, k, alpha)
-  precision <- length(intersect(music,recommandations))
-  return(c(precision,n))
-}
-
-evaluateAll1 <- function(k,alpha,min_friend){
-  tot_precision <- 0
-  tot_pred <- 0
+evaluateAll <- function(k,alpha,min_friend,n_recom){
+  micro_precision <- 0
+  macro_precision <- 0
+  micro_listeningRatio <- 0
+  macro_listeningRatio <- 0
+  tot_listeningCount <- 0
+  tot_n <- 0
   n_notEvaluated <- 0
   for (user in indexes_users){
     if(sum(m_friend.sparse[toString(user),]) < min_friend){
       n_notEvaluated <- n_notEvaluated + 1
     }else{
-      result <- evaluate1(toString(user),k,alpha)
-      tot_precision <- tot_precision + result[1] * result[2]
-      tot_pred <- tot_pred + result[2]
+      result <- evaluate(toString(user),k,alpha,n_recom)
+      micro_precision <- micro_precision + result[1]
+      macro_precision <- macro_precision + result[1]/result[3]
+      tot_n <- tot_n + result[3]
+      micro_listeningRatio <- micro_listeningRatio + result[2]
+      macro_listeningRatio <- macro_listeningRatio + result[2]/result[4]
+      tot_listeningCount<- tot_listeningCount + result[4]
     }
   }
-  precision <- tot_precision / tot_pred
+  n_users_tested <- n_users - n_notEvaluated
+  micro_precision <- micro_precision / tot_n
+  macro_precision <- macro_precision / n_users_tested
+  micro_listeningRatio <- micro_listeningRatio / tot_listeningCount
+  macro_listeningRatio <- macro_listeningRatio / n_users_tested
   print('Numbers of users tested :')
-  print(n_users - n_notEvaluated)
+  print(n_users_tested)
   print('Numbers of predictions :')
-  print(tot_pred)
-  print('Precision :')
-  print(precision)
-  return(precision)
+  print(n_recom * n_users_tested)
+  print('Micro Precision :')
+  print(micro_precision)
+  print('Macro Precision :')
+  print(macro_precision)
+  print('Micro Listening Ratio :')
+  print(micro_listeningRatio)
+  print('Macro Listening Ratio :')
+  print(macro_listeningRatio)
 }
 
 
-evaluateAll <- function(k,alpha,min_friend,percentage){
-  tot_true <- 0
-  tot_precision <- 0 
-  tot_pred <- 0
-  n_notEvaluated <- 0
-  for (user in indexes_users){
-    if(sum(m_friend.sparse[toString(user),]) < min_friend){
-      n_notEvaluated <- n_notEvaluated + 1
-    }else{
-      result <- evaluate(toString(user),k,alpha,percentage)
-      tot_true <- tot_true + result[1]
-      tot_pred <- tot_pred + result[2]
-    }
-  }
-  precision <- tot_true / tot_pred
-  print('Numbers of users tested :')
-  print(n_users - n_notEvaluated)
-  print('Numbers of predictions :')
-  print(tot_pred)
-  print('Precision :')
-  print(precision)
-  return(precision)
-}
-
-randomEvaluateAll <- function(){
-  tot_true <- 0
-  tot_precision <- 0
-  tot_pred <- 0
-  n_notEvaluated <- 0
+randomEvaluateAll <- function(n_recom){
+  micro_precision <- 0
+  macro_precision <- 0
+  micro_listeningRatio <- 0
+  macro_listeningRatio <- 0
+  tot_listeningCount <- 0
+  tot_n <- 0
   for (user in indexes_users){
     user <- m_user_artist.sparse[toString(user),]
     n <- length(user[user>0])
     music <- colnames(m_user_artist.sparse)[user>0]
-    random_pred <- colnames(m_user_artist.sparse)[sample(1:n_artists,n)]
-    tot_true <- tot_true + length(intersect(music,random_pred))
-    tot_precision <- tot_precision + sum(user[random_pred])/sum(user) * n
-    tot_pred <- tot_pred + n
+    random_pred <- colnames(m_user_artist.sparse)[sample(1:n_artists,n_recom)]
+    true <- length(intersect(music,random_pred))
+    listeningCount <- sum(user[random_pred])
+    micro_precision <- micro_precision + true
+    macro_precision <- macro_precision + true / n
+    tot_n <- tot_n + n
+    micro_listeningRatio <- micro_listeningRatio + listeningCount
+    macro_listeningRatio <- macro_listeningRatio + listeningCount / sum(user)
+    tot_listeningCount<- tot_listeningCount + sum(user)
   }
-  precision_number_music <- tot_true / tot_pred
-  precision_time <- tot_precision / tot_pred
+  micro_precision <- micro_precision / tot_n
+  macro_precision <- macro_precision / n_users
+  micro_listeningRatio <- micro_listeningRatio / tot_listeningCount
+  macro_listeningRatio <- macro_listeningRatio / n_users
+  print('Numbers of users tested :')
+  print(n_users)
   print('Numbers of predictions :')
-  print(tot_pred)
-  print('Precision in number of musics:')
-  print(precision_number_music)
-  print('Precision in percentage of time listened:')
-  print(precision_time)
+  print(n_recom * n_users)
+  print('Micro Precision :')
+  print(micro_precision)
+  print('Macro Precision :')
+  print(macro_precision)
+  print('Micro Listening Ratio :')
+  print(micro_listeningRatio)
+  print('Macro Listening Ratio :')
+  print(macro_listeningRatio)
 }
 
-evaluateAll(40,0.5,5,1.0)
+evaluateAll(40,0.5,6,50)
 
-evaluateAll1(40,0.5,5)
 
-randomEvaluateAll()
+randomEvaluateAll(50)
 
 prec <- matrix(0,1,6)
 k <- c(2,5,10,15,20,30)
@@ -258,7 +256,9 @@ for (i in 1:6){
 #         2 -> tester les meilleurs paramètres de k, alpha et min_friend
 #         3 -> faire varier les valeurs de précision 
 
-
+m <- m_user_artist.sparse
+m[m!=0] <- 1
+m <- rowSums(m)
 
 
 #mieux : k = 30 alpha = 0.5
