@@ -525,20 +525,6 @@ data.frame(essais = 1:5, AUC = as.double(results), AUC_equi = as.double(results.
 ```
 On peut voir que l'algorithme K-mean n'arrive pas  toujours départager les deux clusters (quelques résultats à 0.70), ce qui n'est plus le cas pour lee données équilibrées en nombre de classe
 
-Il faudrait équilibrer les deux nombres de cours par matières pour obtenir des meilleures clusters
-```{r}
-nb_max_cours = min(sum(grepl("PHY", prediction.class.kmean$names)), sum(grepl("PSY", prediction.class.kmean$names)))
-reduce_tf_idf.class.equi <- rbind(reduce_tf_idf.PSY[1:nb_max_cours,], reduce_tf_idf.PHY[1:nb_max_cours,])
-```
-
-
-On relance le même algorithme
-```{r}
-results.equi <- cross_validation_k_mean(reduce_tf_idf.class.equi, 5)
-data.frame(essais = 1:5, AUC = as.double(results.equi))
-```
-On a singulièrement augmenté l'AUC du model
-
 ## Question 4
 
 **À partir de la validation croisée de la tâche de classification ci-dessus, déterminez le nombre de dimensions latentes optimal de SVD selon une approche dite wrapper**
