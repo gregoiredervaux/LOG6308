@@ -21,7 +21,7 @@ library(parallel)
 
 On construit des objects SimpleCorpus du package Text Mining
 
-Sur ces coprus, on supprime les nombres, la ponctuation, et on tranfsorme toutes les majuscules en minuscules
+Sur ces coprus, on supprime les nombres, la ponctuation, et on transforme toutes les majuscules en minuscules
 ```{r}
 get_data <- function(src) {
   corpus <- SimpleCorpus(DirSource(src))
@@ -44,12 +44,12 @@ On va ensuite construire un grand corpus regroupant les corpus des 4 écoles
 corpus_tot <- get_data(c('data/Poly', 'data/UdM', 'data/HEC', 'data/UQAM'))
 ```
 
-### matrices Termes-Documents
+### Matrices Termes-Documents
 
-On utilise le package TM pour construire des matrices termes-documents
+On utilise le package TM pour construire des matrices terme-document
 
-On supprime avant cela les "stop words", mots très fréquents et que l'on retrouve dans tout les corpus de textes francais. Ces mots ne comportent pas de sémantique particulière (comme les prépositions, etc...)
-On supprime aussi les deux groupe nominaux "titrecours" et "descriptioncours" qui seront en quantité égale dans tout les documents et qui par conséquents ne sont pas utiles dans ce travail
+On supprime avant cela les "stop words", mots très fréquents et que l'on retrouve dans tous les corpus de textes francais. Ces mots ne comportent pas de sémantique particulière (comme les prépositions, etc...)
+On supprime aussi les deux groupes nominaux "titrecours" et "descriptioncours" qui seront en quantité égale dans tous les documents et qui par conséquents ne sont pas utiles dans ce travail
 ```{r}
 to_matrix <- function(corpus) {
   corpus <- tm_map(corpus,removeWords, stopwords('french'))
@@ -87,7 +87,7 @@ tf_idf <- Matrix(get_Tf_IDF(td_tot), "dgCMatrix")
 as.data.frame(as.matrix(tf_idf[, 0:9]))
 ```
 
-On reduis le nombre de dimention de la matrice. On transposera la matrice auparavant pour obtenir une matrice document-terme
+On reduit le nombre de dimension de la matrice. On transposera la matrice auparavant pour obtenir une matrice document-terme.
 ```{r}
 dim_redu = 50
 
@@ -125,16 +125,16 @@ On va ensuite sélectionner l'indice du cours LOG2420
 i <- grep('LOG2420', as.character(rownames(reduce_tf_idf)))
 ```
 
-On va enfin calculer la similarité des documents entre-eux, avec la méthode des cosinus (on transpose la matrice pour obtenir une matrice terme-document)
+On va enfin calculer la similarité des documents entre-eux, avec la méthode des cosinus (on transpose la matrice pour obtenir une matrice terme-document).
 ```{r}
 reduce_tf_idf.cos <- cosinus.mm(t(reduce_tf_idf))
 ```
 ```{r}
 head(as.data.frame(as.matrix(reduce_tf_idf.cos[,1:6])))
 ```
-On peut noter que la diagonale est bien composée de 0
+On peut noter que la diagonale est bien composée de 0.
 
-on sélectionne les 10 cours les plus proches de LOG2420
+On sélectionne les 10 cours les plus proches de LOG2420.
 ```{r}
 i.sim.cos <- max.nindex(reduce_tf_idf.cos[,i], 11)
 data.frame(Cos=reduce_tf_idf.cos[i.sim.cos, i], Index=i.sim.cos)
@@ -144,7 +144,7 @@ data.frame(Cos=reduce_tf_idf.cos[i.sim.cos, i], Index=i.sim.cos)
 
 **Effectuez une classification de cours par une approche supervisée**
 
-Dans un premier temps on va sélectionner les index des cours qui nous intéressent
+Dans un premier temps on va sélectionner les index des cours qui nous intéressent :
 ```{r}
 reduce_tf_idf.class <- subset(reduce_tf_idf, grepl("PSY|PHY", rownames(reduce_tf_idf)))
 
@@ -153,7 +153,7 @@ reduce_tf_idf.PSY <- subset(reduce_tf_idf, grepl("PSY", rownames(reduce_tf_idf))
 reduce_tf_idf.PHY <- subset(reduce_tf_idf, grepl("PHY", rownames(reduce_tf_idf)))
 ```
 
-Voila le résultat pour la classe PSY
+Voila le résultat pour la classe PSY :
 ```{r}
 as.data.frame(as.matrix(reduce_tf_idf.PSY[,0:9]))
 ```
@@ -182,7 +182,7 @@ data.frame(data_set = c("train PSY", "train PHY", "test PSY", "test PHY"), "nb_c
                                                                                     toString(dim(splited_tf_idf.PHY$test))))
 ```
 
-On va ensuite calculer le centroides de la classe
+On va ensuite calculer les centroides des classes
 ```{r}
 centroide.PSY <- colMeans(splited_tf_idf.PSY$train)
 centroide.PHY <- colMeans(splited_tf_idf.PHY$train)
@@ -191,10 +191,10 @@ centroide.PHY <- colMeans(splited_tf_idf.PHY$train)
 data.frame(t(cbind(centroide.PHY, centroide.PSY)))
 ```
 
-On va maintenant calculer l'erreur générée par cet itération
+On va maintenant calculer l'erreur générée par cette itération :
 
 Pour chaque vecteur correspondant à une description de cours, on va calculer sa similarité cosinus avec les deux centroides. On prédira la classe en sélectionnant le centroide le plus proche:
-- on calcule les similaritée pour chaque cours à chaque centroide
+- on calcule les similarités pour chaque cours à chaque centroide
 ```{r}
 prediction.PSY <- data.frame(cours = rownames(splited_tf_idf.PSY$test),
                                      sim.PSY = as.double(cosinus.vm(centroide.PSY, t(splited_tf_idf.PSY$test))),
@@ -202,7 +202,7 @@ prediction.PSY <- data.frame(cours = rownames(splited_tf_idf.PSY$test),
 head(prediction)
 ```
 
-- on  normalise les similarités pour obtenir des probabilitées
+- on  normalise les similarités pour obtenir des probabilités
 ```{r}
 prediction.PSY$pred.PSY <- apply(prediction.PSY, 1, function (v) {as.numeric(v['sim.PSY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
 prediction.PSY$pred.PHY <- apply(prediction.PSY, 1, function (v) {as.numeric(v['sim.PHY']) / (as.numeric(v['sim.PHY']) + as.numeric(v['sim.PSY']))})
@@ -238,9 +238,9 @@ responce.PSY <- roc(prediction.class$is.PSY, prediction.class$pred.PSY, plot=TRU
 responce.PHY <- roc(prediction.class$is.PHY, prediction.class$pred.PHY, plot=TRUE, auc.polygon=TRUE, max.auc.polygon=TRUE, grid=TRUE,
             print.auc=TRUE, show.thres=TRUE, levels=c(0,1), direction="<")
 ```
-On peut remarquer que les deux courbes sont symétriques par rapport à x=-y + 1. C'est normal car les deux probabilitées sont liées: P(psy) = 1 - P(phy)
+On peut remarquer que les deux courbes sont symétriques par rapport à x=-y + 1. C'est normal car les deux probabilités sont liées: P(psy) = 1 - P(phy)
 
-Nous allons maintenant répeter toutes ces étapes n fois, en fonction du nombre de fold (plie) sélectionné
+Nous allons maintenant répeter toutes ces étapes n fois, en fonction du nombre de folds (plis) sélectionnés
 ```{r}
 get_auc <- function (m.PSY, m.PHY, nfolds) {
   result <- sapply(1:nfolds , function(fold) {
@@ -283,7 +283,7 @@ get_auc <- function (m.PSY, m.PHY, nfolds) {
 results <- as.data.frame(t(get_auc(reduce_tf_idf.PSY, reduce_tf_idf.PHY, 3)))
 mean(as.double(results$auc))
 ```
-A partir de la fonction supérieure, nous allons essayer plusieures dimentions de SVD.
+À partir de la fonction supérieure, nous allons essayer plusieurs dimensions de SVD.
 
 ```{r}
 get_auc_by_dimention <- function(dim_redu, tf_idf) {
@@ -303,26 +303,26 @@ dim_max = 50
 auc_by_dimentions <- mclapply(dim_min:dim_max, get_auc_by_dimention, tf_idf, mc.cores = detectCores())
 plot(dim_min:dim_max, auc_by_dimentions, ylab = "AUC", xlab = "nombre de dimensions")
 ```
-On peut voir qu'a partir d'une dimentions de 30, les valeurs d'AUC sont presque parfaite. On peut donc se contenter d'une dimention de 30.
+On peut voir qu'a partir d'une dimension de 30, les valeurs d'AUC sont presque parfaites. On peut donc se contenter d'une dimension de 30.
 
 ## Question 3
 
 **Effectuez une agglomération par k-means (k=2) et vérifiez si les classes PHY et PSY sont bien séparées par cette méthode**
 
-On s'assure qu'il n'y ai pas de valeur manquante
+On s'assure qu'il n'y ai pas de valeur manquante :
 ```{r}
 sum(reduce_tf_idf.class[is.na(reduce_tf_idf.PSY)])
 ```
 
-On peut donc proccéder au K-mean sans se soucier des valeures manquantes
-On va d'abord créer un ensemble de test et d'entrainement
+On peut donc procéder au K-mean sans se soucier des valeures manquantes.
+On va d'abord créer un ensemble de test et d'entrainement :
 ```{r}
 # apply_k_mean <- function(reduce_tf_idf.class) {
 nfolds = 3
 splited_tf_idf.class <- split_data(nfolds, nfolds, reduce_tf_idf.class)
 ```
 
-On exécute l'algorithme k-mean sur l'ensemble de test
+On exécute l'algorithme k-mean sur l'ensemble de test :
 ```{r}
 k_mean_res <- kmeans(splited_tf_idf.class$train, 2)
 
@@ -331,7 +331,7 @@ head(cluster.class)
 ```
 
 On esssaye maintenant de deviner quel cluster correspond le mieux aux classes PHY et PSY:
-- on recupère les indices des classes réelles
+- on récupère les indices des classes réelles
 ```{r}
 index_PHY = grepl("PHY", cluster.class$names)
 index_PSY = grepl("PSY", cluster.class$names)
@@ -347,14 +347,14 @@ mean_cluster_PSY <- mean(cluster.class$cluster[index_PSY])
 data.frame(classe_reelle = c("PHY", "PSY"), moyenne_des_clusters = c(mean_cluster_PHY, mean_cluster_PSY))
 ```
 
-On attribue le numéro du cluster à sa classe la plus proche
+On attribue le numéro du cluster à sa classe la plus proche :
 ```{r}
 num_cluster_PHY <- if(mean_cluster_PHY < mean_cluster_PSY) 1 else 2
 num_cluster_PSY <- if(mean_cluster_PSY < mean_cluster_PHY) 1 else 2
 data.frame(classe_reelle = c("PHY", "PSY"), moyenne_des_clusters = c(num_cluster_PHY, num_cluster_PSY))
 ```
 
-On peut maitenant attribuer un centroide aux classes
+On peut maitenant attribuer un centroide aux classes :
 ```{r}
 centroide.PHY <- k_mean_res$centers[num_cluster_PHY,]
 centroide.PSY <- k_mean_res$centers[num_cluster_PSY,]
@@ -362,7 +362,7 @@ data.frame(t(cbind(centroide.PHY, centroide.PSY)))
 ```
 
 On peut prévoir comme auparavant les classes par la similarité de chaque élement de l'ensemble de test et des deux centroides
-- on calcule la similarité de chaque elements à chaque centroide
+- on calcule la similarité de chaque element pour chaque centroide
 ```{r}
 prediction <- data.frame(cours = rownames(splited_tf_idf.class$test),
                                      sim.PSY = as.double(cosinus.vm(centroide.PSY, t(splited_tf_idf.class$test))),
@@ -377,7 +377,7 @@ prediction$pred.PHY <- apply(prediction, 1, function (v) {as.numeric(v['sim.PHY'
 head(prediction)
 ```
 
-On ajoute une colonne de label des classes réelles pour faciliter la construction de la courbe de ROC par la suite
+On ajoute une colonne de labels des classes réelles pour faciliter la construction de la courbe de ROC par la suite :
 ```{r}
 prediction$is.PSY <- 0
 prediction$is.PHY <- 0
@@ -393,7 +393,7 @@ prediction$pred.right <- apply(prediction, 1, function(v) {(v['pred.PSY'] <= v['
 head(prediction)
 ```
 
-On calcul toutes les données nécessaire à l'obtention de la précision, du rappel et du F1 score
+On calcule toutes les données nécessaire à l'obtention de la précision, du rappel et du F1-score
 ```{r}
 view_prediction <- function(prediction_m) {
   prediction_m$pred.right <- apply(prediction_m, 1, function(v) {(v['pred.PSY'] <= v['pred.PHY'] && v['is.PHY'] == 1) || (v['pred.PHY'] <= v['pred.PSY'] && v['is.PSY'] == 1)})
@@ -430,7 +430,7 @@ view_prediction <- function(prediction_m) {
 ```{r}
 view_prediction(prediction)
 ```
-On peut observer plusieurs chose:
+On peut observer plusieurs choses:
 - les deux classes sont deséquilibrées en accuracy, en précision et en recall
 - la précision est de presque 1 pour la classe PSY, mais le recall est médiocre
 - le recall est de presque 1 pour la classe PHY, mais la précision est médiocre
@@ -441,7 +441,7 @@ prediction.roc <- roc(prediction$is.PSY, prediction$pred.PSY, levels=c(0,1), dir
 ```
 On obtient une valeur équivalente à la classification supervisée
 
-On va maintenant mettre tout cela dans une fonction et faire des essais pour plusieures valeures de nombre de dimentions
+On va maintenant mettre tout cela dans une fonction et faire des essais pour plusieurs valeurs de nombre de dimensions :
 ```{r}
 apply_k_mean <- function(m, nfolds, fold) {
   # sépration des données d'entrainement et de test
@@ -487,27 +487,27 @@ apply_k_mean <- function(m, nfolds, fold) {
 }
 ```
 
-On peut essayer d'améliorer les valeurs d'accuracy et de précision obtenues précédement
-Une bonne manière d'effectuer cela est d'équilibrer le nombre d'element par classe dans l'ensemble d'entrainement
+On peut essayer d'améliorer les valeurs d'accuracy et de précision obtenues précédement.
+Une bonne manière d'effectuer cela est d'équilibrer le nombre d'elements par classe dans l'ensemble d'entrainement.
 ```{r}
 nb_max_cours <- min(nrow(reduce_tf_idf.PSY), nrow(reduce_tf_idf.PHY))
 nb_max_cours
 ```
-Nous allons donc limiter nos classes à 114 élements par classe
+Nous allons donc limiter nos classes à 114 élements par classe.
 
-On construit une matrice réduite contenant le même nombre d'élements des deux classes
+On construit une matrice réduite contenant le même nombre d'élements des deux classes :
 ```{r}
 reduce_tf_idf.class.equi <- rbind(reduce_tf_idf.PSY[1:nb_max_cours,], reduce_tf_idf.PHY[1:nb_max_cours,])
 ```
 
-On applique la fonction définie précédement pour obtenir les prédictions par k-mean
+On applique la fonction définie précédement pour obtenir les prédictions par k-mean :
 ```{r}
 prediction.equi <- apply_k_mean(reduce_tf_idf.class.equi, 5, 5)
 view_prediction(prediction.equi)
 ```
-Cela a grandement amélioré  nos différents indices
+Cela a grandement amélioré  nos différents indices.
 
-On crée une fonction pour effecteur la k-fold cross validation
+On crée une fonction pour effecteur la k-fold cross-validation :
 ```{r}
 cross_validation_k_mean <- function(m, nfolds) {
   # on applique k fois l'algorithme sur les k sous ensemble test-entrainement
@@ -523,13 +523,13 @@ results <- cross_validation_k_mean(reduce_tf_idf.class, 5)
 results.equi <- cross_validation_k_mean(reduce_tf_idf.class.equi, 5)
 data.frame(essais = 1:5, AUC = as.double(results), AUC_equi = as.double(results.equi))
 ```
-On peut voir que l'algorithme K-mean n'arrive pas  toujours départager les deux clusters (quelques résultats à 0.70), ce qui n'est plus le cas pour lee données équilibrées en nombre de classe
+On peut voir que l'algorithme K-mean n'arrive pas  toujours à départager les deux clusters (quelques résultats à 0.70), ce qui n'est plus le cas pour les données équilibrées en nombre de classes.
 
 ## Question 4
 
 **À partir de la validation croisée de la tâche de classification ci-dessus, déterminez le nombre de dimensions latentes optimal de SVD selon une approche dite wrapper**
 
-On réalise la même étude sur les dimentions que précedement à partir des fonctions définies ci-dessus
+On réalise la même étude sur les dimensions que précédemment à partir des fonctions définies ci-dessus :
 ```{r}
 get_auc_by_dimention_kmean <- function(dim_redu, tf_idf) {
   
@@ -555,15 +555,15 @@ dim_max = 50
 auc_by_dimentions <- mclapply(dim_min:dim_max, get_auc_by_dimention_kmean, tf_idf, mc.cores = detectCores())
 plot(dim_min:dim_max, auc_by_dimentions, ylab = "AUC", xlab = "nombre de dimensions")
 ```
-On peut voir que l'on approche presque 1 d'AUC sur plus de 35 dimentions, ca sera notre nombre optimal de dimensions
+On peut voir que l'on approche presque 1 d'AUC sur plus de 35 dimensions, cela sera notre nombre optimal de dimensions
 
-On peut maintenant se demander si on peut faire la réduction de dimention sur uniquement les cours PHY et PSY
-- on réduis la matrice de tf-idf à seulement les PSY et les PHY
+On peut maintenant se demander si on peut faire la réduction de dimension uniquement sur les cours PHY et PSY
+- on réduit la matrice de tf-idf à seulement les PSY et les PHY
 ```{r}
 tf_idf.class <- tf_idf[,grepl("PSY|PHY", rownames(t(tf_idf)))]
 ```
 
-- on ressaye avec la dimension 50
+- on réssaie avec la dimension 50
 ```{r}
 m.class.svd <- irlba(t(tf_idf.class), dim_redu)
 reduce_tf_idf.class <- m.class.svd$u[, 1:dim_redu] %*% diag(m.class.svd$d[1:dim_redu])
@@ -572,13 +572,13 @@ rownames(reduce_tf_idf.class) <- colnames(tf_idf.class)
 prediction_reduction <- apply_k_mean(reduce_tf_idf.class, 5, 5)
 prediction_reduction.roc <- roc(prediction_reduction$is.PSY, prediction_reduction$pred.PSY, levels=c(0,1), direction="<", plot=TRUE, auc.polygon=TRUE, max.auc.polygon=TRUE, grid=TRUE, print.auc=TRUE, show.thres=TRUE)
 ```
-On peut voir que l'AUC est nettement pire. Cela peut être due au sur-apprentissage. Comme nous avons réduis les dimentions des ensembles de test drastiquement, le sur-apprentissage est forcement plus important.
+On peut voir que l'AUC est nettement pire. Cela peut être du au sur-apprentissage. Comme nous avons réduis les dimensions des ensembles de test drastiquement, le sur-apprentissage est forcément plus important.
 
-- on essaye sur différentes valeures de dimention
+- on essaie sur différentes valeurs de dimension
 ```{r}
 dim_min = 10
 dim_max = 50
 auc_by_dimentions <- mclapply(dim_min:dim_max, get_auc_by_dimention_kmean, tf_idf.class, mc.cores = detectCores())
 plot(dim_min:dim_max, auc_by_dimentions, ylab = "AUC", xlab = "nombre de dimensions")
 ```
-On peut voir que cela a tendance à rendre notre modèle inconsistant, et le fait légèrement sur-apprendre, pour une valeur moyenne de 0.8 d'AUC apres 30 dimentions. La valeur optimale de dimentions latente serait donc autour de 10.
+On peut voir que cela a tendance à rendre notre modèle inconsistant, et le fait légèrement sur-apprendre, pour une valeur moyenne de 0.8 d'AUC après 30 dimensions. La valeur optimale de dimension latente serait donc autour de 10.
