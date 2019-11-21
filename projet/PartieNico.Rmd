@@ -229,10 +229,61 @@ randomEvaluateAll(50)
 ```
 
 ```{r}
-result <-   evaluateAll(40,0.5,6,50)
+t1 <- Sys.time()
+result <-   evaluateAll(60,0.8,6,50)
+print(Sys.time()-t1)
 
 ```
 ```{r}
+t1 <- Sys.time()
 result <-   evaluateAll(40,0.5,6,50)
+print(Sys.time()-t1)
+```
+
+```{r}
+min_k <- c(30,40,50,60)
+alpha <- c(0.3,0.5,0.8,1.0)
+best_result <- c(0,0,0,0,0,0)
+for (i in 1:4){
+  for (j in 1:4){
+    print(min_k[i])
+    print(alpha[j])
+    result <- evaluateAll(min_k[i],alpha[j],6,50)
+    if (result[5] > best_result[5]){
+      best_result <- result
+    }
+  }
+}
+
+```
+
+```{r}
+library(parallel)
+min_k <- c(5,10,20,30,40,50,60)
+n_users_tested <- 0 
+n_recom <- 0
+micro_precision <- 1:7
+macro_precision <- 1:7
+micro_listeningRatio <- 1:7
+macro_listeningRatio <- 1:7
+
+lapply(1:7 , function(i) {
+    result <- evaluateAll(min_k[i],0.5,6,50)
+    n_users_tested <- result[1]
+    n_recom <- result[2]
+    micro_precision[i] <- result[3]
+    macro_precision[i] <- result[4]
+    micro_listeningRatio[i] <- result[5]
+    macro_listeningRatio[i] <- result[6]
+  })
+
+#plot(0, 0, ylab = "Listening ratio", xlab = "minimum number of neighbors")
+#lines(min_k,micro_listeningRatio,col=rainbow(2)[1])
+#lines(min_k,macro_listeningRatio,col=rainbow(2)[2])
+```
+
+```{r}
+plot(min_k,micro_listeningRatio, ylab = "Micro Listening ratio", xlab = "minimum number of neighbors")
+plot(min_k,macro_listeningRatio, ylab = "Macro Listening ratio", xlab = "minimum number of neighbors")
 ```
 
