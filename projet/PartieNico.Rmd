@@ -135,13 +135,15 @@ evaluate <- function(user_index,k,alpha,n_recom){
   tot_value <- sum(user)
   n <- length(user[user>0])
   music <- colnames(m_user_artist.sparse)[user>0]
+  t1 <- Sys.time()
   recommandations <- KNN(user_index, n_recom, k, alpha)
+  time <- Sys.time() - t1
   recom_number <- length(intersect(music,recommandations))
   recom_value <- sum(user[recommandations])
-  return(c(recom_number,recom_value,n,tot_value))
+  return(c(recom_number,recom_value,n,tot_value,time))
 }
 
-evaluateAll <- function(k,alpha,min_friend,n_recom){
+evaluateAll <- function(k,alpha,min_friend,n_recom,display=FALSE){
   micro_precision <- 0
   macro_precision <- 0
   micro_listeningRatio <- 0
@@ -149,11 +151,13 @@ evaluateAll <- function(k,alpha,min_friend,n_recom){
   tot_listeningCount <- 0
   tot_n <- 0
   n_notEvaluated <- 0
+  time <- 0
   for (user in indexes_users){
     if(sum(m_friend.sparse[toString(user),]) < min_friend){
       n_notEvaluated <- n_notEvaluated + 1
     }else{
       result <- evaluate(toString(user),k,alpha,n_recom)
+      time <- time + result[5]
       micro_precision <- micro_precision + result[1]
       macro_precision <- macro_precision + result[1]/result[3]
       tot_n <- tot_n + result[3]
@@ -167,27 +171,32 @@ evaluateAll <- function(k,alpha,min_friend,n_recom){
   macro_precision <- macro_precision / n_users_tested
   micro_listeningRatio <- micro_listeningRatio / tot_listeningCount
   macro_listeningRatio <- macro_listeningRatio / n_users_tested
-  print('Numbers of users tested :')
-  print(n_users_tested)
-  print('Numbers of predictions :')
-  print(n_recom * n_users_tested)
-  print('Micro Precision :')
-  print(micro_precision)
-  print('Macro Precision :')
-  print(macro_precision)
-  print('Micro Listening Ratio :')
-  print(micro_listeningRatio)
-  print('Macro Listening Ratio :')
-  print(macro_listeningRatio)
-  return(c(n_users_tested, n_recom*n_users_tested, micro_precision, macro_precision, micro_listeningRatio, macro_listeningRatio))
+  time <- time / n_users_tested
+  if (display){
+    print('Numbers of users tested :')
+    print(n_users_tested)
+    print('Numbers of predictions :')
+    print(n_recom * n_users_tested)
+    print('Mean time for a user (in secs):')
+    print(time)
+    print('Micro Precision :')
+    print(micro_precision)
+    print('Macro Precision :')
+    print(macro_precision)
+    print('Micro Listening Ratio :')
+    print(micro_listeningRatio)
+    print('Macro Listening Ratio :')
+    print(macro_listeningRatio)
+  }
+  return(c(n_users_tested, n_recom*n_users_tested, micro_precision, macro_precision, micro_listeningRatio, macro_listeningRatio,time))
 }
-result <-   evaluateAll(40,0.5,5,50)
+result <-   evaluateAll(40,0.5,5,50,display=TRUE)
 ```
 
 ## Evaluation d'une méthode aléatoire
 
 ```{r}
-randomEvaluateAll <- function(n_recom){
+randomEvaluateAll <- function(n_recom,display=FALSE){
   micro_precision <- 0
   macro_precision <- 0
   micro_listeningRatio <- 0
@@ -212,20 +221,22 @@ randomEvaluateAll <- function(n_recom){
   macro_precision <- macro_precision / n_users
   micro_listeningRatio <- micro_listeningRatio / tot_listeningCount
   macro_listeningRatio <- macro_listeningRatio / n_users
-  print('Numbers of users tested :')
-  print(n_users)
-  print('Numbers of predictions :')
-  print(n_recom * n_users)
-  print('Micro Precision :')
-  print(micro_precision)
-  print('Macro Precision :')
-  print(macro_precision)
-  print('Micro Listening Ratio :')
-  print(micro_listeningRatio)
-  print('Macro Listening Ratio :')
-  print(macro_listeningRatio)
+  if (display){
+    print('Numbers of users tested :')
+    print(n_users)
+    print('Numbers of predictions :')
+    print(n_recom * n_users)
+    print('Micro Precision :')
+    print(micro_precision)
+    print('Macro Precision :')
+    print(macro_precision)
+    print('Micro Listening Ratio :')
+    print(micro_listeningRatio)
+    print('Macro Listening Ratio :')
+    print(macro_listeningRatio)
+  }
 }
-randomEvaluateAll(50)
+randomEvaluateAll(50,display=TRUE)
 ```
 
 ```{r}
@@ -260,30 +271,122 @@ for (i in 1:4){
 ```{r}
 library(parallel)
 min_k <- c(5,10,20,30,40,50,60)
-n_users_tested <- 0 
-n_recom <- 0
-micro_precision <- 1:7
-macro_precision <- 1:7
-micro_listeningRatio <- 1:7
-macro_listeningRatio <- 1:7
+precision_k <- matrix(0,7,2)
+listeningRatio_k <- matrix(0,7,2)
+time_k <- 1:7
 
-lapply(1:7 , function(i) {
+for (i in 1:7) {
     result <- evaluateAll(min_k[i],0.5,6,50)
-    n_users_tested <- result[1]
-    n_recom <- result[2]
-    micro_precision[i] <- result[3]
-    macro_precision[i] <- result[4]
-    micro_listeningRatio[i] <- result[5]
-    macro_listeningRatio[i] <- result[6]
-  })
+    precision_k[i,1] <- result[3]
+    precision_k[i,2] <- result[4]
+    listeningRatio_k[i,1] <- result[5]
+    listeningRatio_k[i,2] <- result[6]
+    time_k[i] <- result[7]
+}
 
-#plot(0, 0, ylab = "Listening ratio", xlab = "minimum number of neighbors")
-#lines(min_k,micro_listeningRatio,col=rainbow(2)[1])
-#lines(min_k,macro_listeningRatio,col=rainbow(2)[2])
 ```
 
 ```{r}
-plot(min_k,micro_listeningRatio, ylab = "Micro Listening ratio", xlab = "minimum number of neighbors")
-plot(min_k,macro_listeningRatio, ylab = "Macro Listening ratio", xlab = "minimum number of neighbors")
+matplot(min_k,listeningRatio_k, ylab = "Listening ratio", xlab = "minimum number of neighbors", type = 'l', col = 1:2)
+legend("topleft",legend = c('micro', 'macro'), col = 1:2, pch = 1)
+
+matplot(min_k,precision_k, ylab = "Precision", xlab = "minimum number of neighbors", type = 'l', col = 1:2)
+legend("topleft",legend = c('micro', 'macro'), col = 1:2, pch = 1)
+
+plot(min_k,time_k, ylab = "Mean time to recommend a user (in secs)", xlab = "minimum number of neighbors", type = 'l')
+```
+
+```{r}
+alpha <- c(0,0.1,0.3,0.5,0.8,1,2)
+precision_alpha_k20 <- matrix(0,7,2)
+listeningRatio_alpha_k20 <- matrix(0,7,2)
+time_alpha_k20 <- 1:7
+
+for (i in 1:7) {
+    result <- evaluateAll(20,alpha[i],6,50)
+    precision_alpha_k20[i,1] <- result[3]
+    precision_alpha_k20[i,2] <- result[4]
+    listeningRatio_alpha_k20[i,1] <- result[5]
+    listeningRatio_alpha_k20[i,2] <- result[6]
+    time_alpha_k20[i] <- result[7]
+}
+
+
+precision_alpha_k40 <- matrix(0,7,2)
+listeningRatio_alpha_k40 <- matrix(0,7,2)
+time_alpha_k40 <- 1:7
+
+for (i in 1:7) {
+    result <- evaluateAll(40,alpha[i],6,50)
+    precision_alpha_k40[i,1] <- result[3]
+    precision_alpha_k40[i,2] <- result[4]
+    listeningRatio_alpha_k40[i,1] <- result[5]
+    listeningRatio_alpha_k40[i,2] <- result[6]
+    time_alpha_k40[i] <- result[7]
+}
+```
+
+```{r}
+matplot(alpha,t(rbind(t(listeningRatio_alpha_k20),t(listeningRatio_alpha_k40))), ylab = "Listening ratio", xlab = "alpha", type = 'l', col = 1:4)
+legend("left",legend = c('micro k= 20', 'macro k=20','micro k= 40', 'macro k=40'), col = 1:4, pch = 1)
+
+matplot(alpha,t(rbind(t(precision_alpha_k20),t(precision_alpha_k40))), ylab = "Precision", xlab = "alpha ", type = 'l', col = 1:2)
+legend("bottomright",legend = c('micro k= 20', 'macro k=20','micro k= 40', 'macro k=40'), col = 1:4, pch = 1)
+
+matplot(alpha,matrix(c(time_alpha_k20,time_alpha_k40),7,2), ylab = "Mean time to recommend a user (in secs)", xlab = "alpha", type = 'l', col = 1:2)
+legend("topleft",legend = c('k= 20', 'k=40'), col = 1:2, pch = 1)
+```
+
+```{r}
+min_friends <- c(1,2,3,5,6,8,10)
+precision_min_friends <- matrix(0,7,2)
+listeningRatio_min_friends <- matrix(0,7,2)
+time_min_friends <- 1:7
+
+for (i in 1:7) {
+    result <- evaluateAll(40,0.5,min_friends[i],50) 
+    precision_min_friends[i,1] <- result[3]
+    precision_min_friends[i,2] <- result[4]
+    listeningRatio_min_friends[i,1] <- result[5]
+    listeningRatio_min_friends[i,2] <- result[6]
+    time_min_friends[i] <- result[7]
+}
+```
+
+
+```{r}
+matplot(min_friends,listeningRatio_min_friends, ylab = "Listening ratio", xlab = "min number of friends", type = 'l', col = 1:2)
+legend("topleft",legend = c('micro', 'macro'), col = 1:2, pch = 1)
+
+matplot(min_friends,precision_min_friends, ylab = "Precision", xlab = "min number of friends", type = 'l', col = 1:2)
+legend("topleft",legend = c('micro', 'macro'), col = 1:2, pch = 1)
+
+plot(min_friends,time_min_friends, ylab = "Mean time to recommend a user (in secs)", xlab = "min number of friends", type = 'l')
+```
+
+```{r}
+n_pred <- c(5,10,20,30,50,70,100)
+precision_pred <- matrix(0,7,2)
+listeningRatio_pred <- matrix(0,7,2)
+time_pred <- 1:7
+
+for (i in 1:7) {
+    result <- evaluateAll(40,0.5,6,n_pred[i]) 
+    precision_pred[i,1] <- result[3]
+    precision_pred[i,2] <- result[4]
+    listeningRatio_pred[i,1] <- result[5]
+    listeningRatio_pred[i,2] <- result[6]
+    time_pred[i] <- result[7]
+}
+```
+
+```{r}
+matplot(n_pred,listeningRatio_pred, ylab = "Listening ratio", xlab = "number of predictions", type = 'l', col = 1:2)
+legend("topleft",legend = c('micro', 'macro'), col = 1:2, pch = 1)
+
+matplot(n_pred,precision_pred, ylab = "Precision", xlab = "number of predictions", type = 'l', col = 1:2)
+legend("topleft",legend = c('micro', 'macro'), col = 1:2, pch = 1)
+
+plot(n_pred,time_pred, ylab = "Mean time to recommend a user (in secs)", xlab = "number of predictions", type = 'l')
 ```
 
