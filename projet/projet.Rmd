@@ -9,6 +9,8 @@ output: html_notebook
 
 ```{r}
 library(igraph)
+library(dbscan)
+library(Matrix)
 ```
 
 
@@ -33,52 +35,346 @@ Construction de la matrice d'adjacence
 ```{r}
 user_graph <- graph_from_edgelist(as.matrix(user_friends), directed=FALSE)
 user_adj.sparse <- get.adjacency(user_graph)
-user_adj.sparse[0:5,270:280]
+rownames(user_adj.sparse) <- paste('u', 1:nrow(user_adj.sparse), sep='')
+colnames(user_adj.sparse) <- paste('u', 1:nrow(user_adj.sparse), sep='')
+as.data.frame(as.matrix(user_adj.sparse[0:5,270:280]))
 
 ```
 
 
-## essais de page rank
+## Création des communautées
 
-définition de la fonction page rank
-```{r}
-PageRank <- function(m,d=0.85){
-  A = as.matrix(m)
-  n = nrow(m)
-  R = matrix(1.0,1,n)
-  s = rowSums(m) + 1
-  oldR = matrix(0.0,1,n)
-  i = 0
-  while (norm(R-oldR) > 0.0001){
-    oldR = R
-    R = (1-d)/n + d*(R/s)%*%A
-    i = i + 1
-  }
-  print("Nombre d'itérations : ")
-  print(i)
-  return(R)
-}
-```
-
-test
-```{r}
-user_adj.m <- as.matrix(user_adj.sparse)
-# a faire par nicola
-# test <- PageRank(user_adj)
-```
 On utilise l'algorythme de Girvan-Newman
 ```{r}
-user_graph.reduce <- graph_from_edgelist(as.matrix(user_friends[0:1000,]), directed=FALSE)
+library(parallel)
 
-cl_edge_betweenness.reduce <- cluster_edge_betweenness(user_graph.reduce, directed = FALSE)
-plot(user_graph, vertex.color=rainbow(3, alpha=0.6)[cl_edge_betweenness.reduce$membership])
+nb_edge_test <- 500
+step = nb_edge_test / 10
+plot(seq(1, nb_edge_test, by=step), mclapply(seq(1, nb_edge_test, by=step), function(i){
+  time_start <- Sys.time()
+  user_graph.reduce <- graph_from_edgelist(as.matrix(user_friends[1:i,]), directed=FALSE)
 
-cl_louvain <- cluster_louvain(user_graph.reduce)
-plot(user_graph, vertex.color=rainbow(3, alpha=0.6)[cl_louvain$membership])
+  cl_edge_betweenness.reduce <- cluster_edge_betweenness(user_graph.reduce, directed = FALSE)
+  return(Sys.time() - time_start)
+}, mc.cores = detectCores()), ylab = "temps (seconde)", xlab = "nombre d'arrete")
 
-cl_infomap <- cluster_infomap(user_graph.reduce)
-plot(user_graph, vertex.color=rainbow(3, alpha=0.6)[cl_infomap$membership])
+user_graph.reduce <- graph_from_edgelist(as.matrix(user_friends[1:nb_edge_test,]), directed=FALSE)
+```
+On peut voir que cet algorithme ne fonctionnera pas efficassement pour tout les noeuds. Il est de complexité au moins polynomiale et nous n'avons pas reussi à le faire tourner en une nuit complête
+
+Nous allons nous pencher sur deux autres approches, une approche gloutone qui se basse aussi sur la modularité (méthode de louvain, développée en 2008), et une approche qui se base sur l'optimisation de la "map equation" (infomap, développé en 2016) 
+```{r}
+# cl_edge_betweenness.reduce <- cluster_edge_betweenness(user_graph.reduce, directed = FALSE)
+# plot(user_graph, vertex.color=rainbow(3, alpha=0.6)[cl_edge_betweenness.reduce$membership])
+# 
+cl_louvain <- cluster_louvain(user_graph)
+# plot(user_graph, vertex.color=rainbow(3, alpha=0.6)[cl_louvain$membership])
+# 
+cl_infomap <- cluster_infomap(user_graph)
+# plot(user_graph, vertex.color=rainbow(3, alpha=0.6)[cl_infomap$membership])
+```
+les communautés sont des listes dont les valeurs correspondes au l'indice du cluster et dont les id correspondes au l'indice de l'utilisteur en question:
+```{r}
+head(as.data.frame(cl_infomap$membership))
+```
+
+test du nombre de communautée
+```{r}
+# max(cl_edge_betweenness.reduce$membership)
+max(cl_louvain$membership)
+max(cl_infomap$membership)
+```
+Nous allons tester nos communautées
+```{r}
+get_freq_list <- function (cl, print = TRUE) {
+  freq_cl <- unlist(lapply(1:max(cl$membership), function (i) {
+  length(which(cl$membership == i))
+}))
+  if(print) {
+    plot(as.integer(1:length(freq_cl)), freq_cl[order(freq_cl, decreasing = TRUE)], ylab = "taille des communautées", xlab = "communautées")
+  }
+  return(data.frame(frequence = freq_cl, id_communaute = as.integer(1:length(freq_cl))))
+}
 ```
 ```{r}
-test <- as.data.frame(cl_edge_betweenness.reduce$membership)
+freq_cl_louvain <- get_freq_list(cl_louvain)
 ```
+On peut voir que l'algorithme donne de mauvais résultats, trop de communauté sont composées d'une personne, et il existe des communauté de 500, 300, et 200 personnes.
+
+```{r}
+freq_cl_infomap <- get_freq_list(cl_infomap)
+```
+On peut voir que c'est bien meilleur selon l'algorithme infomap, les communautée sont bien mieux réparties, et la plus grande communauté est composée de 15 élements
+
+
+Cependant, Plus de 3 quarts des communautées sont composée de 1 a 2 elements par communauté. Pour comprendre pourquoi, nous allons devoir nettoyer un peu nos données
+
+```{r}
+nb_friend_by_column <- apply(user_adj.sparse, 2, sum)
+plot(1:length(nb_friend_by_column), nb_friend_by_column[order(nb_friend_by_column, decreasing = TRUE)], ylab = "nombre d'amis", xlab = 'utilisateur')
+```
+On peut voir que beaucoup d'utilisateurs ont moins d'un amis. Pour effectuer une bonne analyse de communauté, les utilisateurs doivent avoir un nombre important d'amis. Nous allons donc supprimer les utilisateurs qui ont moins de 5 amis
+```{r}
+friend_lim <- 5
+user_adj.clean <- user_adj.sparse[which(nb_friend_by_column >= friend_lim), which(nb_friend_by_column >= friend_lim)]
+
+nb_friend_by_column.clean <- apply(user_adj.clean, 2, sum)
+plot(1:length(nb_friend_by_column.clean), nb_friend_by_column.clean[order(nb_friend_by_column.clean, decreasing = TRUE)], ylab = "nombre d'amis", xlab = 'utilisateur')
+```
+
+```{r}
+user_graph.clean <- graph_from_adjacency_matrix(user_adj.clean, mode="undirected")
+
+cl_louvain.clean <- cluster_louvain(user_graph.clean)
+cl_infomap.clean <- cluster_infomap(user_graph.clean, nb.trials = 20)
+
+freq_cl_louvain.clean <- get_freq_list(cl_louvain.clean)
+```
+```{r}
+freq_cl_infomap.clean <- get_freq_list(cl_infomap.clean)
+```
+Nous avons maintenant nos communautées (memberships en anglais). Une fois ces communautées crées, nous pouvons utiliser une approche par validation croisée, semblable à ce que nous faisions pour l'algorithme knn.
+
+## clustering classique sur la matrice d'adjacence
+
+On essaye avec une méthode qui normalement doit avoir de moins bon résultats avec des matrices aussi sparces que des matrices d'adjacence de cette taille, la méthode k-mean
+On utilisera plusieures nombre de clusteur pour préparer la cross-validation
+```{r}
+results_kmean.clean <- mclapply(seq(50, 500, by=50), function (i) {
+  print(i)
+  kmeans(user_adj.clean, i)
+}, mc.cores = detectCores())
+```
+
+Un peu d'analyse de nos clusters:
+```{r}
+get_freq_list_kmean <- function (cluster_list) {
+  lapply(cluster_list, function(cl){
+    freq_cl <- unlist(lapply(1:max(cl$cluster), function (i) {
+      length(which(cl$cluster == i))
+    }))
+    plot(as.integer(1:length(freq_cl)), freq_cl[order(freq_cl, decreasing = TRUE)], ylab = "taille des communautées", xlab = "communautées")
+    return(data.frame(frequence = freq_cl, id_communaute = as.integer(1:length(freq_cl))))
+  })
+}
+```
+```{r}
+freq_list_kmean.clean = get_freq_list_kmean(results_kmean.clean)
+```
+On peut voir qu'une fois encore, l'algorithmes k-mean à quelques difficultées à regouper les personnes en groupe d'amis, avec un groupe enorme oscillant entre 1200 et 700 personnes.
+
+La meilleur approche est donc de reposer sur l'algorithme infomap.
+
+## k-fold cross-validation
+
+### Matrices user-item
+
+On va dans un premier temps créer une matrice User-items avec comme poids (ou note) le temps d'écoute de chaque utilisteur pour chaque artiste, décris dans la data.frame user_artists
+```{r}
+head(user_artists)
+```
+```{r}
+user_artists.sparse <- sparseMatrix(
+  i = as.integer(user_artists$userID),
+  j = as.integer(user_artists$artistID),
+  x = as.integer(user_artists$weight),
+  dimnames = list(levels(user_artists$userID), levels(user_artists$artistID))
+)
+rownames(user_artists.sparse) <- paste('u', 1:nrow(user_artists.sparse), sep='')
+
+user_artists.clean <- user_artists.sparse[which(nb_friend_by_column >= friend_lim),]
+head(user_artists.clean[0:10,45:55])
+```
+
+
+### Prédiction de l'écoute d'un utilisateur 
+
+On va maintenant essayer de recommander n artistes à un utilisateur
+On se base sur les amis de sa communautée, à la manière d'un alogithme knn
+
+On part du principe que l'on connait le graph des amis, et voir si on peut prédire les temps d'écoute d'un utilisateur à partir de sa communautée.
+Nous allons donc faire une validation croisée de type leave-one-out, en essayant de prédire le temps d'écoute de chaque utilisateur:
+
+- On regarde pour un utilisteur donné quelle est sa communautée:
+```{r}
+get_community_index <- function (cluster){
+  user_communaute.clean <- data.frame(id_user = 1:length(cluster$membership), id_communaute = cluster$membership)
+  return(unstack(user_communaute.clean))
+}
+communaute.clean <- get_community_index(cl_infomap.clean)
+head(communaute.clean)
+```
+
+
+```{r}
+get_community <- function(user_index, cluster, communaute) {
+  communaute.i <- toString(cluster$membership[user_index])
+  community_vect <- communaute[[communaute.i]]
+  return(community_vect[community_vect != user_index])
+}
+user_name <- 'u5'
+user_index <- match(user_name, rownames(user_artists.clean))
+community.u5 <- get_community(user_index, cl_infomap.clean, communaute.clean)
+community.u5
+```
+
+- On calcule la moyenne des écoutes de cette communautée.
+```{r}
+get_mean_by_user <- function(users, user_artists, threshold = 0) {
+  community_artists <- user_artists[users, ]
+  community_artists[community_artists <= threshold] <- NA
+  return(if(is.null(dim(community_artists))) community_artists else colMeans(community_artists, na.rm = TRUE))
+}
+
+data.frame(u1 = user_artists.clean[community.u5[1],],
+           u2 = user_artists.clean[community.u5[2],],
+           u3 = user_artists.clean[community.u5[3],],
+           mean = get_mean_by_user(community.u5, user_artists.clean))
+
+```
+
+- On calcule pour l'utilisateur testé la RMSE de ses temps d'écoute et de celle de sa communautée
+> Ici, nous ne comptons que les temps d'écoute d'artiste en commun entre l'utilisateur et sa communaut
+
+```{r}
+get_RMSE <- function (vect1, vect2) {
+  vect1[vect1 == 0] <- NA
+  vect2[vect2 == 0] <- NA
+  return( sqrt( sum((vect1 - vect2)^2, na.rm = TRUE) / length(vect1[!is.na(vect1) & !is.na(vect2)]) ))
+}
+
+# mean_users <- get_mean_by_user(community.u6, user_artists.clean)
+# user <- user_artists.clean[user_index,]
+# mean_users[mean_users == 0] <- NA
+# user[user == 0] <- NA
+# sum((mean_users - user)^2, na.rm = TRUE)
+# length(mean_users[!is.na(mean_users) & !is.na(user)])
+# sum((mean_users - user)^2, na.rm = TRUE) / length(mean_users[!is.na(mean_users) & !is.na(user)])
+# sqrt(sum((mean_users - user)^2, na.rm = TRUE) / length(mean_users[!is.na(mean_users) & !is.na(user)]))
+
+get_RMSE(get_mean_by_user(community.u6, user_artists.clean),  user_artists.clean[user_index,])
+
+```
+
+Sans connaitre aucune des temps d'écoutes de l'utilisateur 6 pour effectuer nos prédictions, on peut estimer ceux-ci à environ 2 minutes, soit  2/3 d'une chanson
+
+```{r}
+get_RMSE(get_mean_by_user(community.u6, user_artists.clean, 100),
+         user_artists.clean[user_index,])
+```
+
+Cela fait augmenter la moyenne des erreurs. On peut supposer que le fait que certaines personnes n'écoutent pas completement certaines chasons est un bon indicateur du fait qu'elles n'apprécient pas ces chansons. Nous attendrons de tester cette méthode sur tout les utilisateurs pour en être sur.
+
+### Prédiction de l'écoute de tout les utilisateurs
+
+On teste cette méthode sur tous les utilisateurs:
+```{r}
+result <- unlist(lapply(1:dim(user_artists.clean)[1], function (user_index) {
+  community <- get_community(user_index, cl_infomap.clean, communaute.clean)
+  return(get_RMSE(get_mean_by_user(community, user_artists.clean, 0),
+         user_artists.clean[user_index,]))
+}))
+```
+```{r}
+mean(result, na.rm = TRUE)
+```
+On peut voir que pour l'ensemble de utilisateurs, on estime se trompé pour un artiste d'environ 8 chansons.
+
+On peut essayer de voir si ce chiffre serait meilleur en retirant les chansons écoutées très peu longtemps par la communautée.
+On va par exemple estimer qu'une chanson entière est composée d'au moins 180 secondes. Toutes les écoutes d'un artiste en deça de 2 chansons, soit 360 secondes, ne seront pas prisent en compte dans le calcul de moyenne:
+```{r}
+result <- unlist(lapply(1:dim(user_artists.clean)[1], function (user_index) {
+  community <- get_community(user_index, cl_infomap.clean, communaute.clean)
+  return(get_RMSE(get_mean_by_user(community, user_artists.clean, 100),
+         user_artists.clean[user_index,]))
+}))
+```
+```{r}
+mean(result, na.rm = TRUE)
+```
+Cela fait augmenter la moyenne des erreurs. On peut supposer que le fait que certaines personnes n'écoutent pas completement certaines chansons est un bon indicateur du fait qu'elles n'apprécient pas ces chansons. Nous attendrons de tester cette méthode sur tout les utilisateurs pour en être sur.
+
+Pour donner sens à la valeur de RMSE moyenne, nous allons voir quelle sont les temps d'écoute moyens des utilisateurs. Nous allons determiner pour chaque utilisateur le temps d'écoute en pourcentage que nous ne somme parvenu a prédire.
+```{r}
+user_artists.clean[user_artists.clean == 0] <- NA
+mean_listening_by_user <- rowMeans(user_artists.clean, na.rm = TRUE)
+(mean(result / mean_listening_by_user, na.rm = TRUE)) * 100
+```
+On peut voir que l'on se trompe d'environ 1224 %. Le problème avec les pourcentage est que si l'erreur est importante pour un utilisateur qui écoute très peu, alors l'erreur en pourcentage sera très grande.
+
+On peut essayer de re-centrer notre étude non seulement aux personnes ayant plus de n amis, mais aussi aux personnes ayant de x minutes d'écoutes.
+```{r}
+mean_listening_by_user <- rowMeans(user_artists.clean, na.rm = TRUE)
+(mean(result[mean_listening_by_user >= 10] / mean_listening_by_user[mean_listening_by_user >= 10], na.rm = TRUE)) * 100
+```
+```{r}
+data.frame(result = result[mean_listening_by_user >= 10 & !is.nan(mean_listening_by_user)], mean_by_user = mean_listening_by_user[mean_listening_by_user >= 10 & !is.nan(mean_listening_by_user)])
+```
+
+On peut se demander quelles seraient les bonnes valeures des deux hyper-parametres, nombre d'amis minimum, et nombre d'écoute minimum, donnent les meilleurs
+
+- on va récapituler notre pipeline de transformation de donnée dans une fonction:
+```{r}
+seq_friend_lim <- seq(3, 21, by=3)
+seq_listening_limit <- seq(0, 1000, by=100)
+
+# seq_friend_lim <- seq(3, 6, by=3)
+# seq_listening_limit <- seq(0, 100, by=100)
+
+result_lists <- mclapply(seq_friend_lim, function(friend_lim) {
+  
+  user_adj.clean <- user_adj.sparse[which(nb_friend_by_column >= friend_lim), which(nb_friend_by_column >= friend_lim)]
+
+  user_graph.clean <- graph_from_adjacency_matrix(user_adj.clean, mode="undirected")
+
+  cl_louvain.clean <- cluster_louvain(user_graph.clean)
+  cl_infomap.clean <- cluster_infomap(user_graph.clean, nb.trials = 20)
+
+  freq_cl_louvain.clean <- get_freq_list(cl_louvain.clean, FALSE)
+
+  nb_friend_by_column <- apply(user_adj.sparse, 2, sum)
+  user_artists.clean <- user_artists.sparse[which(nb_friend_by_column >= friend_lim),]
+
+  communaute.clean <- get_community_index(cl_infomap.clean)
+  return(lapply(seq_listening_limit, function(listening_limit) {
+    result <- unlist(lapply(1:dim(user_artists.clean)[1], function (user_index) {
+      community <- get_community(user_index, cl_infomap.clean, communaute.clean)
+      return(get_RMSE(get_mean_by_user(community, user_artists.clean, listening_limit),
+           user_artists.clean[user_index,]))
+    }))
+
+    user_artists.clean[user_artists.clean == 0] <- NA
+    mean_listening_by_user <- rowMeans(user_artists.clean, na.rm = TRUE)
+    return((mean(result / mean_listening_by_user, na.rm = TRUE)) * 100)
+  }))
+}, mc.cores = detectCores())
+```
+
+- on afffiche les résultats 
+```{r}
+library("plot3D")
+library(data.table)
+
+result_matrix <- rbindlist(result_lists)
+rownames(result_matrix) <- as.character(seq_friend_lim)
+colnames(result_matrix) <- as.character(seq_listening_limit)
+melted_matrix <- melt(as.matrix(result_matrix))
+```
+```{r}
+scatter3D(melted_matrix$Var1, melted_matrix$Var2, melted_matrix$value, bty = "g", pch = 18, ticktype = "detailed",
+          xlab = "friend limit", ylab ="listening limit", zlab = "% error",
+          theta = -45, phi = 0)
+```
+```{r}
+persp(z = as.matrix(result_matrix), xlab = "friend limit", ylab ="listening limit", zlab = "% error", theta = -45, phi = 0)
+```
+On peut voir que les meilleurs résultats sont obtenus pour un nombre d'amis minimum de 15, et d'une limite de listening de 0. Le problème est que la pente est croissante selon la limite d'écoute minimal. Cela veut dire qu'au plus les utilisateurs écoutent de la musique, au plus ils utilisent le service de réseau social, au plus nous avons du mal à prédire les écoutes des utilisateurs. 
+
+Cela peut être expliqué par deux facteurs:
+- la clusterisation est mauvaise, les communauté ne sont pas représentatives des réelles communautées ou le graph possède une structure non classique d'un réseau social
+- la clusterisation est bonne, mais ce sont les communauté qui sont hétérogènes en goux musicaux.
+
+Nous allons maintenant tenter de vérifier les deux hypothèses, en vérifiant si un algorithme knn permet de faire de bonne prédiction, en s'appuyant sur les amis d'un utilisateur. Si cela est la cas, cela veut dire que la clusterisation par communauté n'est pas appropriée à ce dataset.
+
+## Prédiction s'appuyant sur les amis directs
+
