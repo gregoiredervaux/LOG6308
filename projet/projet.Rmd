@@ -5,6 +5,9 @@ output: html_notebook
 
 # Projet
 
+Grégoire Dervaux - 1971729
+Nicolas Golenvaux - 2037982
+
 ## Introduction
 
 **Problématique:** Essayer de prédire les écoutes d'utilisateurs en fonction des gouts musicaux de leurs amis
@@ -18,7 +21,7 @@ Nous possédont:
 - le nombre d'écoute des utilisateurs par artiste
 - une description des artistes
 
-### methodologie:
+### Methodologie:
 
   Nous n'utiliserons que les liens d'amitiés entre les utilisateurs et leur écoutes pour pédire les écoutes des utilisateurs.
   
@@ -29,7 +32,7 @@ Nous possédont:
   Nous allons donc déterminer quelles sont les communautés de notre graph d'amitiées entre les utilisateurs. Une fois ces communautés déterminées, nous allons calculer quelles sont leurs écoutes moyennes, et se servir de ces écoutes pour prédire les écoutes de leurs individus.
 
 
-## importation des modules
+## Importation des modules
 
 ```{r}
 library(igraph)
@@ -38,7 +41,7 @@ library(Matrix)
 ```
 
 
-## importation des données
+## Importation des données
 
 ```{r}
 artists <- read.delim('./data/artists.dat', header=TRUE, sep="\t")
@@ -64,7 +67,7 @@ as.data.frame(as.matrix(user_adj.sparse[0:5,270:280]))
 ```
 ## Création des communautées
 
-On utilise l'algorythme de Girvan-Newman. Cet algorithme n'est pas adapté pour de grand graph. Nous allons donc essayer de quantifier le temps nécessaire à la construction de communautées 
+On utilise l'algorythme de Girvan-Newman. Cet algorithme n'est pas adapté pour de grand graph. Nous allons donc essayer de quantifier le temps nécessaire à la construction de communautés 
 ```{r}
 library(parallel)
 
@@ -155,7 +158,7 @@ freq_cl_infomap.clean <- get_freq_list(cl_infomap.clean)
 ```
 On peut voir que l'algorithme infomap donne de bien meilleurs résultats, il n'exite pas de communautés regroupant 500 personnes, et pas ou peu de communauté regroupant une unique personne.
 
-## clustering classique sur la matrice d'adjacence
+## Clustering classique sur la matrice d'adjacence
 
 On essaye avec une méthode qui normalement doit avoir de moins bon résultats avec des matrices aussi sparces que des matrices d'adjacence de cette taille, la méthode k-mean
 On utilisera plusieures nombre de clusteur pour préparer la cross-validation
@@ -181,11 +184,11 @@ get_freq_list_kmean <- function (cluster_list) {
 ```{r}
 freq_list_kmean.clean = get_freq_list_kmean(results_kmean.clean)
 ```
-On peut voir qu'une fois encore, l'algorithmes k-mean à des difficultées à regouper les personnes en groupe d'amis, avec un groupe enorme oscillant entre 700 et 200 personnes, pour laisser à coté enormément de personne dans un unique cluster
+On peut voir qu'une fois encore, l'algorithmes k-mean a des difficultées à regouper les personnes en groupe d'amis, avec un groupe énorme oscillant entre 700 et 200 personnes, pour laisser à coté enormément de personne dans un unique cluster
 
 La meilleur approche est donc de reposer sur l'algorithme infomap.
 
-## k-fold cross-validation
+## K-fold cross-validation
 
 Nous avons maintenant nos communautés (memberships en anglais). Une fois ces communautés créées, nous pouvons utiliser une approche par validation croisée, semblable à ce que nous faisions pour l'algorithme knn pour prédire leurs écoutes.
 
@@ -301,7 +304,7 @@ result <- unlist(lapply(1:dim(user_artists.clean)[1], function (user_index) {
 ```{r}
 mean(result, na.rm = TRUE)
 ```
-On peut voir que pour l'ensemble de utilisateurs, on estime se trompé pour un artiste d'environ 5308 écoutes. La prédiction est donc médiocre.
+On peut voir que pour l'ensemble de utilisateurs, on estime se tromper pour un artiste d'environ 5308 écoutes. La prédiction est donc médiocre.
 
 On peut essayer de voir si ce chiffre serait meilleur en retirant les artistes écoutés très peu par la communautée.
 Toutes les écoutes d'un artiste en deça de 100 écoutes, ne seront pas prisent en compte dans le calcul de moyenne:
@@ -317,13 +320,13 @@ mean(result, na.rm = TRUE)
 ```
 Cela fait encore une fois augmenter la moyenne des erreurs.
 
-Pour donner sens à la valeur de RMSE moyenne, nous allons voir quelle sont les temps d'écoute moyens des utilisateurs. Nous allons determiner pour chaque utilisateur le temps d'écoute en pourcentage que nous ne somme parvenu a prédire.
+Pour donner sens à la valeur de RMSE moyenne, nous allons voir quels sont les temps d'écoute moyens des utilisateurs. Nous allons determiner pour chaque utilisateur le temps d'écoute en pourcentage que nous ne somme parvenu à prédire.
 ```{r}
 user_artists.clean[user_artists.clean == 0] <- NA
 mean_listening_by_user <- rowMeans(user_artists.clean, na.rm = TRUE)
 (mean(result / mean_listening_by_user, na.rm = TRUE)) * 100
 ```
-On peut voir que l'on se trompe d'environ 1224 %. Le problème avec les pourcentage est que si l'erreur est importante pour un utilisateur qui écoute très peu, alors l'erreur en pourcentage sera très grande.
+On peut voir que l'on se trompe d'environ 3000 %. Le problème avec les pourcentage est que si l'erreur est importante pour un utilisateur qui écoute très peu, alors l'erreur en pourcentage sera très grande.
 
 On peut essayer de re-centrer notre étude non seulement aux personnes ayant plus de n amis, mais aussi aux personnes ayant de x minutes d'écoutes.
 ```{r}
@@ -394,7 +397,7 @@ persp(z = as.matrix(result_matrix), xlab = "friend limit", ylab ="listening limi
 On peut voir que les meilleurs résultats sont obtenus pour un nombre d'amis minimum de 15, et d'une limite de listening de 0. Le problème est que la pente est croissante selon la limite d'écoute minimal. Cela veut dire qu'au plus les utilisateurs écoutent de la musique, au plus ils utilisent le service de réseau social, au plus nous avons du mal à prédire les écoutes des utilisateurs. 
 
 Cela peut être expliqué par deux facteurs:
-- la clusterisation est mauvaise, les communauté ne sont pas représentatives des réelles communautées ou le graph possède une structure non classique d'un réseau social
+- la clusterisation est mauvaise, les communautés ne sont pas représentatives des réelles communautés ou le graph possède une structure non classique d'un réseau social
 - la clusterisation est bonne, mais ce sont les communauté qui sont hétérogènes en goux musicaux.
 
 ## Prédiction s'appuyant sur les amis directs
@@ -748,7 +751,7 @@ Grâce aux graphes, on peut remarquer que le paramètre *alpha* n'impacte que tr
 
 ### Variation du nombre minimum d'amis requis
 
-Par la suite, nous voulions savoir à quel point le fait qu'un utilisateur ait peu d'amis impactait-il la qualité des recommandations. Pour cela, nous avons évalué plusieurs fois notre système en faisant varier le nombre minimum d'amis requis par un utilisateur pour être recommander:
+Par la suite, nous voulions savoir à quel point le fait qu'un utilisateur ait peu d'amis impactait-il la qualité des recommandations. Pour cela, nous avons évalué plusieurs fois notre système en faisant varier le nombre minimum d'amis requis par un utilisateur pour être recommandé:
 ```{r}
 min_friends <- c(1,2,3,5,6,8,10)
 recall_min_friends <- matrix(0,7,2)
@@ -814,5 +817,13 @@ Naturellement, le recall et le *listening ratio* gonflent lorsque nous agmentons
 On peut remarquer sur le graphe que les pentes du *listening ratio* et du recall sont assez fortes au départ et que la valeur initiale du *micro listening ratio* est de 0.3. Ceci implique que les premiers artistes recommandés par notre système sont presque toujours des artistes fortement écoutés par les utilisateurs.
 
 En conclusion, notre système de recommandation est très efficace pour recommander un petit nombre d'artistes (entre 1 et 10) à des utilisateurs ayant beaucoup d'amis. 
+
+## Conclusion
+
+Il est possible de prédire les écoutes grâces aux amis:
+
+- Il faut pondérer les prédictions en fonction de notre ressemblance à nos amis (tous nos amis n‘écoutent pas la même chose que nous, seulement certains)
+
+- Il est trop ambitieux d’essayer de prédire les nombres d’écoutes avec cette méthodologie, mais prédire quel artiste est susceptible de plaire à une personne est possible
 
 
