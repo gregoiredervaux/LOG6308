@@ -400,6 +400,7 @@ Cela peut être expliqué par deux facteurs:
 ## Prédiction s'appuyant sur les amis directs
 
 Nous allons maintenant tenter de vérifier les deux hypothèses, en vérifiant si un algorithme knn permet de faire de bonne prédiction, en s'appuyant sur les amis d'un utilisateur. Si cela est la cas, cela veut dire que la clusterisation par communauté n'est pas appropriée à ce dataset.
+Pour cette nouvelle approche, nous nous basons sur le modèle KNN (k nearest neighbours).
 
 
 ### Quelques fonctions utiles
@@ -454,10 +455,12 @@ user_artists.sparse <- ToMatrix(user_artists,user_artists.sparse,TRUE)
 ```
 
 
-### Fonction retournant au moins les k plus proches utilisateurs de l’utilisateur user_index ansi que leurs poids
+### Fonction retournant au minimum les k plus proches *amis* de l’utilisateur user_index ansi que leurs poids
 
-On cherche ici a récupérer tout les amis les plus proches de l'utilisateur et quantifier leur similarité à l'utilisateur visé. C'est ce que leur "poids" représente
-Le k représente le nombre d'amis minimum que retourne la fonction. si l'utilisateur a moins d'amis que cela, on cherche les utilisateurs les plus proches dans tout la matrice de vote
+On cherche ici à récupérer tous les amis de l'utilisateur et à leur donner un poids en fonction de leur similarité à l'utilisateur visé. 
+Une première modification au modèle KNN est qu'on ne va pas se limiter à un nombre fixe de voisins par utilisateurs : les voisins d'un utilisateur seront représentés par l'entièreté de ses amis. 
+Cela dit, si un utilisateur possède moins de *k* amis (paramètre de la fonction), on rajoute à cet utilisateur le nombre de voisins nécessaires pour atteindre les *k* minimum requis. Pour cela, on recherche parmis tous les autres utilisateurs ceux dont le vecteur d'amitié (= ligne de la matrice *user_adj.sparse*) est le plus proche du vecteur d'amitié du dit utilisateur via une similarité cosinus).
+Finalement, le poids associé à chaque voisin sera égal à la similarité cosinus des vecteurs d'amitiés des deux utilisateurs auquel on rajoute une certaine constante. Pour les voisins qui sont des amis directs, cette constante vaut *alpha* (paramètre de la fonction), pour les autres elle vaut 0. Cela permet d'éviter les poids nuls et de mettre plus d'importance aux *vrais* amis.
 ```{r}
 Closest_friends <- function(user_index,k,alpha){
   user <- user_adj.sparse[user_index,]
@@ -465,8 +468,6 @@ Closest_friends <- function(user_index,k,alpha){
   n_rest_friends <- k - sum(user)
   n_friends <- min(k,sum(user))
   if (n_rest_friends <= 0){
-    #sim <- cosinus.vm(user,user_adj.sparse[friends_id,])
-    #close_friends_id <- friends_id[max.nindex(sim,k)]
     close_friends_id <- friends_id
   }else{
     others_id <- colnames(user_adj.sparse)[user==0]
@@ -481,35 +482,23 @@ Closest_friends <- function(user_index,k,alpha){
 }
 ```
 
-exemple: pour l'utilisateur 2:
+Exemple pour l'utilisateur '2':
 ```{r}
-as.data.frame(as.matrix(Closest_friends(2, 5,0)))
+as.data.frame(as.matrix(Closest_friends('2', 5,0)))
 ```
 
-### Fonction retournant tous les amis de l’utilisateur user_index ainsi que leurs poids
-
-```{r}
-Friends <- function(user_index,alpha){
-  user <- user_adj.sparse[user_index,]
-  friends_id <- colnames(user_adj.sparse)[user!=0]
-  friends <- user_adj.sparse[friends_id,]
-  weights <- cosinus.vm(user,friends) + alpha
-  return(t(weights))
-}
-```
-
-exemple: pour l'utilisateur 2:
-```{r}
-as.data.frame(as.matrix(Friends(2,0)))
-```
 
 ## Fonction recommandant n artistes à l'utilisateur *user_index*
 
-Ici, on simule un algorithme knn, en se concentrant seulement sur ses k plus proche amis et non pas voisins
+Cette fonction recommande *n* artistes à l'utilisateur *user_index* en se basant sur un algorithme KNN modifié : 
+  - Les voisins de l'utilisateur concerné ainsi que leurs poids sont retournés par la fonction *Closest_friends(user_index,k,alpha)*
+  - On calcule par la suite une valeur de recommandation pour chaque artiste : plus cette valeur est élevée, plus l'artsite a de chance d'être recommandé
+  - Pour un artiste *j* et un utilisateur *i*, Cette valeur se calcule ainsi : $\sum_{k \in voisins} \frac{user_artists.sparse_{k,j}}{moyenne(k)} * poids(k) 
+  - La fonction renvoie finalement les *n* artistes ayant les plus hautes valeurs
+
 ```{r}
 KNN <- function(user_index,n,k,alpha){
   weights <- Closest_friends(user_index,k,alpha)
-  #weights <- Friends(user_index,alpha)
   neighbors_id <- colnames(weights)
   neighbors <- user_artists.sparse[neighbors_id,]
   neighbors[neighbors == 0] <- NA
@@ -521,13 +510,27 @@ KNN <- function(user_index,n,k,alpha){
 
 exemplede recommandation pour l'utilisateur 2:
 ```{r}
-KNN('3',10,10,0)
+KNN('2',10,10,0)
 ```
 
+Il est important de noter que la plupart des choix de modélisations de cet algorithme (le nombre et la nature des voisins, le calcul des poids, la division par la moyenne, ...) ont été choisi suites à différents tests car ils donnaient de meilleurs résultats à l'évaluation.
 
-## Evalutaion de cette fonction
+## Evalutaion de l'algorithme
 
 Nous allons maintenant voir si pour un utilisateur donné, on peut espérer recommander des artistes qu'il écoute.
+
+Nous avons choisi d'évaluer notre méthode selon 2 métriques : 
+  - le *recall* est la proportion d'artistes recommandés qui étaient effectivement écoutés par l'utilisateur sur l'ensemble des artistes écoutés par celui-ci 
+  _ le *listening ratio* qui est le ratio entre la somme du temps d'écoute de l'utilisateur pour tous les artistes recommandés et le temps d'écoute total de l'utilisateur
+
+Pour cela nous avons créé une fonction retournant différentes informations sur les recommandations faites pour un utilisateur en particulier (*user_index*), pour un nombre de recommandations défini (*n_recom*) et selon les hyper-paramètres *k* et *alpha*.
+Voici ces différentes informations :
+  - *recom_number* = le nombre d'artistes recommandés qui étaient effectivement écoutés par l'utilisateur
+  - *recom_value* = la somme du temps d'écoute de l'utilisateur pour tous les artistes recommandés
+  - *n* = le nombre d'artistes écoutés par l'utilisateur
+  - *tot_value* = le temps d'écoute total de l'utilisateur (pour tous les artistes)
+  - *time* = le temps pris par l'algorithme pour faire les recommandations
+  
 ```{r}
 evaluate <- function(user_index,k,alpha,n_recom){
   user <- user_artists.sparse[user_index,]
@@ -544,16 +547,31 @@ evaluate <- function(user_index,k,alpha,n_recom){
 ```
 exemple pour l'utilisateur 2:
 ```{r}
-data.frame(metric = c('nombre de bonne recommandation', 'nombre d\'écoute de l\'utilisateur pour les artistes recommandé ', 'nombre d\'amis', 'nombre total d\'écoute', 'temps'),
+data.frame(metric = c('nombre de bonnes recommandations', 'nombre d\'écoutes de l\'utilisateur pour les artistes recommandés ', 'nombre d\'artistes écoutés', 'nombre total d\'écoutes', 'temps'),
            value = as.integer(evaluate('2', 10,0,10)))
 ```
 
 
+Finalement, nous voulions évaluer notre méthode sur tous les utilisateurs afin d'obtenir des valeurs moyennes.
+Dans cette fonction, *k*, *alpha* et *n_recom* sont les hyper-paramètres utilisés pour la recommandation et *min_friend* est un entier désignant le nombre minimum d'amis requis par utilisateur pour être évaluer. En effet, étant donné que notre modèle se base principalement sur l'amitié, les utilisateurs ne possédant que très peu d'amis pouvaient influencer négativement les résultats. C'est pourquoi nous n'évaluons que les utilisateurs possédant minimum *min_friend* amis.
+
+Nous avons donc évaluer chaque métrique (*recall* et *listening ratio*) de deux manières différentes : 
+  - *macro* : on prend la moyenne des métriques de chaque utilisateur  
+  - *micro* : au lieu de calculer les métriques selon chaque utilisateur, on les calcule sur toute la matrice
+
+Cette fonction retourne un vecteur contenant ces différentes informations (dans l'ordre):
+  - *n_user_tested* = le nombre d'utilisateurs évalués
+  - le nombre total de recommandations effectuées (= *n_user_tested* * *n_recom*)
+  - *micro_recall* = la précision *micro*
+  - *macro_recall* = la précision *macro*
+  - *micro_listeningRatio* = le listening ratio *micro*
+  - *macro_listeningRatio* = le listening ratio*micro*
+  - *time* = le temps moyen pris par l'algorithme pour faire les recommandations sur un utilisateur
 
 ```{r}
 evaluateAll <- function(k,alpha,min_friend,n_recom,display=FALSE){
-  micro_precision <- 0
-  macro_precision <- 0
+  micro_recall <- 0
+  macro_recall <- 0
   micro_listeningRatio <- 0
   macro_listeningRatio <- 0
   tot_listeningCount <- 0
@@ -566,8 +584,8 @@ evaluateAll <- function(k,alpha,min_friend,n_recom,display=FALSE){
     }else{
       result <- evaluate(toString(user),k,alpha,n_recom)
       time <- time + result[5]
-      micro_precision <- micro_precision + result[1]
-      macro_precision <- macro_precision + result[1]/result[3]
+      micro_recall <- micro_recall + result[1]
+      macro_recall <- macro_recall + result[1]/result[3]
       tot_n <- tot_n + result[3]
       micro_listeningRatio <- micro_listeningRatio + result[2]
       macro_listeningRatio <- macro_listeningRatio + result[2]/result[4]
@@ -575,8 +593,8 @@ evaluateAll <- function(k,alpha,min_friend,n_recom,display=FALSE){
     }
   }
   n_users_tested <- n_users - n_notEvaluated
-  micro_precision <- micro_precision / tot_n
-  macro_precision <- macro_precision / n_users_tested
+  micro_recall <- micro_recall / tot_n
+  macro_recall <- macro_recall / n_users_tested
   micro_listeningRatio <- micro_listeningRatio / tot_listeningCount
   macro_listeningRatio <- macro_listeningRatio / n_users_tested
   time <- time / n_users_tested
@@ -584,28 +602,32 @@ evaluateAll <- function(k,alpha,min_friend,n_recom,display=FALSE){
     df_display <- data.frame(Nbers_users_tested = n_users_tested,
                              Nbers_predictions = n_recom * n_users_tested,
                              Mean_time_by_user = time,
-                             Micro_precision = micro_precision,
-                             Macro_precision = macro_precision,
+                             Micro_recall = micro_recall,
+                             Macro_recall = macro_recall,
                              Micro_Listening_Ratio = micro_listeningRatio,
                              Macro_Listening_Ratio = macro_listeningRatio)
     print(df_display)
   }
-  return(c(n_users_tested, n_recom*n_users_tested, micro_precision, macro_precision, micro_listeningRatio, macro_listeningRatio,time))
+  return(c(n_users_tested, n_recom*n_users_tested, micro_recall, macro_recall, micro_listeningRatio, macro_listeningRatio,time))
 }
 
 ```
- exemple pour 40 amis minimum, et 50 recommandation
+Exemple pour 40 voisins minimum, 50 recommandations par utilisateur et un minimum d'amis de 5 : 
 ```{r}
 result <-   evaluateAll(40,0.5,5,50,display=TRUE)
 ```
- 
 
-## Evaluation d'une méthode aléatoire
+Un premier point important à noter est que la valeur *listening ratio* est nettement plus élevé que la valeur de recall. Cela implique que les artistes justement recommandés par le modèle sont ceux qui ont un temps d'écoute élevé ! 
+En effet, pour 50 recommandations (qui est le nombre moyen d'artistes écoutés par utilisateur) seulement 30% des artistes réellement écouté par les utilisateurs ont été recommandé mais ces artistes représentent presque 60% du temps d'écoute des utilisateurs. 
+
+### Evaluation d'une méthode aléatoire
+
+Afin de comparer notre méthode avec une autre méthode arbitraire, nous évaluons les mêmes métriques que précédemment mais à la place d'utiliser l'algorithme décrit plus haut pour les recommandations, nous recommandons *n_recom* artistes aléatoires pour chaque utilisateur.
 
 ```{r}
 randomEvaluateAll <- function(n_recom,display=FALSE){
-  micro_precision <- 0
-  macro_precision <- 0
+  micro_recall <- 0
+  macro_recall <- 0
   micro_listeningRatio <- 0
   macro_listeningRatio <- 0
   tot_listeningCount <- 0
@@ -617,22 +639,22 @@ randomEvaluateAll <- function(n_recom,display=FALSE){
     random_pred <- colnames(user_artists.sparse)[sample(1:n_artists,n_recom)]
     true <- length(intersect(music,random_pred))
     listeningCount <- sum(user[random_pred])
-    micro_precision <- micro_precision + true
-    macro_precision <- macro_precision + true / n
+    micro_recall <- micro_recall + true
+    macro_recall <- macro_recall + true / n
     tot_n <- tot_n + n
     micro_listeningRatio <- micro_listeningRatio + listeningCount
     macro_listeningRatio <- macro_listeningRatio + listeningCount / sum(user)
     tot_listeningCount<- tot_listeningCount + sum(user)
   }
-  micro_precision <- micro_precision / tot_n
-  macro_precision <- macro_precision / n_users
+  micro_recall <- micro_recall / tot_n
+  macro_recall <- macro_recall / n_users
   micro_listeningRatio <- micro_listeningRatio / tot_listeningCount
   macro_listeningRatio <- macro_listeningRatio / n_users
   if (display){
     df_display <- data.frame(Nbers_users_tested = n_users,
                              Nbers_predictions = n_recom * n_users,
-                             Micro_precision = micro_precision,
-                             Macro_precision = macro_precision,
+                             Micro_recall = micro_recall,
+                             Macro_recall = macro_recall,
                              Micro_Listening_Ratio = micro_listeningRatio,
                              Macro_Listening_Ratio = macro_listeningRatio)
     print(df_display)
@@ -641,18 +663,26 @@ randomEvaluateAll <- function(n_recom,display=FALSE){
 randomEvaluateAll(50,display=TRUE)
 ```
 
-Nous allons maintenant essayer plusieurs valeurs d'hyper-parametres
+
+On peut donc remarquer que le modèle basé sur l'amitié est un modèle cohérent qui donne des résultats bien meilleurs qu'une recommandation aléatoire.
+
+
+Nous allons maintenant essayer plusieurs valeurs d'hyper-paramètres :
+
+### Variation du nombre minimum de voisins (k)
+
+En premier nous faisons varier le nombre de voisins minimum :
 ```{r}
 library(parallel)
 min_k <- c(5,10,20,30,40,50,60)
-precision_k <- matrix(0,7,2)
+recall_k <- matrix(0,7,2)
 listeningRatio_k <- matrix(0,7,2)
 time_k <- 1:7
 
 for (i in 1:7) {
     result <- evaluateAll(min_k[i],0.5,6,50)
-    precision_k[i,1] <- result[3]
-    precision_k[i,2] <- result[4]
+    recall_k[i,1] <- result[3]
+    recall_k[i,2] <- result[4]
     listeningRatio_k[i,1] <- result[5]
     listeningRatio_k[i,2] <- result[6]
     time_k[i] <- result[7]
@@ -663,36 +693,41 @@ for (i in 1:7) {
 matplot(min_k,listeningRatio_k, ylab = "Listening ratio", xlab = "minimum number of neighbors", type = 'l', col = 1:2)
 legend("topleft",legend = c('micro', 'macro'), col = 1:2, pch = 1)
 
-matplot(min_k,precision_k, ylab = "Precision", xlab = "minimum number of neighbors", type = 'l', col = 1:2)
+matplot(min_k,recall_k, ylab = "Recall", xlab = "minimum number of neighbors", type = 'l', col = 1:2)
 legend("topleft",legend = c('micro', 'macro'), col = 1:2, pch = 1)
 
 plot(min_k,time_k, ylab = "Mean time to recommend a user (in secs)", xlab = "minimum number of neighbors", type = 'l')
 ```
+On remarque donc que plus le nombre de voisins est grand plus notre algorithme est précis. Cela dit, pour plus de 40 voisins minimum, le recall et le *listening ratio* n'augmentent que très peu significativement alors que le temps requis pour recommander un utilisateur lui, croît presque linéairement. 
+On peut donc conclure qu'un bon compromis entre le temps d'exécution et la qualité des recommandations est d'avoir entre 20 et 40 voisins minimum par utilisateur.
 
+### Variation du paramètre *alpha*
+
+Ensuite nous avons fait varier le paramètre *alpha* deux fois : une fois avec 20 et une fois avec 40 voisins minimum afin d'étudier l'impact du paramètre *alpha* selon différents nombres de voisins minimum.
 ```{r}
 alpha <- c(0,0.1,0.3,0.5,0.8,1,2)
-precision_alpha_k20 <- matrix(0,7,2)
+recall_alpha_k20 <- matrix(0,7,2)
 listeningRatio_alpha_k20 <- matrix(0,7,2)
 time_alpha_k20 <- 1:7
 
 for (i in 1:7) {
     result <- evaluateAll(20,alpha[i],6,50)
-    precision_alpha_k20[i,1] <- result[3]
-    precision_alpha_k20[i,2] <- result[4]
+    recall_alpha_k20[i,1] <- result[3]
+    recall_alpha_k20[i,2] <- result[4]
     listeningRatio_alpha_k20[i,1] <- result[5]
     listeningRatio_alpha_k20[i,2] <- result[6]
     time_alpha_k20[i] <- result[7]
 }
 
 
-precision_alpha_k40 <- matrix(0,7,2)
+recall_alpha_k40 <- matrix(0,7,2)
 listeningRatio_alpha_k40 <- matrix(0,7,2)
 time_alpha_k40 <- 1:7
 
 for (i in 1:7) {
     result <- evaluateAll(40,alpha[i],6,50)
-    precision_alpha_k40[i,1] <- result[3]
-    precision_alpha_k40[i,2] <- result[4]
+    recall_alpha_k40[i,1] <- result[3]
+    recall_alpha_k40[i,2] <- result[4]
     listeningRatio_alpha_k40[i,1] <- result[5]
     listeningRatio_alpha_k40[i,2] <- result[6]
     time_alpha_k40[i] <- result[7]
@@ -703,26 +738,30 @@ for (i in 1:7) {
 matplot(alpha,t(rbind(t(listeningRatio_alpha_k20),t(listeningRatio_alpha_k40))), ylab = "Listening ratio", xlab = "alpha", type = 'l', col = 1:4)
 legend("left",legend = c('micro k= 20', 'macro k=20','micro k= 40', 'macro k=40'), col = 1:4, pch = 1)
 
-matplot(alpha,t(rbind(t(precision_alpha_k20),t(precision_alpha_k40))), ylab = "Precision", xlab = "alpha ", type = 'l', col = 1:2)
+matplot(alpha,t(rbind(t(recall_alpha_k20),t(recall_alpha_k40))), ylab = "Recall", xlab = "alpha ", type = 'l', col = 1:2)
 legend("bottomright",legend = c('micro k= 20', 'macro k=20','micro k= 40', 'macro k=40'), col = 1:4, pch = 1)
 
-matplot(alpha,matrix(c(time_alpha_k20,time_alpha_k40),7,2), ylab = "Mean time to recommend a user (in secs)", xlab = "alpha", type = 'l', col = 1:2)
-legend("topleft",legend = c('k= 20', 'k=40'), col = 1:2, pch = 1)
+#matplot(alpha,matrix(c(time_alpha_k20,time_alpha_k40),7,2), ylab = "Mean time to recommend a user (in secs)", xlab = #"alpha", type = 'l', col = 1:2)
+#legend("topleft",legend = c('k= 20', 'k=40'), col = 1:2, pch = 1)
 ```
+Grâce aux graphes, on peut remarquer que le paramètre *alpha* n'impacte que très peu l'éfficacité des recommandations, quel que soit le nombre de voisins minimum. Cela dit, une valeur de 0.5 pour ce paramètre semble être un bon choix car il maximise à la fois le recall et le *listening ratio*.
 
+### Variation du nombre minimum d'amis requis
+
+Par la suite, nous voulions savoir à quel point le fait qu'un utilisateur ait peu d'amis impactait-il la qualité des recommandations. Pour cela, nous avons évalué plusieurs fois notre système en faisant varier le nombre minimum d'amis requis par un utilisateur pour être recommander:
 ```{r}
 min_friends <- c(1,2,3,5,6,8,10)
-precision_min_friends <- matrix(0,7,2)
+recall_min_friends <- matrix(0,7,2)
 listeningRatio_min_friends <- matrix(0,7,2)
-time_min_friends <- 1:7
+n_users_tested <- 1:7
 
 for (i in 1:7) {
     result <- evaluateAll(40,0.5,min_friends[i],50) 
-    precision_min_friends[i,1] <- result[3]
-    precision_min_friends[i,2] <- result[4]
+    recall_min_friends[i,1] <- result[3]
+    recall_min_friends[i,2] <- result[4]
     listeningRatio_min_friends[i,1] <- result[5]
     listeningRatio_min_friends[i,2] <- result[6]
-    time_min_friends[i] <- result[7]
+    n_users_tested[i] <- result[1]
 }
 ```
 
@@ -731,22 +770,32 @@ for (i in 1:7) {
 matplot(min_friends,listeningRatio_min_friends, ylab = "Listening ratio", xlab = "min number of friends", type = 'l', col = 1:2)
 legend("topleft",legend = c('micro', 'macro'), col = 1:2, pch = 1)
 
-matplot(min_friends,precision_min_friends, ylab = "Precision", xlab = "min number of friends", type = 'l', col = 1:2)
+matplot(min_friends,recall_min_friends, ylab = "recall", xlab = "min number of friends", type = 'l', col = 1:2)
 legend("topleft",legend = c('micro', 'macro'), col = 1:2, pch = 1)
 
-plot(min_friends,time_min_friends, ylab = "Mean time to recommend a user (in secs)", xlab = "min number of friends", type = 'l')
+plot(min_friends,n_users_tested, ylab = "Number of recommended users", xlab = "min number of friends", type = 'l')
 ```
+On remarque donc que ce paramètre impacte fortement la qualité des recommandations ! 
+Naturellement, notre système dépend fort du nombre d'amis que possède un utilisateur et il recommande assez mal les utilisateurs en ayant peu.
+Cela dit, le nombre d'utilisateurs recommandés baisse fort lorsqu'on augmente le nombre minimum d'amis requis.
+On peut donc conclure que notre système de recommandation basé sur les liens d'amitié peut être efficace s'il est appliqué sur des utilisateurs ayant de nombreux amis.
 
+### Variation du nombre de recommandations par utilisateur
+
+Finalement, nous avons fait varier le nombre de recommantions par utilisateur. 
+
+Il est important de savoir que le nombre maximum d'artistes écoutés par utilisateur est de 50 mais la moyenne est de 49. Il y a donc une grande majorité des utilisateurs qui écoutent exactement 50 artistes différents. 
+Cela implique qu'en dessous de 50 recommandations par utilisateur il est impossible d'atteindre une précision ou un listening ratio de 1.
 ```{r}
 n_pred <- c(5,10,20,30,50,70,100)
-precision_pred <- matrix(0,7,2)
+recall_pred <- matrix(0,7,2)
 listeningRatio_pred <- matrix(0,7,2)
 time_pred <- 1:7
 
 for (i in 1:7) {
     result <- evaluateAll(40,0.5,6,n_pred[i]) 
-    precision_pred[i,1] <- result[3]
-    precision_pred[i,2] <- result[4]
+    recall_pred[i,1] <- result[3]
+    recall_pred[i,2] <- result[4]
     listeningRatio_pred[i,1] <- result[5]
     listeningRatio_pred[i,2] <- result[6]
     time_pred[i] <- result[7]
@@ -757,9 +806,13 @@ for (i in 1:7) {
 matplot(n_pred,listeningRatio_pred, ylab = "Listening ratio", xlab = "number of predictions", type = 'l', col = 1:2)
 legend("topleft",legend = c('micro', 'macro'), col = 1:2, pch = 1)
 
-matplot(n_pred,precision_pred, ylab = "Precision", xlab = "number of predictions", type = 'l', col = 1:2)
+matplot(n_pred,recall_pred, ylab = "recall", xlab = "number of predictions", type = 'l', col = 1:2)
 legend("topleft",legend = c('micro', 'macro'), col = 1:2, pch = 1)
-
-plot(n_pred,time_pred, ylab = "Mean time to recommend a user (in secs)", xlab = "number of predictions", type = 'l')
 ```
+
+Naturellement, le recall et le *listening ratio* gonflent lorsque nous agmentons le nombre de prédictions par utilisateur.
+On peut remarquer sur le graphe que les pentes du *listening ratio* et du recall sont assez fortes au départ et que la valeur initiale du *micro listening ratio* est de 0.3. Ceci implique que les premiers artistes recommandés par notre système sont presque toujours des artistes fortement écoutés par les utilisateurs.
+
+En conclusion, notre système de recommandation est très efficace pour recommander un petit nombre d'artistes (entre 1 et 10) à des utilisateurs ayant beaucoup d'amis. 
+
 
