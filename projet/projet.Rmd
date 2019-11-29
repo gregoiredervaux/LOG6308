@@ -171,7 +171,7 @@ Un peu d'analyse de nos clusters:
 get_freq_list_kmean <- function (cluster_list) {
   lapply(cluster_list, function(cl){
     freq_cl <- unlist(lapply(1:max(cl$cluster), function (i) {
-      length(which(cl$cluster == i))0 et 200 personnes, pour laisser à coté enormément de personne dans un unique cluster
+      length(which(cl$cluster == i))
     }))
     plot(as.integer(1:length(freq_cl)), freq_cl[order(freq_cl, decreasing = TRUE)], ylab = "taille des communautées", xlab = "communautées")
     return(data.frame(frequence = freq_cl, id_communaute = as.integer(1:length(freq_cl))))
@@ -208,7 +208,7 @@ user_artists.clean <- user_artists.sparse[which(nb_friend_by_column >= friend_li
 head(user_artists.clean[0:10,45:55])
 ```
 
-
+  
 ### Prédiction de l'écoute d'un utilisateur 
 
 On va maintenant essayer de recommander n artistes à un utilisateur
@@ -234,7 +234,7 @@ get_community <- function(user_index, cluster, communaute) {
   community_vect <- communaute[[communaute.i]]
   return(community_vect[community_vect != user_index])
 }
-user_name <- 'u6'
+user_name <- 'u9'
 user_index <- match(user_name, rownames(user_artists.clean))
 community.i <- get_community(user_index, cl_infomap.clean, communaute.clean)
 community.i
